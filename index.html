@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mateo Masjuan — Comunicación, audiovisual y redacción</title>
+  <meta name="description" content="Portfolio de Mateo Masjuan: Licenciado en Comunicación Social. Audiovisual, redacción, periodismo y podcast.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css?v=19">
+</head>
+<body>
+
+  <!-- ============ NAV ============ -->
+  <header class="nav">
+    <a href="#top" class="nav__brand" aria-label="Inicio">
+      <span class="rec-dot" aria-hidden="true"></span>
+      <span>MM</span>
+    </a>
+    <nav class="nav__links" aria-label="Secciones">
+      <a href="#recorrido" data-i18n="nav.timeline">Recorrido</a>
+      <a href="#trabajos" data-i18n="nav.work">Trabajos</a>
+      <a href="#archivo" data-i18n="nav.archive">Notas</a>
+      <a href="#sobre-mi" data-i18n="nav.about">Sobre mí</a>
+      <a href="#contacto" data-i18n="nav.contact">Contacto</a>
+    </nav>
+    <div class="nav__right">
+      <span class="timecode" id="timecode" aria-hidden="true">00:00:00:00</span>
+      <div class="lang" role="group" aria-label="Idioma / Language">
+        <button type="button" data-lang="es" aria-pressed="true">ES</button>
+        <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+
+    <!-- ============ 00 · HERO ============ -->
+    <section class="hero">
+      <div class="hero__text">
+        <p class="eyebrow"><span class="rec-dot" aria-hidden="true"></span> <span data-i18n="hero.eyebrow">Licenciado en Comunicación Social · Buenos Aires</span></p>
+        <h1 class="hero__name">Mateo<br><em>Masjuan</em></h1>
+        <p class="hero__lead" data-i18n="hero.lead">Cuento historias con sonido, imagen y palabras. Edito, produzco, escribo y entrevisto. Me interesa todo lo que pasa entre la música, la historia, el deporte y los medios.</p>
+        <div class="hero__roles">
+          <span class="chip chip--v" data-i18n="track.v">Audiovisual</span>
+          <span class="chip chip--r" data-i18n="track.r">Redacción</span>
+          <span class="chip chip--a" data-i18n="track.a">Podcast</span>
+        </div>
+        <div class="hero__cta">
+          <a href="#recorrido" class="btn btn--primary"><span data-i18n="hero.cta">Ver el recorrido</span> <span aria-hidden="true">→</span></a>
+          <a href="#contacto" class="btn" data-i18n="hero.cta2">Contacto</a>
+        </div>
+      </div>
+
+      <div class="monitor" aria-label="Showreel">
+        <div class="monitor__screen">
+          <div class="monitor__safe" aria-hidden="true"></div>
+          <div class="monitor__hud monitor__hud--tl"><span class="rec-dot"></span> REC</div>
+          <div class="monitor__hud monitor__hud--tr" id="monitor-tc">00:00:00:00</div>
+          <div class="monitor__hud monitor__hud--bl">1920×1080 · 25 fps</div>
+          <div class="monitor__hud monitor__hud--br" data-i18n="hero.reel">Showreel — próximamente</div>
+          <div class="monitor__wave" aria-hidden="true"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 01 · RECORRIDO ============ -->
+    <section class="section section--dark" id="recorrido">
+      <div class="section__head">
+        <p class="section__num">01</p>
+        <h2 class="section__title" data-i18n="tl.title">Recorrido</h2>
+        <p class="section__sub" data-i18n="tl.sub">Mi trayectoria como una línea de tiempo de edición. Cada clip es una etapa: tocalo para ver el detalle.</p>
+      </div>
+
+      <div class="editor">
+        <div class="editor__bar">
+          <span class="editor__file">mateo_masjuan_2021-2026.prproj</span>
+          <span class="editor__tc" id="playhead-tc">2019 · 01</span>
+        </div>
+        <div class="editor__scroll" id="tl-scroll">
+          <div class="timeline" id="timeline">
+            <!-- se genera desde main.js -->
+          </div>
+        </div>
+        <div class="inspector" id="inspector" aria-live="polite">
+          <!-- se genera desde main.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 02 · TRABAJOS ============ -->
+    <section class="section" id="trabajos">
+      <div class="section__head">
+        <p class="section__num">02</p>
+        <h2 class="section__title" data-i18n="work.title">Trabajos</h2>
+        <p class="section__sub" data-i18n="work.sub">Una selección de proyectos audiovisuales, de redacción y podcast.</p>
+      </div>
+      <div class="filters" role="group" aria-label="Filtrar" id="filters"></div>
+      <div class="works" id="works"></div>
+    </section>
+
+    <!-- ============ 03 · ARCHIVO DE NOTAS ============ -->
+    <section class="section section--paper" id="archivo">
+      <div class="section__head">
+        <p class="section__num">03</p>
+        <h2 class="section__title" data-i18n="arc.title">Archivo de notas</h2>
+        <p class="section__sub" data-i18n="arc.sub">Todas mis notas, agrupadas por el lugar donde las escribí.</p>
+      </div>
+      <div class="archive" id="archive"></div>
+    </section>
+
+    <!-- ============ 04 · SOBRE MÍ ============ -->
+    <section class="section" id="sobre-mi">
+      <div class="section__head">
+        <p class="section__num">04</p>
+        <h2 class="section__title" data-i18n="about.title">Sobre mí</h2>
+      </div>
+      <div class="about">
+        <div class="about__photo">
+          <img src="assets/img/retrato.jpg" alt="Mateo Masjuan" width="1000" height="1329" loading="lazy">
+        </div>
+        <div class="about__text">
+          <p class="about__big" data-i18n="about.p1">Soy curioso, investigador y proactivo. Me formé en Comunicación Social en la Universidad Austral y trabajé en periodismo digital, gestión pública y producción audiovisual.</p>
+          <p data-i18n="about.p2">Toco la batería en BLEND, jugué al rugby doce años en el San Isidro Club y pasé una temporada de invierno trabajando en Breckenridge, Colorado. Desde los 18 trabajo también en PANZA, nuestro emprendimiento familiar.</p>
+          <dl class="facts">
+            <div><dt data-i18n="about.f1">Idiomas</dt><dd data-i18n="about.f1v">Español · Inglés</dd></div>
+            <div><dt data-i18n="about.f2">Base</dt><dd>Pacheco, Buenos Aires</dd></div>
+            <div><dt data-i18n="about.f3">Intereses</dt><dd data-i18n="about.f3v">Música, historia, deporte, medios</dd></div>
+          </dl>
+        </div>
+      </div>
+
+      <div class="rack">
+        <p class="rack__label" data-i18n="tools.title">Herramientas</p>
+        <div class="rack__rows" id="tools"></div>
+      </div>
+    </section>
+
+    <!-- ============ 05 · FUERA DE CÁMARA ============ -->
+    <section class="section section--paper" id="fuera">
+      <div class="section__head">
+        <p class="section__num">05</p>
+        <h2 class="section__title" data-i18n="off.title">Fuera de cámara</h2>
+        <p class="section__sub" data-i18n="off.sub">Lo que no está en ningún plan de estudios, pero también me formó.</p>
+      </div>
+      <div class="offcam">
+        <article class="off">
+          <div class="off__media off__media--photo"><img src="assets/img/blend.jpg" alt="BLEND en vivo" loading="lazy"></div>
+          <p class="off__tag" data-i18n="off.blend.tag">Batería · Video</p>
+          <h3 data-i18n="off.blend.t">Detrás de la batería</h3>
+          <p data-i18n="off.blend.d">Soy el baterista de BLEND. La mayoría de los videos de la banda los grabé y edité yo.</p>
+          <p class="off__links"><a href="https://www.instagram.com/blendbanda_/" target="_blank" rel="noopener">@blendbanda_ ↗</a><a href="https://www.youtube.com/watch?v=hZSEX0QSe3I" target="_blank" rel="noopener" data-i18n="off.blend.watch">Ver el show en Makena ↗</a><a href="https://www.youtube.com/watch?v=YMHljfGHjSc" target="_blank" rel="noopener" data-i18n="off.blend.lobos">Ver Gira a Lobos ↗</a><a href="https://www.youtube.com/watch?v=_vxzLjPUtFY" target="_blank" rel="noopener" data-i18n="off.blend.riesgo">Ver el cover de El Riesgo ↗</a></p>
+        </article>
+        <article class="off">
+          <div class="off__media off__media--cover"><img src="assets/img/breckenridge.jpg" alt="Mateo en la nieve con su tabla, en Breckenridge" loading="lazy"></div>
+          <p class="off__tag">Work &amp; Travel · 2025–26</p>
+          <h3 data-i18n="off.wat.t">Una temporada en la montaña</h3>
+          <p data-i18n="off.wat.d">Cuatro meses como Lift Operator en Breckenridge (Vail Resorts), Colorado. Independencia, un entorno multicultural y un trabajo de alta exigencia. Además, desarrollé mucho mi inglés.</p>
+        </article>
+        <article class="off">
+          <div class="off__media off__media--logo"><img src="assets/img/escudo-sic.svg" alt="Escudo del San Isidro Club" loading="lazy"></div>
+          <p class="off__tag">Rugby · 2010–2022</p>
+          <h3 data-i18n="off.rugby.t">Doce años de rugby</h3>
+          <p data-i18n="off.rugby.d">En el San Isidro Club aprendí a liderar, a ser liderado y a jugar en equipo bajo presión.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ============ 06 · CRÉDITOS / CONTACTO ============ -->
+    <section class="credits" id="contacto">
+      <p class="section__num">06</p>
+      <p class="credits__role" data-i18n="cr.role">Audiovisual, redacción y podcast</p>
+      <h2 class="credits__name">Mateo Masjuan</h2>
+      <p class="credits__cta" data-i18n="cr.cta">¿Tenés un proyecto? Hagámoslo juntos.</p>
+      <ul class="credits__list">
+        <li><span data-i18n="cr.mail">Mail</span><a href="mailto:mateomasjuan@icloud.com">mateomasjuan@icloud.com</a></li>
+        <li><span>LinkedIn</span><a href="https://www.linkedin.com/in/mateomasjuan04" target="_blank" rel="noopener">linkedin.com/in/mateomasjuan04</a></li>
+        <li><span data-i18n="cr.phone">Teléfono</span><a href="tel:+5491158711735">+54 9 11 5871-1735</a></li>
+        <li><span>Instagram</span><a href="https://www.instagram.com/mateomasjuan/" target="_blank" rel="noopener">@mateomasjuan</a></li>
+        <li><span data-i18n="cr.cv">CV</span><a href="assets/cv/CV_Mateo_Masjuan.pdf" target="_blank" rel="noopener" download data-i18n="cr.cvlink">Descargar PDF</a></li>
+      </ul>
+      <p class="credits__fin" data-i18n="cr.fin">Fin</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>© 2026 Mateo Masjuan</span>
+    <a href="#top" data-i18n="footer.top">Volver arriba ↑</a>
+  </footer>
+
+  <script src="assets/js/content.js?v=19"></script>
+  <script src="assets/js/main.js?v=19"></script>
+</body>
+</html>

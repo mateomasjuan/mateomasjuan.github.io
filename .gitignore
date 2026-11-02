@@ -1,0 +1,5 @@
+.DS_Store
+# Subproyectos con su propio ciclo: no forman parte del rediseño de la landing
+atlas-global/
+despacho-global/
+rollo-porteno/
