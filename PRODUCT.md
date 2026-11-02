@@ -24,12 +24,11 @@ Estas reglas valen para cualquier comando de diseño, aunque una recomendación 
 - **La línea de tiempo:** la idea de edición con pistas, clips, cabezal, regla de años, marca de HOY e inspector de detalle. Tampoco se cambian las posiciones, fechas ni el funcionamiento de los clips.
 - **La división del sitio:** Recorrido, Trabajos, Archivo de notas, Sobre mí, Fuera de cámara y Contacto, con estos nombres, en este orden y con su numeración.
 - **El contenido y los textos:** no se reescribe, agrega ni quita copy, datos, links o fotos sin pedirlo.
-- **El mundo visual de sala de edición:** monitor, REC, timecodes, tipografía mono en datos y etiquetas, y el contraste entre papel y sala oscura.
 - **Las funciones:** cambio de idioma, filtros de Trabajos, archivo desplegable y navegación entre clips.
 - **Las carpetas `despacho-global/`, `atlas-global/` y `rollo-porteno/`:** quedan fuera de cualquier tarea sobre la landing.
 
 ### Lo que sí se puede mejorar
-Tipografía, colores, espaciados, jerarquía, adaptación a pantallas, estados interactivos y animaciones, dentro de la identidad actual. Es un refinamiento, no un rediseño.
+Todo el aspecto visual: tipografía, colores, composición, espaciados, estados interactivos y animaciones. Mateo pidió un cambio fuerte que se diferencie del diseño predeterminado de la IA. El mundo visual vigente está en `DESIGN.md`.
 
 ## Brand Commitments
 - Audio se presenta como podcast y comunicación, nunca como "Sonido". No usar la palabra "Texto" para Redacción.
