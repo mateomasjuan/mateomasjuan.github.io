@@ -398,7 +398,7 @@
     const bars = [...wave.children];
     const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
     const t0 = performance.now();
-    let last = 0;
+    let last = 0, visible = true, running = false;
     const loop = (ts) => {
       tcEl.textContent = tc((ts - t0) / 1000);
       if (ts - last > 110) {
@@ -408,14 +408,65 @@
           b.style.height = `${Math.max(2, (0.25 + Math.random() * 0.75) * env * 34)}px`;
         });
       }
-      if (!reduced) requestAnimationFrame(loop);
+      if (!reduced && visible) requestAnimationFrame(loop);
+      else running = false;
     };
-    requestAnimationFrame(loop);
+    const start = () => { if (!running) { running = true; requestAnimationFrame(loop); } };
+    // el monitor solo corre mientras se ve
+    if ("IntersectionObserver" in window && !reduced) {
+      new IntersectionObserver(([e]) => { visible = e.isIntersecting; if (visible) start(); }).observe(wave);
+    }
+    start();
+  }
+
+  /* ---------- Entrada de la línea de tiempo ---------- */
+  // Una sola vez: el cabezal recorre la secuencia, los clips aparecen a su paso y vuelve al clip activo.
+  function bindTimelineIntro() {
+    const tl = $("#timeline");
+    if (!("IntersectionObserver" in window) || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const io = new IntersectionObserver(([e]) => {
+      if (!e.isIntersecting) return;
+      io.disconnect();
+      sweep(tl);
+    }, { threshold: 0.4 });
+    io.observe(tl);
+  }
+
+  function sweep(tl) {
+    const DUR = 1500, end = Math.min(TODAY, T1);
+    const ease = (x) => (x < 0.5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2);
+    let stopped = false;
+    const finish = () => {
+      if (stopped) return;
+      stopped = true;
+      tl.classList.remove("is-sweeping");
+      tl.style.removeProperty("--sweep");
+      tl.removeEventListener("pointerdown", finish);
+      tl.removeEventListener("mousemove", finish);
+      const ph = $("#playhead");
+      if (ph) ph.style.transition = "";
+      if (selected) requestAnimationFrame(() => movePlayhead(byId(C.clips, selected).start));
+    };
+    // cualquier interacción devuelve el control al visitante
+    tl.addEventListener("pointerdown", finish);
+    tl.addEventListener("mousemove", finish);
+    tl.classList.add("is-sweeping");
+    const t0 = performance.now();
+    const frame = (ts) => {
+      if (stopped) return;
+      const p = Math.min(1, (ts - t0) / DUR);
+      const year = T0 + (end - T0) * ease(p);
+      tl.style.setProperty("--sweep", `${(p === 1 ? 100 : pct(year))}%`);
+      const ph = $("#playhead");
+      if (ph) { ph.style.transition = "none"; movePlayhead(year); }
+      if (p < 1) requestAnimationFrame(frame); else finish();
+    };
+    requestAnimationFrame(frame);
   }
 
   /* ---------- Revelado ---------- */
   function bindReveal() {
-    const items = document.querySelectorAll(".section__head, .editor, .works, .archive, .about, .rack, .offcam, .credits > *");
+    const items = document.querySelectorAll(".credits > *");
     if (!("IntersectionObserver" in window)) return;
     const io = new IntersectionObserver((entries) => entries.forEach((e) => {
       if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); }
@@ -433,4 +484,5 @@
   bindScrollTimecode();
   runMonitor();
   bindReveal();
+  bindTimelineIntro();
 })();
