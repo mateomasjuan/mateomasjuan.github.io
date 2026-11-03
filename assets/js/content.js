@@ -272,7 +272,7 @@ window.CONTENT = {
       title: { es: "Mientras lavás los platos", en: "Mientras lavás los platos" },
       context: { es: "Monkey Studio · Spotify", en: "Monkey Studio · Spotify" },
       desc: { es: "Conversaciones con invitados. Algunos de los mejores episodios:", en: "Conversations with guests. Some of the best episodes:" },
-      image: "https://image-cdn-ak.spotifycdn.com/image/ab6772ab000015bea2582c53db8fd5039ce53157",
+      image: "assets/img/trabajos/mientras-lavas-los-platos.jpg",
       episodes: [
         { title: "Ep. 12 · Cande Molfese — Adictas al drama", url: "https://open.spotify.com/episode/3J5iXyhE6Y171vI5SegNIE" },
         { title: "Ep. 14 · Evelyn Botto — El arte del autoboicot", url: "https://open.spotify.com/episode/7vhB5VlJ4XFQYK90FwL9Ol" },
@@ -286,6 +286,7 @@ window.CONTENT = {
       title: { es: "Sergio Expert", en: "Sergio Expert" },
       context: { es: "Vicejefatura de Gobierno CABA", en: "Deputy Mayor's Office, Buenos Aires" },
       desc: { es: "Publicada en las redes de Clara Muzzio.", en: "Published on Clara Muzzio's social media." },
+      image: "assets/img/trabajos/sergio-expert.jpg", imagePos: "center 3%",
       url: "https://www.instagram.com/p/DIHVbQzJ5SX/"
     },
     {
@@ -294,6 +295,7 @@ window.CONTENT = {
       title: { es: "Bebe Contepomi", en: "Bebe Contepomi" },
       context: { es: "Producción Discursiva", en: "Discourse Production" },
       desc: { es: "Texto + audio de la entrevista completa.", en: "Text + full interview audio." },
+      image: "assets/img/trabajos/bebe-contepomi.jpg", imagePos: "center 45%",
       url: "https://blogdeproduccion842733582.wordpress.com/2023/11/09/bebe-contepomi-los-musicos-son-empresarios-y-profesionales-que-se-levantan-temprano-y-tienen-una-estructura-detras/"
     },
     {
@@ -302,6 +304,7 @@ window.CONTENT = {
       title: { es: "El Tano", en: "El Tano" },
       context: { es: "Géneros y Estilos Informativos", en: "News Genres and Styles" },
       desc: { es: "Sitio sobre el Club Italiano. Tres notas mías.", en: "Site about Club Italiano. Three pieces of mine." },
+      image: "assets/img/trabajos/club-italiano.png", logo: true, imagePos: "center",
       url: "https://sites.google.com/view/el-tano/portada"
     }
   ],

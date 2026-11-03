@@ -12,7 +12,7 @@
       "nav.timeline": "Recorrido", "nav.work": "Trabajos", "nav.archive": "Notas", "nav.about": "Sobre mí", "nav.contact": "Contacto",
       "hero.eyebrow": "Licenciado en Comunicación Social · Buenos Aires",
       "hero.lead": "Cuento historias con sonido, imagen y palabras. Edito, produzco, escribo y entrevisto. Me interesa todo lo que pasa entre la música, la historia, el deporte y los medios.",
-      "hero.cta": "Ver el recorrido", "hero.cta2": "Contacto", "hero.reel": "Showreel — próximamente",
+      "hero.cta": "Ver el recorrido", "hero.cta2": "Contacto",
       "track.v": "Audiovisual", "track.r": "Redacción", "track.a": "Podcast",
       "tl.title": "Recorrido",
       "tl.sub": "Mi trayectoria como una línea de tiempo de edición. Cada clip es una etapa: tocalo para ver el detalle.",
@@ -44,7 +44,7 @@
       "nav.timeline": "Timeline", "nav.work": "Work", "nav.archive": "Writing", "nav.about": "About", "nav.contact": "Contact",
       "hero.eyebrow": "BA in Social Communication · Buenos Aires",
       "hero.lead": "I tell stories through sound, image and words. I edit, produce, write and interview. I'm drawn to everything that happens where music, history, sport and media meet.",
-      "hero.cta": "See the timeline", "hero.cta2": "Contact", "hero.reel": "Showreel — coming soon",
+      "hero.cta": "See the timeline", "hero.cta2": "Contact",
       "track.v": "Video", "track.r": "Writing", "track.a": "Podcast",
       "tl.title": "Timeline",
       "tl.sub": "My path laid out like an editing timeline. Each clip is a chapter: tap it to see the details.",
@@ -92,7 +92,7 @@
   const byId = (list, id) => list.find((x) => x.id === id);
 
   const ext = (url, html, cls = "") => `<a href="${esc(url)}" target="_blank" rel="noopener"${cls ? ` class="${cls}"` : ""}>${html}</a>`;
-  const thumb = (w) => w.image || (w.youtube ? `https://i.ytimg.com/vi/${w.youtube}/hqdefault.jpg` : "");
+  const thumb = (w) => w.image || (w.youtube ? `assets/img/trabajos/yt-${w.youtube}.jpg` : "");
   const workUrl = (w) => w.url || (w.youtube ? `https://www.youtube.com/watch?v=${w.youtube}` : "");
 
   function store(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* sin storage */ } }
@@ -289,7 +289,7 @@
       const hide = filter !== "all" && filter !== w.track;
       const featured = w.featured && filter === "all";
       return `<article class="work work--${w.track}${featured ? " work--featured" : ""}" id="${w.id}" ${hide ? "hidden" : ""}>
-        <div class="work__media${w.youtube ? " work__media--thumb" : ""}${w.image ? " work__media--image" : ""}"${thumb(w) ? ` style="background-image:url(${thumb(w)})"` : ""}>
+        <div class="work__media${w.youtube ? " work__media--thumb" : ""}${w.image ? " work__media--image" : ""}${w.logo ? " work__media--logo" : ""}"${thumb(w) ? ` style="background-image:url(${thumb(w)})${w.imagePos ? `;background-position:${w.imagePos}` : ""}"` : ""}>
           <span class="work__kind">${esc(L(w.kind))}</span>
           ${w.award ? `<span class="work__badge">★ ${esc(L(w.award))}</span>` : ""}
           ${w.wip ? `<span class="work__badge work__badge--wip">${t("work.wip")}</span>` : ""}
@@ -393,14 +393,12 @@
   }
 
   function runMonitor() {
-    const tcEl = $("#monitor-tc"), wave = $(".monitor__wave");
+    const wave = $(".monitor__wave");
     wave.innerHTML = Array.from({ length: 64 }, () => "<i></i>").join("");
     const bars = [...wave.children];
     const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
-    const t0 = performance.now();
     let last = 0, visible = true, running = false;
     const loop = (ts) => {
-      tcEl.textContent = tc((ts - t0) / 1000);
       if (ts - last > 110) {
         last = ts;
         bars.forEach((b, i) => {

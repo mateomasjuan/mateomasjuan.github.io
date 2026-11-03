@@ -3,18 +3,19 @@
 Mundo visual de la landing de Mateo Masjuan. Lo que no se puede cambiar está en `PRODUCT.md`.
 
 ## Idea
-**Estudio con pantalla de croma.** El showreel todavía no existe, así que el inicio entero es el fondo verde donde va a ir la imagen, con las marcas de cámara encima. La página avanza como cambios de escena y cierra otra vez en el croma. Rechaza el look típico de IA: fondo crema, serif con cursiva, acento rojo y etiquetas mono.
+**Estudio de ladrillo.** El inicio es una pared de ladrillo a pantalla completa, con las marcas de cámara encima. La página avanza como cambios de escena y cierra otra vez en el ladrillo. Rechaza el look típico de IA: fondo crema, serif con cursiva, acento rojo y etiquetas mono.
 
 ## Color
 | Rol | Valor | Uso |
 |---|---|---|
-| Verde de croma | `#00B140` | Inicio y Contacto, con tinta encima |
-| Verde claro | `#1FD65F` | Acentos sobre negro |
-| Azul de croma | `#0047BB` | Archivo de notas, con blanco encima |
+| Ladrillo | `#9C3322` | Inicio y Contacto, con blanco encima |
+| Arcilla | `#F0A982` | Acentos sobre negro |
+| Arena | `#E4D5BF` | Fondo de logos en Trabajos |
+| Azul | `#0047BB` | Archivo de notas, con blanco encima |
 | Cinta de piso | `#FFD400` | Fuera de cámara y etiquetas de premio |
 | Tinta | `#0A0A0A` | Texto, navegación y Recorrido |
 | Blanco de estudio | `#F5F6F3` | Trabajos y Sobre mí |
-| REC | `#FF3B24` | Solo el punto de grabación y el cabezal |
+| REC | `#FF3B24` | Cabezal de la línea de tiempo |
 
 Los colores ocupan secciones enteras, no detalles sueltos.
 

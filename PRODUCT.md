@@ -36,4 +36,4 @@ Todo el aspecto visual: tipografía, colores, composición, espaciados, estados 
 - PANZA se describe como emprendimiento familiar.
 
 ## Evidence on Hand
-Trabajos, notas y links reales en `assets/js/content.js`. Fotos en `assets/img/` y CV en `assets/cv/`. El showreel todavía no existe: no inventarlo ni simularlo.
+Trabajos, notas y links reales en `assets/js/content.js`. Fotos en `assets/img/` y CV en `assets/cv/`. No hay showreel: no inventarlo, simularlo ni anunciarlo.
