@@ -1,0 +1,530 @@
+{
+  "edicion": 14,
+  "fecha": "2026-11-07",
+  "generado": "2026-11-07T13:08:46-03:00",
+  "nota_editor": "Sábado de tensión en los mercados argentinos y de reacomodamientos de poder: Miller llega a la jefatura de Gabinete de Trump, Peña declara detenido en Asunción, siguen los ataques entre EE.UU. e Irán mientras se negocia en Doha y el martes vuelven las conversaciones por Ucrania en Abu Dabi.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "sin cambios",
+      "nota": "cierre del viernes 6/11; récord nominal alcanzado el 3/11"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.555",
+      "variacion": "sin cambios",
+      "nota": "cierre del viernes 6/11; queda $15 por debajo del oficial"
+    },
+    {
+      "label": "Contado con liquidación",
+      "valor": "≈$1.675",
+      "variacion": "",
+      "nota": "valores de referencia del 6/11, entre $1.670 y $1.680 según la fuente"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "939",
+      "variacion": "+14",
+      "nota": "cierre del 6/11 (JP Morgan): máximo en más de un año; en noviembre ya suma 152 puntos"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "84.051",
+      "variacion": "-0,6%",
+      "nota": "cierre del 6/11; el jueves 5/11 había caído 4,1%"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 pp",
+      "nota": "septiembre de 2026; acumula 23,6% en el año y 33,4% interanual. El dato de octubre se conoce la semana próxima"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$ 98,32",
+      "variacion": "",
+      "nota": "cierre del 6/11 según Reuters citado por un medio de Dubái; dato de una sola fuente"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Isla de Qeshm",
+      "country": "Irán",
+      "headline": "Trump confirma nuevos «ataques menores» contra Irán mientras Qatar sigue mediando para reabrir Ormuz",
+      "summary": "Trump dijo que fuerzas estadounidenses hicieron «ataques menores» contra Irán después de que medios locales informaran misiles sobre la isla de Qeshm, en el estrecho de Ormuz. Son los primeros desde las legislativas del martes. Según el presidente, una instalación antiaérea fue destruida en entre cinco y quince minutos. Qatar desmintió que las negociaciones hayan fracasado y dijo que sigue en contacto con Washington y Teherán por un acuerdo interino para reabrir el estrecho.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "CNBC / Al Jazeera",
+      "time_note": "hoy",
+      "lat": 26.8,
+      "lon": 55.9,
+      "url": "https://cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Trump nombra a Stephen Miller jefe de Gabinete y Susie Wiles deja la Casa Blanca tras la derrota en las legislativas",
+      "summary": "Trump anunció en Truth Social que Stephen Miller, su asesor de política y seguridad interior y principal impulsor de la línea dura migratoria, será jefe de Gabinete desde el lunes 9 de noviembre. Reemplaza a Susie Wiles, que según Al Jazeera presentó la renuncia en el Despacho Oval el jueves y pasará al aparato político del presidente. El cambio llega después de que los republicanos perdieran las dos cámaras del Congreso.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Al Jazeera / The Washington Post / NPR",
+      "time_note": "ayer",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+    },
+    {
+      "city": "Abu Dabi",
+      "country": "Emiratos Árabes Unidos",
+      "headline": "Putin confirma que el martes se reanudan en Abu Dabi las negociaciones trilaterales con EE.UU. y Ucrania",
+      "summary": "Putin confirmó que la nueva ronda entre Rusia, Estados Unidos y Ucrania empezará el martes 10 de noviembre en Abu Dabi y durará dos días. La delegación rusa la encabezará el asesor presidencial Vladimir Medinski. Según el enviado estadounidense Steve Witkoff, se hablará de arreglos de seguridad para la posguerra, desescalada y asuntos humanitarios. La ronda anterior fue en febrero, y Moscú sigue exigiendo el control total de Donetsk como condición para un alto el fuego.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "A News / The Moscow Times",
+      "time_note": "ayer",
+      "lat": 24.5,
+      "lon": 54.4,
+      "url": "https://www.anews.com.tr/world/2026/11/06/putin-confirms-russia-us-ukraine-talks-scheduled-for-next-tuesday-in-abu-dhabi"
+    },
+    {
+      "city": "Asunción",
+      "country": "Paraguay",
+      "headline": "Santiago Peña, detenido en un regimiento militar, declara ante la Fiscalía por el colapso de Ueno Bank",
+      "summary": "El expresidente paraguayo fue trasladado de madrugada desde su casa en Asunción al Regimiento Escolta Presidencial porque manifestantes se concentraron frente a la vivienda para exigir que lo llevaran a una cárcel; la policía los dispersó con balas de goma. La indagatoria, dentro de la causa penal 92/2026 por la caída de Ueno Bank, estaba fijada para las 11 de este sábado. El Ministerio Público todavía no había definido la imputación ni si pedirá medidas cautelares.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Infobae / La Nación",
+      "time_note": "hoy",
+      "lat": -25.3,
+      "lon": -57.6,
+      "url": "https://www.infobae.com/america/america-latina/2026/11/07/santiago-pena-fue-citado-a-indagatoria-tras-ser-detenido-y-trasladado-de-su-residencia-al-regimiento-escolta-presidencial/"
+    },
+    {
+      "city": "Praga",
+      "country": "República Checa",
+      "headline": "Nueva ola de amenazas de bomba contra vuelos y canales de televisión en Europa",
+      "summary": "Autoridades de varios países europeos registraron otra tanda de amenazas de bomba contra vuelos y medios de comunicación. Entre los vuelos amenazados hubo uno de Tarom entre Praga y Bucarest y uno de Ryanair entre Lisboa y Roma. En Bulgaria llegaron cartas intimidatorias a la televisión pública, a los aeropuertos de Sofía, Plovdiv, Varna y Burgas y al diario «24 Chasa». A principios de semana ya se habían revisado al menos siete vuelos sin encontrar explosivos; ningún gobierno atribuyó oficialmente los hechos.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "NPR / BNT",
+      "time_note": "ayer",
+      "lat": 50.1,
+      "lon": 14.4,
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
+    },
+    {
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "headline": "León XIV completa su agenda en Uruguay con una misa en Paysandú y una vigilia en el Estadio Centenario antes de viajar a la Argentina",
+      "summary": "El papa cumple este sábado su segundo día en Uruguay: misa por la mañana en Paysandú y vigilia de oración por la noche en el Estadio Centenario. El Arzobispado de Montevideo suspendió las misas vespertinas del sábado y las matutinas del domingo, y Inumet anticipó lluvias y tormentas. En la recepción en Montevideo, León XIV retiró la mano cuando el expresidente Luis Alberto Lacalle Herrera intentó besarle el anillo, y el momento se volvió viral. La gira por la región sigue hasta el 17 de noviembre.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "La Nación / Montevideo Portal / Infovaticana",
+      "time_note": "hoy",
+      "lat": -34.9,
+      "lon": -56.2,
+      "url": "https://www.lanacion.com.ar/el-mundo/leon-xiv-evito-que-un-expresidente-de-uruguay-le-besara-el-anillo-durante-la-recepcion-en-montevideo-nid07112026/"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Detienen cerca de la Casa Blanca a un venezolano armado que dijo querer matar a Trump",
+      "summary": "El Servicio Secreto arrestó en las inmediaciones de la Casa Blanca a un inmigrante venezolano indocumentado que estaba armado y que dijo tener la intención de matar al presidente. Según la información difundida, entró ilegalmente a Estados Unidos en marzo de 2024 por la frontera de Texas. La detención ocurrió el mismo día en que Trump reorganizaba su equipo después de la derrota electoral.",
+      "category": "política",
+      "impact": "medio",
+      "source": "La Nación",
+      "time_note": "ayer",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.lanacion.com.ar/estados-unidos/detenido-un-indocumentado-venezolano-armado-cerca-de-la-casa-blanca-y-con-intenciones-de-matar-a-nid06112026/"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El riesgo país cierra en 939 puntos, su máximo en más de un año, y el Merval acumula una semana negra",
+      "summary": "Según JP Morgan, el riesgo país terminó el viernes en 939 puntos básicos, 14 más que el día anterior, y en lo que va de noviembre sube 152 puntos (19,3%). Los bonos Globales cayeron 0,3% en promedio y el S&P Merval bajó 0,6%, a 84.051 puntos, después del derrumbe de 4,1% del jueves. En la semana las acciones pierden 8,1%. Los analistas apuntan a dudas políticas y a los vencimientos de deuda de 2027. Por el feriado del lunes 9, el mercado vuelve a operar el martes 10.",
+      "source": "El Intransigente / Rankia / Informe Digital",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://elintransigente.com/2026/11/06/riesgo-pais-llega-939-puntos-maximo-mas-ano-bonos-argentinos/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Crece la tensión con Bullrich y la Casa Rosada ya evalúa otros nombres para acompañar a Milei en 2027",
+      "summary": "Los desmarques de Patricia Bullrich generaron malestar en el Gobierno, y se espera una reunión «cara a cara» con el Presidente. Según La Nación, en la Casa Rosada ya circulan como posibles candidatos a vicepresidente para 2027 Martín Menem, Nadia Márquez, Sandra Pettovello y Horacio Marín. El oficialismo, además, guarda silencio ante la crisis de su aliado paraguayo Santiago Peña.",
+      "source": "La Nación",
+      "time_note": "esta semana",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.lanacion.com.ar/politica/por-los-desmarques-de-bullrich-en-el-gobierno-ya-evaluan-otros-nombres-para-acompanar-a-milei-en-la-nid05112026/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "Lomas de Zamora",
+      "country": "Argentina",
+      "headline": "Procesan con prisión preventiva al financista de la AFA Ariel Vallejo y le embargan $40.000 millones",
+      "summary": "La Justicia federal procesó a Ariel Vallejo, dueño de Sur Finanzas, con prisión preventiva y un embargo de 40.000 millones de pesos, en la causa por juego ilegal y lavado de dinero vinculada al entorno de Claudio «Chiqui» Tapia. Un día antes, la Corte Suprema había rechazado todos los planteos de la AFA y frenado la unificación de las causas en el juzgado federal de Campana, que era el que pedían los acusados.",
+      "source": "La Nación",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.8,
+      "lon": -58.4,
+      "url": "https://www.lanacion.com.ar/politica/la-justicia-proceso-al-financista-de-la-afa-y-lo-embargo-por-40000-millones-nid06112026/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La Corte confirma la condena a un exdirectivo de Ford por crímenes de lesa humanidad",
+      "summary": "La Corte Suprema, integrada con conjueces, dejó firme la pena de diez años de prisión para Pedro Müller, exdirectivo de Ford, por el secuestro y las torturas de trabajadores de la planta de General Pacheco durante la última dictadura. Carlos Rosenkrantz votó en disidencia por la absolución. El mismo día, el tribunal rechazó el pedido de Alberto Fernández de cambiar de fuero la causa por violencia de género que le inició Fabiola Yañez.",
+      "source": "La Nación",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-confirmo-la-condena-de-un-exdirectivo-de-ford-por-crimenes-de-lesa-humanidad-nid05112026/"
+    },
+    {
+      "tag": "Política",
+      "city": "La Plata",
+      "country": "Argentina",
+      "headline": "El Senado bonaerense aprueba la empresa estatal de medicamentos que impulsa Kicillof",
+      "summary": "La Cámara alta de la provincia de Buenos Aires dio media sanción al proyecto del gobernador Axel Kicillof para crear una empresa de producción de medicamentos con mayoría estatal. Votaron en contra La Libertad Avanza, el PRO y otros dos bloques. La iniciativa pasa ahora a la Cámara de Diputados bonaerense.",
+      "source": "La Nación",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "lat": -34.9,
+      "lon": -57.9,
+      "url": "https://www.lanacion.com.ar/politica/aprueban-un-proyecto-de-kicillof-para-crear-una-empresa-estatal-de-produccion-de-medicamentos-nid05112026/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La 35ª Marcha del Orgullo recorre hoy el centro porteño en la víspera de la llegada del papa",
+      "summary": "La 35ª Marcha del Orgullo LGBTIQ+ se hace este sábado desde Plaza de Mayo hasta el Congreso: la feria arranca a las 10 y la marcha sale a las 16. El Gobierno porteño y la comisión organizadora acordaron mantener la fecha, pese a que se había hablado de moverla por el operativo de seguridad de la visita de León XIV. María Becerra cierra el festival, con unos 18 números confirmados y entrada gratuita.",
+      "source": "C5N / Perfil / Infobae",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.c5n.com/sociedad/organizaciones-convocan-a-la-35-marcha-del-orgullo-en-ciudad-de-buenos-aires"
+    },
+    {
+      "tag": "Ciencia",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Quince investigadores del CONICET reciben los Konex de Platino 2026 en Humanidades",
+      "summary": "En la 47ª edición de los Premios Konex, entregada el 5 de noviembre y dedicada a las Humanidades, quince investigadores del CONICET recibieron el Konex de Platino. Entre ellos está Claudia Briones, distinguida en Ciencias Antropológicas, según CONICET Patagonia Norte. El reconocimiento llega mientras sigue abierta, hasta el 16 de noviembre, la convocatoria a Proyectos de Investigación Plurianuales 2026-2028.",
+      "source": "Cadena 3 / CONICET",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.cadena3.com/noticia/ciencia/quince-investigadores-del-conicet-reciben-los-premios-konex-de-platino-2026-por-su-labor-en-humanidades_610547"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Mombasa",
+      "country": "Kenia",
+      "category": "derechos",
+      "headline": "Condenan a 200 años de prisión al pastor Paul Mackenzie por la masacre de Shakahola",
+      "summary": "La jueza Diana Kavedza, del Tribunal Superior de Mombasa, condenó a Paul Mackenzie a 200 años de cárcel por las muertes en el bosque de Shakahola, que los informes cifran en 191 personas, 190 de ellas niños, entre 2021 y 2023. Le impuso dos penas de 100 años, una por las muertes por inanición y otra por los homicidios directos, que se cumplirán una después de la otra. Sus 28 coacusados recibieron penas de hasta 160 años. La Fiscalía había pedido la pena de muerte.",
+      "por_que": "Es el cierre judicial de uno de los peores crímenes cometidos por una secta en África y vuelve a poner en discusión la falta de control estatal sobre las iglesias en Kenia.",
+      "source": "The Star (Kenia) / Nation",
+      "lat": -4.0,
+      "lon": 39.7,
+      "url": "https://www.the-star.co.ke/news/2026-11-06-mackenzie-sentenced-to-200-years-in-prison-over-shakahola-killings"
+    },
+    {
+      "region": "África",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "category": "política",
+      "headline": "Un tribunal anula la candidatura presidencial de Atiku Abubakar y la oposición nigeriana queda en vilo para 2027",
+      "summary": "El juez Peter Lifu, del Tribunal Superior Federal de Abuja, anuló el 5 de noviembre la conducción del Congreso Democrático Africano (ADC) encabezada por David Mark y las decisiones de su comité provisorio, entre ellas la primaria que eligió a Atiku Abubakar como candidato presidencial. El ADC apeló, pidió que se suspenda la sentencia y le solicitó a la comisión electoral INEC que no actúe hasta que haya una decisión. Según un abogado de la parte demandante, el fallo deja al partido sin candidatos para 2027.",
+      "por_que": "Puede dejar fuera de la próxima elección al principal frente opositor del país más poblado de África.",
+      "source": "Premium Times / PRNigeria",
+      "lat": 9.1,
+      "lon": 7.5,
+      "url": "https://www.premiumtimesng.com/news/top-news/923035-atiku-vows-to-appeal-court-judgement-against-his-candidacy-seeks-stay-of-execution.html"
+    },
+    {
+      "region": "Asia",
+      "city": "Fergana",
+      "country": "Uzbekistán",
+      "category": "salud",
+      "headline": "Calderas descartadas en Alemania e ingresadas de contrabando, detrás de 18 muertes por monóxido de carbono en Uzbekistán",
+      "summary": "Dieciocho personas murieron en tres intoxicaciones con monóxido de carbono entre fines de octubre y el 1 de noviembre: siete integrantes de una familia en el distrito de Fergana, seis personas en Taskent y cinco en Kokand, entre ellas tres nenas de 7, 3 y 1 años. Según el departamento de emergencias de Fergana, el origen fueron calderas dadas de baja en Alemania e ingresadas ilegalmente al país. Las autoridades advirtieron que tapar los conductos de ventilación provoca una combustión incompleta del gas.",
+      "por_que": "Muestra cómo equipos usados y de contrabando se convierten en un riesgo mortal cada invierno en Asia Central.",
+      "source": "UzDaily / Kun.uz",
+      "lat": 40.4,
+      "lon": 71.8,
+      "url": "https://www.uzdaily.uz/en/carbon-monoxide-poisoning-kills-18-people-in-uzbekistan/"
+    },
+    {
+      "region": "Asia",
+      "city": "Sittwe",
+      "country": "Myanmar",
+      "category": "derechos",
+      "headline": "La Corte Internacional de Justicia fijó para el 19 de noviembre su fallo en el caso por genocidio de los rohinyás",
+      "summary": "El principal tribunal de la ONU anunció que el 19 de noviembre dictará sentencia en la causa que Gambia presentó contra Myanmar por genocidio contra la minoría musulmana rohinyá. Mientras tanto, en Myanmar, un comité de negociación del régimen discute con un grupo armado étnico los planes electorales para la región de Mongla. Dato de una sola fuente.",
+      "por_que": "Sería el primer pronunciamiento de fondo de la CIJ sobre el genocidio que en 2017 expulsó a más de 700.000 rohinyás hacia Bangladesh.",
+      "source": "The Star (Malasia)",
+      "lat": 20.1,
+      "lon": 92.9,
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/04/asean-news-headlines-at-10pm-on-wednesday-nov-4-2026"
+    },
+    {
+      "region": "Europa",
+      "city": "Bucarest",
+      "country": "Rumania",
+      "category": "política",
+      "headline": "Rumania ofrece pagar parte del costo de las tropas estadounidenses para que no se vayan",
+      "summary": "El presidente Nicușor Dan dijo que Bucarest respondió las preguntas técnicas de Washington, presentó una propuesta para compartir los costos de la presencia militar estadounidense y está esperando la respuesta. El canciller Dan Neculăescu confirmó la oferta, pero no se informó el monto. El Pentágono analiza reducir o redistribuir sus fuerzas en Europa; según NBC News, una de las opciones es retirar unos 25.000 soldados. La mayoría de los efectivos estadounidenses en Rumania está en la base de Kogălniceanu, sobre el mar Negro.",
+      "por_que": "Muestra cómo el flanco oriental de la OTAN está dispuesto a pagar para retener a EE.UU. frente a Rusia.",
+      "source": "Spotmedia / Informat.ro",
+      "lat": 44.4,
+      "lon": 26.1,
+      "url": "https://spotmedia.ro/en/news/news/romania-offers-to-share-cost-of-us-military-presence-nicusor-dan-we-are-awaiting-a-response-from-the-us"
+    },
+    {
+      "region": "Europa",
+      "city": "Ereván",
+      "country": "Armenia",
+      "category": "política",
+      "headline": "Bruselas dice que el camino europeo de Armenia no depende de Georgia, a días de que la OTSC discuta quitarle el voto",
+      "summary": "Gert Jan Koopman, director general de Ampliación de la Comisión Europea, le dijo a CivilNet que Armenia está comprometida con un futuro europeo y que ese rumbo no depende de la ruptura entre la UE y Georgia, que el primer ministro Nikol Pashinyan había señalado como el principal obstáculo. Por otro lado, Rusia anticipó que la cumbre de la Organización del Tratado de Seguridad Colectiva del 11 de noviembre podría suspender el derecho a voto de Armenia, que congeló su participación en la alianza en 2024.",
+      "por_que": "El Cáucaso Sur se está reacomodando: un aliado histórico de Moscú se acerca a la UE.",
+      "source": "CivilNet / Armenpress",
+      "lat": 40.2,
+      "lon": 44.5,
+      "url": "https://civilnet.am/en/news/1015254"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Taiz",
+      "country": "Yemen",
+      "category": "derechos",
+      "headline": "Un ataque a un mercado de Taiz deja al menos 20 muertos en el olvidado frente de Yemen",
+      "summary": "Un bombardeo del viernes contra el mercado de Al Hadara, en la provincia de Taiz, mató al menos a 20 personas y dejó 15 heridos, según funcionarios hutíes citados por AP. Los hutíes culpan a la coalición saudí y el gobierno yemení culpa a los hutíes. Según la OCHA, más de 323.000 personas fueron desplazadas desde agosto, y la OMS contabiliza 1.771 muertos y 7.959 heridos desde que se intensificaron los combates. El bloqueo hutí corta los suministros a unas 800.000 personas en Taiz.",
+      "por_que": "La guerra con Irán eclipsa una escalada en Yemen que ya generó una nueva ola de desplazados.",
+      "source": "Al Jazeera / Arab News",
+      "lat": 13.6,
+      "lon": 44.0,
+      "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Damasco",
+      "country": "Siria",
+      "category": "sociedad",
+      "headline": "Líbano y Siria negocian el regreso de más de un millón de refugiados sirios",
+      "summary": "El canciller sirio Asaad al Shaibani recibió en Damasco a una delegación libanesa encabezada por el viceprimer ministro Tarek Mitri para hablar del regreso de los desplazados. El Líbano tiene registrados 854.633 refugiados sirios, pero estima que la cifra real de los que todavía no volvieron ronda los 1,12 millones. Según datos de ACNUR citados en la reunión, unos 700.000 sirios regresaron desde el Líbano hasta septiembre de 2026.",
+      "por_que": "Es la mayor población de refugiados por habitante del mundo, y su regreso pone a prueba la frágil reconstrucción siria.",
+      "source": "Arab News",
+      "lat": 33.5,
+      "lon": 36.3,
+      "url": "https://www.arabnews.com/middle-east/challenges-syrian-refugees-face-in-lebanon-form-focus-of-talks-in-damascus-3009437"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Nuuk",
+      "country": "Groenlandia",
+      "category": "política",
+      "headline": "El Parlamento de Groenlandia ratifica el acuerdo de seguridad con EE.UU. y Dinamarca pese a las dudas sobre sus beneficios",
+      "summary": "El Inatsisartut aprobó el acuerdo de seguridad negociado con Washington y Copenhague, aunque hubo cuestionamientos por la falta de beneficios económicos para la isla. Para entrar en vigor todavía necesita la aprobación del Parlamento danés, que tiene prevista la primera lectura el 11 de noviembre y la votación el 19. Groenlandia, además, desmintió a Trump, que había anunciado una exploración petrolera «masiva» en la isla.",
+      "por_que": "Define el lugar del Ártico en la estrategia de EE.UU. después de meses de presión de Trump sobre la isla.",
+      "source": "Al Jazeera / SCMP",
+      "lat": 64.2,
+      "lon": -51.7,
+      "url": "https://aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Iqaluit",
+      "country": "Canadá",
+      "category": "derechos",
+      "headline": "Canadá renueva el programa de salud infantil inuit y deja su administración en manos de organizaciones inuit",
+      "summary": "El presupuesto federal presentado esta semana renueva los fondos de la Iniciativa Inuit Child First, que cubre salud, educación y servicios sociales para chicos inuit. A partir de ahora la administrarán organizaciones inuit, bajo el nombre Pirutsiagutiit. La organización nacional Inuit Tapiriit Kanatami criticó que se mantenga Nutrition North, el subsidio alimentario que quiere eliminar y reemplazar por considerarlo ineficiente.",
+      "por_que": "Es un paso concreto hacia el autogobierno indígena en servicios esenciales, en una región con los peores indicadores sociales de Canadá.",
+      "source": "CBC News",
+      "lat": 63.7,
+      "lon": -68.5,
+      "url": "https://www.cbc.ca/news/canada/north/inuit-child-first-initiative-gets-renewed-funding-inuit-organizations-to-take-over-running-it-9.7412953"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Manaos",
+      "country": "Brasil",
+      "category": "ambiente",
+      "headline": "La Justicia brasileña suspende concesiones de petróleo y gas en la Amazonia por no consultar a los pueblos indígenas",
+      "summary": "Un fallo judicial suspendió concesiones de exploración de petróleo y gas en los estados de Amazonas y Pará porque no se hizo la consulta previa a las comunidades indígenas. Las áreas suman 869.500 hectáreas y podrían afectar a cinco tierras indígenas. Al día siguiente, la Coordinación de las Organizaciones Indígenas de la Amazonia Brasileña le pidió a Lula, recién reelecto, participación real en las decisiones y la demarcación de al menos 27 territorios que ya están listos.",
+      "por_que": "Refuerza la consulta previa como freno legal a la expansión petrolera en la mayor selva tropical del planeta.",
+      "source": "ClimaInfo / Combate Racismo Ambiental",
+      "lat": -3.1,
+      "lon": -60.0,
+      "url": "https://climainfo.org.br/2026/11/05/justica-suspende-concessoes-de-petroleo-e-gas-no-am-e-pa-por-falta-de-consulta-a-indigenas/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "category": "derechos",
+      "headline": "Víctimas rechazan la postulación de Luis Alfonso Plazas como embajador en Perú en el aniversario del Palacio de Justicia",
+      "summary": "El Movimiento Nacional de Víctimas de Crímenes de Estado (Movice) rechazó que el Gobierno colombiano haya nominado al exmilitar Luis Alfonso Plazas como embajador en Perú. La objeción coincidió con el 41º aniversario de la toma y retoma del Palacio de Justicia, del 6 y 7 de noviembre de 1985. Ese mismo día, Miroslav Jenča, de la ONU, recordó que la reforma rural es un punto central del Acuerdo de Paz de 2016.",
+      "por_que": "Reabre la herida de una de las tragedias judiciales más graves de América Latina y muestra los límites de la reparación a las víctimas.",
+      "source": "Prensa Latina",
+      "lat": 4.6,
+      "lon": -74.1,
+      "url": "https://www.prensa-latina.cu/2026/11/06/cuestionan-postulacion-de-exmilitar-colombiano-como-embajador-en-peru/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Auckland",
+      "country": "Nueva Zelanda",
+      "category": "derechos",
+      "headline": "Un empresario neozelandés deberá pagar 203.000 dólares por cobrar a migrantes por sus puestos de trabajo",
+      "summary": "La Autoridad de Relaciones Laborales ordenó al director de una empresa de personal tercerizado pagar unos 203.000 dólares neozelandeses por las tarifas cobradas a trabajadores migrantes y por salarios impagos; dos de ellos habían pagado 30.000 dólares cada uno para conseguir el empleo. Es una de las primeras aplicaciones del fallo del pleno del Tribunal Laboral en el caso Top Produce, de octubre, que estableció que esos pagos son ilegales aunque se hagan fuera del país. Ese fallo dejó sin efecto un criterio que regía desde hacía más de 20 años.",
+      "por_que": "Cierra un vacío legal que permitía explotar a migrantes del Pacífico y de Asia antes de que pisaran Nueva Zelanda.",
+      "source": "1News / Community Law Centres Aotearoa",
+      "lat": -36.8,
+      "lon": 174.8,
+      "url": "https://www.1news.co.nz/2026/11/05/labour-hire-director-to-pay-203k-over-migrant-worker-fees-underpayments/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Honiara",
+      "country": "Islas Salomón",
+      "category": "política",
+      "headline": "Islas Salomón impulsa una reforma constitucional para frenar la inestabilidad política crónica",
+      "summary": "El gobierno de la coalición GREAT presentó un paquete de enmiendas constitucionales para reducir la inestabilidad política, fortalecer la gobernabilidad parlamentaria y proteger la independencia de instituciones clave. Incluye resguardos para el Parlamento y el Poder Judicial y apoyo a la primera línea de la oposición. Las propuestas convierten en enmiendas los compromisos de la declaración de política de julio de 2026. Dato de una sola fuente.",
+      "por_que": "Las mociones de censura y los cambios de bando sacudieron por décadas a uno de los países más disputados entre China y Occidente en el Pacífico.",
+      "source": "PINA",
+      "lat": -9.4,
+      "lon": 160.0,
+      "url": "https://pina.com.fj/?p=78332"
+    }
+  ],
+  "breves": [
+    {
+      "country": "España",
+      "category": "ciencia",
+      "text": "Investigadores de la Universidad de Alicante describieron Copula lucentia, una nueva especie de cubomedusa hallada frente a El Campello. Es apenas la segunda medusa de caja registrada en el Mediterráneo.",
+      "source": "Phys.org",
+      "lat": 38.4,
+      "lon": -0.4,
+      "url": "https://phys.org/news/2026-11-scientists-jellyfish-species-alicante-spain.html"
+    },
+    {
+      "country": "Brasil",
+      "category": "ciencia",
+      "text": "Un estudio genético identificó dos nuevas especies de mono aullador en el sur de la Amazonia, Alouatta iroi y Alouatta matogrossensis, las primeras descritas en 84 años. Los autores advierten que viven en una zona de deforestación acelerada y podrían estar ya en riesgo.",
+      "source": "AZoLifeSciences",
+      "lat": -12.6,
+      "lon": -55.7,
+      "url": "https://www.azolifesciences.com/news/20261105/Scientists-Discover-Two-New-Species-of-Howler-Monkey.aspx"
+    },
+    {
+      "country": "Australia",
+      "category": "ciencia",
+      "text": "Revisando ejemplares guardados en cajones de museos, investigadores reconocieron dos nuevas especies de bandicut del género Isoodon: el bandicut pardo de Nueva Guinea y el pequeño bandicut pardo, probablemente ya extinto.",
+      "source": "Phys.org",
+      "lat": -33.9,
+      "lon": 151.2,
+      "url": "https://phys.org/news/2026-11-bandicoot-species-trawling-museum-drawers.html"
+    },
+    {
+      "country": "Madagascar",
+      "category": "deporte",
+      "text": "Las Makis Ladies ganaron el bronce en rugby 7 femenino en los Juegos Olímpicos de la Juventud de Dakar, el primer evento olímpico en África; según Newsmada, es la primera medalla olímpica de Madagascar. Kenia se quedó con el oro al vencer 17-12 a Australia en tiempo extra.",
+      "source": "AllAfrica / Newsmada",
+      "lat": -18.9,
+      "lon": 47.5,
+      "url": "https://allafrica.com/stories/202611040426.html"
+    },
+    {
+      "country": "Tuvalu",
+      "category": "salud",
+      "text": "El Parlamento de Tuvalu aprobó la Ley de Salud Pública 2026, que reemplaza una norma de 1926 y fija protocolos escalonados de respuesta ante riesgos sanitarios. La OMS prometió apoyo para ponerla en práctica.",
+      "source": "PINA",
+      "lat": -8.5,
+      "lon": 179.2,
+      "url": "https://pina.com.fj/?p=77979"
+    },
+    {
+      "country": "Filipinas",
+      "category": "sociedad",
+      "text": "Filipinas someterá a inspección estricta todos los envíos que lleguen desde Laos, después de incautar unos 200 kilos de shabú valuados en 1.360 millones de pesos filipinos que habían pasado por Hong Kong. En Laos ya habían interceptado un jet privado con 521 kilos de metanfetamina en el aeropuerto de Luang Prabang.",
+      "source": "Brigada News / The Star",
+      "lat": 14.6,
+      "lon": 121.0,
+      "url": "https://brigadanews.ph/government-flags-all-shipments-from-laos-after-%E2%82%B11-36-b-shabu-seizure"
+    },
+    {
+      "country": "Perú",
+      "category": "cultura",
+      "text": "Una estatua de León XIV, que vivió décadas como misionero en Perú, fue trasladada a Lima para inaugurarse antes de la visita del papa, prevista del 11 al 16 de noviembre.",
+      "source": "Unitel / EFE",
+      "lat": -12.0,
+      "lon": -77.0,
+      "url": "https://unitel.bo/noticias/agencias/viernes-6-de-noviembre-de-2026-0800-gmt-AC24626969"
+    }
+  ],
+  "efemerides": {
+    "dia": "7 de noviembre",
+    "items": [
+      {
+        "year": "1492",
+        "text": "Cae en Ensisheim, Alsacia, un meteorito de unos 127 kilos: es el más antiguo del que se conserva parte con fecha registrada."
+      },
+      {
+        "year": "1665",
+        "text": "Sale el primer número de la Oxford Gazette, después London Gazette, uno de los periódicos en circulación más antiguos del mundo."
+      },
+      {
+        "year": "1810",
+        "text": "Batalla de Suipacha, en el actual territorio de Bolivia: es la primera victoria de las tropas de la Revolución de Mayo sobre los realistas."
+      },
+      {
+        "year": "1867",
+        "text": "Nace en Varsovia Marie Skłodowska-Curie, la primera persona en ganar dos premios Nobel en disciplinas científicas distintas."
+      },
+      {
+        "year": "1885",
+        "text": "Se clava en Craigellachie, Columbia Británica, el último clavo del Ferrocarril Canadiense del Pacífico, que unió el país de costa a costa."
+      },
+      {
+        "year": "1910",
+        "text": "Muere en Milán el dramaturgo uruguayo Florencio Sánchez, autor de «Canillita»; por eso cada 7 de noviembre se celebra en la Argentina el Día del Canillita."
+      },
+      {
+        "year": "1917",
+        "text": "Los bolcheviques toman el poder en Petrogrado: es la Revolución de Octubre según el calendario juliano que regía en Rusia."
+      },
+      {
+        "year": "1940",
+        "text": "Se derrumba el puente colgante de Tacoma Narrows, en el estado de Washington, cuatro meses después de inaugurado, por la oscilación provocada por el viento."
+      },
+      {
+        "year": "1975",
+        "text": "En Bangladesh, un levantamiento de soldados y civiles, conocido como la «Revolución de los Sipahi y el Pueblo», termina con una serie de golpes y lleva al poder a Ziaur Rahman."
+      },
+      {
+        "year": "1987",
+        "text": "En Túnez, el primer ministro Zine el Abidine Ben Alí destituye a Habib Burguiba alegando incapacidad médica e inicia un régimen de 23 años."
+      }
+    ]
+  }
+}

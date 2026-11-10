@@ -1,5 +1,10 @@
 .DS_Store
-# Subproyectos con su propio ciclo: no forman parte del rediseño de la landing
-atlas-global/
-despacho-global/
+
+# Archivos de trabajo: quedan en la compu, no se publican
+.claude/
+CONTENIDO.md
+DESIGN.md
+PRODUCT.md
+respaldos/
 rollo-porteno/
+__pycache__/

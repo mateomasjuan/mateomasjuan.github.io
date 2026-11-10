@@ -44,7 +44,7 @@ window.CONTENT = {
       bullets: [
         { es: "Ayudante de cátedra en Historia y Cultura de la Comunicación (2023) y en el Taller de Realización Audiovisual (2025).", en: "Teaching assistant in History and Culture of Communication (2023) and in the Audiovisual Production Workshop (2025)." },
         { es: "Premio a mejor Director de Sonido por el cortometraje “Sin Dolores” (2024).", en: "Best Sound Director award for the short film “Sin Dolores” (2024)." },
-        { es: "Gracias a Vida Universitaria realicé un voluntariado de dos días con Modulo Sanitario, en el Río Luján.", en: "Through Vida Universitaria, I did a two-day volunteer program with Modulo Sanitario on the Luján River." }
+        { es: "Gracias a Vida Universitaria realicé un voluntariado de dos días con Modulo Sanitario, en el Río Luján, en junio de 2026.", en: "Through Vida Universitaria, I did a two-day volunteer program with Modulo Sanitario on the Luján River in June 2026." }
       ]
     },
     {
@@ -140,7 +140,7 @@ window.CONTENT = {
       bullets: [
         { es: "Productora de cinco personas. Como equipo chico, todos sabemos hacer de todo: preproducción, producción y postproducción.", en: "A five-person production company. As a small team, we all do a bit of everything: pre-production, production and post-production." },
         { es: "Podcasts y programas propios, como “Mientras lavás los platos”, con invitados como Nacho Elizalde, Cande Molfese, Evelyn Botto y Sofi Martínez.", en: "Our own podcasts and shows, like “Mientras lavás los platos”, with guests such as Nacho Elizalde, Cande Molfese, Evelyn Botto and Sofi Martínez." },
-        { es: "Monkey Music, el canal de la productora para DJ sets y entrevistas.", en: "Monkey Music, the studio's channel for DJ sets and interviews." }
+        { es: "Monkey Music, el canal de DJ sets, entrevistas y contenido musical.", en: "Monkey Music, the channel for DJ sets, interviews and music content." }
       ],
       links: [
         { url: "https://www.youtube.com/@MonkeyStudio_BA", label: { es: "Canal de Monkey Studio", en: "Monkey Studio channel" } },
@@ -155,7 +155,7 @@ window.CONTENT = {
       dates: { es: "Sep 2026 — hoy", en: "Sep 2026 — present" },
       bullets: [
         { es: "En septiembre de 2026 volví a trabajar en la productora, de nuevo en preproducción, producción y postproducción.", en: "In September 2026 I returned to the production company, again working across pre-production, production and post-production." },
-        { es: "Armamos Clicks Modernos, el nuevo programa de Monkey Music. Desde el segundo programa, además de estar en todo el proceso, hablo y soy parte del programa.", en: "We created Clicks Modernos, Monkey Music's new show. From the second episode on, as well as working across the whole process, I'm also on air as part of the show." }
+        { es: "Armamos Clicks Modernos, el nuevo programa de Monkey Music. Desde el segundo programa, además de estar en todo el proceso, hablo y comento.", en: "We created Clicks Modernos, Monkey Music's new show. From the second episode on, as well as working across the whole process, I'm also on air, talking and commenting." }
       ],
       works: ["w-clicks"],
       links: [
@@ -168,7 +168,10 @@ window.CONTENT = {
       title: { es: "Ayudantía · Realización Audiovisual", en: "TA · Audiovisual Production" },
       role: { es: "Ayudante de cátedra — Taller de Realización Audiovisual", en: "Teaching assistant — Audiovisual Production Workshop" },
       dates: { es: "Ago — Nov 2025", en: "Aug — Nov 2025" },
-      bullets: [{ es: "Un año después de ganar el premio a mejor sonido en el taller, volví como ayudante.", en: "A year after winning best sound in the workshop, I came back as a teaching assistant." }]
+      bullets: [
+        { es: "Un año después de ganar el premio a mejor sonido en el taller, volví como ayudante.", en: "A year after winning best sound in the workshop, I came back as a teaching assistant." },
+        { es: "Compartí mi experiencia y conocimientos con los chicos y tuve la oportunidad de ir a varios rodajes y ayudarlos desde mi rol: tener a alguien que les transmita confianza, seguridad y apoyo.", en: "I shared my experience and knowledge with the students and got to join several of their shoots, helping from my role: being someone who gave them confidence, security and support." }
+      ]
     },
     {
       id: "foto", labelSide: "left", track: "ed", lane: 1, start: 2026.75, end: 2026.8,
@@ -214,6 +217,15 @@ window.CONTENT = {
   /* Trabajos: grilla filtrable */
   works: [
     {
+      id: "w-despacho", track: "r", year: 2026, featured: true,
+      kind: { es: "Proyecto editorial propio", en: "Personal editorial project" },
+      title: { es: "Despacho Global", en: "Despacho Global" },
+      context: { es: "Medio digital · Idea y dirección", en: "Digital outlet · Concept and direction" },
+      desc: { es: "Un diario digital con lo más importante del día y las historias que los grandes medios no cuentan. Ideé el proyecto y definí la línea editorial, las secciones y el criterio de cobertura; las ediciones se generan cada día con IA.", en: "A digital paper with the day's main news and the stories big media leave out. I came up with the project and set its editorial line, sections and coverage criteria; each daily edition is generated with AI." },
+      image: "assets/img/trabajos/despacho-global.jpg?v=2", imagePos: "center top",
+      url: "despacho-global/index.html"
+    },
+    {
       id: "w-sindolores", track: "v", year: 2024, featured: true,
       kind: { es: "Cortometraje", en: "Short film" },
       title: { es: "Sin Dolores", en: "Sin Dolores" },
@@ -235,7 +247,7 @@ window.CONTENT = {
       kind: { es: "Programa", en: "Show" },
       title: { es: "Clicks Modernos", en: "Clicks Modernos" },
       context: { es: "Monkey Music · Monkey Studio", en: "Monkey Music · Monkey Studio" },
-      desc: { es: "Nuevo programa de Monkey Music. Preproducción, producción y postproducción; desde el segundo programa también hablo y soy parte del programa.", en: "Monkey Music's new show. Pre-production, production and post-production; from the second episode on, I'm also on air as part of the show." },
+      desc: { es: "Nuevo programa de Monkey Music. Preproducción, producción y postproducción; desde el segundo programa, además de estar en todo el proceso, hablo y comento.", en: "Monkey Music's new show. Pre-production, production and post-production; from the second episode on, I'm also on air, talking and commenting." },
       youtube: "_s36va2_ydg",
       episodes: [
         { title: "1 · Formatos musicales, Bogotá y recitales", url: "https://www.youtube.com/watch?v=SQ5J_BhGlEI" },
@@ -271,12 +283,13 @@ window.CONTENT = {
       kind: { es: "Podcast", en: "Podcast" },
       title: { es: "Mientras lavás los platos", en: "Mientras lavás los platos" },
       context: { es: "Monkey Studio · Spotify", en: "Monkey Studio · Spotify" },
-      desc: { es: "Conversaciones con invitados. Algunos de los mejores episodios:", en: "Conversations with guests. Some of the best episodes:" },
+      desc: { es: "Un podcast de dos amigas. Algunos de los mejores episodios:", en: "A podcast by two friends. Some of the best episodes:" },
       image: "assets/img/trabajos/mientras-lavas-los-platos.jpg",
       episodes: [
         { title: "Ep. 12 · Cande Molfese — Adictas al drama", url: "https://open.spotify.com/episode/3J5iXyhE6Y171vI5SegNIE" },
         { title: "Ep. 14 · Evelyn Botto — El arte del autoboicot", url: "https://open.spotify.com/episode/7vhB5VlJ4XFQYK90FwL9Ol" },
         { title: "Ep. 16 · Nacho Elizalde — Hacer cosas", url: "https://open.spotify.com/episode/2Vsaal7BGXpskoeyqrpJoD" },
+        { title: "Ep. 17 · Los casi algo — Un mundo de migajas", url: "https://open.spotify.com/episode/3z2qcaabV8jQHNYPjiBTXE" },
         { title: "Ep. 19 · Sofi Martínez — Apego, amor y vínculos", url: "https://open.spotify.com/episode/0A4hhJqUhtwn14xIr8WeAH" }
       ]
     },
@@ -303,7 +316,7 @@ window.CONTENT = {
       kind: { es: "Medio digital", en: "Digital outlet" },
       title: { es: "El Tano", en: "El Tano" },
       context: { es: "Géneros y Estilos Informativos", en: "News Genres and Styles" },
-      desc: { es: "Sitio sobre el Club Italiano. Tres notas mías.", en: "Site about Club Italiano. Three pieces of mine." },
+      desc: { es: "Sitio sobre el Club Italiano. Tres notas escritas por mí: divulgación científica, perfil y crónica.", en: "Site about Club Italiano. Three pieces written by me: a science explainer, a profile and a chronicle." },
       image: "assets/img/trabajos/club-italiano.png", logo: true, imagePos: "center",
       url: "https://sites.google.com/view/el-tano/portada"
     }

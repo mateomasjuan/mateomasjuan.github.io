@@ -1,0 +1,285 @@
+{
+  "edicion": 10,
+  "fecha": "2026-11-05",
+  "generado": "2026-11-05T11:29:39-03:00",
+  "nota_editor": "El día lo marcan la caída del crudo, que acumula un 10% en dos ruedas por las apuestas a un acuerdo entre EE.UU. e Irán, y en el plano local el riesgo país, que pasó los 850 puntos tras la derrota de Trump en las legislativas.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "",
+      "nota": "cierre del miércoles 4/11 según Río Negro; otros medios informan cifras algo distintas"
+    },
+    {
+      "label": "Dólar blue (venta)",
+      "valor": "$1.560",
+      "variacion": "-$10 (-0,7%)",
+      "nota": "cierre del 4/11"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "852",
+      "variacion": "en alza",
+      "nota": "cierre del 4/11, el valor más alto desde el 24/10/2025"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "88.238",
+      "variacion": "-2,4%",
+      "nota": "cierre del 4/11 en pesos; ADR de hasta -8% en Wall Street"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 pp vs. agosto",
+      "nota": "septiembre de 2026; 33,4% interanual. El dato de octubre se publica el 12/11"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$ 93,52",
+      "variacion": "-9,73%",
+      "nota": "cierre del 4/11, contrato enero 2027; operaba cerca de US$ 94 el jueves a la mañana"
+    },
+    {
+      "label": "Tasa Selic (Brasil)",
+      "valor": "13,75%",
+      "variacion": "sin cambios",
+      "nota": "Copom del 4/11; corta una serie de cinco recortes"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El riesgo país pasa los 850 puntos y las acciones argentinas caen hasta 8% en Wall Street",
+      "summary": "El riesgo país cerró el miércoles en 852 puntos básicos, su nivel más alto desde el 24 de octubre de 2025. El S&P Merval bajó 2,4% en pesos, a 88.238 puntos, y los ADR argentinos perdieron hasta 8% en Nueva York. El dólar blue bajó $10 (0,7%), a $1.560. La rueda sigue a la derrota republicana en las legislativas de EE.UU., que puso en duda el respaldo financiero de Washington.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "alto",
+      "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "En la Casa Rosada admiten que la derrota de Trump fue \"peor de lo esperado\"",
+      "summary": "En público el Gobierno guarda silencio, pero en la Casa Rosada reconocen que la pérdida del Congreso a manos de los demócratas fue \"peor de lo esperado\", sobre todo por las derrotas en distritos conservadores. Igual confían en que EE.UU. siga dando respaldo financiero de cara a la reelección de Milei en 2027. El antecedente es el swap de hasta US$ 20.000 millones de octubre de 2025, del que se usaron US$ 2.500 millones. Según iProfesional, preocupa una posible salida de Scott Bessent del gabinete de Trump.",
+      "source": "La Nación / iProfesional",
+      "time_note": "ayer",
+      "impact": "alto",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-reconoce-que-la-derrota-de-trump-fue-peor-de-lo-esperado-pero-confia-en-que-continue-el-nid04112026/"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Madrid",
+      "country": "España",
+      "headline": "Milei faltó a la apertura de la Cumbre Iberoamericana y a la cena de los reyes, pero se reunió con Abascal",
+      "summary": "Milei fue el último presidente en llegar a Madrid para la XXX Cumbre Iberoamericana. No fue a la apertura oficial ni a la cena de gala de Felipe VI, y a la noche se reunió con el líder de Vox, Santiago Abascal. Hoy tiene previsto ir al plenario de jefes de Estado. No hay bilateral pactada con Pedro Sánchez, en plena campaña para las generales españolas del 29 de noviembre. Asisten 10 de los 22 mandatarios de la comunidad; faltan, entre otros, los de Brasil, México y Venezuela.",
+      "source": "La Nación / Infobae (EFE)",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-llega-otra-vez-a-espana-y-pidio-reunirse-con-el-rey-nid04112026/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La UBA marchó con velas frente a Tribunales para exigir que se cumpla la ley de financiamiento universitario",
+      "summary": "Docentes, estudiantes y autoridades de la UBA hicieron una \"marcha de las velas\" frente al Palacio de Tribunales. Reclamaron que el Gobierno cumpla la Ley de Financiamiento Universitario, que el Congreso ratificó al rechazar el veto presidencial y que, según las universidades, no se aplica por completo. Dato de una sola fuente.",
+      "source": "La Nación",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/"
+    },
+    {
+      "tag": "Cultura",
+      "city": "Mar del Plata",
+      "country": "Argentina",
+      "headline": "Empieza el 41° Festival Internacional de Cine de Mar del Plata",
+      "summary": "El festival que organiza el INCAA va del 5 al 15 de noviembre con el lema \"Donde el cine argentino dialoga con el mundo\". La convocatoria cerró con 1.127 películas inscriptas, 27% más que en 2025. Habrá una distinción a Natalia Oreiro y un homenaje a Héctor Babenco. Es el único festival de América Latina con categoría A de la FIAPF.",
+      "source": "El Litoral / Reglamento oficial del festival",
+      "time_note": "hoy",
+      "impact": "bajo",
+      "url": "https://www.ellitoral.com/escenarios-sociedad/incaa-41-festival-cine-mar-plata-5-15-noviembre-1100-peliculas-distinciones-natalia-oreiro-emilio-kauderer-alejandro-agresti-homenaje-hector-babenco-presencias-destacadas_0_E0FlEp9l7S.html"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Pretoria",
+      "country": "Sudáfrica",
+      "headline": "El CNA saca una ventaja mínima sobre la Alianza Democrática en el arranque del escrutinio municipal",
+      "summary": "Sudáfrica votó el miércoles en elecciones locales para unos 300 municipios. Con cerca del 12% de los votos contados, el Congreso Nacional Africano (CNA) tenía alrededor del 32% y la Alianza Democrática, el 31%. En las municipales de 2021 el CNA había sacado 46%, y en 2011, 62%. En Durban, el partido uMkhonto weSizwe, de Jacob Zuma, busca aprovechar el enojo por los cortes de agua y el mal estado de los servicios.",
+      "source": "Polity / Reuters",
+      "url": "https://www.polity.org.za/article/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results-2026-11-05"
+    },
+    {
+      "region": "Asia",
+      "city": "Hong Kong",
+      "country": "China",
+      "headline": "Condenan a Joshua Wong a 10 años de prisión en su segunda causa por seguridad nacional",
+      "summary": "El Tribunal Superior de Hong Kong condenó al activista Joshua Wong a 10 años de cárcel por conspirar para coludirse con fuerzas extranjeras, delito del que se había declarado culpable en septiembre. Ya cumplía una pena por la primera causa y esperaba salir en enero de 2027. El juez dispuso que ambas condenas corran en forma simultánea.",
+      "source": "NPR / AP / NBC News",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+    },
+    {
+      "region": "Europa",
+      "city": "París",
+      "country": "Francia",
+      "headline": "Francia, en huelga nacional contra el presupuesto 2027 de Lecornu",
+      "summary": "Las principales centrales sindicales, entre ellas la CGT y la CFDT, convocaron a paros y marchas en el sector público y el privado. Es la segunda huelga nacional desde el 29 de septiembre. El proyecto del gobierno de Sébastien Lecornu prevé un ajuste de 54.000 millones de euros y un déficit del 5% del PIB para 2027. El ministro del Interior, Laurent Nuñez, desplegó 70.000 agentes.",
+      "source": "Infobae / Swissinfo (EFE)",
+      "url": "https://www.infobae.com/america/mundo/2026/11/05/francia-se-prepara-para-una-nueva-jornada-de-huelgas-y-protestas-contra-el-gobierno-de-macron-por-los-salarios-y-el-costo-de-vida/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Madinat ash Shamal",
+      "country": "Catar",
+      "headline": "Dos proyectiles impactan contra un petrolero frente a la costa de Catar",
+      "summary": "La agencia británica UKMTO informó que dos proyectiles no identificados alcanzaron un petrolero a unas 50 millas náuticas al norte de Madinat ash Shamal, a las 23.20 GMT del miércoles. No se conocían el estado de la tripulación ni los daños, y nadie se atribuyó el ataque. El día anterior hubo otro ataque a un buque frente a Omán, mientras Catar media entre EE.UU. e Irán.",
+      "source": "Anadolu / Washington Times / Ship & Bunker",
+      "url": "https://www.aa.com.tr/en/middle-east/tanker-struck-by-2-unidentified-projectiles-off-qatar-coast-uk-maritime-agency/4112416"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Schumer promete que el nuevo Congreso demócrata pondrá fin a la guerra con Irán",
+      "summary": "El líder demócrata en el Senado, Chuck Schumer, dijo el miércoles que \"vamos a terminar la guerra\" con Irán y que espera apoyo de ambos partidos. Su partido controlará las dos cámaras desde enero. En el Senado los demócratas ya habían forzado más de una decena de votaciones sobre los poderes de guerra del presidente.",
+      "source": "Just Security / NPR",
+      "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "headline": "El Banco Central de Brasil frena los recortes y deja la Selic en 13,75%",
+      "summary": "El Copom mantuvo la tasa Selic en 13,75% anual por unanimidad en su reunión 282. Así cortó una serie de cinco recortes de 0,25 punto que había empezado en marzo. Justificó la pausa en la inflación por encima de la meta y en un contexto externo adverso. En un relevamiento previo, 72 de 105 entidades esperaban que la tasa no se moviera y 33 anticipaban un recorte.",
+      "source": "O Tempo / Poder360",
+      "url": "https://www.otempo.com.br/economia/2026/11/4/copom-mantem-taxa-selic-em-13-75-e-interrompe-sequencia-de-cortes"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Sídney",
+      "country": "Australia",
+      "headline": "El banco central australiano sube la tasa a 4,85%, el nivel más alto en 18 años",
+      "summary": "El Banco de la Reserva de Australia subió la tasa de referencia 25 puntos básicos, de 4,60% a 4,85%, en una votación dividida de seis a tres. Es la quinta suba de 2026, después de las de febrero, marzo, mayo y septiembre. El banco la atribuyó a la inflación alta, la guerra en Medio Oriente y la suba del petróleo. La próxima reunión es el 8 de diciembre.",
+      "source": "ABC News Australia / SBS",
+      "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Londres",
+      "country": "Reino Unido",
+      "headline": "El Brent pierde casi 10% en una rueda y vuelve a la zona de US$ 93 por las apuestas a un acuerdo con Irán",
+      "summary": "El contrato de enero del Brent cerró el miércoles en US$ 93,52: abrió en US$ 104,23 y cayó US$ 10,08 (-9,73%). Había terminado el martes en US$ 103,60. El mercado ya descuenta un acuerdo entre EE.UU. e Irán para reabrir Ormuz, aunque no hay nada firmado. Goldman Sachs sigue proyectando US$ 105 para diciembre.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "FinanceFeeds / Invezz / Oilprice",
+      "time_note": "ayer",
+      "url": "https://financefeeds.com/brent-crude-oil-price-93-iran-bull-105-bear-88/"
+    },
+    {
+      "city": "Bruselas",
+      "country": "Bélgica",
+      "headline": "La Comisión Europea fija hojas de ruta para la adhesión de Ucrania, Moldavia, Montenegro y Albania",
+      "summary": "Con su paquete de ampliación 2026, la Comisión Europea propuso hojas de ruta con metas para el próximo año para los cuatro candidatos más avanzados. Montenegro ya tiene presentado su paquete financiero y avanza la redacción del tratado de adhesión. Según New Union Post, las fechas objetivo para cerrar las negociaciones son 2027 para Albania, comienzos de 2028 para Moldavia y fines de 2028 para Ucrania; ese último dato es de una sola fuente.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Comisión Europea / New Union Post",
+      "time_note": "ayer",
+      "url": "https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en"
+    },
+    {
+      "city": "París",
+      "country": "Francia",
+      "headline": "La Asamblea Nacional rechaza la parte de ingresos del presupuesto francés en la víspera del paro",
+      "summary": "En primera lectura, los diputados rechazaron la parte de ingresos del presupuesto 2027 con 458 votos en contra. El texto pasa al Senado en su versión original. El revés se suma a la presión sindical contra el ajuste de 54.000 millones de euros del gobierno de Lecornu. Dato de una sola fuente.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Prensa Latina",
+      "time_note": "ayer",
+      "url": "https://www.prensa-latina.cu/2026/11/05/parlamento-frances-rechaza-presupuesto-en-visperas-de-paro-general/"
+    },
+    {
+      "city": "Johannesburgo",
+      "country": "Sudáfrica",
+      "headline": "El CNA va camino a su peor resultado municipal desde el fin del apartheid",
+      "summary": "Una proyección del CSIR ubica al CNA cerca del 32% de los votos y a la Alianza Democrática en torno al 26%. En 2021 el CNA había sacado 46%. El escrutinio se hizo con poco más del 11% de los distritos informados, así que los números todavía pueden cambiar.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Polity / Reuters",
+      "time_note": "hoy",
+      "url": "https://www.polity.org.za/article/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results-2026-11-05"
+    },
+    {
+      "city": "Hong Kong",
+      "country": "China",
+      "headline": "La pena a Joshua Wong, entre las más duras bajo la ley de seguridad de Pekín",
+      "summary": "Los 10 años de prisión para Joshua Wong igualan la condena del exprofesor de Derecho Benny Tai. Solo la supera la del empresario de medios Jimmy Lai, de 20 años. La sentencia confirma el endurecimiento judicial contra el movimiento prodemocracia de Hong Kong.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Bloomberg",
+      "time_note": "hoy",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-sentences-activist-joshua-wong-to-10-years-in-prison"
+    },
+    {
+      "city": "Sídney",
+      "country": "Australia",
+      "headline": "El shock petrolero de la guerra con Irán empuja a los bancos centrales a subir tasas o frenar recortes",
+      "summary": "Australia subió la tasa a 4,85%, su máximo en 18 años, por la inflación y el encarecimiento del petróleo que trajo la guerra en Medio Oriente. El mismo día, Brasil cortó una serie de cinco recortes y dejó la Selic en 13,75% por el contexto externo adverso. Los bancos australianos NAB y Macquarie ya anunciaron subas de 0,25 punto en sus créditos hipotecarios variables.",
+      "category": "economía",
+      "impact": "medio",
+      "source": "ABC News Australia / SBS / O Tempo",
+      "time_note": "esta semana",
+      "url": "https://www.sbs.com.au/news/live-blog/rba-november-2026-interest-rates-decision-live/f6csn2n1w"
+    }
+  ],
+  "efemerides": {
+    "dia": "5 de noviembre",
+    "items": [
+      {
+        "year": "1605",
+        "text": "En Londres se descubre la Conspiración de la Pólvora y detienen a Guy Fawkes, que planeaba volar el Parlamento inglés."
+      },
+      {
+        "year": "1811",
+        "text": "En San Salvador se produce el Primer Grito de Independencia contra el dominio español, encabezado por José Matías Delgado."
+      },
+      {
+        "year": "1877",
+        "text": "Nace Aarón de Anchorena, el primer argentino que voló en globo aerostático. Por esta fecha se celebra el Día Nacional de la Aviación Civil."
+      },
+      {
+        "year": "1918",
+        "text": "Nace en Campana el poeta y letrista de tango Homero Expósito."
+      },
+      {
+        "year": "1940",
+        "text": "Franklin D. Roosevelt gana un tercer mandato como presidente de EE.UU., algo inédito hasta entonces."
+      },
+      {
+        "year": "1954",
+        "text": "Nace en Buenos Aires Alejandro Sabella, el técnico que llevó a la Selección al subcampeonato del Mundial 2014."
+      },
+      {
+        "year": "1975",
+        "text": "Muere a los 45 años el sindicalista cordobés Agustín Tosco, una de las figuras del Cordobazo."
+      },
+      {
+        "year": "2005",
+        "text": "Termina en Mar del Plata la IV Cumbre de las Américas sin acuerdo sobre el ALCA."
+      },
+      {
+        "year": "2006",
+        "text": "Un tribunal iraquí condena a muerte a Saddam Hussein por la matanza de Dujail."
+      },
+      {
+        "year": "2012",
+        "text": "Muere a los 74 años el cineasta y cantante Leonardo Favio."
+      }
+    ]
+  }
+}

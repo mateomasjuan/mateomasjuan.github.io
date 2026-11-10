@@ -1,0 +1,285 @@
+{
+  "edicion": 7,
+  "fecha": "2026-11-02",
+  "generado": "2026-11-02T07:32:31-03:00",
+  "nota_editor": "Lunes de vísperas: EE.UU. vota mañana, Irán espera respuesta de Washington en Ormuz y la Argentina enfrenta un pago al FMI con el riesgo país cerca de 800 puntos.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.560",
+      "variacion": "",
+      "nota": "referencia para la apertura del 2/11"
+    },
+    {
+      "label": "Dólar blue (venta)",
+      "valor": "$1.565",
+      "variacion": "",
+      "nota": "cierre del 30/10"
+    },
+    {
+      "label": "Dólar mayorista",
+      "valor": "$1.534",
+      "variacion": "-$5",
+      "nota": "cierre del 30/10"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "787",
+      "variacion": "+46",
+      "nota": "cierre del 30/10; máximo de 2026"
+    },
+    {
+      "label": "Merval (MSCI)",
+      "valor": "92.079,66",
+      "variacion": "-2,59%",
+      "nota": "cierre del 30/10; las fuentes citan el MSCI Merval, no se halló dato del S&P Merval"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "",
+      "nota": "septiembre; 33,4% interanual. Octubre se conoce el 12/11"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$110-112",
+      "variacion": "-1,4% a -3%",
+      "nota": "operaciones del 2/11, sin cierre; varía según fuente y hora"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Gobierno debe pagarle hoy US$800 millones al FMI con el riesgo país en 787 puntos",
+      "summary": "El Tesoro tenía US$851 millones en dólares en el BCRA al 28 de octubre, apenas US$51 millones por encima del vencimiento de este lunes. También dispone de $8,9 billones que podría usar para comprarle divisas al Central, con impacto en las reservas netas. El Directorio del FMI tratará a principios de diciembre la tercera revisión, que destrabaría cerca de US$900 millones, y en enero vencen unos US$4.500 millones con bonistas.",
+      "source": "Infobae / Agencia Noticias Argentinas",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://www.infobae.com/economia/2026/11/02/el-gobierno-debera-cubrir-hoy-un-vencimiento-de-usd-800-millones-con-el-fmi/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Con la última reunión con la avanzada vaticana, el Gobierno define su presencia en la gira de León XIV",
+      "summary": "El Papa llegará el domingo 8 de noviembre desde Montevideo y será recibido por Javier Milei en Aeroparque; luego habrá bilateral en Casa Rosada y recepción en el Palacio Libertad. El lunes 9, feriado nacional, dará misa en el Monumento de los Españoles con el Gabinete completo, y el martes 10 oficiará otra en Córdoba. Los funcionarios nacionales no participarán de actividades como la visita al penal de Devoto o el encuentro con el mundo del trabajo en la UCA.",
+      "source": "Infobae / Perfil",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://www.infobae.com/politica/2026/11/02/el-gobierno-ultima-detalles-para-la-visita-de-leon-xiv-la-presencia-del-ejecutivo-en-las-misas-y-la-coordinacion-final/"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Madrid",
+      "country": "España",
+      "headline": "Milei viaja mañana a Madrid para la Cumbre Iberoamericana, en plena campaña electoral española",
+      "summary": "El Presidente parte el martes a las 23 con Karina Milei y el canciller Pablo Quirno hacia la XXX Cumbre Iberoamericana, que se hará el 4 y 5 de noviembre con 22 países. Será su octavo viaje a España desde que asumió. La agenda incluye una alianza regional sobre inteligencia artificial y una red para reducir riesgos de desastres. El elDiarioAR señala que no habrá encuentro con Lula, en una visita que coincide con la campaña en la que Pedro Sánchez busca seguir en el poder.",
+      "source": "elDiarioAR / Prensa Mercosur",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.eldiarioar.com/politica/javier-milei-viaja-nuevo-madrid-participara-cumbre-iberoamericana-acompanado-hermana-karina_1_13631194.html"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Boca le ganó 1-0 a River en la Bombonera, con dos expulsados en el visitante",
+      "summary": "Lautaro Di Lollo marcó de cabeza tras un córner el único gol del Superclásico, por la fecha 15 del Torneo Clausura. River jugó casi todo el partido con uno menos por la roja a Lucas Martínez Quarta en el primer tiempo y terminó con nueve tras la expulsión de Gonzalo Montiel. Boca sigue primero en la tabla anual y aseguró su lugar en la próxima Copa Libertadores.",
+      "source": "La Nación / Noticias Argentinas / Bolavip",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-river-en-vivo-nid01112026/"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Noviembre arrancó con subas de 3,9% en colectivos, subte y peajes del AMBA",
+      "summary": "Desde el domingo, el boleto mínimo quedó en $1.253,44 en la provincia de Buenos Aires y $956,69 en la Ciudad con SUBE registrada. Las prepagas aumentan entre 1,7% y 2,88%, y los colegios privados hasta 3% en territorio bonaerense y 2,7% en CABA. Los cuadros de luz y gas aún no estaban publicados al cierre de la nota de Ámbito, y otras fuentes citan subas promedio de 3,57% y 2,17% según la Secretaría de Energía.",
+      "source": "Ámbito / Perfil",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://www.ambito.com/economia/noviembre-llega-aumentos-colectivos-alquileres-prepagas-y-servicios-cuanto-impacta-el-bolsillo-n6337955"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Pretoria",
+      "country": "Sudáfrica",
+      "headline": "Sudáfrica llega a las municipales del 4 de noviembre con 20 asesinatos políticos y solo siete arrestos",
+      "summary": "La teniente general Tebello Mosikili, de la estructura de seguridad NatJoints, informó el 1 de noviembre 20 homicidios de dirigentes, afiliados y simpatizantes durante el período electoral. Gauteng y KwaZulu-Natal concentran 13 de esos casos. La policía abrió 139 causas por delitos electorales, detuvo a 48 sospechosos e identificó 331 centros de votación en zonas con riesgo de inestabilidad.",
+      "source": "IOL / Briefly",
+      "url": "https://iol.co.za/news/crime-and-courts/2026-11-02-20-political-linked-murders-139-election-crime-cases-recorded-as-south-africa-heads-to-polls"
+    },
+    {
+      "region": "Asia",
+      "city": "Taipéi",
+      "country": "Taiwán",
+      "headline": "Taiwán protesta ante China por el trato a su invitación a la cumbre APEC de Shenzhen",
+      "summary": "La Cancillería taiwanesa denunció un trato discriminatorio de cara a la cumbre del 18 y 19 de noviembre. Según Taipéi, Pekín le envió una carta que no constituye una invitación formal. Dato de una sola fuente.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/02/2003866988"
+    },
+    {
+      "region": "Europa",
+      "city": "Madrid",
+      "country": "España",
+      "headline": "El PSOE cae en las encuestas tras el choque de trenes de Toledo que dejó 69 muertos",
+      "summary": "Un sondeo de SigmaDos para El Mundo, publicado hoy, ubica a los socialistas en torno a 24,6%, desde cerca de 26% una semana antes, con 97 a 103 bancas frente a las 121 actuales. El accidente del 28 de octubre, cerca de Los Yébenes y Urda, se convirtió en eje de la campaña para las generales del 29 de noviembre.",
+      "source": "Bloomberg / Al Jazeera",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/spanish-socialists-weaken-in-election-polls-after-train-crash"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Doha",
+      "country": "Qatar",
+      "headline": "Irán ofrece reabrir Ormuz en dos días si EE.UU. acepta un plan mediado por Qatar",
+      "summary": "Negociadores iraníes cumplieron en Doha un tercer día de conversaciones. Según el canciller Abbas Araghchi, Washington daría sus pasos el primer día y el estrecho se reabriría el segundo; no hay diálogo directo. Teherán exige levantar sanciones recientes y reducir la presencia militar estadounidense, mientras Donald Trump dijo que la guerra terminará \"muy pronto, de una forma u otra\". EE.UU. no respondió públicamente a la propuesta.",
+      "source": "Al Jazeera / investingLive",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Una encuesta final da a los demócratas ventaja en las siete pujas clave del Senado",
+      "summary": "El sondeo New York Times/Siena, hecho del 23 de octubre al 1 de noviembre con 5.708 votantes probables, muestra a los demócratas adelante en las siete contiendas más competitivas, aunque cinco siguen dentro del margen de error. En Texas, James Talarico aventaja a Ken Paxton 50% a 43%; en Iowa, Josh Turek supera a Ashley Hinson 48% a 47%. Trump cerró el domingo su campaña con actos en Iowa y Kansas.",
+      "source": "Newsweek / Yahoo",
+      "url": "https://www.newsweek.com/trump-makes-final-midterm-rally-push-as-democrats-rise-in-polls-12647916"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Caracas",
+      "country": "Venezuela",
+      "headline": "El regreso de Machado presiona a Delcy Rodríguez por el calendario de la transición",
+      "summary": "María Corina Machado volvió a Venezuela el 25 de octubre tras casi diez meses afuera, y Marco Rubio afirmó que su regreso fue negociado semanas antes entre Washington y Caracas. Rodríguez lo calificó de \"show\", reiteró que habrá elecciones y planteó renovar la autoridad electoral, sin fecha oficial. Machado mencionó 2027 como horizonte posible.",
+      "source": "La Nación / El Imparcial / La Patilla",
+      "url": "https://www.lanacion.com.ar/el-mundo/las-incognitas-que-abre-la-vuelta-de-maria-corina-machado-a-venezuela-nid31102026/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Wellington",
+      "country": "Nueva Zelanda",
+      "headline": "Nueva Zelanda entra en la última semana de campaña con una elección abierta",
+      "summary": "Los neozelandeses votan el 7 de noviembre. La encuesta 1News Verian del 21 al 25 de octubre dio 28,9% al Partido Nacional de Christopher Luxon y 27,3% al Laborismo de Chris Hipkins, con margen de error de ±3,1 puntos. El bloque de derecha alcanzaría 61 bancas, justo la mayoría en un parlamento de 121, y Opportunity, con 6,3%, podría ser decisivo.",
+      "source": "1News / RNZ",
+      "url": "https://www.1news.co.nz/2026/10/27/poll-coalition-has-path-to-power-but-labour-steady-after-gangs-row/"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Viena",
+      "country": "Austria",
+      "headline": "El Brent baja hasta 3% tras la decisión de la OPEP+ y las señales desde Doha, pero sigue arriba de US$100",
+      "summary": "El barril operaba hoy entre US$110 y US$112 y el WTI cerca de US$100,62, después de que el Brent cerrara octubre en su mayor nivel mensual en seis meses. La OPEP+ mantuvo sin cambios sus objetivos para diciembre. Los ataques a buques en Ormuz siguen siendo el principal riesgo, y DBS Bank estima un techo cercano a US$120.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "Grafa / Voice of Emirates",
+      "time_note": "hoy",
+      "url": "https://grafa.com/en/news/united-states/oil-prices-fall-3-percent-iran-qatar-talks"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "EE.UU. vota mañana con el control del Congreso en juego y más de 51 millones de votos anticipados",
+      "summary": "Se renuevan las 435 bancas de la Cámara de Representantes y 35 del Senado; los demócratas necesitan ganar al menos 3 y 4, respectivamente, para tener mayoría en ambas. El promedio de RealClearPolling los ubica 51,5% a 43,1%. Los analistas ven probable que ganen la Cámara, mientras que el Senado sigue incierto. Otra fuente eleva el voto anticipado a cerca de 55 millones.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Al Jazeera / Prensa Latina",
+      "time_note": "hoy",
+      "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail"
+    },
+    {
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "El Nasdaq cayó 2,86% por temor a una suba de tasas y dudas sobre el gasto en IA",
+      "summary": "El índice cerró el viernes en 25.437 puntos, su mínimo en al menos tres meses y 7,8% por debajo del pico del 6 de octubre. La Fed mantuvo la tasa en 3,75-4% el 28 de octubre, pero dos integrantes votaron por subirla. Los mercados de predicción asignan 69,5% a un alza en diciembre. Dato de una sola fuente.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "The Rio Times",
+      "time_note": "esta semana",
+      "url": "https://riotimesonline.com/global-economy-briefing-november-2-2026"
+    },
+    {
+      "city": "Kiev",
+      "country": "Ucrania",
+      "headline": "Terminó la tregua de Kherson y falsas alertas nucleares afectaron una app ucraniana",
+      "summary": "El cese del fuego localizado, el más largo de la guerra, rigió del 27 de octubre al 1 de noviembre. Esa noche, la Fuerza Aérea ucraniana informó que su app de alertas sufrió \"influencia enemiga\" y difundió falsos avisos de amenazas nucleares y químicas en Kiev. Ucrania culpó a Rusia, cuyo Ministerio de Emergencias también denunció un ciberataque masivo a su propia app de alertas.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al Jazeera",
+      "time_note": "hoy",
+      "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings"
+    },
+    {
+      "city": "Pekín",
+      "country": "China",
+      "headline": "La actividad fabril china volvió a contraerse en octubre, con el PMI oficial en 49,3",
+      "summary": "El índice cayó desde 50,1 en septiembre y quedó debajo de los 49,9 previstos; el no manufacturero bajó a 49,7. La oficina de estadísticas atribuyó la caída a factores estacionales y a demanda adelantada antes del feriado de octubre. El relevamiento privado RatingDog/S&P Global marcó 52, todavía en expansión.",
+      "category": "economía",
+      "impact": "medio",
+      "source": "Global Times / China-Global South Project / investingLive",
+      "time_note": "esta semana",
+      "url": "https://chinaglobalsouth.com/2026/10/31/china-manufacturing-pmi-october-2026-factory-contraction/"
+    },
+    {
+      "city": "Toledo",
+      "country": "España",
+      "headline": "La investigación del choque de trenes en España apunta a una falla del sistema de control LZB",
+      "summary": "Un tren de alta velocidad Madrid-Sevilla embistió por detrás a otro detenido el 28 de octubre, a las 8:53, con un saldo de 69 muertos. Las autoridades señalan de forma preliminar una falla del sistema LZB, mientras el ministro de Transportes, Óscar Puente, rechaza que la red sea insegura. Cientos de manifestantes, en su mayoría de extrema derecha, pidieron la renuncia de Pedro Sánchez.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "Al Jazeera / CNN",
+      "time_note": "esta semana",
+      "url": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections"
+    }
+  ],
+  "efemerides": {
+    "dia": "2 de noviembre",
+    "items": [
+      {
+        "year": "1782",
+        "text": "Nace en Buenos Aires Eustoquio Díaz Vélez, militar de la guerra de la Independencia argentina."
+      },
+      {
+        "year": "1910",
+        "text": "Nace el poeta y pintor argentino Enrique Molina."
+      },
+      {
+        "year": "1917",
+        "text": "El Reino Unido emite la Declaración Balfour, que respalda un hogar nacional judío en Palestina."
+      },
+      {
+        "year": "1930",
+        "text": "Ras Tafari Makonnen es coronado emperador de Etiopía con el nombre de Haile Selassie."
+      },
+      {
+        "year": "1936",
+        "text": "La BBC inaugura en Londres su servicio regular de televisión."
+      },
+      {
+        "year": "1951",
+        "text": "Nace el abogado y político argentino Ricardo Alfonsín."
+      },
+      {
+        "year": "1975",
+        "text": "Es asesinado en Ostia, Italia, el escritor y cineasta Pier Paolo Pasolini."
+      },
+      {
+        "year": "1988",
+        "text": "Se lanza desde el MIT el gusano Morris, uno de los primeros programas maliciosos de propagación masiva en internet."
+      },
+      {
+        "year": "2000",
+        "text": "La primera expedición de tripulantes llega a la Estación Espacial Internacional."
+      },
+      {
+        "year": "2017",
+        "text": "Muere la cantante y actriz argentina María Martha Serra Lima."
+      }
+    ]
+  }
+}

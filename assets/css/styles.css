@@ -185,7 +185,7 @@ button { font: inherit; cursor: pointer; }
   padding-bottom: .06em;
 }
 .section--dark .section__title { color: var(--brick-lit); }
-.section__sub { grid-column: 1 / -1; max-width: 46ch; font-size: clamp(20px, 1.8vw, 26px); line-height: 1.25; font-weight: 500; }
+.section__sub { grid-column: 1 / -1; margin-top: clamp(10px, 1.2vw, 18px); max-width: 46ch; font-size: clamp(20px, 1.8vw, 26px); line-height: 1.25; font-weight: 500; }
 .section--dark .section__sub { color: var(--desk-ink-2); }
 
 /* ============ EDITOR / TIMELINE ============ */
@@ -441,7 +441,10 @@ button { font: inherit; cursor: pointer; }
 .plugin__meter i.on.hot { background: var(--tape); }
 
 /* ============ FUERA DE CÁMARA: cinta de piso ============ */
-.offcam { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(16px, 2vw, 28px); }
+.offcam { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: clamp(16px, 2vw, 28px); }
+.off { grid-column: span 2; }
+.off--wide { grid-column: span 3; }
+.off--wide .off__media { aspect-ratio: 16 / 9; }
 .off__media {
   position: relative; overflow: hidden;
   aspect-ratio: 4 / 3; border-radius: var(--r); background: var(--desk); margin-bottom: 14px;
@@ -524,6 +527,7 @@ button { font: inherit; cursor: pointer; }
   .eyebrow, .hero__lead, .hero__roles, .hero__cta { grid-column: 1; grid-row: auto; margin-top: 0; justify-content: flex-start; }
   .section__title { font-size: 21vw; }
   .works, .offcam, .rack__rows, .about { grid-template-columns: 1fr; }
+  .off, .off--wide { grid-column: auto; }
   .work--featured { grid-column: auto; }
   .work--featured .work__media { aspect-ratio: 16 / 9; flex: none; min-height: 0; }
   .facts { grid-template-columns: 1fr 1fr; }
@@ -532,7 +536,7 @@ button { font: inherit; cursor: pointer; }
   .tl-group__label { padding: 0 8px; font-size: 9px; letter-spacing: .04em; }
   .tl-track__label span:not(.tl-track__code) { display: none; }
   .about__photo { aspect-ratio: 4 / 3; }
-  .about__photo img { object-position: center 50%; }
+  .about__photo img { object-position: center 25%; }
   .credits__name { font-size: 26vw; }
   .credits__list li { grid-template-columns: 1fr; gap: 0; padding-top: 8px; }
   .credits__list a { padding: 0 0 8px; }

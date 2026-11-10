@@ -1,0 +1,285 @@
+{
+  "edicion": 5,
+  "fecha": "2026-10-31",
+  "generado": "2026-10-31T07:13:21-03:00",
+  "nota_editor": "Los mercados argentinos cierran octubre con cinco ruedas en baja y el riesgo país en máximos de un año, mientras el Brent supera los US$117 a tres días de las legislativas de EE.UU.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.560",
+      "variacion": "",
+      "nota": "último dato del 30/10, 17:09; compra $1.510"
+    },
+    {
+      "label": "Dólar blue (venta)",
+      "valor": "$1.565",
+      "variacion": "",
+      "nota": "último dato del 30/10, 17:09; compra $1.545"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "787",
+      "variacion": "+5,5%",
+      "nota": "cierre del 30/10; máximo intradiario de 790, el más alto desde el 24/10/2025"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "92.079",
+      "variacion": "-2,6%",
+      "nota": "cierre del 30/10, en pesos; quinta baja diaria consecutiva de los activos locales"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 p.p.",
+      "nota": "septiembre, frente a 1,7% en agosto; 33,4% interanual"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$117,64",
+      "variacion": "+2,4%",
+      "nota": "cierre del 30/10, contrato de diciembre al vencimiento; enero cerró en US$113,43"
+    },
+    {
+      "label": "Reservas brutas BCRA",
+      "valor": "US$48.562 M",
+      "variacion": "-US$1.592 M",
+      "nota": "30/10; nivel más bajo desde el 1/10, por movimientos de bancos a fin de mes y la baja del oro"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El riesgo país sube a 787 puntos y el Merval cae 2,6% en la quinta rueda negativa consecutiva",
+      "summary": "El índice de JP Morgan subió 5,5% el viernes hasta 787 puntos básicos, tras tocar 790, su mayor nivel desde el 24 de octubre de 2025. El Merval cerró en 92.079 puntos y los bonos en dólares perdieron en promedio 1,1%, en una jornada de caídas en Wall Street, con el Nasdaq en -2,9%. El dólar mayorista bajó $5, a $1.534, y el BCRA compró US$143 millones en dos ruedas, aunque las reservas brutas retrocedieron US$1.592 millones, a US$48.562 millones.",
+      "source": "Diario de Cuyo / BAE Negocios",
+      "time_note": "ayer",
+      "impact": "alto",
+      "url": "https://www.diariodecuyo.com.ar/economia/el-riesgo-pais-volvio-rozar-los-800-puntos-y-las-acciones-argentinas-sufrieron-otra-jornada-negativa-n6587302"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "headline": "Brasil citó a la encargada de negocios argentina por la salida de Flávio Bolsonaro y Quirno niega un pedido de explicaciones",
+      "summary": "Itamaraty convocó el jueves a María Emilia Cortés, quien fue recibida por el embajador João Marcelo Galvão de Queiroz, según La Nación. El canciller Pablo Quirno calificó de \"FALSO\" que se hubieran pedido explicaciones; luego la Cancillería ratificó la reunión, pero sostuvo que Brasil no solicitó información sobre funcionarios argentinos. Brasil evalúa una nota a nivel ministerial y plantear el tema en la reunión de cancilleres del G20 en Atlanta.",
+      "source": "La Nación / Reuters",
+      "time_note": "ayer",
+      "impact": "alto",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-brasil-cito-a-la-encargada-de-negocios-de-la-argentina-para-pedirle-explicaciones-por-nid30102026/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Senado aprobó en general la reforma de la Ley de Salud Mental por 42 votos a 21 y la giró a Diputados",
+      "summary": "El proyecto permite internaciones involuntarias, dispone la eliminación de los manicomios y amplía las adicciones tratadas como enfermedades mentales, entre ellas la ludopatía. En la misma sesión, el Senado aprobó por 60 votos a 2 un marco regulatorio para proyectos de reducción de emisiones y generación de créditos de carbono.",
+      "source": "Noticias Argentinas",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "url": "https://noticiasargentinas.com/politica/---javier-milei-en-vivo--anuncios-y-medidas-del-gobierno-minuto-a-minuto-del-30-de-octubre-de-2026_a6ae4632945c3c55a7b560911"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Milei prometió bajar impuestos por US$500 millones si es reelegido y admitió que la actividad se desaceleró",
+      "summary": "En una clase magistral en la Universidad Torcuato Di Tella, el Presidente vinculó esa baja de impuestos a un segundo mandato hasta 2031. Reconoció que \"se desaceleró el ritmo\" de la actividad y atribuyó parte de las dificultades a conflictos internacionales. También anunció para noviembre el libro \"La política como moral\" y llamó a los periodistas \"seres cargados de maldad\". Dato de una sola fuente.",
+      "source": "Diario Huarpe",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://www.diariohuarpe.com/nota/milei-prometio-una-baja-de-impuestos-si-es-reelegido-presidente-en-2027-20261031140"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Corrientes",
+      "country": "Argentina",
+      "headline": "CTERA convocó un paro docente nacional por la muerte de una directora rural en Corrientes",
+      "summary": "La medida se realizó el jueves 29, con jornada de duelo, tras la muerte de Nancy Godoy, directora suplente de la Escuela Rural N.º 626 del paraje El Malezal. El gremio reclamó una investigación exhaustiva, más seguridad para los trabajadores de la educación y condiciones laborales dignas. Dato de una sola fuente.",
+      "source": "Econoblog",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "url": "https://www.econoblog.com.ar/160555/sorpresivo-paro-docente-para-el-jueves-29-de-octubre-de-2026/"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Jartum",
+      "country": "Sudán",
+      "headline": "Sudán acusa a Etiopía de lanzar 162 ataques con drones desde su territorio",
+      "summary": "Funcionarios sudaneses afirmaron en una rueda informativa que los ataques mataron a más de 400 civiles y 102 militares, y que destruyeron decenas de escuelas, hospitales, centros de salud y estaciones de combustible. Las cifras no fueron verificadas de forma independiente. Etiopía ya había rechazado como \"infundadas\" las acusaciones de que apoya a las Fuerzas de Apoyo Rápido.",
+      "source": "Dabanga / allAfrica",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-accuses-ethiopia-of-launching-162-drone-attacks-from-its-territory"
+    },
+    {
+      "region": "Asia",
+      "city": "Seúl",
+      "country": "Corea del Sur",
+      "headline": "Corea del Norte disparó unos 10 misiles balísticos de corto alcance hacia el mar de Japón",
+      "summary": "El lanzamiento del jueves 29 fue informado por el Estado Mayor Conjunto surcoreano y es el primero de misiles balísticos desde el 12 de octubre. Japón estima que cayeron fuera de su zona económica exclusiva, y la primera ministra Sanae Takaichi ordenó reunir y analizar información. La tensión entre las Coreas aumentó tras la explosión de una mina en septiembre, que hirió a soldados surcoreanos cerca de la línea de demarcación.",
+      "source": "Jiji Press vía Nippon.com / USNI News",
+      "url": "https://www.nippon.com/en/articles/-/56555"
+    },
+    {
+      "region": "Europa",
+      "city": "Varsovia",
+      "country": "Polonia",
+      "headline": "Polonia suspende al presidente del Tribunal Constitucional y Nawrocki interrumpe un viaje a Senegal",
+      "summary": "Bogdan Swieczkowski fue suspendido y la policía entró en la sede del tribunal tras incidentes en el exterior, donde se arrojaron objetos a los agentes. El ministro de Justicia, Waldemar Zurek, pidió levantar la inmunidad de Swieczkowski y de su adjunto. Donald Tusk invocó el Estado de derecho, mientras que Jaroslaw Kaczynski, líder del PiS, habló de un golpe contra el tribunal.",
+      "source": "Reuters vía NBC News",
+      "url": "https://www.nbcnews.com/world/europe/polish-president-turns-back-senegal-trip-top-court-chief-suspended-rcna606626"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Jerusalén",
+      "country": "Israel",
+      "headline": "El bloque de Netanyahu pierde la mayoría en las elecciones israelíes y se abre una negociación difícil",
+      "summary": "Tras la votación del martes, el bloque de Benjamin Netanyahu obtuvo 53 bancas de 120, el principal bloque opositor 48 y los partidos de liderazgo árabe 19; formar gobierno requiere 61. Los resultados finales se presentarán al presidente Isaac Herzog el miércoles próximo, y la nueva Knéset juraría el 10 de noviembre. Si los intentos fracasan, Israel iría a nuevas elecciones a principios del año próximo.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/difficult-negotiations-israel-netanyahus-bloc-lost-parliamen-rcna606505"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "San Francisco",
+      "country": "Estados Unidos",
+      "headline": "Un tribunal de apelaciones rechaza otra vez el pedido de Trump de apartar unas 20.000 boletas en California",
+      "summary": "El Noveno Circuito falló 2 a 1 el viernes contra el Departamento de Justicia, a cuatro días de las legislativas del 3 de noviembre. La mayoría citó la imposibilidad práctica de separar las boletas de votantes concretos sin posibles efectos catastróficos para el sistema. El juez disidente, Patrick Bumatay, sostuvo que la ley federal prohíbe votar a los no ciudadanos.",
+      "source": "Al Jazeera / PBS",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Caracas",
+      "country": "Venezuela",
+      "headline": "Delcy Rodríguez nombra canciller a Oliver Blanco, que reemplaza a Félix Plasencia",
+      "summary": "La presidenta encargada designó el jueves 29 a Blanco, hasta entonces primer viceministro de Relaciones Exteriores. Plasencia, canciller desde julio, pasa a dirigir los asuntos internacionales de la Presidencia y viajará a Londres para intentar recuperar unos US$2.000 millones en oro retenidos en el Banco de Inglaterra. Dato de una sola fuente.",
+      "source": "The Rio Times",
+      "url": "https://riotimesonline.com/venezuela-new-foreign-minister-oliver-blanco-2026"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Canberra",
+      "country": "Australia",
+      "headline": "El gobierno de Albanese planea prohibir nuevos centros de datos en zonas suburbanas, según la prensa australiana",
+      "summary": "La medida formaría parte de una reforma de las leyes de inteligencia artificial, según el Australian Financial Review, que cita fuentes anónimas. El plan podría obligar a las empresas de IA a revelar el contenido usado para entrenar sus modelos y a los centros de datos a usar energías renovables. Los borradores se publicarían para consulta este año. Dato de una sola fuente.",
+      "source": "Capital Brief / Australian Financial Review",
+      "url": "https://www.capitalbrief.com/briefing/albanese-government-plans-to-ban-suburban-data-centres-afr-9318dd53-c76f-4828-b3c8-a9f313c3e52e/"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Estrecho de Ormuz",
+      "country": "Irán",
+      "headline": "Un ataque con explosivos a un petrolero lleva al crudo a su mayor nivel desde abril",
+      "summary": "La agencia británica UKMTO informó que una lancha adosó explosivos a un petrolero en Ormuz, el primer impacto exitoso de ese tipo desde el inicio de la guerra en febrero; se desconoce el autor. El Brent de diciembre cerró en US$117,64, con una suba de 2,4%, y acumuló 13,6% en octubre. Irán aún no respondió una carta del vicepresidente JD Vance, según la agencia Tasnim, y mediadores de Catar regresaron a Teherán.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Reuters vía The Korea Times",
+      "time_note": "ayer",
+      "url": "https://www.koreatimes.co.kr/world/20261031/oil-jumps-2-settles-at-6-month-highs-on-fears-of-escalation-in-iran"
+    },
+    {
+      "city": "Kinshasa",
+      "country": "República Democrática del Congo",
+      "headline": "El brote de ébola en RD Congo supera los 10.000 casos",
+      "summary": "El Ministerio de Salud congoleño informó 10.141 casos y casi 5.000 muertes hasta el lunes 26 de octubre, en el mayor brote de la historia del país. El virus Bundibugyo no tiene vacuna ni tratamiento aprobados, aunque comenzaron ensayos clínicos con vacunas candidatas. La OMS pidió ampliar las medidas de control, mejorar el acceso a las zonas afectadas y fortalecer la confianza comunitaria.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "ONU Noticias",
+      "time_note": "esta semana",
+      "url": "https://news.un.org/en/story/2026/10/1168689"
+    },
+    {
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "Wall Street cae por balances tecnológicos débiles y el Nasdaq pierde 2,9%",
+      "summary": "El S&P 500 bajó 1,8% y el Dow Jones 1,1% el viernes, con resultados trimestrales débiles de empresas como Intel y AMD. La caída se trasladó a mercados emergentes: el Bovespa retrocedió 0,8% y el riesgo país de Brasil subió a 195 puntos. Dato de una sola fuente.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "Diario de Cuyo",
+      "time_note": "ayer",
+      "url": "https://www.diariodecuyo.com.ar/economia/el-riesgo-pais-volvio-rozar-los-800-puntos-y-las-acciones-argentinas-sufrieron-otra-jornada-negativa-n6587302"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "EE.UU. aprueba la venta de 500 misiles Patriot a Ucrania por US$2.100 millones",
+      "summary": "El Departamento de Estado autorizó la operación, financiada por Canadá, Alemania y Noruega mediante un programa estadounidense y sin fondos de EE.UU. Volodímir Zelenski había advertido el 18 de octubre sobre una gran escasez de misiles Patriot y otras defensas aéreas. La aprobación llega mientras Trump endurece sus críticas al mandatario ucraniano.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "NBC News",
+      "time_note": "ayer",
+      "url": "https://www.nbcnews.com/world/ukraine/us-approves-21-billion-sale-patriot-interceptors-ukraine-rcna606641"
+    },
+    {
+      "city": "Roma",
+      "country": "Italia",
+      "headline": "Una huelga general contra el costo de vida y el rearme paraliza rutas y puertos en Italia",
+      "summary": "La protesta del viernes, convocada por el sindicato USB, incluyó bloqueos de rutas y accesos portuarios en unas 50 ciudades, entre ellas Génova y Bolonia, además de una acampada frente al Coliseo. Los organizadores hablaron de más de 1,5 millones de participantes, cifra no verificada. Tras los disturbios del 17 y 18 de octubre, el gobierno de Giorgia Meloni desplegó 500 militares para apoyar a la policía.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "Infobae (agencias) / teleSUR / NBC News",
+      "time_note": "ayer",
+      "url": "https://www.infobae.com/america/agencias/2026/10/30/manifestaciones-en-toda-italia-contra-la-carestia-de-la-vida-y-las-politicas-de-meloni/"
+    },
+    {
+      "city": "Cebú",
+      "country": "Filipinas",
+      "headline": "Japón y EE.UU. acuerdan producir en conjunto misiles aire-aire de alcance medio",
+      "summary": "El ministro de Defensa japonés, Shinjiro Koizumi, anunció que Japón instalará una planta para fabricar en conjunto misiles aire-aire avanzados de alcance medio. El acuerdo surgió de una reunión con el secretario de Defensa estadounidense, Pete Hegseth, al margen de un encuentro de defensa de la ASEAN. Dato de una sola fuente.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Taipei Times",
+      "time_note": "esta semana",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/30/2003866857"
+    }
+  ],
+  "efemerides": {
+    "dia": "31 de octubre",
+    "items": [
+      {
+        "year": "1517",
+        "text": "Martín Lutero difunde sus 95 tesis en Wittenberg, hecho considerado el inicio de la Reforma protestante."
+      },
+      {
+        "year": "1864",
+        "text": "Nevada es admitido como el estado número 36 de Estados Unidos."
+      },
+      {
+        "year": "1925",
+        "text": "Muere en Buenos Aires el médico, filósofo y ensayista José Ingenieros, autor de \"El hombre mediocre\"."
+      },
+      {
+        "year": "1926",
+        "text": "Muere en Detroit el ilusionista y escapista Harry Houdini."
+      },
+      {
+        "year": "1941",
+        "text": "Concluyen los trabajos de escultura del monumento del Monte Rushmore, en Estados Unidos."
+      },
+      {
+        "year": "1961",
+        "text": "El cuerpo de Stalin es retirado del mausoleo de Lenin, en Moscú."
+      },
+      {
+        "year": "1966",
+        "text": "Llega a la V Brigada Aérea argentina el primer cazabombardero Douglas A-4B Skyhawk, matrícula C-201."
+      },
+      {
+        "year": "1980",
+        "text": "Muere el general Edelmiro J. Farrell, presidente de facto de la Argentina entre 1944 y 1946."
+      },
+      {
+        "year": "1984",
+        "text": "La primera ministra de India, Indira Gandhi, es asesinada por dos de sus guardias de seguridad sijs."
+      },
+      {
+        "year": "1992",
+        "text": "El papa Juan Pablo II reconoce formalmente los errores de la Iglesia en la condena a Galileo Galilei."
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "edicion": 17,
+  "fecha": "2026-11-09",
+  "generado": "2026-11-09T17:58:30-03:00",
+  "nota_editor": "Lunes de feriado nacional por la visita de León XIV: no operan los mercados argentinos, así que los indicadores locales son del cierre del viernes 6/11. Afuera, la jornada estuvo marcada por la mediación de Catar entre EE.UU. e Irán, la caída del petróleo y la apertura de la COP31 en Turquía.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "",
+      "nota": "cierre del viernes 6/11; hoy es feriado y no opera el mercado"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.555",
+      "variacion": "",
+      "nota": "cierre del viernes 6/11, $15 por debajo del oficial"
+    },
+    {
+      "label": "Dólar CCL",
+      "valor": "$1.678,72",
+      "variacion": "",
+      "nota": "cierre del viernes 6/11 (Ámbito)"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "939",
+      "variacion": "+14",
+      "nota": "cierre del viernes 6/11, el valor más alto desde octubre de 2025"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "84.051",
+      "variacion": "-0,6%",
+      "nota": "cierre del viernes 6/11, en pesos"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 pp",
+      "nota": "septiembre; 33,4% interanual. El dato de octubre sale el 12/11"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$ 93,4",
+      "variacion": "-5%",
+      "nota": "lunes 9/11 al mediodía de Londres; mínimo en dos meses"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Trump recibe al primer ministro de Catar, que trae una nueva propuesta iraní para reabrir Ormuz",
+      "summary": "El primer ministro catarí, Mohammed bin Abdulrahman Al Thani, se reunió el lunes a puertas cerradas con Trump en la Casa Blanca. Llevó una propuesta revisada de Irán, armada con mediadores cataríes: EE.UU. aplicaría las medidas acordadas el primer día y el estrecho de Ormuz se reabriría al segundo. Según Israel Hayom, a cambio EE.UU. levantaría el bloqueo naval y se liberarían unos 8.000 millones de dólares iraníes congelados en Catar, pero la Casa Blanca no lo confirmó. Después de la reunión, Trump dijo que EE.UU. está listo para atacar «cuando queramos».",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al Jazeera / Daily Caller",
+      "time_note": "hoy",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq"
+    },
+    {
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "Wall Street rebota con fuerza y el Brent cae casi 5%, por debajo de 94 dólares",
+      "summary": "El Dow Jones subió unos 1.254 puntos (2,5%) y el Nasdaq 3,1%, y así salieron de la caída que siguió a las elecciones de medio término. El Brent bajó de 98,32 a unos 93,4 dólares por barril, su mínimo en dos meses, ante las expectativas de un acuerdo con Irán mediado por Catar. La semana pasada el crudo ya había perdido 16%, su peor caída semanal desde el comienzo de la pandemia.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "CNBC / Invezz",
+      "time_note": "hoy",
+      "lat": 40.7,
+      "lon": -74.0,
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+    },
+    {
+      "city": "Antalya",
+      "country": "Turquía",
+      "headline": "Arranca la COP31 con un informe de la OMM: entre enero y septiembre el planeta estuvo 1,47 °C por encima de la era preindustrial",
+      "summary": "La Organización Meteorológica Mundial presentó en la apertura de la cumbre su informe preliminar sobre el clima de 2026. Según el informe, los últimos 12 años están entre los 12 más cálidos registrados, el calor de los océanos batió récord por décimo año seguido y el nivel del mar es el más alto desde que existen mediciones satelitales. La OMM prevé que un episodio muy intenso de El Niño agrave los extremos hasta bien entrado 2027. El informe definitivo se publicará en marzo de 2027.",
+      "category": "clima",
+      "impact": "alto",
+      "source": "Noticias ONU / OMM",
+      "time_note": "hoy",
+      "lat": 36.9,
+      "lon": 30.7,
+      "url": "https://news.un.org/es/story/2026/11/1542152"
+    },
+    {
+      "city": "Santa Clara",
+      "country": "Estados Unidos",
+      "headline": "Nvidia cae en la Bolsa porque su directorio investiga la relación de Jensen Huang con una presunta espía china",
+      "summary": "El directorio de Nvidia abrió una investigación independiente, a cargo de directores independientes y abogados externos, sobre la relación del CEO con Alice Huang, ejecutiva de la firma de nube Megaspeed. Según la inteligencia estadounidense, ella pasaba información a Pekín. La acción cayó alrededor de 4%, a su nivel más bajo desde fines de marzo. La empresa dijo que no tiene motivos para creer que se hayan comprometido secretos ni la seguridad nacional, y Huang seguirá al frente.",
+      "category": "tecnología",
+      "impact": "alto",
+      "source": "CNBC / Bloomberg",
+      "time_note": "hoy",
+      "lat": 37.4,
+      "lon": -122.0,
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+    },
+    {
+      "city": "Jerusalén",
+      "country": "Israel",
+      "headline": "Eisenkot recibe el mandato para formar gobierno y deja a Netanyahu afuera de la primera opción",
+      "summary": "El presidente Isaac Herzog le encargó a Gadi Eisenkot, líder de Yashar, formar una coalición, después de que bancadas que suman 67 de los 120 diputados de la Knesset lo recomendaran. Tiene 28 días, prorrogables 14 más, pero esos apoyos no garantizan una mayoría de gobierno estable. El reclutamiento de ultraortodoxos es el principal punto de disputa. Los partidos siguen negociando este lunes.",
+      "category": "política",
+      "impact": "alto",
+      "source": "AP / EFE",
+      "time_note": "ayer",
+      "lat": 31.8,
+      "lon": 35.2,
+      "url": "https://www.adn.com/nation-world/2026/11/07/israels-president-taps-opposition-candidate-eisenkot-to-form-government-in-setback-for-netanyahu/"
+    },
+    {
+      "city": "Cracovia",
+      "country": "Polonia",
+      "headline": "Muere en el hospital el atacante de la Plaza del Mercado de Cracovia, que mató a seis personas",
+      "summary": "Michał Oksiński, de 24 años, murió el lunes después de varias operaciones. El sábado había matado a seis personas y herido a unas 15 en la plaza principal de la ciudad: cuatro víctimas eran polacas, una británica y una austríaca. La policía encontró además a tres familiares suyos muertos en su casa de Ostrowiec Świętokrzyski. El premier Donald Tusk lo calificó de terrorismo y la fiscalía lo investiga como atentado.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "CNN / Euronews",
+      "time_note": "hoy",
+      "lat": 50.1,
+      "lon": 19.9,
+      "url": "https://www.cnn.com/2026/11/09/europe/krakow-shooting-poland-gunman-dead-intl-hnk"
+    },
+    {
+      "city": "Kébémer",
+      "country": "Senegal",
+      "headline": "Al menos 34 migrantes mueren en el naufragio de una piragua que iba hacia Canarias",
+      "summary": "La embarcación se hundió frente a la costa noroeste de Senegal, cerca de Kébémer, unos 180 km al norte de Dakar. Hay un solo rescatado y otros medios elevan el número de muertos a 39. En paralelo, la isla de El Hierro declaró la emergencia después de recibir más de 3.300 personas en unos 30 cayucos desde principios de noviembre.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "allAfrica / BBC",
+      "time_note": "ayer",
+      "lat": 15.4,
+      "lon": -16.4,
+      "url": "https://allafrica.com/stories/202611090088.html"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "León XIV dio misa ante unos dos millones de personas en Palermo y le habló a la familia argentina",
+      "summary": "En el feriado nacional que dispuso el decreto 1103/2026, el Papa celebró misa frente al Monumento de los Españoles con Javier y Karina Milei presentes. En una homilía de unos once minutos centrada en la familia, mencionó la precariedad laboral, la violencia doméstica y las adicciones. El único aplauso que lo interrumpió fue cuando recordó a Francisco como obispo de Buenos Aires. La cifra de asistentes es una estimación de los medios. A la noche encabeza una vigilia con jóvenes y el martes viaja a Córdoba.",
+      "source": "Infobae / MDZ",
+      "time_note": "hoy",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/sociedad/2026/11/09/historica-misa-del-papa-leon-xiv-en-buenos-aires-el-mensaje-dirigido-a-la-familia-argentina-y-la-ovacion-cuando-nombro-a-francisco/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Claypole",
+      "country": "Argentina",
+      "headline": "En el Cottolengo Don Orione, el Papa dijo que «el progreso de una Nación se mide por la acogida a las personas con discapacidad»",
+      "summary": "León XIV empezó la jornada en el Pequeño Cottolengo de Claypole, donde viven unas 415 personas con discapacidad. Lo recibió el gobernador Axel Kicillof, que le regaló un mate. El encuentro con residentes y personal fue a puertas cerradas, con un recorrido por la capilla y una actuación de Abel Pintos.",
+      "source": "Infobae / La Nación",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.8,
+      "lon": -58.3,
+      "url": "https://www.infobae.com/politica/2026/11/09/el-papa-se-emociono-en-el-cottolengo-don-orione-y-aseguro-el-progreso-de-una-nacion-se-mide-por-la-acogida-a-las-personas-con-discapacidad/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "Bahía Blanca",
+      "country": "Argentina",
+      "headline": "Detienen a dos hombres por amenazar de muerte a León XIV",
+      "summary": "La Policía Federal detuvo en Villa Rosa, Pilar, a un hombre de 49 años que quedó a disposición del Juzgado Federal de Campana. En Bahía Blanca arrestaron a otro de 58 años que había llamado al 911 para amenazar al Papa. En Palermo también se investiga a un joven de 27 años que estaba cerca del escenario con credenciales falsas de bombero. Los medios no coinciden en la cantidad de detenidos y no se estableció un vínculo entre los casos.",
+      "source": "El Destape / La Gaceta",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -38.7,
+      "lon": -62.3,
+      "url": "http://www.eldestapeweb.com/politica/leon-xiv-argentina-policia-detuvo-dos-personas-amenaza-muerte-papa-2026119105810"
+    },
+    {
+      "tag": "Ciencia",
+      "city": "Santa Fe",
+      "country": "Argentina",
+      "headline": "Científicos del CONICET y la UNL desarrollan una interfaz cerebro-computadora con IA para rehabilitar pacientes con ACV",
+      "summary": "El sistema coAR.BCI registra la actividad cerebral con electroencefalografía y un algoritmo de inteligencia artificial detecta el movimiento que la persona imagina para mover un avatar en pantalla. Lo lidera Victoria Peterson, del Instituto de Matemática Aplicada del Litoral (IMAL, CONICET-UNL). Hasta ahora se probó con personas sanas, y un convenio de 2026 con Fleni permitirá evaluarlo en un entorno clínico con pacientes en etapa aguda o subaguda.",
+      "source": "MDZ / El Tribuno",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": -31.6,
+      "lon": -60.7,
+      "url": "https://www.mdzol.com/sociedad/2026/11/5/conicet-desarrolla-videojuego-con-ia-para-rehabilitar-tras-un-acv-1993311.html"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Boca gana la Tabla Anual con un gol de Enner Valencia en la última jugada y corta tres años sin títulos",
+      "summary": "El sábado le ganó 1 a 0 a Defensa y Justicia en La Bombonera y terminó con 63 puntos, uno más que Rosario Central. Con el formato de la AFA que suma las fases regulares del Apertura y el Clausura, el título vale como campeón de Liga. Según Infobae, es su estrella número 75 y le da un lugar en la Supercopa Internacional.",
+      "source": "elDiarioAR / Infobae",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.eldiarioar.com/deportes/futbol/boca-campeon-liga-profesional-gol-agonico-enner-valencia_1_13647389.html"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La AFA apelará ante el TAS las sanciones de la FIFA por los incidentes en la final del Mundial",
+      "summary": "La Cámara de Apelaciones de la FIFA confirmó la suspensión de 10 partidos y la multa de 90.000 dólares a Leandro Paredes, y bajó la de Nahuel Molina de siete a cuatro partidos. También ratificó una multa de más de 321.000 dólares a la AFA por cánticos discriminatorios de los hinchas. Paredes se perdería los amistosos de noviembre ante Uruguay y Costa Rica. La AFA primero pedirá los fundamentos de la decisión.",
+      "source": "EFE vía Yahoo / SI",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": -34.8,
+      "lon": -58.5,
+      "url": "https://es-us.noticias.yahoo.com/argentina-apelar%C3%A1-tas-sanciones-fifa-174727165.html"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Concepción del Uruguay",
+      "country": "Argentina",
+      "headline": "Detienen a Emanuel Noir, cantante de Ke Personajes, por golpear a un policía",
+      "summary": "Lo arrestaron el sábado en Concepción del Uruguay, Entre Ríos, después de pegarle en la cara a un policía de 40 años que le impidió entrar a un casino cerrado. Lo acusan de resistencia a la autoridad y lesiones. Después pidió perdón en redes («Me equivoqué»). Los medios no coinciden en si sigue detenido o ya recuperó la libertad.",
+      "source": "MDZ / Infobae",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": -32.5,
+      "lon": -58.2,
+      "url": "https://www.mdzol.com/policiales/2026/11/7/detuvieron-a-emanuel-noir-cantante-de-ke-personajes-tras-agredir-a-un-policia-en-entre-rios-1993817.html"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Jowhar",
+      "country": "Somalia",
+      "category": "política",
+      "headline": "El presidente somalí ofrece mudar la capital del estado de HirShabelle a la región de Hiiraan",
+      "summary": "Al asumir el nuevo gobierno regional en Jowhar, Hassan Sheikh Mohamud anunció que la capital de HirShabelle pasará a Hiiraan, para responder a las tensiones encabezadas por el clan Hawadle en Beledweyne. Antes hay que reformar la constitución regional, que fija a Jowhar como capital, y los vecinos deben elegir una ciudad segura. El ex jefe de inteligencia Abdullahi Sanbaloolshe rechazó la idea porque, según él, el presidente federal no tiene esa facultad.",
+      "por_que": "La disputa por el poder en los estados federados es uno de los focos de inestabilidad de Somalia en plena guerra contra Al Shabab.",
+      "source": "allAfrica / Hiiraan Online",
+      "lat": 2.8,
+      "lon": 45.5,
+      "url": "https://allafrica.com/stories/202611090077.html"
+    },
+    {
+      "region": "África",
+      "city": "Acra",
+      "country": "Ghana",
+      "category": "derechos",
+      "headline": "Mahama dice que las reparaciones por la esclavitud no se limitan a pagos en efectivo",
+      "summary": "El presidente de Ghana, John Mahama, sostuvo que la reparación también puede llegar como inversión en educación, salud y crecimiento, o como tratamiento de deuda. Él impulsó la resolución no vinculante de la ONU, apoyada por 123 países, que en marzo calificó la trata transatlántica de «el crimen más grave contra la humanidad». Ghana creó tres paneles de trabajo sobre reparación, restitución cultural y vía legal.",
+      "por_que": "Corre el debate de las reparaciones del terreno simbólico a propuestas concretas de financiamiento entre África y Europa.",
+      "source": "Africanews / Graphic Online",
+      "lat": 5.6,
+      "lon": -0.2,
+      "url": "https://www.africanews.com/2026/11/09/slave-trade-ghanas-president-says-reparations-not-limited-to-cash-payments/"
+    },
+    {
+      "region": "Asia",
+      "city": "Macao",
+      "country": "China",
+      "category": "derechos",
+      "headline": "Condenan a 12 años y medio al ex diputado prodemocracia Au Kam San en el primer caso de seguridad nacional de Macao",
+      "summary": "Un tribunal de Macao lo declaró culpable de subversión, violación de confidencialidad y contacto con organizaciones del exterior para poner en peligro la seguridad nacional. El juicio fue a puertas cerradas a pedido de la fiscalía. Au, de 69 años, fue docente, estuvo 20 años en la legislatura y organizaba los homenajes por Tiananmen.",
+      "por_que": "Muestra que Macao, hasta ahora mucho menos conflictivo que Hong Kong, también empezó a aplicar la ley de seguridad nacional contra la oposición.",
+      "source": "Al Jazeera / NBC",
+      "lat": 22.2,
+      "lon": 113.5,
+      "url": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail"
+    },
+    {
+      "region": "Asia",
+      "city": "Chennai",
+      "country": "India",
+      "category": "salud",
+      "headline": "Un programa de Tamil Nadu baja al menos 38% la mortalidad por tuberculosis",
+      "summary": "Un estudio del ICMR-NIE y la oficina estatal de TB evaluó el programa TN-KET, que desde 2022 detecta a los pacientes más graves al momento del diagnóstico y los prioriza para internarlos. Encontró una baja de al menos 38% en la tasa de muerte entre julio de 2024 y diciembre de 2025, en 30 distritos del estado. Los autores aclaran que los resultados tardaron en llegar y dependen de toda la cadena de atención.",
+      "por_que": "India concentra la mayor carga de tuberculosis del mundo y este modelo de bajo costo podría replicarse en otros países.",
+      "source": "ThePrint / PTI",
+      "lat": 13.1,
+      "lon": 80.3,
+      "url": "https://theprint.in/india/tamil-nadus-tb-care-initiative-records-at-least-38-reduction-in-deaths/3093690/"
+    },
+    {
+      "region": "Europa",
+      "city": "Ámsterdam",
+      "country": "Países Bajos",
+      "category": "ambiente",
+      "headline": "Activistas ocupan la obra de un centro de datos de Microsoft en Ámsterdam en una protesta coordinada en 15 países",
+      "summary": "Activistas ambientales y propalestinos entraron a la obra de tres torres de centros de datos en el barrio de Sloterdijk, treparon a una grúa y pintaron consignas. La acción formó parte de la campaña Stop Dirty Data Centres, convocada para el 6 y 7 de noviembre en unos 15 países. La policía confirmó un detenido; otras fuentes hablan de cientos de demorados, pero no está verificado.",
+      "por_que": "El consumo de energía y agua de los centros de datos para inteligencia artificial empieza a generar resistencia social organizada en Europa.",
+      "source": "NL Times / NOS / Bloomberg",
+      "lat": 52.4,
+      "lon": 4.8,
+      "url": "https://nltimes.nl/2026/11/06/protesters-break-onto-site-planned-microsoft-data-center-adam-police-intervene"
+    },
+    {
+      "region": "Europa",
+      "city": "Bruselas",
+      "country": "Bélgica",
+      "category": "política",
+      "headline": "El rey Felipe rechaza la renuncia del premier De Wever y lo manda a retomar la negociación del presupuesto",
+      "summary": "Bart De Wever había presentado la renuncia el 2 de noviembre, cuando fracasaron las negociaciones por el presupuesto 2027. El rey no la aceptó y le pidió reabrir las conversaciones; el premier debe volver a informarle el lunes 16. El gobierno busca unos 10.000 millones de euros de ahorro hacia 2030.",
+      "por_que": "Bélgica, sede de las instituciones europeas, vuelve a asomarse a una crisis de gobierno por la puja fiscal entre partidos flamencos y francófonos.",
+      "source": "Euronews / Belga",
+      "lat": 50.8,
+      "lon": 4.4,
+      "url": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Chamchamal",
+      "country": "Irak",
+      "category": "economía",
+      "headline": "Un ataque con dron paraliza el yacimiento de gas Khor Mor y deja sin luz a buena parte del Kurdistán iraquí",
+      "summary": "La operadora emiratí Dana Gas confirmó que un dron alcanzó la unidad de GLP del yacimiento en la noche del 8 de noviembre. El incendio se apagó, pero la producción sigue suspendida y no hubo heridos. El ministerio de Electricidad regional informó que quedaron fuera de servicio unos 2,8 gigavatios de generación. Nadie se atribuyó el ataque y el premier iraquí ordenó una investigación conjunta.",
+      "por_que": "Khor Mor alimenta la mayor parte de la electricidad del Kurdistán iraquí y ya fue atacado varias veces durante la guerra con Irán.",
+      "source": "Kurdistan24 / Al-Monitor",
+      "lat": 35.1,
+      "lon": 44.9,
+      "url": "https://www.kurdistan24.net/en/story/951712/dana-gas-confirms-khor-mor-drone-attack-production-remains-suspended"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Deir el-Balah",
+      "country": "Palestina",
+      "category": "sociedad",
+      "headline": "Las lluvias inundan 70.000 carpas en Gaza y un derrumbe de arena mata a cuatro chicos y una mujer",
+      "summary": "El domingo, un terraplén de arena se desplomó sobre una carpa en Deir el-Balah; además de los cinco muertos hay dos desaparecidos. Según la oficina de medios de Gaza, se inundaron unas 70.000 carpas y hacen falta al menos 300.000. La ONU recibió pedidos de más de 26.000 hogares. Israel asegura que entregó 91.000 carpas, mientras que las ONG denuncian que los insumos siguen frenados en la frontera.",
+      "por_que": "Anticipa un invierno crítico para cientos de miles de desplazados que viven en refugios precarios.",
+      "source": "Al Jazeera / The National",
+      "lat": 31.4,
+      "lon": 34.4,
+      "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Ciudad de México",
+      "country": "México",
+      "category": "sociedad",
+      "headline": "Paro nacional en los módulos del INE: cerca del 80% de las oficinas de credencialización cerraron",
+      "summary": "Los trabajadores de los Módulos de Atención Ciudadana del Instituto Nacional Electoral rechazaron un aumento salarial del 6% y pararon el lunes en unos 20 estados. Según Expansión, a la tarde estaban cerrados cerca del 80% de los 842 módulos. Los trabajadores piden una mesa de diálogo con la nueva presidenta del instituto.",
+      "por_que": "La credencial del INE es el principal documento de identidad de los mexicanos, así que el paro afecta trámites cotidianos de millones de personas.",
+      "source": "Expansión / Infobae México",
+      "lat": 19.4,
+      "lon": -99.1,
+      "url": "https://politica.expansion.mx/mexico/2026/11/09/trabajadores-de-modulos-del-ine-se-van-paro"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Iqaluit",
+      "country": "Canadá",
+      "category": "ambiente",
+      "headline": "El premier de Nunavut pide levantar la prohibición de explotar petróleo y gas en el Ártico canadiense",
+      "summary": "El jefe del gobierno territorial reclamó terminar con la moratoria federal sobre nuevos derechos de hidrocarburos en las aguas árticas. El presupuesto federal destinó 11 millones de dólares canadienses en cuatro años para supervisar la actividad offshore en el Océano Ártico. Dato de una sola fuente.",
+      "por_que": "Enfrenta el desarrollo económico de un territorio mayoritariamente inuit con la protección de uno de los ecosistemas más frágiles del planeta.",
+      "source": "National Observer",
+      "lat": 63.7,
+      "lon": -68.5,
+      "url": "https://www.nationalobserver.com/2026/11/06/news/nunavuts-premier-wants-lift-ban-arctic-oil-gas-development"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "La Habana",
+      "country": "Cuba",
+      "category": "ciencia",
+      "headline": "Cuba publica su nueva Ley de Ciencia, que abre la investigación al sector privado y convoca a los científicos emigrados",
+      "summary": "La Gaceta Oficial n.º 94 publicó la Ley 182/2025 junto con sus normas complementarias, que entrarán en vigor el 8 de enero de 2027. La ley habilita alianzas público-privadas, obliga a las empresas estatales a invertir en innovación y su artículo 75 promueve la participación de investigadores que viven en el exterior. Según el medio independiente 14ymedio, promete aumentar la porción del PBI dedicada a ciencia pero no fija porcentajes ni plazos.",
+      "por_que": "Cuba busca frenar la fuga de cerebros y conseguir financiamiento para un sistema científico que sostuvo, entre otras cosas, sus propias vacunas.",
+      "source": "Prensa Latina / 14ymedio",
+      "lat": 23.1,
+      "lon": -82.4,
+      "url": "https://www.prensa-latina.cu/2026/11/09/diaz-canel-destaca-alcance-de-nueva-ley-de-ciencia-en-cuba/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Río Hondo",
+      "country": "Guatemala",
+      "category": "política",
+      "headline": "Asesinan en una emboscada al diputado guatemalteco Julio Portillo y a los tres policías que lo custodiaban",
+      "summary": "Hombres armados interceptaron el viernes la comitiva del diputado por Zacapa frente a una sede policial de Río Hondo. Portillo murió esa noche en el hospital regional. Había denunciado amenazas de muerte y tenía custodia desde 2024. La fiscalía recogió unos 50 casquillos, pero no hay detenidos. El presidente Bernardo Arévalo condenó el ataque.",
+      "por_que": "Es un golpe directo al Congreso en un país donde el crimen organizado disputa territorio político en vísperas electorales.",
+      "source": "Infobae Guatemala / Prensa Libre",
+      "lat": 15.0,
+      "lon": -89.6,
+      "url": "https://www.infobae.com/guatemala/2026/11/08/el-ministerio-publico-investiga-la-emboscada-donde-murio-el-diputado-guatemalteco-portillo-y-tres-policias-en-zacapa/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Wellington",
+      "country": "Nueva Zelanda",
+      "category": "política",
+      "headline": "Elecciones en Nueva Zelanda: laboristas y nacionales quedan separados por 3.650 votos y todo depende del voto especial",
+      "summary": "En el conteo preliminar, el Partido Laborista tiene 29,36% y el Nacional 29,21%, la primera vez que ninguno de los dos grandes supera el 30%. Por la distribución de bancas, la coalición oficialista Nacional-ACT-NZ First conserva una mayoría mínima de 67 o 68 de 131 escaños, según la fuente. Faltan unos 400.000 votos especiales, que suelen favorecer a la izquierda, y el resultado final se conocerá el 27 de noviembre.",
+      "por_que": "Un puñado de votos puede definir si el gobierno de Christopher Luxon sigue o cambia de signo.",
+      "source": "ABC News (Australia) / RNZ",
+      "lat": -41.3,
+      "lon": 174.8,
+      "url": "https://www.abc.net.au/news/2026-11-08/analysis-new-zealand-election-numbers/107360924"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Port Vila",
+      "country": "Vanuatu",
+      "category": "política",
+      "headline": "La oposición de Vanuatu retira la moción de censura contra el premier Jotham Napat antes de la votación",
+      "summary": "Nueve diputados habían presentado la moción con seis cargos, entre ellos que la isla de Malekula no tiene ministerios. El presidente del Parlamento la había habilitado para debatirse el lunes. Fue retirada antes de llegar a votación, y Napat dijo que los cinco socios de la coalición siguen unidos. En diciembre de 2025 ya había superado otra moción por 36 votos a 12.",
+      "por_que": "Las mociones de censura recurrentes son la principal fuente de inestabilidad en la política del Pacífico.",
+      "source": "RNZ Pacific / PINA",
+      "lat": -17.7,
+      "lon": 168.3,
+      "url": "https://www.rnz.co.nz/news/pacific/2460411/coalition-united-no-confidence-motion-against-vanuatu-pm-napat-withdrawn-before-vote"
+    }
+  ],
+  "breves": [
+    {
+      "country": "China",
+      "category": "ambiente",
+      "text": "China aprobó su primera ley sobre actividades en la Antártida, que regula expediciones, pesca, turismo y navegación y exige evaluación de impacto ambiental. Rige también para extranjeros que organicen viajes antárticos desde territorio chino.",
+      "source": "The Star / Xinhua",
+      "lat": 39.9,
+      "lon": 116.4,
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/06/china-adopts-law-on-antarctic-activities-and-environmental-protection"
+    },
+    {
+      "country": "Indonesia",
+      "category": "ambiente",
+      "text": "Un avión cisterna C-130 australiano, con 20 brigadistas, combate hasta el 12 de noviembre los incendios forestales de Kalimantan Oriental. Carga hasta 15.000 litros de agua por vuelo.",
+      "source": "ANTARA / Tempo",
+      "lat": -0.5,
+      "lon": 117.2,
+      "url": "https://en.antaranews.com/news/441031/australian-water-bombers-begin-operations-to-fight-fires-in-kalimantan"
+    },
+    {
+      "country": "Nigeria",
+      "category": "economía",
+      "text": "La «OPI del pueblo» de la refinería Dangote recibió órdenes por unos 6,4 billones de nairas, el triple de lo previsto, desde 120 países. Aun así, no alcanzó la meta de 10 millones de inversores.",
+      "source": "Business Insider Africa / Reuters",
+      "lat": 6.5,
+      "lon": 3.4,
+      "url": "https://africa.businessinsider.com/local/markets/africas-largest-refinery-ipo-fails-to-meet-its-10-million-investor-target-despite/e4d72rb"
+    },
+    {
+      "country": "Egipto",
+      "category": "sociedad",
+      "text": "Al menos siete muertos y más de 100 heridos dejó el choque entre dos trenes de pasajeros en la línea El Cairo-Asuán, en la provincia de Guiza. El presidente al-Sisi ordenó una investigación.",
+      "source": "allAfrica",
+      "lat": 30.0,
+      "lon": 31.2,
+      "url": "https://allafrica.com/stories/202611090086.html"
+    },
+    {
+      "country": "Sudáfrica",
+      "category": "política",
+      "text": "La policía sudafricana detuvo a nueve extranjeros de entre 20 y 26 años que, según la investigación, estaban por viajar a Rusia para combatir en Ucrania. Los acusan bajo la ley que regula la asistencia militar extranjera.",
+      "source": "AP / OkayAfrica",
+      "lat": -26.1,
+      "lon": 28.2,
+      "url": "https://apnews.com/article/south-africa-russia-ukraine-war-recruits-arrest-2cc387cac06f3663eb4c817194b7ed8c"
+    },
+    {
+      "country": "Paraguay",
+      "category": "sociedad",
+      "text": "Los docentes paraguayos pararon en los 17 departamentos para exigir que les devuelvan unos 60 millones de dólares de su caja de jubilaciones depositados en el intervenido Ueno Bank. Dirigentes gremiales le llevaron el reclamo al presidente Pedro Alliana.",
+      "source": "ABC Color",
+      "lat": -25.3,
+      "lon": -57.6,
+      "url": "https://www.abc.com.py/nacionales/2026/11/09/que-paguen-los-responsables-el-pedido-de-los-docentes-a-alliana-tras-la-estafa-de-ueno/"
+    },
+    {
+      "country": "Estados Unidos",
+      "category": "salud",
+      "text": "Estados Unidos superó los 5.000 casos de sarampión en 2026 (5.182 según los CDC), el número más alto desde 1991. Pensilvania es el estado más afectado, con 1.487. Días antes, un organismo regional revisa si el país pierde su estatus de eliminación de la enfermedad.",
+      "source": "Euronews / Bloomberg",
+      "lat": 40.3,
+      "lon": -76.9,
+      "url": "https://www.euronews.com/2026/11/06/us-measles-cases-exceed-5000-in-2026-reaching-their-highest-level-in-35-years"
+    }
+  ],
+  "efemerides": {
+    "dia": "9 de noviembre",
+    "items": [
+      {
+        "year": "1799",
+        "text": "Napoleón Bonaparte da el golpe del 18 de Brumario y termina con el Directorio en Francia."
+      },
+      {
+        "year": "1906",
+        "text": "Theodore Roosevelt visita las obras del Canal de Panamá: es el primer presidente de EE.UU. en funciones que viaja al exterior."
+      },
+      {
+        "year": "1914",
+        "text": "En Buenos Aires, Luis Agote hace la primera transfusión de sangre con anticoagulante. Por eso hoy es el Día Nacional del Donante Voluntario de Sangre."
+      },
+      {
+        "year": "1917",
+        "text": "Se estrena en Buenos Aires «El Apóstol», de Quirino Cristiani, considerado el primer largometraje animado de la historia. Es el Día de la Animación Argentina."
+      },
+      {
+        "year": "1918",
+        "text": "Se anuncia la abdicación del káiser Guillermo II y se proclama la república en Alemania."
+      },
+      {
+        "year": "1938",
+        "text": "Noche de los Cristales Rotos: pogromo nazi contra comercios, sinagogas y viviendas judías en Alemania y Austria."
+      },
+      {
+        "year": "1953",
+        "text": "Camboya se independiza de Francia, encabezada por el rey Norodom Sihanouk."
+      },
+      {
+        "year": "1967",
+        "text": "La NASA lanza por primera vez el cohete Saturno V, en la misión no tripulada Apolo 4."
+      },
+      {
+        "year": "1985",
+        "text": "Garri Kasparov, con 22 años, le gana a Anatoli Kárpov y se convierte en el campeón mundial de ajedrez más joven hasta ese momento."
+      },
+      {
+        "year": "1989",
+        "text": "Cae el Muro de Berlín después de 28 años: Alemania Oriental abre los pasos fronterizos."
+      }
+    ]
+  }
+}

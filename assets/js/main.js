@@ -18,7 +18,7 @@
       "tl.sub": "Mi trayectoria como una línea de tiempo de edición. Cada clip es una etapa: tocalo para ver el detalle.",
       "tl.today": "HOY", "tl.notes": "Notas de esta etapa", "tl.works": "Trabajos relacionados",
       "tl.prev": "← Anterior", "tl.next": "Siguiente →",
-      "work.title": "Trabajos", "work.sub": "Una selección de proyectos audiovisuales, de redacción y podcast.",
+      "work.title": "Trabajos", "work.sub": "Una selección de proyectos audiovisuales, de redacción y podcasts.",
       "work.all": "Todo", "work.wip": "En proceso",
       "work.open.v": "Ver", "work.open.r": "Leer", "work.open.a": "Escuchar", "work.soon": "Link próximamente",
       "arc.title": "Archivo de notas", "arc.sub": "Todas mis notas, agrupadas por el lugar donde las escribí.",
@@ -36,6 +36,12 @@
       "off.wat.d": "Cuatro meses como Lift Operator en Breckenridge (Vail Resorts), Colorado. Independencia, un entorno multicultural y un trabajo de alta exigencia.",
       "off.rugby.t": "Doce años de rugby",
       "off.rugby.d": "En el San Isidro Club aprendí a liderar, a ser liderado y a jugar en equipo bajo presión.",
+      "off.desp.t": "Las noticias que nadie cuenta",
+      "off.desp.d": "Me encanta descubrir e informarme acerca de historias y acontecimientos que nadie cuenta, que ocurren en lugares no cotidianos o que no son noticia. Por eso creé Despacho Global: un espacio donde, además de las tendencias, lo cotidiano e importante, la IA me recopila noticias fuera de lo común y no escuchadas de cualquier parte del mundo.",
+      "off.desp.link": "Abrir Despacho Global ↗",
+      "off.atlas.t": "Países que el mundo no mira",
+      "off.atlas.d": "Soy un gran apasionado de la historia y Atlas viene a informarme sobre países que conozco poco o directamente no conocía. Descubro su cultura, política, sociedad, economía y su actualidad.",
+      "off.atlas.link": "Abrir Atlas ↗",
       "cr.role": "Audiovisual, redacción y podcast", "cr.cta": "¿Tenés un proyecto? Hagámoslo juntos.",
       "cr.mail": "Mail", "cr.phone": "Teléfono", "cr.cv": "CV", "cr.cvlink": "Descargar PDF", "cr.fin": "Fin",
       "footer.top": "Volver arriba ↑"
@@ -68,6 +74,12 @@
       "off.wat.d": "Four months as a Lift Operator at Breckenridge (Vail Resorts), Colorado. Independence, a multicultural team and a demanding job.",
       "off.rugby.t": "Twelve years of rugby",
       "off.rugby.d": "At San Isidro Club I learned to lead, to be led and to play as a team under pressure.",
+      "off.desp.t": "The news nobody tells",
+      "off.desp.d": "I love discovering and reading about stories and events nobody tells, the ones that happen in unusual places or never make the news. That's why I created Despacho Global: a space where, beyond the trends and the everyday essentials, AI gathers unusual, unheard news from anywhere in the world for me.",
+      "off.desp.link": "Open Despacho Global ↗",
+      "off.atlas.t": "Countries the world overlooks",
+      "off.atlas.d": "I'm a big history buff, and Atlas tells me about countries I barely know or didn't know at all. I discover their culture, politics, society, economy and what's happening there now.",
+      "off.atlas.link": "Open Atlas ↗",
       "cr.role": "Video, writing and podcasts", "cr.cta": "Got a project? Let's make it together.",
       "cr.mail": "Email", "cr.phone": "Phone", "cr.cv": "Résumé", "cr.cvlink": "Download PDF", "cr.fin": "The End",
       "footer.top": "Back to top ↑"
@@ -483,4 +495,16 @@
   runMonitor();
   bindReveal();
   bindTimelineIntro();
+  bindCvDownload();
+
+  /* ---------- CV: dentro de claude.ai los archivos propios no se abren, se usa la copia de Drive ---------- */
+  function bindCvDownload() {
+    const link = document.querySelector('a[href^="assets/cv/"]');
+    if (!link) return;
+    if (location.hostname.endsWith("claudeusercontent.com")) {
+      link.href = "https://drive.google.com/file/d/1MuBinyotXV3XrmHb9RHRxazUSPT8AgR_/view";
+    } else {
+      link.setAttribute("download", "CV_Mateo_Masjuan.pdf");
+    }
+  }
 })();

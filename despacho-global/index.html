@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Despacho Global</title>
+<meta name="description" content="Damos lugar a quienes no son escuchados. Historias y acontecimientos que ocurren en los rincones del mundo, además de la agenda del día y Argentina.">
+<script>
+  // El tema se aplica antes de pintar, para que no parpadee.
+  try{ document.documentElement.dataset.theme = localStorage.getItem('despacho-tema') === 'noche' ? 'noche' : 'dia'; }
+  catch(e){ document.documentElement.dataset.theme = 'dia'; }
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;1,7..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/despacho.css?v=6">
+</head>
+<body data-view="portada">
+
+<a class="skip" href="#contenido">Saltar al contenido</a>
+
+<header class="topbar">
+  <div class="topbar__in">
+    <a class="brand" href="#" aria-label="Despacho Global, portada">
+      <svg class="brand__mark" viewBox="0 0 32 32" aria-hidden="true">
+        <circle cx="16" cy="16" r="14"/>
+        <ellipse cx="16" cy="16" rx="6.5" ry="14"/>
+        <path d="M16 2v28"/>
+      </svg>
+      <span>Despacho Global</span>
+    </a>
+    <p class="edline" id="edline">Cargando edición…</p>
+    <div class="topbar__tools">
+      <select id="archivo" aria-label="Ediciones anteriores" hidden></select>
+      <button class="btn btn--solid" id="refresh" type="button">Actualizar</button>
+      <button class="theme" id="themeToggle" type="button" aria-label="Cambiar a modo noche">
+        <svg class="theme__icon theme__icon--sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.6M12 18.9v2.6M2.5 12h2.6M18.9 12h2.6M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></svg>
+        <svg class="theme__icon theme__icon--moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M19.5 14.6A8 8 0 0 1 9.4 4.5a8 8 0 1 0 10.1 10.1Z"/></svg>
+        <span class="theme__label" id="themeLabel">Noche</span>
+      </button>
+    </div>
+  </div>
+  <div class="progress" id="progress" aria-live="polite">
+    <div class="progress__head"><span id="progressTitle">Redacción trabajando</span><span id="progressTime">0:00</span></div>
+    <ul id="progressList"></ul>
+  </div>
+</header>
+
+<section class="masthead" aria-labelledby="titulo">
+  <h1 class="masthead__title" id="titulo">Despacho Global</h1>
+  <div class="masthead__row">
+    <p class="masthead__tagline"><em>Damos lugar a quienes no son escuchados.</em> Historias y acontecimientos que ocurren en los rincones del mundo.</p>
+    <div class="masthead__side">
+      <p class="masthead__lede" id="editorNote" hidden></p>
+      <p class="masthead__status"><span class="dot" id="statusdot"></span><span id="statustext">Cargando edición…</span></p>
+    </div>
+  </div>
+</section>
+
+<nav class="sections" id="sections" aria-label="Secciones">
+  <div class="sections__in">
+    <a href="#" data-view="portada">Portada</a>
+    <a href="#agenda" data-view="agenda">La agenda</a>
+    <a href="#argentina" data-view="argentina">Argentina</a>
+    <a href="#fuera-del-radar" data-view="radar">Fuera del radar</a>
+    <a href="#breves" data-view="breves" id="navBreves">Breves</a>
+    <a href="#efemerides" data-view="efemerides">Efemérides</a>
+    <a class="sections__atlas" href="../atlas-global/" target="_blank" rel="noopener">Atlas<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a>
+  </div>
+</nav>
+
+<main id="contenido" tabindex="-1">
+
+  <!-- ===== Portada ===== -->
+  <div class="view" data-view="portada">
+    <section class="ticker" id="ticker" aria-label="Indicadores del día"></section>
+
+    <section class="mapband" id="mapband" aria-label="Mapa de las noticias de hoy">
+      <div class="mapband__in">
+        <div class="map" id="map" aria-hidden="true"></div>
+        <div class="mapcard" id="mapcard">
+          <p class="mapcard__count" id="mapcount"></p>
+          <div class="mapcard__story" id="mapstory">
+            <p class="mapcard__hint">Tocá un punto para ver qué pasó ahí, o recorré el mundo historia por historia.</p>
+          </div>
+          <div class="mapnav">
+            <button class="mapnav__btn" id="mapPrev" type="button" aria-label="Historia anterior"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5"/></svg></button>
+            <span class="mapnav__pos" id="mapPos" aria-live="polite"></span>
+            <button class="mapnav__btn mapnav__btn--go" id="mapNext" type="button"><span id="mapNextLabel">Empezar el recorrido</span><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3l5 5-5 5"/></svg></button>
+          </div>
+          <ul class="legend">
+            <li><span class="pin pin--radar"></span>Fuera del radar</li>
+            <li><span class="pin pin--breve"></span>Breves</li>
+            <li><span class="pin pin--agenda"></span>Lo más importante del día</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="front" aria-label="Lo principal de hoy">
+      <div class="front__main">
+        <div class="front__agenda" id="frontAgenda"></div>
+        <aside class="front__arg" aria-labelledby="fa-h">
+          <h2 class="front__label" id="fa-h"><a href="#argentina">Argentina</a></h2>
+          <div id="frontArg"></div>
+          <a class="more" href="#argentina">Todas las notas de Argentina<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>
+        </aside>
+      </div>
+    </section>
+
+    <section class="front-radar" aria-labelledby="fr-h">
+      <div class="front-radar__in">
+        <div class="front-radar__head">
+          <h2 id="fr-h"><a href="#fuera-del-radar">Fuera del radar</a></h2>
+          <p>Historias de cada región que los grandes medios casi no cuentan.</p>
+        </div>
+        <div class="front-radar__grid" id="frontRadar"></div>
+        <a class="more more--on-cobalt" href="#fuera-del-radar" id="frontRadarMore">Ver todas las historias<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>
+      </div>
+    </section>
+
+    <section class="front-foot">
+      <div class="front-foot__col" id="frontBrevesCol">
+        <h2 class="front__label"><a href="#breves">Breves del mundo</a></h2>
+        <ul class="mini" id="frontBreves"></ul>
+        <a class="more" href="#breves">Todas las breves<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>
+      </div>
+      <div class="front-foot__col">
+        <h2 class="front__label"><a href="#efemerides">Un día como hoy</a></h2>
+        <ul class="mini" id="frontEfem"></ul>
+        <a class="more" href="#efemerides">Todas las efemérides<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>
+      </div>
+      <a class="atlas-card" href="../atlas-global/" target="_blank" rel="noopener">
+        <span class="atlas-card__title">Atlas</span>
+        <span class="atlas-card__text">Los países que nadie mira, uno por uno: quién gobierna, de qué viven y qué está pasando ahí.</span>
+        <span class="atlas-card__go">Abrir el Atlas<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg></span>
+      </a>
+    </section>
+  </div>
+
+  <!-- ===== Secciones ===== -->
+  <section class="view block" data-view="agenda" aria-labelledby="h-agenda" hidden>
+    <header class="block__head">
+      <h2 id="h-agenda">La agenda del día</h2>
+      <p>Lo que más pesa en el mundo hoy, de mayor a menor impacto.</p>
+    </header>
+    <ol class="agenda" id="agenda"></ol>
+  </section>
+
+  <section class="view block" data-view="argentina" aria-labelledby="h-argentina" hidden>
+    <header class="block__head">
+      <h2 id="h-argentina">Argentina</h2>
+      <p>Política, economía y sociedad: lo que pasó en el país.</p>
+    </header>
+    <div class="arg" id="argentina"></div>
+  </section>
+
+  <section class="view radar" data-view="radar" aria-labelledby="h-radar" hidden>
+    <div class="radar__in">
+      <header class="radar__head">
+        <h2 id="h-radar">Fuera del radar</h2>
+        <p>Historias de cada región que los grandes medios casi no cuentan, y por qué importan.</p>
+      </header>
+      <div id="radar"></div>
+    </div>
+  </section>
+
+  <section class="view block" data-view="breves" aria-labelledby="h-breves" hidden>
+    <header class="block__head">
+      <h2 id="h-breves">Breves del mundo</h2>
+      <p>Lo curioso, lo nuevo y lo poco conocido, en dos líneas.</p>
+    </header>
+    <ul class="breves" id="breves"></ul>
+  </section>
+
+  <section class="view block" data-view="efemerides" aria-labelledby="h-efem" hidden>
+    <header class="block__head">
+      <h2 id="h-efem">Efemérides</h2>
+      <p>Lo que pasó un <span id="efemDia">día como hoy</span>.</p>
+    </header>
+    <ol class="efem" id="efemerides"></ol>
+  </section>
+
+  <nav class="nextsec" id="nextsec" aria-label="Seguir leyendo" hidden></nav>
+</main>
+
+<footer class="foot">
+  <div class="foot__in">
+    <span>Despacho Global · investigado con Claude y búsqueda web. Cada nota enlaza su fuente.</span>
+    <span>Mateo Masjuan</span>
+  </div>
+</footer>
+
+<script src="assets/vendor/d3-array.min.js"></script>
+<script src="assets/vendor/d3-geo.min.js"></script>
+<script src="assets/vendor/topojson-client.min.js"></script>
+<script src="assets/despacho.js?v=9"></script>
+</body>
+</html>

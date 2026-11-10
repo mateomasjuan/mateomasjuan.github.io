@@ -1,0 +1,62 @@
+[
+  {
+    "fecha": "2026-10-04",
+    "edicion": 1,
+    "archivo": "archivo/2026-10-04.json"
+  },
+  {
+    "fecha": "2026-10-29",
+    "edicion": 2,
+    "archivo": "archivo/2026-10-29.json"
+  },
+  {
+    "fecha": "2026-10-30",
+    "edicion": 4,
+    "archivo": "archivo/2026-10-30.json"
+  },
+  {
+    "fecha": "2026-10-31",
+    "edicion": 5,
+    "archivo": "archivo/2026-10-31.json"
+  },
+  {
+    "fecha": "2026-11-01",
+    "edicion": 6,
+    "archivo": "archivo/2026-11-01.json"
+  },
+  {
+    "fecha": "2026-11-02",
+    "edicion": 7,
+    "archivo": "archivo/2026-11-02.json"
+  },
+  {
+    "fecha": "2026-11-03",
+    "edicion": 8,
+    "archivo": "archivo/2026-11-03.json"
+  },
+  {
+    "fecha": "2026-11-04",
+    "edicion": 9,
+    "archivo": "archivo/2026-11-04.json"
+  },
+  {
+    "fecha": "2026-11-05",
+    "edicion": 10,
+    "archivo": "archivo/2026-11-05.json"
+  },
+  {
+    "fecha": "2026-11-06",
+    "edicion": 12,
+    "archivo": "archivo/2026-11-06.json"
+  },
+  {
+    "fecha": "2026-11-07",
+    "edicion": 14,
+    "archivo": "archivo/2026-11-07.json"
+  },
+  {
+    "fecha": "2026-11-09",
+    "edicion": 17,
+    "archivo": "archivo/2026-11-09.json"
+  }
+]

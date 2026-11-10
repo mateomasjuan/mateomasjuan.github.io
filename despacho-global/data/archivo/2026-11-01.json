@@ -1,0 +1,285 @@
+{
+  "edicion": 6,
+  "fecha": "2026-11-01",
+  "generado": "2026-11-01T09:51:22-03:00",
+  "nota_editor": "Domingo con los mercados cerrados, a dos días de las legislativas en EE.UU. y a una semana de la llegada de León XIV a la Argentina. El Superclásico todavía no se jugó al cierre de esta edición.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.560",
+      "variacion": "+$10 en la semana",
+      "nota": "cierre del 30/10; sin operaciones el fin de semana"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.565",
+      "variacion": "sin cambios en la semana",
+      "nota": "cierre del 30/10"
+    },
+    {
+      "label": "Dólar mayorista",
+      "valor": "$1.534",
+      "variacion": "+0,3% en la semana",
+      "nota": "cierre del 30/10; subió $17 en octubre"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "787",
+      "variacion": "+41",
+      "nota": "cierre del 30/10 según Diario de Cuyo; otras fuentes informan 790, que Diario de Cuyo registra como máximo intradiario"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "92.079",
+      "variacion": "-2,6%",
+      "nota": "30/10, en pesos; Infobae lo ubica por debajo de 92.000 y otra fuente informa -2,7%; -10,1% en la semana"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 p.p. frente a agosto",
+      "nota": "septiembre; 33,4% interanual y 23,6% acumulada"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$117,64",
+      "variacion": "+2,40%",
+      "nota": "cierre del 30/10, contrato de diciembre; dato de una sola fuente"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La PIA apeló los sobreseimientos de Javier y Karina Milei y pidió reabrir la causa $LIBRA",
+      "summary": "La Procuraduría de Investigaciones Administrativas asumió la acción penal en lugar del fiscal Eduardo Taiano, que había pedido los sobreseimientos, y los calificó de prematuros. El escrito se presentó ante el juez subrogante Daniel Rafecas, con una apelación en subsidio para que decida la Cámara Federal si la rechaza. El organismo reclamó examinar comunicaciones y reconstruir la trazabilidad del dinero. La presentación no revoca por sí sola los sobreseimientos dictados por Marcelo Martínez de Giorgi a favor de los Milei y otros nueve imputados.",
+      "source": "Perfil / La Gaceta / MDZ",
+      "time_note": "esta semana",
+      "impact": "alto",
+      "url": "https://www.perfil.com/politica/libra-la-pia-apelo-el-cierre-y-pidio-reabrir-la-investigacion-aF2O58i1eQqw"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Economía congeló hasta marzo la baja de encajes y las medidas para reactivar el consumo",
+      "summary": "El equipo económico postergó hasta marzo la baja de encajes, líneas de crédito e incentivos impositivos pensados para reactivar el consumo, según Perfil. El diario lo atribuye al riesgo inflacionario y a la decisión de Milei de no resignar las metas de inflación, y prevé que octubre rondará el 2%. Dato de una sola fuente.",
+      "source": "Perfil",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://www.perfil.com/actualidad/la-tapa-del-diario-perfil-del-domingo-1-de-noviembre-de-2026-aqxzk2f1NH0O"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "A una semana de la llegada de León XIV, trascienden diferencias entre el Gobierno y el Vaticano por el protocolo",
+      "summary": "El papa llegará el 8 de noviembre desde Montevideo y partirá a Lima el 11, con actos en Palermo, Luján y Córdoba. Según Hoy Día Córdoba, Milei pretende saludarlo dentro del avión y el protocolo vaticano prevé que lo espere en la pista de Aeroparque; Villarruel no fue invitada al encuentro del Palacio Libertad y pidió una audiencia. El sábado, el Presidente inauguró en Neuquén un templo evangélico con capacidad para 4.000 personas. Los detalles de la tensión son de una sola fuente.",
+      "source": "Hoy Día Córdoba / Infobae / Cadena 3",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://hoydia.com.ar/politica/nacional/tension-entre-milei-y-el-vaticano-por-un-requisito-en-la-visita-del-papa-leon-xiv-a-la-argentina/"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "Grossi quedó segundo en la séptima votación por la secretaría general de la ONU, con su mejor marca",
+      "summary": "Según filtraciones de la votación indicativa y secreta del Consejo de Seguridad, Rebeca Grynspan obtuvo 11 apoyos y 4 rechazos, y Rafael Grossi 9 apoyos, 4 rechazos y 2 sin opinión. Carolyn Rodrigues-Birkett sumó 8 apoyos, 6 rechazos y 1 sin opinión. Un candidato necesita al menos 9 votos y ningún veto de los cinco miembros permanentes; la ronda no reveló vetos y todavía no hay recomendación.",
+      "source": "La Nación / Noticias Argentinas / El Tribuno",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "url": "https://www.lanacion.com.ar/estados-unidos/que-revelo-la-septima-votacion-por-la-onu-y-como-quedo-posicionado-el-argentino-rafael-grossi-nid30102026/"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Boca recibe a River en la Bombonera con la clasificación a playoffs en juego para el visitante",
+      "summary": "El Superclásico se juega hoy a las 15 por la fecha 15 del Torneo Clausura. Boca ya aseguró su lugar en los playoffs y River necesita ganar para acercarse a esa instancia. Arbitra Nicolás Ramírez, con Silvio Trucco en el VAR; transmiten ESPN Premium y TNT Sports.",
+      "source": "La Nación / MDZ",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-se-juega-el-superclasico-hoy-nid01112026/"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Rama",
+      "country": "Etiopía",
+      "headline": "Ataques con drones dejan al menos 25 civiles muertos en el norte de Etiopía",
+      "summary": "AFP informó al menos 25 civiles muertos desde el jueves en ataques con drones en regiones del norte. En Rama, Tigray, un dron alcanzó un camión con sorgo y otro ataque golpeó el viernes a quienes juntaban el grano derramado: autoridades locales y fuentes hospitalarias hablan de al menos 12 muertos, y testigos citados por la BBC, de 12 a 15. Otro ataque alcanzó un campo de desplazados en Amhara.",
+      "source": "AFP vía Arab News / Addis Standard",
+      "url": "https://www.arabnews.pk/world/drone-strikes-in-ethiopia-kill-at-least-25-3005663"
+    },
+    {
+      "region": "Asia",
+      "city": "Taipéi",
+      "country": "Taiwán",
+      "headline": "Taiwán acusa a China de hostigar la navegación con una patrulla frente a su costa este",
+      "summary": "La Guardia Costera taiwanesa informó que dos buques chinos patrullaron el 31 de octubre frente a la costa este y envió barcos propios a seguirlos. Taipéi rechaza la jurisdicción que Pekín pretende ejercer en esas aguas. Otro buque de la guardia costera china se acercó el mismo día a las islas Pratas.",
+      "source": "Reuters vía Deccan Herald",
+      "url": "https://www.deccanherald.com/world/china/taiwan-says-china-harassing-shipping-with-east-coast-patrol-4203037"
+    },
+    {
+      "region": "Europa",
+      "city": "Oleshky",
+      "country": "Ucrania",
+      "headline": "Evacuados de Oleshky llegan a Ucrania durante una tregua local negociada por EE.UU.",
+      "summary": "Los residentes de la ciudad ocupada por Rusia cruzaron el sábado a territorio ucraniano tras viajar por Rusia y Bielorrusia. La tregua, en cuya gestión intervino Melania Trump, debía durar hasta la noche del domingo; el convoy podía trasladar a más de 750 de los cerca de 2.000 habitantes que quedaban. Kiev y Moscú no precisaron cuántos se fueron, y los combates siguieron en otras zonas.",
+      "source": "CBS News / Al Jazeera",
+      "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-arrive-ukraine-temporary-us-brokered-ceasefire/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Manama",
+      "country": "Baréin",
+      "headline": "Países árabes reclaman a Irán una respuesta recíproca en el Diálogo de Manama",
+      "summary": "En el foro del IISS, el secretario general del Consejo de Cooperación del Golfo, Jasem Al Budaiwi, pidió a Teherán reciprocidad para retomar las negociaciones y que la navegación por Ormuz vuelva a las condiciones previas al 28 de febrero, cuando empezó la guerra. El canciller egipcio, Badr Abdelatty, advirtió que una segunda ronda de guerra sería peor. Dato de una sola fuente.",
+      "source": "Iran International",
+      "url": "https://iranintl.com/en/202610310782"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "San Francisco",
+      "country": "Estados Unidos",
+      "headline": "Una jueza prohíbe al gobierno de Trump amenazar a trabajadores electorales antes de las legislativas",
+      "summary": "Trina Thompson dictó el viernes una orden temporal, vigente hasta el 16 de noviembre, que impide al Departamento de Justicia y a Seguridad Nacional presionar a funcionarios para quitar votantes de los padrones o apartar sus boletas. También prohíbe amenazar con procesos penales a quienes cuenten votos conforme a la ley. La jueza consideró probable una violación de la Ley de Derecho al Voto; las fuentes difieren sobre si el alcance es nacional.",
+      "source": "San Francisco Chronicle / Fox News / Axios",
+      "url": "https://www.sfchronicle.com/bayarea/article/judge-ruling-doj-threats-ballots-22503688.php"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "headline": "Trump dice que Flávio Bolsonaro puede quedarse en EE.UU. \"el tiempo que quiera\"",
+      "summary": "El excandidato llegó a Miami esta semana con su familia, tras perder el balotaje del 25 de octubre ante Lula por 48,21% a 51,79% y pese a una orden judicial que le prohibía salir de Brasil. Flávio alegó fraude sin presentar pruebas, aunque su partido reconoció el resultado. La frase de Trump es dato de una sola fuente.",
+      "source": "MDZ / CNN / El Tiempo",
+      "url": "https://www.mdzol.com/mundo/2026/11/1/trump-asegura-que-flavio-bolsonaro-puede-permanecer-el-tiempo-que-quiera-en-eeuu-1992235.html"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Wellington",
+      "country": "Nueva Zelanda",
+      "headline": "Empieza la temporada de ciclones en el Pacífico Sur",
+      "summary": "La temporada comienza oficialmente hoy, 1 de noviembre, y se extenderá hasta fines de abril de 2027, informó RNZ Pacific el 30 de octubre. La emisora activó su servicio de seguimiento Cyclone Watch para la región. Dato de una sola fuente.",
+      "source": "RNZ Pacific",
+      "url": "https://www.rnz.co.nz/news/pacific"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Estrecho de Ormuz",
+      "country": "Irán",
+      "headline": "Irán denuncia tres petroleros incendiados en Ormuz y EE.UU. niega que haya minas en las rutas principales",
+      "summary": "La Armada de la Guardia Revolucionaria informó el viernes que tres petroleros se incendiaron en rutas que considera no autorizadas y que uno, con 2 millones de barriles, chocó con una mina. El ejército estadounidense sostiene que las rutas principales están despejadas. Una delegación de Qatar está en Teherán para continuar la mediación; el Brent cerró en US$117,64 según una sola fuente.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Euronews / Arab News / The Herald Business",
+      "time_note": "esta semana",
+      "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu"
+    },
+    {
+      "city": "Kinshasa",
+      "country": "República Democrática del Congo",
+      "headline": "Las muertes por ébola en RD Congo superan las 5.000",
+      "summary": "Datos oficiales difundidos el viernes registran 5.026 muertos y 10.351 infectados desde mayo, en 8 de las 26 provincias. Es el segundo mayor brote registrado y lo causa la cepa Bundibugyo, sin vacunas ni tratamientos aprobados. Kenia, Uganda y Nigeria también informaron casos.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "Al Jazeera / Reuters",
+      "time_note": "ayer",
+      "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "El FBI atribuye a Corea del Norte el robo récord de US$6.300 millones a Binance",
+      "summary": "El FBI responsabilizó a actores norcoreanos del ataque cometido alrededor del 29 de octubre y anticipó más lavado mediante servicios DeFi y de intercambio instantáneo. Binance dice haber repuesto cerca del 90% con fondos propios y reanudó los retiros por etapas. NPR informó que se congelaron unos US$3.000 millones de lo robado.",
+      "category": "tecnología",
+      "impact": "alto",
+      "source": "Al Jazeera / NBC News / NPR",
+      "time_note": "hoy",
+      "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist"
+    },
+    {
+      "city": "Juneau",
+      "country": "Estados Unidos",
+      "headline": "La pelea judicial por el voto en Alaska tensa la recta final de las legislativas del 3 de noviembre",
+      "summary": "El Departamento de Justicia pidió a un tribunal federal apartar boletas de la disputa por el Senado entre Dan Sullivan y Mary Peltola, y frenar la certificación si pierde Sullivan. Las autoridades de Alaska solicitaron rechazar la demanda. HNGN señala que la orden de la jueza Thompson no alcanza directamente a ese estado; ese punto es de una sola fuente.",
+      "category": "política",
+      "impact": "alto",
+      "source": "HNGN / CNBC / The Hill",
+      "time_note": "esta semana",
+      "url": "https://www.hngn.com/articles/273659/20261031/judge-bars-doj-election-threats-alaska-probe-goes-public.htm"
+    },
+    {
+      "city": "Kiev",
+      "country": "Ucrania",
+      "headline": "Ataques rusos con drones dejan sin luz a unos 280.000 hogares ucranianos",
+      "summary": "Zelenski informó que los ataques nocturnos golpearon infraestructura energética y ferroviaria, sobre todo en las regiones de Dnipró y Kiev. Más de 200.000 hogares quedaron sin suministro en Dnipró y otros 80.000 en Kiev. La Comisión Europea propuso además 45.000 millones de euros adicionales para Ucrania en 2027.",
+      "category": "conflicto",
+      "impact": "medio",
+      "source": "The Rio Times / Yahoo News",
+      "time_note": "ayer",
+      "url": "https://www.riotimesonline.com/europe-intelligence-brief-saturday-october-31-2026"
+    },
+    {
+      "city": "Taipéi",
+      "country": "Taiwán",
+      "headline": "Taipéi cree que Pekín ensaya un bloqueo marítimo con sus patrullas al este de la isla",
+      "summary": "Las patrullas de la guardia costera china frente a la costa este son regulares desde junio, según la cobertura de Reuters. Funcionarios taiwaneses creen que Pekín ensaya un posible bloqueo y consideran esas aguas vitales para las rutas de suministro desde países aliados en caso de guerra.",
+      "category": "conflicto",
+      "impact": "medio",
+      "source": "Reuters vía WHBL",
+      "time_note": "ayer",
+      "url": "https://whbl.com/2026/10/31/taiwan-says-china-harassing-shipping-with-east-coast-patrol/"
+    }
+  ],
+  "efemerides": {
+    "dia": "1 de noviembre",
+    "items": [
+      {
+        "year": "1512",
+        "text": "Se exhibe por primera vez al público el techo de la Capilla Sixtina, pintado por Miguel Ángel."
+      },
+      {
+        "year": "1755",
+        "text": "Un terremoto seguido de tsunami e incendios destruye gran parte de Lisboa."
+      },
+      {
+        "year": "1786",
+        "text": "Nace en Buenos Aires Mariquita Sánchez de Thompson, figura de la independencia y de la vida cultural rioplatense."
+      },
+      {
+        "year": "1837",
+        "text": "Nace en Buenos Aires Luis Augusto Huergo, primer ingeniero egresado en la Argentina."
+      },
+      {
+        "year": "1878",
+        "text": "Nace Carlos Saavedra Lamas, jurista argentino y Premio Nobel de la Paz en 1936."
+      },
+      {
+        "year": "1907",
+        "text": "Nace Homero Manzi, poeta, letrista de tango y guionista de cine."
+      },
+      {
+        "year": "1936",
+        "text": "Mussolini proclama el Eje Roma-Berlín."
+      },
+      {
+        "year": "1952",
+        "text": "Estados Unidos detona en el atolón de Enewetak Ivy Mike, la primera bomba de hidrógeno."
+      },
+      {
+        "year": "1954",
+        "text": "El Frente de Liberación Nacional inicia la guerra de independencia de Argelia."
+      },
+      {
+        "year": "1993",
+        "text": "Entra en vigor el Tratado de Maastricht y nace formalmente la Unión Europea."
+      }
+    ]
+  }
+}

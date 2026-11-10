@@ -1,0 +1,281 @@
+{
+  "edicion": 2,
+  "fecha": "2026-10-29",
+  "generado": "2026-10-29T12:42:04-03:00",
+  "nota_editor": "Jornada dominada por el impacto regional de la fuga de Flávio Bolsonaro vía Argentina, el empate electoral en Israel y una tragedia ferroviaria en España; el paro docente nacional marca la agenda local.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.560",
+      "variacion": "",
+      "nota": "cierre del 28/10; compra $1.510 (Ámbito)"
+    },
+    {
+      "label": "Dólar blue (venta)",
+      "valor": "$1.565",
+      "variacion": "",
+      "nota": "cierre del 28/10; las fuentes no coinciden en la variación diaria"
+    },
+    {
+      "label": "Dólar MEP",
+      "valor": "$1.567,50",
+      "variacion": "",
+      "nota": "cierre del 28/10; brecha de 1,7% con el oficial (Ámbito)"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "763",
+      "variacion": "+16 (+1,3%)",
+      "nota": "cierre del 28/10, índice J.P. Morgan; el lunes tocó 775"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "95.552",
+      "variacion": "-1,2%",
+      "nota": "cierre del 28/10; otras mediciones dan -1,8%"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 pp vs. agosto",
+      "nota": "dato de septiembre, publicado el 13/10; 33,4% interanual"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$116,25",
+      "variacion": "+1,12",
+      "nota": "28/10, 7 h de Nueva York (Fortune); según la fuente y el horario, entre US$111 y US$116"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La salida de Flávio Bolsonaro por Argentina abre un frente con Lula y la oposición pide explicaciones",
+      "summary": "El senador brasileño, derrotado por Lula en el balotaje, entró por Misiones con su familia y voló a Estados Unidos vía Guayaquil, pese a que el juez del Supremo Alexandre de Moraes le había prohibido salir de Brasil. El jefe de Gabinete, Diego Santilli, sostuvo que tenía la documentación en regla y no tenía alertas de Interpol. Diputados de varios bloques opositores pidieron que Santilli, Alejandra Monteoliva y Pablo Quirno den explicaciones en la Cámara baja y que el Gobierno reconozca el triunfo de Lula. Ya en Miami, Trump evitó respaldarlo.",
+      "source": "CNN en Español / A24 / Noticias Argentinas",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://cnnespanol.cnn.com/2026/10/27/latinoamerica/brasil-policia-busca-senador-flavio-bolsonaro-orix"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Corrientes",
+      "country": "Argentina",
+      "headline": "Paro docente nacional y jornada de duelo por el femicidio de la maestra rural Nancy Godoy",
+      "summary": "CTERA, UDA, AMET, SADOP y CEA llamaron a un paro nacional este jueves tras el hallazgo del cuerpo de Nancy Estela Godoy, de 52 años y directora suplente de la Escuela N.º 626 de El Malezal (Esquina). Había desaparecido el 7 de octubre. Hay cinco detenidos y la causa se investiga como femicidio. Adhieren SUTECO, AGMER y UEPC, y los gremios se movilizan a la Casa de Corrientes en Buenos Aires.",
+      "source": "Infobae / elDiarioAR / Cadena 3",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://www.infobae.com/politica/2026/10/29/nos-falta-una-maestra-los-sindicatos-docentes-se-movilizan-hoy-a-la-casa-de-corrientes-en-el-centro-porteno/"
+    },
+    {
+      "tag": "Política",
+      "city": "Rosario",
+      "country": "Argentina",
+      "headline": "Destituyen por mal desempeño al juez federal de Rosario Gastón Salmain",
+      "summary": "El Jurado de Enjuiciamiento removió al titular del Juzgado Federal N.º 1 de Rosario. Según el fallo, ocultó su cesantía como empleado judicial en 2002 en los 33 concursos a los que se presentó. Hacían falta cinco de los siete votos. Al perder los fueros, podría avanzar la prisión preventiva domiciliaria en la causa penal por cohecho pasivo agravado y prevaricato.",
+      "source": "La Nación / Cadena 3 / Noticias Argentinas",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.lanacion.com.ar/politica/destituyeron-al-juez-federal-de-rosario-gaston-salmain-por-mal-desempeno-nid29102026/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Senado debate la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
+      "summary": "La sesión, convocada para las 14, también incluye el régimen de incentivos para inversiones relevantes (RIIR) y el mercado voluntario de carbono. La salud mental está en tercer lugar del temario. La reforma permitiría internaciones involuntarias y sumaría adicciones como la ludopatía. Tiene dictamen de mayoría del PRO, la UCR y el Movimiento Misionero, pero llega sin acuerdo con Convicción Federal, que presentó un texto propio.",
+      "source": "Parlamentario / Canal 26",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.parlamentario.com/2026/10/28/el-senado-va-al-recinto-con-la-reforma-en-salud-mental-y-se-prepara-para-recibir-a-santilli/"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Noviembre llega con subas en transporte, prepagas, alquileres, colegios, gas y agua",
+      "summary": "Colectivos y subte del AMBA aumentan 3,9% desde el 1 de noviembre, con la fórmula de inflación de septiembre (1,9%) más dos puntos. El boleto mínimo en la Ciudad pasa a $956,69. En IOMA, la cuota voluntaria sube de $108.504 a $113.900. Dato de una sola fuente.",
+      "source": "Página/12",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://www.pagina12.com.ar/2026/10/28/el-transporte-al-tope-de-las-subas/"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Kinshasa",
+      "country": "República Democrática del Congo",
+      "headline": "El brote de ébola supera los 10.000 casos y se acerca a las 5.000 muertes",
+      "summary": "Según el Ministerio de Salud congoleño, hay 10.060 contagios y 4.887 muertes desde que se detectó el brote del virus Bundibugyo en mayo. Para esta cepa no hay vacuna ni tratamiento aprobados. Kenia confirmó nueve casos, con dos muertes, y Nigeria reportó su primer caso el 20 de octubre. Más de 2.600 personas se recuperaron.",
+      "source": "NPR / Africanews / AP",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine"
+    },
+    {
+      "region": "Asia",
+      "city": "Visakhapatnam",
+      "country": "India",
+      "headline": "El ciclón Arnab toca tierra en Andhra Pradesh: al menos tres muertos y 180.000 evacuados",
+      "summary": "La tormenta entró por la costa cerca de Narsapur con vientos de hasta 140 km/h. El organismo nacional de emergencias (NDRF) confirmó tres muertes por electrocución; el gobierno del estado habla de cinco. Más de 180.000 personas fueron evacuadas en Andhra Pradesh y Odisha, y hay unas 70.900 hectáreas de cultivos dañadas.",
+      "source": "Outlook India / Anadolu / NBC News",
+      "url": "https://www.outlookindia.com/national/cyclone-arnab-kills-three-in-andhra-pradesh-as-55000-evacuated-after-landfall"
+    },
+    {
+      "region": "Europa",
+      "city": "Toledo",
+      "country": "España",
+      "headline": "Choque de trenes de alta velocidad cerca de Toledo deja al menos 68 muertos",
+      "summary": "Dos trenes chocaron en la provincia de Toledo y el gobierno de Castilla-La Mancha confirmó al menos 68 muertos y 58 hospitalizados. El ministro de Transportes atribuyó el choque a una falla del sistema de control: un tren volvió a arrancar, recorrió 25 km y embistió a otro que estaba detenido. Pedro Sánchez decretó tres días de luto. Entre las víctimas hay una argentina y otro argentino está desaparecido.",
+      "source": "CNBC / ABC News / Infobae",
+      "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Jerusalén",
+      "country": "Israel",
+      "headline": "Elecciones en Israel sin ganador: el bloque de Netanyahu suma 53 bancas y el de Eisenkot, 48",
+      "summary": "Con el 90% de los votos contados, ningún bloque llega a las 61 bancas que hacen falta en la Knesset. El Likud es el partido más votado, con 26 escaños, seguido por Yashar, de Gadi Eisenkot, con 21. Los partidos árabes subieron a 19 bancas. El resultado final se espera para este jueves.",
+      "source": "The Times of Israel / Ynet / NPR",
+      "url": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "A seis días de las legislativas, los demócratas sacan ocho puntos de ventaja en las encuestas",
+      "summary": "El promedio de RealClearPolling da 51,4% a los demócratas y 43,2% a los republicanos, y Reuters/Ipsos los ubica 47% a 36%. La aprobación de Trump ronda el 37%. Las elecciones del 3 de noviembre definen la Cámara de Representantes y parte del Senado. Trump hizo campaña en Texas y Ohio, y Obama y Harris recorrieron Georgia.",
+      "source": "Al Jazeera / Marist / PBS",
+      "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Puerto Príncipe",
+      "country": "Haití",
+      "headline": "Bukele despliega más tropas en Haití para buscar a cuatro militares salvadoreños desaparecidos",
+      "summary": "Los cuatro técnicos de la Fuerza de Supresión de Pandillas están desaparecidos desde el 18 de octubre, cuando una banda atacó su vehículo blindado cerca de la capital. El 27 de octubre llegó un nuevo contingente de 690 soldados y ya hay unos 1.300 desplegados; la Cancillería habla de más de 2.000. Bukele amenazó con una ofensiva mayor si no los devuelven con vida.",
+      "source": "Infobae / El Tiempo / El Diario de Hoy",
+      "url": "https://www.infobae.com/el-salvador/2026/10/27/el-ultimatum-de-bukele-y-el-riesgo-armado-5-puntos-claves-sobre-los-militares-salvadorenos-en-haiti/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Wellington",
+      "country": "Nueva Zelanda",
+      "headline": "El Partido Nacional cae por debajo del 30% a nueve días de las elecciones en Nueva Zelanda",
+      "summary": "La encuesta 1News-Verian, hecha entre el 21 y el 25 de octubre, da 29% al Partido Nacional (3 puntos menos), 27% al Laborismo, 15% a los Verdes, 12% a ACT, 10% a NZ First y 6% a Opportunity, que quedaría con la llave del gobierno. Otra encuesta, RNZ-Reid Research, pone al Laborismo adelante con 30,6%. Se vota el 7 de noviembre.",
+      "source": "interest.co.nz / RNZ / NZ Herald",
+      "url": "https://www.interest.co.nz/public-policy/140846/national-drops-29-support-latest-1news-verian-poll-still-ahead-labours-27"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Teherán",
+      "country": "Irán",
+      "headline": "Irán dice que mantiene contacto con mediadores sobre su plan de siete días para terminar la guerra y reabrir Ormuz",
+      "summary": "El canciller Abbas Araghchi dijo que Teherán sigue en contacto con intermediarios sobre su plan de siete días, que condiciona la reapertura del estrecho de Ormuz a un alto el fuego regional. Irán rechazó un nuevo borrador presentado por Qatar el domingo y también pide que se descongelen sus activos y se levante el bloqueo naval. Según Axios, los mediadores buscan evitar que la guerra se reanude después de las legislativas en EE.UU. El Brent sigue por encima de US$110.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al Arabiya / Asharq Al-Awsat / Al Jazeera",
+      "time_note": "ayer",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/10/28/iran-in-contact-with-mediators-over-sevenday-peace-plan-araghchi-says"
+    },
+    {
+      "city": "Jerusalén",
+      "country": "Israel",
+      "headline": "Israel se encamina a semanas de negociaciones, o a nuevas elecciones, tras el empate entre Netanyahu y Eisenkot",
+      "summary": "Sin mayoría para ninguno de los dos bloques, Eisenkot necesitaría el apoyo de los partidos árabes, que lograron 19 bancas, algo que los partidos judíos evitan históricamente. Si nadie arma gobierno, el país podría volver a votar unos tres meses después de disolver el Parlamento. La participación fue récord.",
+      "category": "política",
+      "impact": "alto",
+      "source": "CNN / NPR / EFE",
+      "time_note": "hoy",
+      "url": "https://www.cnn.com/2026/10/28/world/live-news/israel-election-result-live-latest-netanyahu-eisenkot-intl"
+    },
+    {
+      "city": "Kinshasa",
+      "country": "República Democrática del Congo",
+      "headline": "El ébola se expande en África y la OMS advierte que contenerlo será «complejo»",
+      "summary": "Con más de 10.000 casos, ya hay contagios en Kenia, Nigeria, Uganda y Francia, aunque en los dos últimos no quedan casos activos. La letalidad ronda el 48% y no hay vacuna para la cepa Bundibugyo. Los ministros de Salud africanos tenían previsto reunirse en una cumbre virtual para coordinar la respuesta.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "CBC / Africanews / AP",
+      "time_note": "ayer",
+      "url": "https://www.cbc.ca/news/health/ebola-outbreak-10000-cases-9.7397981"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Los demócratas llegan como favoritos a recuperar la Cámara de Representantes, con Trump en mínimos de aprobación",
+      "summary": "La última encuesta de PBS/NPR/Marist da a los demócratas 52% contra 44% entre los votantes probables. El pronóstico de Silver Bulletin los mantiene como claros favoritos en la Cámara. Según el New York Times, desde 1946 solo Harry Truman llegó a unas legislativas con menor aprobación que Trump. En Texas, Talarico y Paxton están prácticamente empatados por la banca del Senado.",
+      "category": "política",
+      "impact": "alto",
+      "source": "PBS / Marist / Al Jazeera",
+      "time_note": "esta semana",
+      "url": "https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout"
+    },
+    {
+      "city": "Toledo",
+      "country": "España",
+      "headline": "Investigan una orden «inexplicable» como causa del choque de trenes que dejó al menos 69 muertos en España",
+      "summary": "Es el segundo gran accidente de alta velocidad en España en diez meses, después del de Adamuz en enero. Según las autoridades, a uno de los trenes se le permitió volver a arrancar y recorrió 25 km antes de chocar a toda velocidad contra otro detenido. La cifra de muertos podría subir: hay 15 heridos en estado crítico.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "ABC News / CBC",
+      "time_note": "ayer",
+      "url": "https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323"
+    },
+    {
+      "city": "Miami",
+      "country": "Estados Unidos",
+      "headline": "Flávio Bolsonaro se proclama «líder» de Brasil desde EE.UU. y Trump se desmarca",
+      "summary": "Tras perder con Lula, el senador salió de Brasil pese a la prohibición judicial; lo investigan por lavado de dinero. Desde Estados Unidos difundió cartas en las que se presentó primero como «presidente» y después como «líder» de Brasil, y cuestionó al STF y al TSE. Trump respondió: «No voy a involucrarme». La familia Bolsonaro enfrenta procesos por golpismo, lavado y organización criminal.",
+      "category": "política",
+      "impact": "medio",
+      "source": "BAE Negocios / Perfil / Courthouse News",
+      "time_note": "hoy",
+      "url": "https://www.baenegocios.com/mundo/trump-se-despego-de-flavio-bolsonaro-tras-su-llegada-a-estados-unidos-no-voy-a-involucrarme/"
+    }
+  ],
+  "efemerides": {
+    "dia": "29 de octubre",
+    "items": [
+      {
+        "year": "1911",
+        "text": "Muere en Charleston (EE.UU.) Joseph Pulitzer, editor de origen húngaro cuyo legado da nombre a los premios de periodismo más prestigiosos de EE.UU."
+      },
+      {
+        "year": "1923",
+        "text": "Mustafa Kemal Atatürk proclama la República de Turquía, sobre las ruinas del Imperio otomano."
+      },
+      {
+        "year": "1929",
+        "text": "«Martes Negro» en Wall Street: el derrumbe de la bolsa de Nueva York inicia la Gran Depresión."
+      },
+      {
+        "year": "1956",
+        "text": "Israel invade la península del Sinaí y empieza la crisis de Suez."
+      },
+      {
+        "year": "1969",
+        "text": "Se funda la Base Marambio, en la Antártida Argentina, clave para conectar por aire el continente blanco."
+      },
+      {
+        "year": "1969",
+        "text": "Se envía el primer mensaje por ARPANET, entre UCLA y Stanford, antecedente directo de Internet."
+      },
+      {
+        "year": "1986",
+        "text": "River Plate vence 1-0 a América de Cali en el Monumental y gana su primera Copa Libertadores."
+      },
+      {
+        "year": "1998",
+        "text": "John Glenn, de 77 años, vuelve al espacio a bordo del transbordador Discovery y se convierte en la persona de más edad en viajar al espacio hasta ese momento."
+      },
+      {
+        "year": "2012",
+        "text": "El huracán Sandy toca tierra en Nueva Jersey y causa inundaciones históricas en Nueva York y la costa este de EE.UU."
+      }
+    ]
+  }
+}

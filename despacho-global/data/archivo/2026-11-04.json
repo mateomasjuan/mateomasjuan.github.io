@@ -1,0 +1,281 @@
+{
+  "edicion": 9,
+  "fecha": "2026-11-04",
+  "generado": "2026-11-04T08:22:27-03:00",
+  "nota_editor": "Día marcado por el triunfo demócrata en las elecciones de medio término de EE.UU., que les da el control de ambas cámaras: los futuros de Wall Street suben mientras el riesgo país argentino quedó en su máximo en un año.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "+$5",
+      "nota": "cierre del 3/11; mayorista en $1.551 (+0,36%), primera vez sobre $1.550"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.570",
+      "variacion": "en alza",
+      "nota": "cierre del 3/11 según Infobae; Ámbito informó $1.565"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "831",
+      "variacion": "+30",
+      "nota": "cierre del 3/11; máximo desde el 24/10/2025"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "90.405",
+      "variacion": "+1,5%",
+      "nota": "cierre del 3/11 en pesos, tras seis bajas seguidas"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 pp",
+      "nota": "septiembre 2026; 33,4% interanual, 23,6% acumulado"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$103,60",
+      "variacion": "-1,12%",
+      "nota": "cierre del 3/11, segunda baja seguida por expectativas de acuerdo entre EE.UU. e Irán"
+    },
+    {
+      "label": "Reservas BCRA",
+      "valor": "US$50.293 M",
+      "variacion": "-US$148 M",
+      "nota": "3/11; el Central no intervino en el mercado"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Gobierno retira entero el proyecto de Competitividad Financiera tras la polémica por gravar los CEDEARs",
+      "summary": "Casa Rosada y el bloque libertario en Diputados confirmaron que se retira la Ley de Competitividad Financiera, de 240 artículos, que el Ejecutivo había enviado el lunes. La polémica fue por un artículo que hacía pagar Ganancias a los CEDEARs comprados desde el 31 de octubre de 2026, con una alícuota que podría llegar al 15%. Felipe Núñez, asesor de Luis Caputo, dijo que el artículo \"quedó de un borrador viejo\". Antes de volver al Congreso, cada artículo se va a revisar.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "alto",
+      "url": "https://www.infobae.com/politica/2026/11/04/tras-la-polemica-por-los-cedears-el-gobierno-retirara-por-completo-el-proyecto-de-ley-de-competitividad-financiera/"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Caputo anunció que ARCA suspende los embargos a pymes hasta mayo de 2027",
+      "summary": "En la 32ª Conferencia Industrial de la UIA, el ministro de Economía suspendió los embargos de ARCA a pymes hasta mayo de 2027 y amplió el plan de 18 cuotas a las deudas vencidas hasta el 31 de octubre de 2026. Las pymes también podrán usar el 100% de sus saldos a favor por exportaciones para cancelar deudas aduaneras, y el Banco Nación ofrecerá créditos a tasa fija cercana al 25%. Todavía falta definir qué contribuyentes alcanza la medida y qué pasa con las cautelares vigentes.",
+      "source": "Radio Continental / El Intransigente",
+      "time_note": "ayer",
+      "impact": "alto",
+      "url": "http://www.continental.com.ar/2026-11-03/caputo-anuncio-cuatro-medidas-de-alivio-para-las-pymes-se-suspenden-los-embargos-de-arca-hasta-mayo-de-2027-152820/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Por la visita de León XIV, el Gobierno autorizó derribar aeronaves hostiles como último recurso",
+      "summary": "El Decreto 1334/2026 amplía de forma temporal las Reglas de Protección Aeroespacial en las zonas TMA Baires y TMA Córdoba durante la visita papal, del 8 al 11 de noviembre, con actos en CABA, Córdoba y Luján. Habilita el uso de la fuerza contra aeronaves declaradas hostiles, con aprobación del ministro de Defensa, Carlos Presti. También prevé interceptar vuelos civiles y desviarlos.",
+      "source": "Infobae / Boletín Oficial",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.infobae.com/politica/2026/11/04/por-la-visita-del-papa-el-gobierno-amplio-el-control-aereo-y-autorizo-el-uso-de-la-fuerza-ante-un-acto-hostil/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Crece la tensión entre la Casa Rosada y Patricia Bullrich: \"Empezamos a perder la paciencia\"",
+      "summary": "La senadora se atribuyó la iniciativa de las medidas para pymes que anunció Caputo el martes y volvió a pedir alivio \"antes de que sea tarde\". Una fuente oficial dijo que se llegó a un umbral de tolerancia, y en el Gobierno creen que Bullrich busca encabezar listas en 2027. El episodio se suma a la disputa por la conducción del bloque libertario en el Senado. Dato de una sola fuente.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://www.infobae.com/politica/2026/11/04/el-gobierno-admite-que-se-agota-la-paciencia-con-patricia-bullrich-y-advierten-es-momento-de-frenar/"
+    },
+    {
+      "tag": "Política",
+      "city": "La Plata",
+      "country": "Argentina",
+      "headline": "Kicillof y Máximo Kirchner pactaron la interna antes del consejo del PJ bonaerense",
+      "summary": "El gobernador y el diputado se reunieron el martes en La Plata junto a Verónica Magario, Mariano Cascallares, Facundo Tignanelli y Federico Otermín. Acordaron que Máximo Kirchner presidirá el congreso del PJ bonaerense y que Leonardo Nardini seguirá al frente de la junta electoral. El consejo partidario se reúne hoy a las 17 y el congreso podría hacerse el 14 de noviembre. Dato de una sola fuente.",
+      "source": "Infobae",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.infobae.com/politica/2026/11/04/inesperada-reunion-entre-maximo-kirchner-y-kicillof-para-firmar-la-paz-en-la-previa-del-encuentro-del-pj-bonaerense/"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Johannesburgo",
+      "country": "Sudáfrica",
+      "headline": "Sudáfrica vota hoy en elecciones municipales con más de 29 millones de empadronados",
+      "summary": "Los centros de votación abren de 7 a 21 en un día declarado feriado, y se eligen 10.526 bancas de concejo. La comisión electoral (IEC) recibió 142.072 candidaturas, cerca de 43% más que en 2021. Se esperan concejos sin mayoría, con Johannesburgo como distrito clave para las coaliciones. Durante la campaña hubo 20 asesinatos y siete detenidos.",
+      "source": "SAnews / Rio Times",
+      "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-november-3-2026/"
+    },
+    {
+      "region": "Asia",
+      "city": "Solukhumbu",
+      "country": "Nepal",
+      "headline": "Dos helicópteros chocaron al aterrizar en la zona del Everest: un muerto y un herido",
+      "summary": "Dos helicópteros chocaron el 3 de noviembre mientras intentaban aterrizar en la región del Everest, en el distrito de Solukhumbu. Murió un ciudadano indio y resultó herido un neozelandés. Las autoridades locales ubicaron el choque en la zona del campamento base, aunque una foto de la nota lo sitúa en Pheriche. Cónsules de Nueva Zelanda en Katmandú y Nueva Delhi asisten al herido.",
+      "source": "RNZ / Reuters",
+      "url": "https://www.rnz.co.nz/news/world/2328352/officials-helping-new-zealander-injured-in-nepal-helicopter-crash-mfat-says"
+    },
+    {
+      "region": "Europa",
+      "city": "Berlín",
+      "country": "Alemania",
+      "headline": "Zelensky, junto a Merz, pidió a Europa 70.000 millones de euros para 2027",
+      "summary": "En Berlín, el presidente ucraniano dijo que está dispuesto a estudiar la propuesta de EE.UU. de una zona desmilitarizada a ambos lados del frente. Anunció que llevará las garantías de seguridad a la ronda de Abu Dabi y dejará los territorios ocupados para una cumbre de líderes. Friedrich Merz dudó de que Rusia quiera negociar en serio un alto el fuego.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/america/mundo/2026/11/04/zelensky-afirmo-que-llevara-las-garantias-de-seguridad-para-ucrania-a-las-negociaciones-en-abu-dhabi/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Teherán",
+      "country": "Irán",
+      "headline": "Irán ofrece reabrir Ormuz en 48 horas si EE.UU. levanta el bloqueo naval y las sanciones",
+      "summary": "El canciller Abbas Araqchi confirmó conversaciones indirectas \"muy intensas\", con mediación de Qatar y Pakistán. Teherán pide alto el fuego en todos los frentes, el desbloqueo de sus activos en el exterior, el fin de las sanciones petroleras y del bloqueo naval, y que se acepte una nueva ruta por Ormuz pactada con Omán. El vicepresidente JD Vance dijo que \"ciertamente ha habido avances\".",
+      "source": "Infobae / AFP",
+      "url": "https://www.infobae.com/america/mundo/2026/11/03/estados-unidos-destaco-progresos-en-las-negociaciones-con-iran-para-evitar-una-nueva-escalada-de-violencia-en-medio-oriente/"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Austin",
+      "country": "Estados Unidos",
+      "headline": "Los demócratas ganan gobernaciones clave: Hinojosa derrota a Abbott en Texas",
+      "summary": "Según las proyecciones de CBS News, la demócrata Gina Hinojosa le ganó al gobernador Greg Abbott en Texas, Amy Acton a Vivek Ramaswamy en Ohio y Rob Sand a Zach Lahn en Iowa. Keisha Lance Bottoms ganó Georgia, mientras que en Florida se impuso el republicano Byron Donalds. En el Senado, James Talarico derrotó a Ken Paxton en Texas.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Sucre",
+      "country": "Bolivia",
+      "headline": "El Tribunal Supremo de Bolivia abre una investigación contra Evo Morales por el caso del Hotel Las Américas",
+      "summary": "La Sala Penal del Tribunal Supremo ordenó investigar a Evo Morales y a Álvaro García Linera por presuntos delitos de lesa humanidad en el operativo del 16 de abril de 2009 en Santa Cruz. Ahí murieron Eduardo Rózsa-Flores, Árpád Magyarosi y Michael Dwyer. Deben ser notificados en 72 horas, y el juicio de responsabilidades necesita dos tercios del Legislativo. Dato de una sola fuente.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/america/america-latina/2026/11/03/el-tribunal-supremo-de-bolivia-investiga-a-evo-morales-por-la-muerte-de-tres-extranjeros-en-un-operativo-policial-de-2009/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Sídney",
+      "country": "Australia",
+      "headline": "El Banco de la Reserva de Australia subió la tasa a 4,85%",
+      "summary": "El RBA subió su tasa de referencia 25 puntos básicos, con un voto dividido de 6 a 3, porque las expectativas de inflación se volvieron \"arraigadas\". Prevé que la inflación siga por encima de 3% el próximo año y que no vuelva a la banda objetivo hasta fines de 2027. Dato de una sola fuente.",
+      "source": "RNZ",
+      "url": "https://www.rnz.co.nz/news/world/2317279/reserve-bank-of-australia-raises-its-cash-rate-to-4-point-85-percent"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Los demócratas toman el control de la Cámara y el Senado en las elecciones de medio término",
+      "summary": "Con el conteo en curso, los demócratas suman 228 bancas en la Cámara (necesitan 218) y 54 en el Senado (necesitan 51). Le arrebataron a los republicanos al menos siete escaños en el Senado, entre ellos Texas, Ohio, Kansas, Iowa, Maine y las dos Carolinas, y Susan Collins perdió en Maine. Desde enero, Trump gobernará con el Congreso en contra.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Infobae / CBS News / CNN",
+      "time_note": "hoy",
+      "url": "https://www.infobae.com/estados-unidos/2026/11/04/elecciones-en-eeuu-los-democratas-controlaran-la-camara-de-representantes-y-el-senado-tras-ganar-en-varios-bastiones-republicanos/"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Trump acepta la derrota, culpa a los candidatos y promete usar el veto \"con liberalidad\"",
+      "summary": "En una llamada con CBS News, el presidente felicitó a los demócratas y dijo estar \"un poco sorprendido\" por las derrotas; según él, a su base \"no le gustaron los candidatos\". Anticipó que vetará leyes de la oposición. En las encuestas a boca de urna su aprobación quedó en 38%, que podría ser un piso récord para un presidente en una elección de medio término.",
+      "category": "política",
+      "impact": "alto",
+      "source": "CBS News",
+      "time_note": "hoy",
+      "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    },
+    {
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "Los mercados celebran el giro en el Congreso: suben los futuros de Wall Street y las bolsas europeas",
+      "summary": "Tras la victoria demócrata, los futuros del Dow Jones subían 1,20%, los del S&P 500 0,78% y los del Nasdaq-100 0,68%, y las bolsas europeas abrieron en alza. El petróleo retrocedió y el dólar se debilitó. Las acciones de inteligencia artificial cayeron ante la posibilidad de límites a los centros de datos.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "Infobae / Ámbito",
+      "time_note": "hoy",
+      "url": "https://www.infobae.com/estados-unidos/2026/11/04/en-vivo-elecciones-legislativas-de-medio-termino-en-estados-unidos/"
+    },
+    {
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "El crudo cae por segundo día seguido ante la expectativa de un acuerdo entre EE.UU. e Irán",
+      "summary": "El Brent bajó US$1,17 el martes y cerró en US$103,60; el WTI quedó en US$96,09. El lunes ya había caído 7,6%, la mayor baja en tres meses. Las señales siguen siendo mixtas: Teherán dice que no aceptará una diplomacia basada en la coerción, y Goldman Sachs subió su pronóstico para el Brent de diciembre de US$90 a US$105.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "CNBC",
+      "time_note": "ayer",
+      "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"
+    },
+    {
+      "city": "Abu Dabi",
+      "country": "Emiratos Árabes Unidos",
+      "headline": "Ucrania, Rusia y EE.UU. negociarán el 10 y 11 de noviembre en Abu Dabi",
+      "summary": "La delegación rusa estará encabezada por Vladimir Medinsky y la estadounidense por el enviado Steve Witkoff. En la agenda figuran el alto el fuego, un paquete de reconstrucción, garantías de seguridad, la protección de la infraestructura energética antes del invierno, la reapertura de rutas en el mar Negro y el canje de prisioneros. EE.UU. también tiene previstas reuniones en Bruselas con la OTAN y la UE sobre el orden europeo de posguerra.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Infobae",
+      "time_note": "hoy",
+      "url": "https://www.infobae.com/america/mundo/2026/11/04/zelensky-afirmo-que-llevara-las-garantias-de-seguridad-para-ucrania-a-las-negociaciones-en-abu-dhabi/"
+    },
+    {
+      "city": "Brasilia",
+      "country": "Brasil",
+      "headline": "Lula descarta recortar programas sociales mientras la bolsa paulista cae 18% desde su reelección",
+      "summary": "\"Ningún programa social será extinto en este país\", dijo Lula, reelecto el 25 de octubre con 51,79% de los votos. El mercado le reclama que nombre pronto a su equipo económico: el déficit nominal a 12 meses llega a 9,51% del PIB y la deuda ronda el 83%. El real pasó de 5,35 a 5,49 por dólar en pocos días, y la presión se trasladó a los bonos argentinos.",
+      "category": "economía",
+      "impact": "medio",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "url": "https://www.infobae.com/america/america-latina/2026/11/03/lula-da-silva-dijo-que-mantendra-todos-sus-programas-sociales-frente-a-las-presiones-por-un-ajuste/"
+    }
+  ],
+  "efemerides": {
+    "dia": "4 de noviembre",
+    "items": [
+      {
+        "year": "1576",
+        "text": "Las tropas españolas amotinadas saquean Amberes en la llamada \"Furia española\", con miles de muertos."
+      },
+      {
+        "year": "1879",
+        "text": "James Ritty patenta en Estados Unidos la primera caja registradora mecánica."
+      },
+      {
+        "year": "1922",
+        "text": "El arqueólogo Howard Carter descubre en el Valle de los Reyes la entrada a la tumba de Tutankamón."
+      },
+      {
+        "year": "1946",
+        "text": "Entra en vigor la constitución de la UNESCO y nace formalmente la organización."
+      },
+      {
+        "year": "1956",
+        "text": "Los tanques soviéticos entran en Budapest para aplastar la revolución húngara."
+      },
+      {
+        "year": "1979",
+        "text": "Estudiantes iraníes toman la embajada de EE.UU. en Teherán; la crisis de los rehenes dura 444 días."
+      },
+      {
+        "year": "1995",
+        "text": "El primer ministro israelí Isaac Rabin es asesinado en Tel Aviv por un extremista judío al terminar un acto por la paz."
+      },
+      {
+        "year": "2005",
+        "text": "Empieza en Mar del Plata la IV Cumbre de las Américas, donde se entierra el proyecto del ALCA; en paralelo se hace la contracumbre de los pueblos."
+      },
+      {
+        "year": "2008",
+        "text": "Barack Obama gana las elecciones y es el primer afroamericano electo presidente de Estados Unidos."
+      }
+    ]
+  }
+}

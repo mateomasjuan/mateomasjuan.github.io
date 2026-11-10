@@ -1,0 +1,251 @@
+{
+  "edicion": 1,
+  "fecha": "2026-10-04",
+  "generado": "2026-10-04T12:00:00-03:00",
+  "nota_editor": "Edición armada a mano en Claude chat, antes del sistema automático.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA)",
+      "valor": "$1.540",
+      "variacion": "",
+      "nota": "venta, cierre del viernes"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.560",
+      "variacion": "",
+      "nota": "venta"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "646",
+      "variacion": "+37",
+      "nota": "pico de 655 el viernes"
+    },
+    {
+      "label": "S&P Merval (USD)",
+      "valor": "~1.700",
+      "variacion": "-4,4%",
+      "nota": "en la semana"
+    },
+    {
+      "label": "Reservas brutas",
+      "valor": "US$48.653 M",
+      "variacion": "",
+      "nota": "BCRA"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Ley de Tierras: la oposición va por el DNU 70 con una sesión especial el 15 de octubre, a siete votos del quórum",
+      "summary": "Tras el fallo de la Corte, ocho bloques pidieron una sesión en Diputados para el 15 de octubre a las 14 con el fin de derogar el DNU 70/23 y restituir la ley que limitaba la venta de tierras a extranjeros, además de tratar emergencia en discapacidad y morosidad. Hacen falta 129 diputados y los bloques impulsores suman unos 122. El Gobierno negocia con gobernadores, Misiones judicializó el decreto y Pichetto y Massot recurrieron a la Justicia por el artículo 154.",
+      "source": "Rosario3 / Infobae / Canal 26",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://www.rosario3.com/politica/tras-el-fallo-de-la-corte-la-oposicion-se-unio-para-pedir-una-sesion-por-tierras-discapacidad-y-morosidad-20261001-0050.html"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Semana negra en los mercados: el riesgo país saltó 6% y rozó los 655 puntos, su nivel más alto en casi un año",
+      "summary": "El riesgo país cerró la semana en 646 puntos (+37) con un pico de 655 el viernes, máximo desde noviembre de 2025. El S&P Merval cayó 4,4% hasta unos 1.700 puntos en dólares y los ADR sufrieron: Cresud -11,6%, IRSA -9,1%, Telecom -9%, YPF -5,8%. Influyó la suba de tasas del Tesoro de EE.UU. y la incertidumbre electoral. El dólar oficial cierra en $1.540 en el Banco Nación y el blue en $1.560; el BCRA compró US$369 millones y las reservas brutas son de US$48.653 millones.",
+      "source": "Infobae / El Destape",
+      "time_note": "semana",
+      "impact": "alto",
+      "url": "https://www.infobae.com/economia/2026/10/03/semana-financiera-el-riesgo-pais-se-disparo-6-y-las-acciones-argentinas-cayeron-hasta-12-en-wall-street/"
+    },
+    {
+      "tag": "Economía",
+      "city": "París",
+      "country": "Francia / Argentina",
+      "headline": "La Argentina Week cierra con anuncios por US$27.000 millones, pero sin lista completa ni desembolsos confirmados",
+      "summary": "El Gobierno dice haber asegurado US$27.000 millones en París: Pluspetrol y Gas y Petróleo del Neuquén por US$12.400 millones en Vaca Muerta, Glencore por US$4.000 millones en Agua Rica (Catamarca), PAE y SNF por US$1.200 millones en Cerro Dragón y Eramet por US$350 millones en litio, además de LVMH y Hitachi. Las cifras mezclan promesas y aprobaciones del RIGI, el embajador admitió que no se divulgó la totalidad de los anuncios y la inversión lleva cinco trimestres en baja.",
+      "source": "La Nación / Río Negro",
+      "time_note": "cierre del viernes",
+      "impact": "medio",
+      "url": "https://www.lanacion.com.ar/economia/el-gobierno-afirma-que-se-lleva-us27000-millones-en-anuncios-de-inversion-del-argentina-week-paris-nid02102026/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Gobierno acelera la reforma del Código Penal y reinstala la \"mano dura\"",
+      "summary": "El proyecto, que está en Legal y Técnica y se terminaría de ajustar en octubre, prevé hasta 15 años para motochorros, hasta 8 para trapitos, refuerzo de la legítima defensa, protección legal a policías, imprescriptibilidad de delitos con pena perpetua y prescripción máxima de 15 años en lugar de 12. Se impulsa tras fallos que frenan la ley penal juvenil y una ola de inseguridad en el conurbano; dentro del oficialismo discuten si presentarlo ya o esperar al debate electoral.",
+      "source": "MDZ",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.mdzol.com/politica/2026/10/4/el-gobierno-aprovecha-el-clima-social-acelera-la-reforma-del-codigo-penal-y-reinstala-la-mano-dura-1985568.html"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Caputo niega la recesión pero admite menos actividad, mientras el humor social se deteriora",
+      "summary": "El ministro de Economía descartó que haya recesión aunque reconoció una actividad más baja; economistas hablan de estancamiento desde febrero de 2025. Las compras en supermercados cayeron 15% en tres años, la cadena Pandanés cerró 25 sucursales y despidió a 150 personas, y las encuestas muestran que más del 60% cree que hay crisis y que empeorará, con el desempleo como principal preocupación para el 61%.",
+      "source": "El Destape / Perfil / Infobae",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.eldestapeweb.com/politica/domingo-clave-gobierno-milei-sigue-atencion-elecciones-brasil-2026104104934"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "New Alamein",
+      "country": "Egipto",
+      "headline": "Egipto reúne a Eritrea, Somalia y Sudán en una cumbre cuatripartita tras la ruptura entre Eritrea y Etiopía",
+      "summary": "El presidente egipcio convocó a los líderes de los tres países en New Alamein para hablar de temas regionales, días después de que Eritrea cortara relaciones con Etiopía. Addis Abeba, por su parte, creó un comité nacional para cuantificar el daño económico que atribuye a obstáculos egipcios, como los vinculados a la Gran Presa del Renacimiento.",
+      "url": "https://www.riotimesonline.com/africa-intelligence-brief-saturday-october-3-2026/",
+      "source": ""
+    },
+    {
+      "region": "Asia",
+      "city": "Pyongyang",
+      "country": "Corea del Norte",
+      "headline": "Corea del Norte lanza un misil balístico de unos 680 km; Japón y Corea del Sur lo confirman",
+      "summary": "El proyectil alcanzó una altura cercana a los 90 km. El Ministerio de Defensa japonés confirmó el lanzamiento y Seúl midió un alcance de más de 700 km, sin daños reportados. En paralelo, el presidente surcoreano Lee exige que Ucrania pida disculpas por una supuesta filtración sobre prisioneros de guerra norcoreanos, algo que Kiev llama un \"malentendido diplomático\".",
+      "url": "https://www.riotimesonline.com/asia-intelligence-brief-saturday-october-3-2026/",
+      "source": ""
+    },
+    {
+      "region": "Europa",
+      "city": "Kiev",
+      "country": "Ucrania / Alemania",
+      "headline": "Merz llega por sorpresa a Kiev entre sirenas y anuncia ayuda militar mientras Rusia golpea un puente",
+      "summary": "El canciller alemán prometió un paquete militar de unos US$1.100 millones y US$394 millones para reparar el sector energético, y advirtió que \"si no se detiene a Rusia, su maquinaria de guerra se volverá contra nosotros\". Rusia atacó el puente Norte sobre el Dniéper, el segundo puente alcanzado en el fin de semana, y Zelenski promete responder golpeando refinerías rusas.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine",
+      "source": ""
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Washington",
+      "country": "Estados Unidos / Irán",
+      "headline": "EE.UU. enviará un tercer grupo de portaaviones a Medio Oriente mientras Trump advierte con nuevos ataques a Irán",
+      "summary": "Según CNBC, Washington refuerza su despliegue en la región en el día 217 de la guerra con Irán. Teherán espera una respuesta a una propuesta para reabrir el estrecho de Ormuz y retomar las conversaciones, que Trump ya habría rechazado, y dice estar cerca de un acuerdo con Omán sobre Ormuz. Dato tomado de títulos y avances de CBS, CNBC y EA WorldView; no pude abrir los textos completos.",
+      "url": "https://cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html",
+      "source": ""
+    },
+    {
+      "region": "Oceanía",
+      "city": "Newcastle",
+      "country": "Australia",
+      "headline": "Un auto embiste a hinchas en Newcastle durante el festejo previo a la final de la NRL: hay heridos críticos",
+      "summary": "El hecho ocurrió en un acto de despedida del equipo Knights antes de la final. Las primeras cifras hablan de unos diez heridos, entre ellos una nena de cinco años y un hombre de 67 en estado crítico, y un adolescente quedó imputado. El primer ministro Albanese expresó su solidaridad con las víctimas.",
+      "url": "https://www.abc.net.au/news/2026-10-03/newcastle-knights-car-crash-wallsend-injuries/107224666",
+      "source": ""
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Teherán / Washington",
+      "country": "Irán / Estados Unidos",
+      "headline": "La guerra con Irán entra en el día 217 con un tercer portaaviones en camino y Ormuz sin acuerdo",
+      "summary": "Washington refuerza su presencia militar y Trump amenaza con nuevos golpes, mientras Irán pide una respuesta a su propuesta para reabrir el estrecho y habla de un acuerdo cercano con Omán. El petróleo sigue arriba de los US$100 y condiciona a los mercados emergentes.",
+      "category": "política",
+      "impact": "alto",
+      "source": "CNBC / CBS / EA WorldView",
+      "time_note": "últimas 48 h",
+      "url": "https://cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html"
+    },
+    {
+      "city": "Brasilia",
+      "country": "Brasil",
+      "headline": "Brasil vota entre Lula y Flávio Bolsonaro en una elección que divide al país y mira la región",
+      "summary": "Lula (80 años) busca un cuarto mandato no consecutivo frente al senador Flávio Bolsonaro (45), hijo del expresidente preso. Las encuestas dan ventaja corta a Lula (Quaest 37-33, Datafolha 40-36, AtlasIntel 46-43) y, si nadie gana hoy, habrá balotaje el 25 de octubre.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Al Jazeera / EFE",
+      "time_note": "hoy",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election"
+    },
+    {
+      "city": "Kiev",
+      "country": "Ucrania",
+      "headline": "Merz visita Kiev, Rusia golpea puentes y Ucrania promete atacar refinerías rusas",
+      "summary": "Alemania anuncia ayuda militar y energética por casi US$1.500 millones y un acuerdo para producir drones de más de 960 km de alcance. Rusia intensifica una \"nueva doctrina\" de ataques aéreos, según Zelenski.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Al Jazeera / ABC News",
+      "time_note": "hoy",
+      "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine"
+    },
+    {
+      "city": "Ituri",
+      "country": "Congo (RDC)",
+      "headline": "El brote de ébola en Congo llega a 8.300 casos y 4.018 muertes",
+      "summary": "Al 1 de octubre, más de 250 contactos en Ituri participan en un ensayo de profilaxis posexposición con el antiviral obeldesivir de Gilead, aún sin resultados de eficacia. Dato de una sola fuente.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "Rio Times",
+      "time_note": "3 oct",
+      "url": "https://www.riotimesonline.com/africa-intelligence-brief-saturday-october-3-2026/"
+    },
+    {
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "Las tasas del Tesoro de EE.UU. en torno al 5%, máximos desde 2002, provocan una venta global de activos",
+      "summary": "El \"sell off\" golpeó a los emergentes y explica buena parte de la caída de bonos y acciones argentinas de la semana. En Hong Kong, el Hang Seng cayó 2,6% en su primera rueda tras el feriado de octubre.",
+      "category": "economía",
+      "impact": "medio",
+      "source": "Infobae / Rio Times",
+      "time_note": "semana",
+      "url": "https://www.infobae.com/economia/2026/10/03/semana-financiera-el-riesgo-pais-se-disparo-6-y-las-acciones-argentinas-cayeron-hasta-12-en-wall-street/"
+    },
+    {
+      "city": "Lima",
+      "country": "Perú / Paraguay / Bosnia",
+      "headline": "Jornada electoral múltiple: Perú, Paraguay y Bosnia-Herzegovina también votan",
+      "summary": "Más de 27,3 millones de peruanos eligen 25 gobernadores regionales y casi 1.900 alcaldes; Paraguay renueva 263 intendencias; Bosnia celebra elecciones generales con potencias extranjeras disputando influencia.",
+      "category": "política",
+      "impact": "medio",
+      "source": "EFE",
+      "time_note": "hoy",
+      "url": "https://www.infobae.com/america/agencias/2026/10/04/temas-del-dia-de-efe-internacional-del-domingo-4-de-octubre-de-2026-1200-gmt/"
+    }
+  ],
+  "efemerides": {
+    "dia": "4 de octubre",
+    "items": [
+      {
+        "year": "1669",
+        "text": "Muere en Ámsterdam el pintor holandés Rembrandt."
+      },
+      {
+        "year": "1725",
+        "text": "Se funda la ciudad de Rosario, en Santa Fe."
+      },
+      {
+        "year": "1868",
+        "text": "Nace Marcelo T. de Alvear, presidente argentino entre 1922 y 1928."
+      },
+      {
+        "year": "1872",
+        "text": "Se establece el Servicio Meteorológico Nacional."
+      },
+      {
+        "year": "1917",
+        "text": "Nace la cantautora chilena Violeta Parra."
+      },
+      {
+        "year": "1957",
+        "text": "La Unión Soviética lanza el Sputnik, primer satélite artificial."
+      },
+      {
+        "year": "1970",
+        "text": "Muere la cantante estadounidense Janis Joplin."
+      },
+      {
+        "year": "2009",
+        "text": "Muere Mercedes Sosa, la voz del folklore argentino."
+      },
+      {
+        "year": "2015",
+        "text": "Se realiza el primer debate presidencial en la historia argentina."
+      }
+    ]
+  }
+}

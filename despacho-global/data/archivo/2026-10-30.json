@@ -1,0 +1,285 @@
+{
+  "edicion": 4,
+  "fecha": "2026-10-30",
+  "generado": "2026-10-30T12:23:11-03:00",
+  "nota_editor": "Hormuz y el petróleo vuelven a marcar la jornada a cuatro días de las legislativas en EE.UU.; en Argentina sigue abierto el caso Flávio Bolsonaro y el dólar ronda máximos. Las fuentes difieren en el precio del Brent.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.560",
+      "variacion": "",
+      "nota": "cierre del 29/10; compra $1.510"
+    },
+    {
+      "label": "Dólar blue (venta)",
+      "valor": "$1.565",
+      "variacion": "-$10",
+      "nota": "cierre del 29/10, relevamiento de Ámbito"
+    },
+    {
+      "label": "Dólar CCL",
+      "valor": "$1.657,36",
+      "variacion": "",
+      "nota": "cierre del 29/10; brecha de 7,7% con el oficial"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "741",
+      "variacion": "-22 (-2,9%)",
+      "nota": "cierre del 29/10; mayor baja diaria en tres semanas"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "94.530",
+      "variacion": "-1%",
+      "nota": "cierre del 29/10; US$58 medido en dólares"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 p.p.",
+      "nota": "septiembre, publicado el 13/10; 33,4% interanual y 23,6% acumulada"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$113,64",
+      "variacion": "+2,56%",
+      "nota": "30/10, Trading Economics; las fuentes difieren: CNBC informó cierre de US$114,88 el 29/10 e Investing.com, de US$110,80"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Una fiscalía desestima la denuncia en Puerto Iguazú por Flávio Bolsonaro, mientras Capuchetti pide datos al Gobierno",
+      "summary": "Un fiscal subrogante consideró que no hubo delito en la jurisdicción de Puerto Iguazú por el ingreso de Flávio Bolsonaro, tras recibir informes de Migraciones e Interpol. En Buenos Aires, la jueza federal María Eugenia Capuchetti pidió al Gobierno información sobre posibles impedimentos de ingreso y ordenó preservar filmaciones, y la fiscal Paloma Ochoa impulsa una investigación preliminar con diez medidas de prueba. Según Migraciones, Bolsonaro entró el 27/10 a las 22:50 por el puente Tancredo Neves; la Casa Rosada niega haber colaborado. La desestimación es dato de una sola fuente (Noticias Argentinas).",
+      "source": "La Nación / Noticias Argentinas",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-paso-con-flavio-bolsonaro-y-su-huida-a-estados-unidos-el-recorrido-su-paso-por-la-argentina-y-nid29102026/"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Senado dio media sanción por 60 a 2 al RIIR, el régimen de incentivos para inversiones desde US$12 millones",
+      "summary": "El Régimen de Incentivo para Inversiones Relevantes, proyecto del jefe del bloque radical Eduardo Vischi, se aprobó en general con los únicos votos en contra de los santacruceños José Carambia y Natalia Gadano. Complementa al RIGI con beneficios para proyectos de menor escala, como amortización acelerada en Ganancias y devolución anticipada del IVA. Algunos artículos se aprobaron por 46 a 16, con rechazo del bloque justicialista. El texto pasa a Diputados.",
+      "source": "Parlamentario / Perfil / A24",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://www.parlamentario.com/2026/10/29/el-regimen-de-incentivo-para-inversiones-relevantes-obtuvo-media-sancion/"
+    },
+    {
+      "tag": "Economía",
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "El FMI pide a la Argentina reforzar empleo e inversión, con un desembolso de US$900 millones pendiente del Directorio",
+      "summary": "La portavoz Julie Kozack dijo que el país debe volcar las ganancias de la estabilización financiera a crear empleo e inversiones, y recomendó seguir acumulando reservas ante una eventual suba del riesgo país. El staff acordó el 27/10 la tercera revisión del programa de US$20.000 millones; el Directorio debería aprobar el tramo a principios de diciembre. La nota cita la denuncia de la UIA sobre la pérdida de unos 90.000 empleos desde agosto de 2023.",
+      "source": "La Nación / Infobae",
+      "time_note": "ayer",
+      "impact": "alto",
+      "url": "https://www.lanacion.com.ar/estados-unidos/fmi-recomienda-a-argentina-reforzar-la-creacion-de-empleo-y-mas-inversiones-nid29102026/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Gobierno sube los subsidios a colectivos y no aumenta el boleto de las 104 líneas nacionales",
+      "summary": "El boleto mínimo seguirá en $742 y el máximo en $1.337, valores sin cambios desde julio. Infobae informa que no habrá aumento en noviembre, mientras La Nación habla de congelamiento al menos hasta enero. Los reportes señalan que se busca evitar presiones sobre la inflación; el IIEP-UBA/Conicet calcula $679.000 millones en subsidios al transporte de jurisdicción nacional entre enero y el 19 de octubre. El monto de los nuevos subsidios no estaba confirmado en las notas consultadas.",
+      "source": "Infobae / La Nación / iProfesional",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://www.infobae.com/economia/2026/10/29/colectivos-el-gobierno-le-va-a-dar-mas-subsidios-a-las-empresas-para-no-aumentar-el-boleto-a-nivel-nacional/"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Chile dice que los tratados garantizan el viaje del buque Danstar a Malvinas y Quirno descarta impedirlo",
+      "summary": "El canciller chileno Francisco Pérez Mackenna afirmó que la navegación del buque de bandera chilena desde Punta Arenas está garantizada por la Convemar y otros tratados. Su par argentino, Pablo Quirno, dijo que no se puede frenar el paso inocente y que no hubo notificación oficial; a Buenos Aires le preocupa si llevará suministros para el proyecto petrolero Sea Lion. Santiago Cafiero, Nicolás Trotta y otros diputados impulsan un proyecto para convocar al embajador chileno. Las fuentes ubican el zarpe entre noviembre y la primera semana de diciembre.",
+      "source": "BioBioChile / La Nación / PortalPortuario",
+      "time_note": "ayer",
+      "impact": "medio",
+      "url": "https://biobiochile.cl/noticias/nacional/chile/2026/10/29/perez-confia-en-libre-navegacion-por-buque-chileno-a-malvinas-esta-garantizada-por-los-tratados.shtml"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Jartum",
+      "country": "Sudán",
+      "headline": "Sudán acusa a Etiopía de lanzar 162 ataques con drones desde su territorio",
+      "summary": "Funcionarios sudaneses atribuyen a esos ataques más de 400 civiles y 102 militares muertos, y daños en escuelas, hospitales, centros de salud y estaciones de combustible. Señalaron bases en Assosa y Bahir Dar como puntos de lanzamiento. La Cancillería etíope rechazó las acusaciones por infundadas y acusó al ejército sudanés de apoyar a grupos armados hostiles. Las cifras no tienen verificación independiente.",
+      "source": "Dabanga / allAfrica",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-accuses-ethiopia-of-launching-162-drone-attacks-from-its-territory"
+    },
+    {
+      "region": "Asia",
+      "city": "Tokio",
+      "country": "Japón",
+      "headline": "El Banco de Japón mantiene la tasa en 1,25% y advierte por riesgos inflacionarios",
+      "summary": "La decisión se tomó por 8 votos a 1; la consejera Takata votó por subir a 1,5%. El banco elevó de 2,4% a 2,6% su proyección de inflación subyacente para el año fiscal 2027 y dejó en 2% la de 2028, con crecimiento de 0,7% en 2026 y 2027. El gobernador Kazuo Ueda dijo que se ajustará la política si hace falta, sin calendario fijo. Dato de una sola fuente.",
+      "source": "FXStreet",
+      "url": "https://www.fxstreet.com/news/boj-recap-a-pause-for-now-but-japan-has-entered-a-new-inflation-phase-202610301457"
+    },
+    {
+      "region": "Europa",
+      "city": "Urda",
+      "country": "España",
+      "headline": "Al menos 69 muertos en el choque de trenes de alta velocidad en Toledo y protestas frente al Ministerio de Transportes",
+      "summary": "Un tren de Renfe que circulaba a más de 190 km/h embistió el 28/10 a un Iryo detenido en la línea Madrid-Sevilla, tras una falla informática que frenó seis trenes. El ministro Óscar Puente calificó de inexplicable la orden del centro de control de dejar seguir a uno de ellos. Se reportaron 50 heridos internados, 15 de ellos críticos, y el gobierno de Pedro Sánchez decretó tres días de duelo. Es el segundo choque fatal en esa línea este año: en enero murieron 46 personas en Adamuz.",
+      "source": "ABC News / CNN",
+      "url": "https://abcnews.com/International/death-toll-climbs-74-spanish-officials-probe-high/story?id=137671994"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Jerusalén",
+      "country": "Israel",
+      "headline": "Israel queda en punto muerto: ningún bloque alcanza los 61 escaños tras las elecciones",
+      "summary": "El bloque de Benjamín Netanyahu obtuvo 53 bancas de 120 y la oposición de Gadi Eisenkot, 48, en los comicios del 27/10; los partidos árabes sumaron 19. El recuento favoreció a Netanyahu respecto de los sondeos a boca de urna, y los aliados de Eisenkot descartaron durante la campaña un acuerdo con las listas árabes. El presidente Isaac Herzog iniciará consultas la semana próxima antes de encargar la formación de gobierno.",
+      "source": "NPR / Al Jazeera / Axios",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Trump cancela actos en Kansas e Iowa y los demócratas llevan 8,2 puntos de ventaja antes de las legislativas",
+      "summary": "A cuatro días de las elecciones del 3 de noviembre, Trump suspendió los actos de Salina y Dubuque y los reemplazó por telerallies que, según el Comité Nacional Republicano, llegarán a casi 20 estados. El promedio de RealClearPolling da 51,4% a los demócratas y 43,2% a los republicanos en el voto genérico. Encuestas de CNN muestran a James Talarico 49-43 sobre Ken Paxton en Texas y a Abdul El-Sayed 49-42 sobre Mike Rogers en Michigan.",
+      "source": "Al Jazeera / CNN / HuffPost",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Ciudad de México",
+      "country": "México",
+      "headline": "Murió a los 92 años Cuauhtémoc Cárdenas, fundador del PRD y tres veces candidato presidencial",
+      "summary": "Falleció la noche del 28 de octubre en un hospital de la colonia Roma Sur, según Infobae, y la presidenta Claudia Sheinbaum confirmó la noticia. Hijo del expresidente Lázaro Cárdenas, fue candidato en 1988, 1994 y 2000 y figura central de la izquierda mexicana. Según Reforma, presidía de forma honoraria la Comisión Consultiva de Pemex.",
+      "source": "Infobae / Reforma / El Financiero",
+      "url": "https://www.infobae.com/mexico/2026/10/29/muere-cuauhtemoc-cardenas-lider-historico-de-la-izquierda-mexicana-y-tres-veces-candidato-presidencial/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Canberra",
+      "country": "Australia",
+      "headline": "One Nation acusa a Albanese de intentar dividirla con la oferta de un asesor extra a un diputado",
+      "summary": "El primer ministro autorizó al nuevo diputado David Farley a contratar un asesor adicional con un paquete salarial de 200.000 dólares australianos, oferta que el legislador rechazó por no haberla pedido. Pauline Hanson calificó el sistema de sórdido y reclamó un organismo independiente que fije las dotaciones. La exsenadora laborista Fatima Payman también acusó a Albanese de mezquindad por demoras en la aprobación de personal para su oficina. Dato de una sola fuente.",
+      "source": "ABC News (Australia)",
+      "url": "https://www.abc.net.au/news/2026-10-29/one-nation-mp-turns-down-extra-staffer-from-pm/107325240"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Estrecho de Ormuz",
+      "country": "Irán / Omán",
+      "headline": "Nuevos incendios de petroleros en Ormuz empujan al Brent cerca de su máximo en cuatro años",
+      "summary": "Una lancha adosó dos minas lapa al petrolero Louise 1, de bandera panameña, y le provocó un incendio; fuentes marítimas citadas por Reuters lo describen como el primer ataque exitoso de ese tipo en el estrecho desde febrero. Los Guardianes de la Revolución dicen que tres petroleros chocaron con minas y el ejército iraní informó un cuarto incendio; el Centcom sostiene que despejó las rutas principales. Mediadores qataríes volvieron a Teherán, mientras Axios reporta que EE.UU. e Israel evalúan grandes ataques tras el 3 de noviembre.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Euronews / gCaptain (Reuters) / Trading Economics",
+      "time_note": "hoy",
+      "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu"
+    },
+    {
+      "city": "Fráncfort",
+      "country": "Alemania",
+      "headline": "Christine Lagarde renuncia al BCE nueve meses antes de terminar su mandato",
+      "summary": "Dejará el cargo el 7 de febrero de 2027 y dijo que quiere liberarse de la neutralidad política que exige el puesto. La salida permite a los líderes de la UE elegir sucesor mientras Emmanuel Macron sigue en el Elíseo; suenan Klaas Knot y Pablo Hernández de Cos. El BCE dejó la tasa en 2,5%, con inflación anual de 3,8% impulsada por el petróleo.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "AP vía ABC News / Yahoo Finance",
+      "time_note": "ayer",
+      "url": "https://abcnews.com/International/wireStory/european-central-bank-head-resigns-allowing-eu-leaders-137667888"
+    },
+    {
+      "city": "Kiev",
+      "country": "Ucrania",
+      "headline": "Rusia mata a 19 personas en Dnipró, Kremenchuk y Chernígov en otra ola de ataques aéreos",
+      "summary": "Zelenski informó esas muertes por los ataques del 29/10; un dron que golpeó trenes de pasajeros en Dnipró dejó 14 muertos, y otra persona murió en Kiev por misiles balísticos y drones. Ucrania reclama a Washington interceptores Patriot y compromisos de seguridad de cara a conversaciones de paz propuestas para noviembre. Las cifras son de fuentes ucranianas, sin verificación independiente.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Kyiv Independent / Ukrinform",
+      "time_note": "ayer",
+      "url": "https://kyivindependent.com/ukraine-war-latest-zelensky-reveals-details-of-operation-veles/"
+    },
+    {
+      "city": "Kinshasa",
+      "country": "República Democrática del Congo",
+      "headline": "El ébola por virus Bundibugyo se extiende a cuatro países y la OMS advierte por la dificultad de contenerlo",
+      "summary": "El ECDC registra nueve casos y dos muertes en Kenia al 25/10, y un caso en Nigeria, evacuado a Suiza el 26/10, con 53 contactos en seguimiento. Un informe basado en Reuters atribuye al brote, centrado en el Congo, unas 4.700 muertes. La cifra de más de 10.000 casos sale solo de un titular.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "ECDC / Modern Ghana",
+      "time_note": "esta semana",
+      "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "La Fed mantiene las tasas con dos votos a favor de subirlas, con la economía creciendo 3,4% e inflación de 3,6%",
+      "summary": "El rango quedó en 3,75%-4% y el mercado sigue contemplando una suba en diciembre. El PIB del tercer trimestre creció 3,4% anualizado, contra 2,2% del anterior, y el PCE de septiembre marcó 3,6% interanual (3,1% el núcleo). El 29/10 el S&P 500 cayó 0,30%, el Nasdaq 1,38% y el Dow Jones 0,25%.",
+      "category": "economía",
+      "impact": "medio",
+      "source": "Mitrade / Trader Factor",
+      "time_note": "esta semana",
+      "url": "https://mitrade.com/au/insights/daily-market-outlook/news-today/market-news-today-australia-261030"
+    },
+    {
+      "city": "Miami",
+      "country": "Estados Unidos",
+      "headline": "Trump admite que dio permiso de ingreso a Flávio Bolsonaro, que desconoce la victoria de Lula desde Florida",
+      "summary": "Trump dijo que le dieron permiso para entrar al país, pero que no se involucrará; The New York Times informó que un funcionario de su gobierno organizó la logística del vuelo. Bolsonaro, con prohibición de salir de Brasil en una causa por lavado, llegó a Opa Locka vía Guayaquil y denunció fraude en una carta tras perder el balotaje por 48,21% a 51,79%. La Bolsa de San Pablo cayó 2,7% al confirmarse su llegada.",
+      "category": "política",
+      "impact": "medio",
+      "source": "La Nación / The New York Times / The Rio Times",
+      "time_note": "esta semana",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-paso-con-flavio-bolsonaro-y-su-huida-a-estados-unidos-el-recorrido-su-paso-por-la-argentina-y-nid29102026/"
+    }
+  ],
+  "efemerides": {
+    "dia": "30 de octubre",
+    "items": [
+      {
+        "year": "1918",
+        "text": "El Imperio otomano firma el Armisticio de Mudros y sale de la Primera Guerra Mundial."
+      },
+      {
+        "year": "1938",
+        "text": "Orson Welles emite por radio en EE.UU. su adaptación de La guerra de los mundos, que causa alarma entre oyentes."
+      },
+      {
+        "year": "1960",
+        "text": "Nace en Lanús Diego Armando Maradona, campeón mundial con la Argentina en 1986."
+      },
+      {
+        "year": "1961",
+        "text": "La Unión Soviética detona en Nueva Zembla la Bomba del Zar, de unos 50 megatones, la mayor explosión nuclear de la historia."
+      },
+      {
+        "year": "1974",
+        "text": "Muhammad Ali noquea a George Foreman en Kinshasa, Zaire, y recupera el título mundial de los pesados en la 'Pelea en la Selva'."
+      },
+      {
+        "year": "1975",
+        "text": "El príncipe Juan Carlos de Borbón asume interinamente la jefatura del Estado español por la enfermedad de Francisco Franco."
+      },
+      {
+        "year": "1983",
+        "text": "Raúl Alfonsín gana las elecciones con cerca del 52% de los votos frente a Ítalo Luder y la Argentina recupera la democracia."
+      },
+      {
+        "year": "1995",
+        "text": "Quebec rechaza la independencia de Canadá en un referéndum por 50,58% a 49,42%."
+      },
+      {
+        "year": "2014",
+        "text": "Suecia reconoce oficialmente al Estado de Palestina."
+      },
+      {
+        "year": "2022",
+        "text": "Luiz Inácio Lula da Silva vence a Jair Bolsonaro en el balotaje presidencial de Brasil con 50,9% de los votos."
+      }
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "edicion": 12,
+  "fecha": "2026-11-06",
+  "generado": "2026-11-06T19:44:27-03:00",
+  "nota_editor": "Viernes de alta tensión: Paraguay destituye a su presidente, el riesgo país argentino marca otro máximo y el papa León XIV empieza en Montevideo su gira sudamericana mientras sigue la crisis en Ormuz.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "",
+      "nota": "viernes 6/11; mayorista promedio BCRA $1.571,84"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.555",
+      "variacion": "estable",
+      "nota": "venta, viernes 6/11"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "939",
+      "variacion": "+14",
+      "nota": "nuevo máximo de 2026 en la rueda del 6/11, según La Nación. Otro medio lo dio en 895 en otro momento del día"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "84.052",
+      "variacion": "-0,6%",
+      "nota": "viernes 6/11, tras caer 4,1% el jueves"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 pp",
+      "nota": "septiembre; 33,4% interanual. El dato de octubre sale el 12/11"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$ 100",
+      "variacion": "+2%",
+      "nota": "viernes 6/11 a la mañana; rumbo a una baja semanal de ~12%"
+    },
+    {
+      "label": "Nasdaq",
+      "valor": "+1,4%",
+      "variacion": "rebote",
+      "nota": "viernes 6/11, después de caer 6,4% el jueves"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Estrecho de Ormuz",
+      "country": "Irán",
+      "headline": "La Guardia Revolucionaria dice que derribó un dron estadounidense y Teherán libera Ormuz solo para India, China, Irak y Qatar",
+      "summary": "El Cuerpo de la Guardia Revolucionaria Islámica (IRGC) afirmó que derribó un dron MQ-1 de EE.UU. sobre una isla del estrecho. Irán también denunció que cuatro petroleros se incendiaron al chocar con minas. Antes, el diputado Ahmad Hayat-Moghaddam había anunciado que los barcos de India, China, Irak y Qatar quedan exceptuados de las restricciones, en un paso que sigue casi cerrado al tráfico comercial: el 25 de octubre lo cruzaron 2 buques, contra unos 85 diarios en condiciones normales.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al Jazeera / IranWire",
+      "time_note": "hoy",
+      "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+    },
+    {
+      "city": "Asunción",
+      "country": "Paraguay",
+      "headline": "El Senado paraguayo destituye a Santiago Peña con 44 votos y Pedro Alliana queda a cargo de la presidencia",
+      "summary": "El Senado votó la remoción de Peña por la crisis de Ueno Bank, el banco digital intervenido que tenía unos US$ 2.836 millones en depósitos. Pedro Alliana, el vicepresidente, debe completar el mandato hasta agosto de 2028, y una comisión bicameral iba a tomarle juramento. Las versiones no coinciden sobre si la renuncia de Peña llegó a formalizarse antes de la votación, y sus abogados sostienen que el juicio es nulo.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Elonce / MDZ / ABC Color",
+      "time_note": "hoy",
+      "url": "https://www.elonce.com/politica/el-senado-de-paraguay-destituyo-por-unanimidad-a-santiago-pena-asumira-pedro-alliana.htm"
+    },
+    {
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "Wall Street rebota tras el peor día del Nasdaq desde abril de 2025 y un dato de empleo mejor de lo esperado",
+      "summary": "El jueves el Nasdaq se hundió 6,4% y entró en corrección, por el temor a que las victorias demócratas traigan más regulación para la inteligencia artificial. El viernes subió 1,4%, con el índice de semiconductores de Filadelfia en +4,2%. En octubre se crearon 165.000 empleos, contra los 62.000 esperados, y el desempleo bajó a 4,1%.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "Reuters vía BNN Bloomberg / Morningstar",
+      "time_note": "hoy",
+      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/wall-street-stocks-in-relief-rally-after-heavy-ai-related-selloff/"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Trump dice que un acuerdo entre Rusia y Ucrania está cerca tras reunirse con el enviado de Putin",
+      "summary": "Trump recibió en la Casa Blanca a Kirill Dmitriev, enviado especial de Vladimir Putin, y dijo que un acuerdo podría ser inminente, aunque no dio detalles. No se reunió con la delegación ucraniana que estaba en la ciudad. Una delegación estadounidense va a mediar entre Rusia y Ucrania en Abu Dabi el 10 y 11 de noviembre.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al Jazeera / NBC News",
+      "time_note": "hoy",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
+    },
+    {
+      "city": "Bunia",
+      "country": "República Democrática del Congo",
+      "headline": "El brote de ébola Bundibugyo en el Congo supera los 10.600 casos confirmados y las 5.300 muertes",
+      "summary": "El Centro Europeo para la Prevención y el Control de Enfermedades (ECDC) contabiliza 10.668 casos confirmados y 5.198 muertes en la RD del Congo, con datos al 3 de noviembre, en ocho provincias. Ituri fue el epicentro original. El Centro Africano para el Control de Enfermedades (Africa CDC) eleva el total a 5.376 muertes, con dos en Kenia y dos en Uganda. Es el brote más grande de la historia del país y el ECDC advierte que podría ser mayor que lo detectado.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "ECDC / Al Jazeera",
+      "time_note": "esta semana",
+      "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026"
+    },
+    {
+      "city": "Johannesburgo",
+      "country": "Sudáfrica",
+      "headline": "El ANC cae a su peor nivel en las municipales y la Alianza Democrática lidera en Johannesburgo",
+      "summary": "Con 96% de las mesas escrutadas, el Congreso Nacional Africano (ANC) tenía 31,2% del voto proporcional nacional y la Alianza Democrática (DA), 24,5%. En Johannesburgo la DA lideraba con 37,7%, seguida por el ANC con 18,9% y ActionSA con 16,9%. Los gobiernos de las grandes ciudades se van a definir en negociaciones de coalición, y en KwaZulu-Natal lidera el MK.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Reuters vía US News / Inside Metros",
+      "time_note": "ayer",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-04/south-africas-anc-on-32-of-vote-with-12-of-votes-counted-in-municipal-election"
+    },
+    {
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "headline": "León XIV llega a Montevideo y empieza su gira de 12 días por Uruguay, Argentina y Perú",
+      "summary": "El avión del papa aterrizó en Carrasco a las 16:19 hora local. Lo recibió el presidente Yamandú Orsi y después fue en papamóvil hasta la Plaza Independencia para la ceremonia de bienvenida. La etapa uruguaya se extiende hasta el domingo y la gira termina el 16 de noviembre.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "Perfil / Cadena 3 / Vida Nueva",
+      "time_note": "hoy",
+      "url": "https://www.vidanuevadigital.com/2026/11/06/el-papa-leon-xiv-llego-a-tierra-uruguaya/"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El riesgo país vuelve a subir y toca 939 puntos, nuevo máximo del año",
+      "summary": "El indicador de JP Morgan abrió en baja, pero después rebotó y subió 14 unidades (+1,5%) hasta 939 puntos básicos, el valor más alto de 2026. El S&P Merval cedió 0,6% hasta 84.052 puntos, un día después de caer 4,1%. El dólar en el Banco Nación se mantuvo en $1.570 y el blue en $1.555.",
+      "source": "La Nación / Examedia",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-cae-por-debajo-de-los-900-puntos-a-partir-del-rebote-de-los-bonos-nid06112026/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Caputo atribuye la suba del riesgo país al temor de que Milei no siga después de 2027",
+      "summary": "En un encuentro con delegados de la Sociedad Rural, el ministro de Economía dijo: \"Lo que algunos tienen miedo es que no esté el presidente Milei\". Prometió eliminar todas las retenciones si el Presidente consigue un segundo mandato. Según un análisis de PPI, la probabilidad de continuidad del Gobierno que reflejan los precios de los bonos bajó de cerca de 90% en julio a menos de 50% el 3 de noviembre.",
+      "source": "Cadena 3 / Letra P / Canal 26",
+      "time_note": "hoy",
+      "impact": "alto",
+      "url": "https://www.cadena3.com/noticia/politica-y-economia/caputo-atribuyo-la-suba-del-riesgo-pais-al-temor-de-que-milei-no-siga-despues-de-2027_610876"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La filial paraguaya de una financiera de la City porteña tenía depósitos en Ueno Bank",
+      "summary": "Una financiera conocida de la City porteña tenía fondos depositados en Ueno Bank a través de su filial en Paraguay, mientras el Banco Central del Paraguay empezó a pagar las garantías de depósitos. El vicepresidente del BCRA, Vladimir Werning, negó vínculos con la entidad, que no está autorizada a operar como banco en la Argentina. Dato de una sola fuente.",
+      "source": "Infobae",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.infobae.com/economia/2026/11/06/la-filial-paraguaya-de-una-reconocida-financiera-de-la-city-portena-tenia-depositos-en-el-ueno-bank/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El oficialismo impulsa a un abogado de las fuerzas de seguridad para el Comité Nacional contra la Tortura",
+      "summary": "La Bicameral de la Defensoría del Pueblo firmó dictamen favorable a Fernando Zarabozo, con el aval de La Libertad Avanza, el PRO y la UCR y la disidencia del peronismo. El Senado prevé tratarlo el 26 de noviembre y después lo trataría Diputados. Organismos de derechos humanos objetan sus publicaciones en redes, entre ellas burlas a Sergio Maldonado. Zarabozo respondió que defender a policías no implica avalar lo que hacen.",
+      "source": "Parlamentario / El Destape / Examedia",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "url": "https://www.parlamentario.com/2026/11/04/la-bicameral-de-la-defensoria-del-pueblo-avanzo-con-la-renovacion-del-comite-contra-la-tortura/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Vallas, cortes y balcones con banderas: Buenos Aires se prepara para recibir al papa",
+      "summary": "La Ciudad amaneció con vallados y calles cortadas antes de la llegada de León XIV el domingo, entre el entusiasmo de los fieles y las quejas de los vecinos. Habrá feriado nacional el lunes 9, feriado en CABA y Córdoba el martes 10 y en Buenos Aires el miércoles 11. El martes el papa viaja a Córdoba y el miércoles visita un complejo penitenciario.",
+      "source": "La Nación",
+      "time_note": "hoy",
+      "impact": "medio",
+      "url": "https://www.lanacion.com.ar/sociedad/patos-entre-las-vallas-vecinos-sin-salida-y-balcones-con-banderas-las-postales-de-la-ciudad-que-nid06112026/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Bahía Blanca",
+      "country": "Argentina",
+      "headline": "Alerta amarilla por tormentas en el sudoeste bonaerense y un frente frío que lleva el domingo a 6 °C en Mar del Plata",
+      "summary": "El Servicio Meteorológico Nacional emitió alerta amarilla para la tarde del viernes en sectores de La Pampa, San Luis y el sur de la provincia de Buenos Aires, con granizo y ráfagas que podrían superar los 110 km/h. El AMBA no tiene alerta, pero podría llover a la noche. Para el domingo se esperan 10 °C en la Ciudad, 8 °C en Luján y 6 °C en Mar del Plata, con repunte desde el lunes.",
+      "source": "Infobonaerenses / El Litoral / Minuto Uno",
+      "time_note": "hoy",
+      "impact": "bajo",
+      "url": "https://infobonaerenses.com.ar/nota/44914/alerta-amarilla-por-tormentas-en-29-distritos-bonaerenses-y-fuerte-baja-de-temperatura"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Niterói",
+      "country": "Brasil",
+      "headline": "La Selección de futsal enfrenta esta noche a Brasil por un lugar en la final de la Finalissima",
+      "summary": "Argentina y Brasil juegan a las 21:30 (hora de Brasilia) en el Arena Niterói, después de la otra semifinal, España-Portugal. Brasil le ganó 2-1 a la Argentina en la final del Mundial 2024 y en la de la Copa América 2026. La final es el domingo 8. Es la segunda participación argentina en el torneo: en la primera edición, en 2022, terminó cuarta.",
+      "source": "AFA / VAVEL / Copa América",
+      "time_note": "hoy",
+      "impact": "bajo",
+      "url": "https://www.vavel.com/ar/futsal-argentino/2026/11/05/1278263-la-seleccion-argentina-de-futsal-se-juega-el-pase-a-la-gran-final-frente-a-brasil-en-el-arena-niteroi.html"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Abuya",
+      "country": "Nigeria",
+      "category": "política",
+      "headline": "Un tribunal anula la candidatura presidencial de Atiku Abubakar a dos meses de las elecciones",
+      "summary": "Un tribunal federal de Abuya declaró nula la nominación de Atiku como candidato del African Democratic Congress (ADC), la principal fuerza opositora, y removió a la conducción del partido que encabezaba David Mark. El fallo llegó días después de que el presidente Bola Tinubu lanzara su campaña por la reelección para los comicios del 16 de enero de 2027. Atiku y el ADC van a apelar y acusan al oficialista APC de estar detrás de la demanda.",
+      "por_que": "Deja sin candidato a la principal coalición opositora del país más poblado de África justo antes de una elección presidencial.",
+      "source": "Reuters vía ThePrint / Africanews",
+      "url": "https://theprint.in/world/nigerian-court-voids-candidacy-of-opposition-adcs-atiku-for-2027-election/3091814/"
+    },
+    {
+      "region": "África",
+      "city": "Walvis Bay",
+      "country": "Namibia",
+      "category": "economía",
+      "headline": "Dangote lanza en Namibia un depósito de combustibles y un oleoducto regional de US$ 2.500 millones",
+      "summary": "La presidenta Netumbo Nandi-Ndaitwah inauguró el proyecto el 4 de noviembre en un predio de unas 70 hectáreas a 10 km del puerto de Walvis Bay. Prevé una red de oleoductos de unos 1.700 km hacia Botsuana, Zambia, Zimbabue, Malaui y el sur de la RD del Congo. Aliko Dangote subió además a US$ 60.000 millones su meta de inversión en África para 2030.",
+      "por_que": "Podría cambiar el abastecimiento de combustibles de varios países sin salida al mar del sur de África, que hoy dependen de rutas largas y caras.",
+      "source": "The Namibian / TheCable",
+      "url": "https://www.namibian.com.na/nandi-ndaitwah-launches-dangote-tank-farm-and-regional-pipeline-project/"
+    },
+    {
+      "region": "Asia",
+      "city": "Daca",
+      "country": "Bangladés",
+      "category": "ambiente",
+      "headline": "Bangladés llevará a la COP31 sus pérdidas climáticas de US$ 15.200 millones por año",
+      "summary": "El ministro de Ambiente, Abdul Awal Mintoo, anunció que el país va a presentar esa cifra, basada en una evaluación del Banco Mundial, para pedir un Fondo de Pérdidas y Daños más grande. Daca también quiere que se reconozcan pérdidas no económicas, como el desplazamiento de personas y el daño al patrimonio cultural. La COP31 se hace del 9 al 20 de noviembre en Antalya, Turquía.",
+      "por_que": "Bangladés es uno de los países más expuestos al cambio climático y su postura puede marcar la agenda de los países vulnerables en la cumbre.",
+      "source": "bdnews24",
+      "url": "https://bdnews24.com/bangladesh/jnyw6lvqrd"
+    },
+    {
+      "region": "Asia",
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "category": "economía",
+      "headline": "Sri Lanka destina 47.000 millones de rupias a amortiguar la suba de combustibles por la guerra en el Golfo",
+      "summary": "El Gobierno presentó al Parlamento un presupuesto suplementario: 41.000 millones de rupias para el Ministerio de Energía, para cubrir de octubre a diciembre, y 6.000 millones para el programa social Aswesuma. Los hogares en pobreza extrema van a recibir un pago extra de 6.250 rupias y los pobres, de 4.000. El viceministro Anil Jayantha Fernando aseguró que no habrá gasto adicional porque los fondos se reasignan de otras partidas.",
+      "por_que": "Muestra cómo el cierre de Ormuz pega en las economías frágiles del sur de Asia que todavía se recuperan de la crisis de deuda.",
+      "source": "Ada Derana / The Morning",
+      "url": "https://adaderana.lk/news/251073"
+    },
+    {
+      "region": "Europa",
+      "city": "Chisináu",
+      "country": "Moldavia",
+      "category": "tecnología",
+      "headline": "Moldavia sospecha de un Estado extranjero detrás del robo masivo de datos de sus ciudadanos",
+      "summary": "El primer ministro Vasile Tofan dijo a Euronews que detrás del ciberataque habría un actor estatal y que la lista de sospechosos \"no es muy larga\". Entre el 19 y el 23 de octubre, los atacantes hicieron unos 11 millones de consultas a servicios estatales que no pedían autenticación y se llevaron registros vinculados a unos 750.000 números de identidad. El Gobierno desconectó temporalmente los sistemas vulnerables.",
+      "por_que": "Moldavia, candidata a la UE, enfrenta una campaña de ataques híbridos que pone en riesgo los datos de buena parte de su población.",
+      "source": "Euronews / The Record",
+      "url": "https://www.euronews.com/2026/11/03/moldova-suspects-state-actor-behind-major-cyberattack-pm-tells-euronews"
+    },
+    {
+      "region": "Europa",
+      "city": "Tiflis",
+      "country": "Georgia",
+      "category": "derechos",
+      "headline": "Un incendio saca del aire al canal opositor georgiano Formula TV y deja atrapados a 22 periodistas",
+      "summary": "El fuego empezó el miércoles 4 en el centro de negocios Delisi, donde funciona Formula TV, y el humo en las escaleras dejó atrapados a 22 periodistas en la redacción. Todos fueron evacuados después y los bomberos apagaron el incendio, cuya causa todavía no se conoce. Semanas antes, la Comisión de Comunicaciones había multado al canal por tercera vez, con 10.000 laris.",
+      "por_que": "Formula es uno de los pocos medios opositores que siguen al aire en un país donde la UE considera frenado el proceso de adhesión.",
+      "source": "OC Media / Civil.ge",
+      "url": "https://oc-media.org/fire-takes-opposition-aligned-formula-tv-off-air-employees-reportedly-stuck-in-building/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Taiz",
+      "country": "Yemen",
+      "category": "derechos",
+      "headline": "Un ataque contra un mercado de Taiz deja al menos 20 muertos y las partes se culpan entre sí",
+      "summary": "El mercado al-Hadara, en el distrito de al-Waziyah, fue atacado el viernes alrededor de las 7. Las fuerzas del gobierno reconocido acusan a los hutíes de dispararle un misil balístico y hablan de 30 muertos. Los hutíes atribuyen los muertos a tres bombardeos aéreos y su ministerio de Salud cuenta al menos 20 muertos y 15 heridos. Ninguna de las dos versiones fue confirmada de forma independiente.",
+      "por_que": "Con la atención mundial puesta en Irán, la guerra de Yemen vuelve a cobrarse víctimas civiles casi sin cobertura.",
+      "source": "Al Jazeera / Arab News / AP",
+      "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Amán",
+      "country": "Jordania",
+      "category": "política",
+      "headline": "Matan a un policía jordano frente a la embajada de Sri Lanka en Amán en un ataque calificado de terrorista",
+      "summary": "El cabo Jawad Ali Khalaf al-Salaita, de la unidad de custodia diplomática, murió apuñalado y otro agente resultó herido cuando el atacante intentó quitarle el arma. El agresor fue detenido. El ataque llega días después de que un atentado contra una iglesia llevara a Jordania a bombardear objetivos en Siria.",
+      "por_que": "Jordania, uno de los países más estables de la región, suma incidentes de seguridad en medio de la guerra regional.",
+      "source": "Al Jazeera / Al Arabiya / AP",
+      "url": "https://www.aljazeera.com/news/2026/11/5/security-%E2%81%A0officer-killed-in-stabbing-attack-in-jordans-capital"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Cambridge Bay",
+      "country": "Canadá",
+      "category": "derechos",
+      "headline": "Nunavut evaluará un plan piloto de contratación pública solo para inuit en la región de Kitikmeot",
+      "summary": "El diputado Fred Pedersen propuso que, durante cinco años, los cargos del gobierno territorial en Kitikmeot que queden libres por jubilaciones de empleados no inuit se cubran solo con inuit. La ministra de Recursos Humanos, Annie Tattuinee, lo va a llevar al gabinete. La meta de contratación inuit es de alrededor de 85%, y según la cobertura en Kitikmeot son el 57% de los cargos.",
+      "por_que": "Pone a prueba el compromiso del Acuerdo de Nunavut de que el gobierno del territorio refleje a su población mayoritariamente inuit.",
+      "source": "Nunatsiaq News",
+      "url": "https://nunatsiaq.com/stories/article/cabinet-to-discuss-kitikmeot-inuit-employment-pilot-project/"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Oaxaca",
+      "country": "México",
+      "category": "sociedad",
+      "headline": "Maestros de Oaxaca bloquean un cruce clave porque faltan 510 docentes en comunidades indígenas",
+      "summary": "Integrantes de la Sección 22 bloquearon el crucero de Fonapas para pedir que se contraten docentes y que se asignen más de 400 millones de pesos para formar y contratar maestros para pueblos originarios. Reclaman un curso permanente de inducción a la docencia para jóvenes que trabajarían en escuelas indígenas. Advirtieron que podrían iniciar un paro indefinido mientras sigue la mesa de negociación.",
+      "por_que": "Muestra que en uno de los estados más indígenas de México hay aulas sin maestro.",
+      "source": "NVI Noticias",
+      "url": "https://www.nvinoticias.com/oaxaca/general/bloquean-fonapas-por-falta-de-maestros-en-comunidades-indigenas-de-oaxaca/195650"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "San Salvador",
+      "country": "El Salvador",
+      "category": "política",
+      "headline": "El primer ministro de Haití viajará a El Salvador para definir el futuro de los 2.000 soldados salvadoreños",
+      "summary": "El vicepresidente Félix Ulloa confirmó que Alix Didier Fils-Aimé estará en El Salvador el 16 y 17 de noviembre, en una conferencia sobre democracia. El Salvador mandó unos 2.000 militares a Haití después de que el 18 de octubre una emboscada contra la Fuerza de Supresión de Pandillas dejara cuatro salvadoreños desaparecidos. El despliegue no tiene fecha de regreso.",
+      "por_que": "El despliegue salvadoreño es un actor nuevo y poco seguido en la crisis de seguridad haitiana.",
+      "source": "EFE vía Infobae / El Diario de Hoy",
+      "url": "https://www.infobae.com/america/agencias/2026/11/06/el-salvador-y-haiti-discutiran-sobre-el-futuro-de-las-tropas-salvadorenas-este-mes/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Riberalta",
+      "country": "Bolivia",
+      "category": "ambiente",
+      "headline": "Los indígenas de la Amazonía boliviana declaran la emergencia por el avance de la minería ilegal de oro",
+      "summary": "La Confederación de Pueblos Indígenas de Bolivia (CIDOB) denunció que la minería sigue en las cuencas del Beni, el Tuichi y el Madre de Dios pese a un fallo judicial que ordenó frenarla, y que hay amenazas contra sus dirigentes. Cinco municipios amazónicos se declararon libres de minería de oro. El ministro de Minería, Marco Antonio Calderón, sostiene que esas declaraciones son ilegales.",
+      "por_que": "El mercurio y la deforestación del oro amenazan ríos de los que dependen pueblos enteros de la Amazonía.",
+      "source": "Red Uno / Mongabay Latam",
+      "url": "https://www.reduno.com.bo/noticias/pueblos-indigenas-denuncian-avance-de-mineria-ilegal-bajo-amenazas-a-dirigentes-202611694957"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Honiara",
+      "country": "Islas Salomón",
+      "category": "política",
+      "headline": "Islas Salomón propone reformar la Constitución para frenar las mociones de censura y el cambio de bancas",
+      "summary": "El gobierno de la coalición GREAT presentó un paquete de seis pilares: limitar las mociones de censura, sancionar a los legisladores que cambian de partido, fijar reglas para formar gobierno y garantizar mandatos parlamentarios estables. También incluye el reconocimiento constitucional de la identidad cristiana del país. Necesita amplio apoyo parlamentario, y el primer ministro Matthew Wale se recupera en un hospital de Australia.",
+      "por_que": "La inestabilidad crónica del gobierno en un país clave en la disputa entre China y Australia por el Pacífico podría cambiar de raíz.",
+      "source": "RNZ / PINA / Asia Pacific Report",
+      "url": "https://www.rnz.co.nz/news/pacific/2309406/solomon-islands-government-moves-to-end-unstable-coalitions-party-defections"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Nadi",
+      "country": "Fiyi",
+      "category": "sociedad",
+      "headline": "Las eléctricas del Pacífico suman mujeres en puestos técnicos: de 110 a 139 en un año",
+      "summary": "En la 33ª conferencia de la Pacific Power Association en Nadi, Helle Buchhave, del Banco Mundial, informó que seis empresas eléctricas participantes pasaron de 110 a 139 mujeres en puestos técnicos. El programa trabaja con empresas de Papúa Nueva Guinea, Islas Salomón, Micronesia, Islas Marshall, Fiyi, Samoa y Tonga. Cuando se midió la línea de base, las mujeres eran el 6% de los puestos técnicos y de liderazgo. Dato de una sola fuente.",
+      "por_que": "La transición energética de las islas del Pacífico también abre empleo calificado para mujeres en un sector casi solo masculino.",
+      "source": "Fiji Sun",
+      "url": "https://fijisun.com.fj/news/pacific/women-powering-change-in-pacific-energy-sector"
+    }
+  ],
+  "breves": [
+    {
+      "country": "Brasil",
+      "category": "ciencia",
+      "text": "Un estudio genético encabezado por la Universidad de Salford describió dos especies nuevas de mono aullador amazónico, Alouatta iroi y Alouatta matogrossensis. Es la primera vez en 84 años que se describe una especie nueva de aullador.",
+      "source": "AZoLifeSciences",
+      "url": "https://www.azolifesciences.com/news/20261105/Scientists-Discover-Two-New-Species-of-Howler-Monkey.aspx"
+    },
+    {
+      "country": "Madagascar",
+      "category": "ciencia",
+      "text": "Investigadores identificaron siete especies desconocidas de \"ranas diamante\" en Madagascar, con lo que el grupo pasa a tener 27 especies conocidas.",
+      "source": "The Brighter Side of News",
+      "url": "https://www.thebrighterside.news/post/seven-new-frog-species-discovered-in-madagascar-reveal-hidden-biodiversity/"
+    },
+    {
+      "country": "Australia",
+      "category": "ciencia",
+      "text": "Al revisar ejemplares guardados en museos, científicos describieron nuevos bandicuts del género Isoodon, entre ellos el bandicut pardo pequeño de Australia del Sur, probablemente extinto, y el bandicut pardo de Nueva Guinea.",
+      "source": "ABC News / Phys.org",
+      "url": "https://abc.net.au/news/2026-11-05/new-bandicoot-subspecies-south-australia/107350712"
+    },
+    {
+      "country": "Fiyi",
+      "category": "derechos",
+      "text": "El Parlamento de Fiyi aprobó la Ley de Derechos de los Pueblos Indígenas, que ordena un plan nacional contra la discriminación y revisar las leyes que afectan a los iTaukei. El primer ministro Sitiveni Rabuka aseguró que no quita derechos a los no indígenas.",
+      "source": "Gobierno de Fiyi / Fiji Sun",
+      "url": "https://www.fiji.gov.fj/parliament-approves-bill-to-strengthen-indigenous-rights/"
+    },
+    {
+      "country": "Estados Unidos",
+      "category": "ciencia",
+      "text": "Investigadores de Yale describieron Anoplonyx rasnitsyni, una avispa sierra fósil de 50 millones de años encontrada en la Formación Green River, en Colorado.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-species-sawfly.html"
+    },
+    {
+      "country": "Kirguistán",
+      "category": "ambiente",
+      "text": "El titular del Fondo de Energía Verde de Kirguistán informó que este año se pusieron en marcha proyectos renovables por unos US$ 500 millones de inversión. Dato de una sola fuente.",
+      "source": "Asia Journalist Association",
+      "url": "https://theasian.asia/archives/205526"
+    },
+    {
+      "country": "Camboya",
+      "category": "economía",
+      "text": "Camboya y Singapur acordaron reforzar la cooperación en normas de seguridad alimentaria para facilitar las exportaciones de alimentos camboyanos. Dato de una sola fuente.",
+      "source": "Asia Journalist Association",
+      "url": "https://theasian.asia/archives/205530"
+    }
+  ],
+  "efemerides": {
+    "dia": "6 de noviembre",
+    "items": [
+      {
+        "year": "1844",
+        "text": "La República Dominicana promulga en San Cristóbal su primera Constitución, a meses de independizarse de Haití."
+      },
+      {
+        "year": "1860",
+        "text": "Abraham Lincoln gana las elecciones presidenciales de Estados Unidos, preludio de la secesión del Sur y la Guerra Civil."
+      },
+      {
+        "year": "1869",
+        "text": "Rutgers y Princeton juegan en Nueva Jersey el primer partido intercolegial de fútbol americano."
+      },
+      {
+        "year": "1903",
+        "text": "Francisco Pascasio Moreno dona al Estado argentino tierras junto al lago Nahuel Huapi, origen del sistema de parques nacionales. Por eso hoy es el Día de los Parques Nacionales."
+      },
+      {
+        "year": "1913",
+        "text": "Gandhi es detenido en Sudáfrica mientras encabezaba la Gran Marcha de mineros indios contra leyes discriminatorias."
+      },
+      {
+        "year": "1962",
+        "text": "La Asamblea General de la ONU aprueba la Resolución 1761, que condena el apartheid sudafricano y pide sanciones."
+      },
+      {
+        "year": "1975",
+        "text": "Comienza la Marcha Verde: unos 350.000 marroquíes cruzan hacia el Sahara Occidental, territorio todavía en disputa."
+      },
+      {
+        "year": "1985",
+        "text": "El M-19 toma el Palacio de Justicia en Bogotá. La retoma militar deja casi un centenar de muertos, entre ellos 11 magistrados de la Corte Suprema."
+      },
+      {
+        "year": "1994",
+        "text": "Tayikistán aprueba por referéndum su Constitución postsoviética en medio de la guerra civil."
+      },
+      {
+        "year": "1999",
+        "text": "Australia rechaza en referéndum convertirse en república y mantiene a la monarca británica como jefa de Estado."
+      }
+    ]
+  }
+}
