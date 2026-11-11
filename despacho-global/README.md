@@ -24,6 +24,7 @@ También se puede actualizar sin abrir la página: `python3 actualizar.py`.
 | `PROMPT.md` | Las instrucciones editoriales: secciones, criterios y formato. Para cambiar qué cubre el Despacho, editá esto. |
 | `actualizar.py` | Llama a Claude Code, valida el JSON y guarda la edición. |
 | `publicar.sh` | Sube la edición del día (`data/`) a GitHub. |
+| `diario.sh` | Lo que corre la tarea de la mañana: espera internet, arma la edición (hasta 3 intentos) y la publica. |
 | `server.py` | Servidor local, solo accesible desde tu Mac, que hace andar el botón. |
 | `data/edicion.json` | La edición vigente. |
 | `data/archivo/` | Una edición por día, más `indice.json` para el selector de ediciones anteriores. |
@@ -32,4 +33,4 @@ También se puede actualizar sin abrir la página: `python3 actualizar.py`.
 
 Online no hay servidor: el botón pasa a decir **Recargar** y trae la última edición subida.
 
-La tarea de la mañana arma la edición y después corre `publicar.sh`, que sube solo `data/` a GitHub. Para publicar a mano: `bash publicar.sh`.
+La tarea de la mañana corre `diario.sh`: espera hasta 20 minutos a que haya internet, arma la edición (hasta 3 intentos) y después corre `publicar.sh`, que sube solo `data/` a GitHub. Para publicar a mano: `bash publicar.sh`.
