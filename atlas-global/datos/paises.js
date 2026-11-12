@@ -489,3 +489,135 @@ COUNTRIES.push(
     updated: '30/10/2026'
   }
 );
+
+COUNTRIES.push(
+  {
+    id: 'esuatini', name: 'Esuatini', official: 'Reino de Esuatini (ex Suazilandia)', region: 'África', subregion: 'África Austral',
+    capital: 'Mbabane (administrativa) / Lobamba (real y legislativa)', population: '~1.2 millones',
+    geography: 'Pequeño reino sin salida al mar, encajado entre Sudáfrica y Mozambique. Mesetas y montañas en el oeste, sabana baja en el este.',
+    history: [
+      {period:'1968', text:'Independencia del Reino Unido el 6 de septiembre.'},
+      {period:'1973', text:'El rey Sobhuza II suspende la Constitución y prohíbe los partidos políticos, una prohibición que en la práctica sigue vigente.'},
+      {period:'1986', text:'Coronación de Mswati III, con 18 años.'},
+      {period:'2018', text:'El rey cambia por decreto el nombre del país de Suazilandia a Esuatini.'},
+      {period:'2021', text:'Protestas prodemocracia reprimidas con fuego real: las cifras de muertos van de 27 (gobierno) a cerca de 80 (organizaciones civiles).'},
+      {period:'2023', text:'Asesinato del abogado de derechos humanos Thulani Maseko en su casa, sin culpables hasta hoy.'}
+    ],
+    leader: {name:'Mswati III', role:'Rey (desde 1986). Primer ministro: Russell Mmiso Dlamini, designado por el rey en 2023',
+      bio:'Última monarquía absoluta de África: controla los tres poderes y nombra al primer ministro. En abril de 2026 celebró 40 años en el trono, entre críticas por el gasto de la corona en uno de los países más desiguales del mundo.'},
+    current: 'Esuatini se convirtió en destino de deportados de terceros países desde EE.UU.: el acuerdo cubre hasta 160 personas y Washington habría pagado US$ 5,1 M. Varios quedaron en la cárcel de máxima seguridad de Matsapha. En febrero de 2026 la Corte Superior rechazó una impugnación al acuerdo, y en abril la Corte Suprema ordenó que cuatro de ellos pudieran ver a un abogado, tras meses sin acceso. En octubre, el rey visitó Taiwán, que tiene en Esuatini a su último aliado diplomático en África.',
+    economy: {gdp:'~US$ 4.500–5.000 M (est.)', growth:'~3.7% (FMI, oct. 2026)', currency:'Lilangeni (atado al rand sudafricano, que también circula)',
+      industries:'Azúcar, concentrados para bebidas, textiles; ingresos de la Unión Aduanera de África Austral (SACU)',
+      weaknesses:'Fuerte dependencia de la SACU y de Sudáfrica, desempleo alto, la mayor prevalencia de VIH del mundo y una desigualdad extrema'},
+    government: 'Monarquía absoluta (sistema tinkhundla, con elecciones sin partidos)',
+    classification: 'No libre — 17/100, con 1/40 en derechos políticos (Freedom House, 2026)',
+    press: 'Puesto 101 de 180 en el índice de RSF 2026. RSF señala que la monarquía impide a los periodistas trabajar de forma libre e independiente.',
+    politicalPrisoners: 'Los diputados Mduduzi Bacede Mabuza y Mthandeni Dube, detenidos en julio de 2021 tras pedir reformas democráticas, fueron condenados por terrorismo y asesinato a 25 y 18 años de prisión. Organizaciones de derechos humanos consideran los cargos infundados.', repression: 'Partidos prohibidos, leyes de sedición y terrorismo usadas contra opositores y sindicalistas, e impunidad de las fuerzas de seguridad por las muertes de 2021.',
+    conflicts: 'Sin conflicto armado. La tensión es política: un movimiento prodemocracia (con el partido prohibido PUDEMO) frente a una corona que no cede poder.',
+    sources: 'Freedom House (Freedom in the World 2026) · RSF, 2026 · Amnistía Internacional, abr. 2026 · Reuters/US News, abr. 2026 · Focus Taiwan, oct. 2026 · Times of Eswatini · Human Rights Watch · IPS',
+    updated: '12/11/2026'
+  },
+  {
+    id: 'rca', name: 'República Centroafricana', official: 'República Centroafricana', region: 'África', subregion: 'África Central',
+    capital: 'Bangui', population: '~5.5–6 millones (est.)',
+    geography: 'En el corazón de África y sin salida al mar; limita con Chad, Sudán, Sudán del Sur, la R.D. del Congo, el Congo y Camerún. Sabana en el norte, selva en el sur.',
+    history: [
+      {period:'1960', text:'Independencia de Francia.'},
+      {period:'1966–1979', text:'Golpe de Jean-Bédel Bokassa, que en 1976 se proclama emperador. Lo derroca una intervención francesa.'},
+      {period:'2013', text:'La coalición rebelde Séléka, de mayoría musulmana, toma Bangui; le responden las milicias anti-balaka. Violencia sectaria masiva.'},
+      {period:'2014', text:'Llega la misión de paz de la ONU, MINUSCA.'},
+      {period:'2016', text:'Faustin-Archange Touadéra gana la presidencia.'},
+      {period:'2018', text:'Llegan instructores y mercenarios rusos del grupo Wagner, hoy rebautizado Africa Corps.'},
+      {period:'2023', text:'Referéndum que elimina el límite de mandatos presidenciales.'}
+    ],
+    leader: {name:'Faustin-Archange Touadéra', role:'Presidente (desde 2016, tercer mandato desde marzo 2026)',
+      bio:'Profesor de matemática y ex rector universitario, fue primer ministro de François Bozizé entre 2008 y 2013. Su seguridad depende de mercenarios rusos y, tras eliminar el límite de mandatos, fue reelecto en diciembre de 2025 con cerca del 78%.'},
+    current: 'Touadéra empezó su tercer mandato el 30 de marzo de 2026, tras una elección que la principal coalición opositora boicoteó. En el sudeste, la milicia zande AAKG combate al Ejército y a sus aliados rusos, y reaparecieron ataques del Ejército de Resistencia del Señor (LRA). El mandato de MINUSCA vence el 15 de noviembre y se espera su renovación. En Bangui, la oposición convocó a marchar el 13 de noviembre contra la suba del combustible y la detención de líderes civiles.',
+    economy: {gdp:'~US$ 3.490 M (FMI, abril 2026)', growth:'~2.6% (FMI, 2026)', currency:'Franco CFA de África Central',
+      industries:'Diamantes, oro, madera, algodón y café',
+      weaknesses:'Uno de los países más pobres del mundo (PBI por habitante cercano a US$ 600). Las minas están en zonas sin control estatal y parte de las concesiones fueron a manos de empresas ligadas a Rusia'},
+    government: 'República presidencialista (sin límite de mandatos desde 2023)',
+    classification: 'No libre — 5/100 (Freedom House, 2026)',
+    press: 'Freedom House le da 1 sobre 4 en libertad de medios: los periodistas independientes trabajan con escaso respaldo y bajo riesgo.',
+    politicalPrisoners: 'La oposición denuncia la detención de líderes de la sociedad civil; Freedom House describe una represión creciente de opositores en la capital.', repression: 'Violencia contra civiles, incluida violencia sexual, por milicias y fuerzas armadas. Los mercenarios rusos que apoyan al gobierno están acusados de abusos graves.',
+    conflicts: 'Conflicto armado vigente, aunque fragmentado. Muchos grupos rebeldes fueron desarmados o absorbidos, pero persisten milicias cerca de las minas, la AAKG en el Haut-Mbomou y el LRA. La guerra en Sudán empuja más violencia hacia el este.',
+    sources: 'Freedom House (Freedom in the World 2026) · Al Jazeera / AP, ene. 2026 · Security Council Report, nov. 2026 · Global Centre for R2P, jul. 2026 · Crisis Group, 2026 · ADF, feb. 2026 · FMI, 2026 · Embajada de EE.UU. en Bangui',
+    updated: '12/11/2026'
+  },
+  {
+    id: 'butan', name: 'Bután', official: 'Reino de Bután', region: 'Asia', subregion: 'Asia del Sur / Himalaya',
+    capital: 'Timbu', population: '~780.000 (est.)',
+    geography: 'Reino himalayo sin salida al mar, entre China (Tíbet) e India. Valles profundos y cumbres de más de 7.000 m; ríos que alimentan sus represas.',
+    history: [
+      {period:'1907', text:'Ugyen Wangchuck es coronado primer rey; la dinastía sigue en el trono.'},
+      {period:'1971', text:'Ingresa a la ONU.'},
+      {period:'1970s', text:'El cuarto rey acuña la idea de "Felicidad Nacional Bruta" como meta de gobierno.'},
+      {period:'1990s', text:'Expulsión de unos 100.000 lhotshampas, de habla nepalí, que pasan casi dos décadas en campos de refugiados en Nepal. Más de 100.000 fueron reasentados después, sobre todo en EE.UU.'},
+      {period:'2008', text:'Primera Constitución y primeras elecciones: pasa a ser una monarquía constitucional, por iniciativa del propio rey.'}
+    ],
+    leader: {name:'Tshering Tobgay', role:'Primer ministro (desde enero 2024)',
+      bio:'Ya había gobernado entre 2013 y 2018. Volvió con el Partido Democrático del Pueblo en las elecciones de 2024 y su gran apuesta es Gelephu Mindfulness City, una zona económica especial en la frontera con India. Por encima de él sigue el rey Jigme Khesar Namgyel Wangchuck, muy popular.'},
+    current: 'Tobgay presentó Gelephu Mindfulness City ante la ONU en septiembre de 2026 para atraer inversión, e India la respalda con un enlace ferroviario. A comienzos de noviembre se consagraron allí 108 estupas, una de ellas dedicada a Modi. En paralelo, el Estado vendió buena parte del bitcoin que había minado con energía hidroeléctrica: según datos de Arkham, a mediados de 2026 conservaba unos 3.500 BTC, frente a 13.000 en su pico de 2024. Y los jóvenes siguen emigrando, sobre todo a Australia.',
+    economy: {gdp:'~US$ 3.700 M (FMI, 2025/26, convertido de ngultrum)', growth:'~7.4% (FMI, 2025/26); el BAsD prevé 6% para 2026', currency:'Ngultrum (a la par con la rupia india)',
+      industries:'Hidroelectricidad exportada a India (cerca del 9% del PBI), turismo de alto costo, minería de bitcoin',
+      weaknesses:'Deuda pública cercana al 123% del PBI, en gran parte por préstamos para represas. Desempleo juvenil del 19% en 2024 y fuga de jóvenes. Depende casi por completo de India'},
+    government: 'Monarquía constitucional parlamentaria',
+    classification: 'Libre — 69/100 (Freedom House, 2026)',
+    press: 'Puesto 150 de 180 en el índice de RSF 2026. Mejoró dos lugares, pero empeoraron sus indicadores legal y de seguridad para periodistas.',
+    politicalPrisoners: 'Según Freedom House, presos políticos de habla nepalí detenidos en los años 90 o comienzos de los 2000 siguen tras las rejas, en condiciones duras. Investigaciones periodísticas nepalíes hablan de más de dos docenas.', repression: '',
+    conflicts: 'Sin conflicto armado. China instaló asentamientos y puestos en territorio que Bután reclama, y las deportaciones de refugiados lhotshampas desde EE.UU. reabrieron en 2025 la herida de los años 90.',
+    sources: 'Freedom House (Freedom in the World 2026) · FMI, Artículo IV, ene. 2026 · RSF, 2026 · CoinDesk / The Block, 2026 · ANI / Sentinel Assam, 2026 · Record Nepal · BAsD',
+    updated: '12/11/2026'
+  },
+  {
+    id: 'mongolia', name: 'Mongolia', official: 'Mongolia', region: 'Asia', subregion: 'Asia Oriental',
+    capital: 'Ulán Bator', population: '~3.5 millones',
+    geography: 'Estepa, desierto de Gobi y montañas entre Rusia y China, sin salida al mar. Es el país menos densamente poblado del mundo y cerca de la mitad de su gente vive en la capital.',
+    history: [
+      {period:'1921–1924', text:'Revolución con apoyo soviético y nacimiento de la República Popular de Mongolia, satélite de Moscú durante casi 70 años.'},
+      {period:'1990', text:'Revolución democrática pacífica y fin del régimen de partido único.'},
+      {period:'1992', text:'Nueva Constitución democrática.'},
+      {period:'2010s', text:'Boom minero de cobre y carbón, con la mina Oyu Tolgoi como emblema.'},
+      {period:'2023–2024', text:'Un "dzud", invierno extremo, mata 8,1 millones de cabezas de ganado.'},
+      {period:'2025', text:'Protestas juveniles por el lujo de la familia del primer ministro Oyun-Erdene, que pierde un voto de confianza en junio.'}
+    ],
+    leader: {name:'Nyam-Osor Uchral', role:'Primer ministro (desde marzo 2026)',
+      bio:'Nacido en 1987, empresario y ex artista de hip-hop. Fue ministro de Desarrollo Digital, presidente del Parlamento y es el líder del Partido Popular de Mongolia (PPM). Llegó como candidato de consenso entre facciones del partido y es el tercer primer ministro en menos de un año.'},
+    current: 'Zandanshatar renunció el 27 de marzo de 2026 para destrabar un Parlamento paralizado por el boicot opositor y las internas del PPM, y Uchral asumió con una coalición de tres partidos. La economía crece por las exportaciones de carbón a China, que subieron 56% en el primer semestre, y por el cobre. Pero la inflación llegó al 12% en junio y el FMI advierte que el gasto público va camino a desbordarse.',
+    economy: {gdp:'~US$ 23.000–26.000 M (est.)', growth:'~5.8% (FMI, 2026)', currency:'Tugrik',
+      industries:'Carbón (casi todo a China), cobre (Oyu Tolgoi), oro, ganadería y cachemira',
+      weaknesses:'Dependencia de un solo comprador, China, y de los precios del carbón. Inflación cercana al 10%, déficit fiscal del 6,6% del PBI, reservas por debajo del nivel adecuado según el FMI, corrupción'},
+    government: 'República parlamentaria con presidente electo (semipresidencial)',
+    classification: 'Libre — 84/100 (Freedom House, 2026)',
+    press: 'Puesto 85 de 180 en el índice de RSF 2026, 17 lugares arriba. RSF apunta a presiones legales y económicas que debilitan a los medios independientes.',
+    politicalPrisoners: '', repression: '',
+    conflicts: 'Sin conflicto armado. Sus riesgos son la inestabilidad política, una corrupción alimentada por redes de patronazgo y la vulnerabilidad climática de su economía pastoril.',
+    sources: 'Freedom House (Freedom in the World 2025 y 2026) · FMI, Artículo IV, ago. 2026 · RSF, 2026 · AP / Bloomberg, mar. 2026 · Mysteel, 2026 · Congressional Research Service',
+    updated: '12/11/2026'
+  },
+  {
+    id: 'vanuatu', name: 'Vanuatu', official: 'República de Vanuatu', region: 'Oceanía', subregion: 'Melanesia',
+    capital: 'Port Vila', population: '~330.000 (est.)',
+    geography: 'Archipiélago de unas 80 islas en forma de Y en el Pacífico Sur, con volcanes activos. Figura entre los países más expuestos del mundo a desastres naturales.',
+    history: [
+      {period:'1906–1980', text:'Condominio anglo-francés de las Nuevas Hébridas: dos administraciones, dos policías y dos sistemas escolares en simultáneo.'},
+      {period:'1980', text:'Independencia el 30 de julio, tras sofocar con tropas de Papúa Nueva Guinea un intento de secesión en la isla de Santo.'},
+      {period:'2015', text:'El ciclón Pam arrasa buena parte del país.'},
+      {period:'Dic. 2024', text:'Terremoto de magnitud 7,3 cerca de Port Vila, con al menos una docena de muertos.'},
+      {period:'2025', text:'Elecciones anticipadas en enero. En julio, la Corte Internacional de Justicia emite una opinión consultiva sobre las obligaciones de los Estados frente al cambio climático, una iniciativa impulsada por Vanuatu.'}
+    ],
+    leader: {name:'Jotham Napat', role:'Primer ministro (desde febrero 2025)',
+      bio:'Ex meteorólogo y responsable de gestión de desastres, diputado desde 2016 y ex canciller. Lidera el Leaders Party y gobierna con una coalición de cinco partidos, algo habitual en una política marcada por mociones de censura.'},
+    current: 'El 29 de junio de 2026 firmó con Australia el Acuerdo Nakamal, que impide bases militares extranjeras y obliga a consultar a Canberra sobre infraestructura crítica. En paralelo negoció un pacto separado con China, el Acuerdo Namele, y espera que se reduzca la presencia de policías chinos. En noviembre de 2026 la oposición presentó una moción de censura contra Napat, pero la retiró antes de votarla por diferencias sobre quién lo reemplazaría.',
+    economy: {gdp:'~US$ 1.400 M (FMI, abril 2026, citado por terceros)', growth:'~3.5% (FMI, abril 2026, citado por terceros)', currency:'Vatu',
+      industries:'Turismo, agricultura (copra, kava, carne vacuna), ciudadanía por inversión',
+      weaknesses:'Desastres recurrentes. La venta de pasaportes llevó a la UE a quitarle la exención de visa (en vigor desde febrero 2025), y la economía depende mucho de la ayuda externa'},
+    government: 'República parlamentaria democrática',
+    classification: 'Libre — 82/100 (Freedom House, 2026)',
+    press: 'Freedom House no señala restricciones graves a los medios; los problemas que marca son la corrupción y la inestabilidad de las coaliciones.',
+    politicalPrisoners: '', repression: '',
+    conflicts: 'Sin conflicto armado. Sus disputas son la competencia entre Australia y China por influencia en el Pacífico y la amenaza climática.',
+    sources: 'Freedom House (Freedom in the World 2026) · ABC News (Australia), abr.–oct. 2026 · Al Jazeera, jun. 2026 · RNZ / Vanuatu Daily Post, nov. 2026 · PINA · FMI · Consejo de la UE',
+    updated: '12/11/2026'
+  }
+);

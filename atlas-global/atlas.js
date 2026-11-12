@@ -19,7 +19,9 @@
     guatemala:[[-90.51,14.63,'Ciudad de Guatemala']], png:[[147.18,-9.44,'Port Moresby']],
     bosnia:[[18.41,43.86,'Sarajevo']], siria:[[36.29,33.51,'Damasco']], sudandelsur:[[31.58,4.85,'Yuba']],
     nicaragua:[[-86.24,12.11,'Managua']], georgia:[[44.79,41.72,'Tiflis']], surinam:[[-55.2,5.85,'Paramaribo']],
-    guineabisau:[[-15.6,11.86,'Bisáu']], timororiental:[[125.57,-8.56,'Dili']], kiribati:[[172.98,1.33,'Tarawa']]
+    guineabisau:[[-15.6,11.86,'Bisáu']], timororiental:[[125.57,-8.56,'Dili']], kiribati:[[172.98,1.33,'Tarawa']],
+    esuatini:[[31.14,-26.32,'Mbabane']], rca:[[18.56,4.36,'Bangui']], butan:[[89.64,27.47,'Timbu']],
+    mongolia:[[106.92,47.92,'Ulán Bator']], vanuatu:[[168.32,-17.73,'Port Vila']]
   };
 
   const SECCIONES = [
