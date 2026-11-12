@@ -1,0 +1,534 @@
+{
+  "edicion": 20,
+  "fecha": "2026-11-12",
+  "generado": "2026-11-12T10:27:41-03:00",
+  "nota_editor": "El INDEC publica hoy la inflación de octubre y Dublín reúne a más de 50 líderes europeos. Mientras tanto, Irán ataca un faro omaní en Ormuz y el ébola ya pasó los 11.000 casos en el Congo.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "sin cambios",
+      "nota": "cierre del miércoles 11/11"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.570",
+      "variacion": "",
+      "nota": "cierre del 11/11 según Minutoya"
+    },
+    {
+      "label": "Dólar mayorista",
+      "valor": "$1.544",
+      "variacion": "",
+      "nota": "cierre del 11/11 (El Observador lo da en $1.545,50)"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "852",
+      "variacion": "",
+      "nota": "cierre del 11/11; otras fuentes lo dan en 853 puntos básicos"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "83.456,77",
+      "variacion": "-0,76%",
+      "nota": "cierre del 11/11; los bonos en dólares subieron hasta 2,3%"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "1,9%",
+      "variacion": "+0,2 pp",
+      "nota": "septiembre de 2026; 33,4% interanual. El dato de octubre sale hoy"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$92,76",
+      "variacion": "",
+      "nota": "cierre del 11/11, con incertidumbre por la diplomacia EE.UU.-Irán"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Isla Didamar",
+      "country": "Omán",
+      "headline": "Irán ataca los sistemas de navegación de una isla omaní en el estrecho de Ormuz mientras Catar intenta salvar la negociación con EE.UU.",
+      "summary": "Tres fuentes le dijeron a Reuters que Irán atacó los equipos de navegación marítima de Didamar, un islote omaní deshabitado a unas 10 millas náuticas de la península de Musandam. La Guardia Revolucionaria dijo haber destruido «sistemas de navegación enemigos». Fuentes del sector naviero creen que el daño al tráfico comercial será limitado. Catar, el mediador, dice que hay «progreso» en el diálogo entre Washington y Teherán, pero Irán niega que haya negociaciones y el secretario de Estado Rubio calificó de «escandalosas» algunas de sus exigencias.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Arab News / Reuters",
+      "time_note": "ayer",
+      "lat": 26.6,
+      "lon": 56.4,
+      "url": "https://www.arabnews.com/middle-east/iran-attacks-shipping-navigation-systems-on-omans-didamar-island-sources-say-3011095"
+    },
+    {
+      "city": "Kinshasa",
+      "country": "República Democrática del Congo",
+      "headline": "El brote de ébola en el Congo supera los 11.000 casos y los 5.300 muertos",
+      "summary": "Según cifras del Instituto Nacional de Salud Pública publicadas el 10 de noviembre, el Congo suma 11.042 infecciones confirmadas y 5.387 muertes. Es el brote más grande y letal de la historia del país. Lo causa la cepa Bundibugyo, que mata a cerca de la mitad de los infectados y no tiene vacuna ni tratamiento específico. Hay ocho de las 26 provincias afectadas.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "Citi Newsroom / AFP",
+      "time_note": "ayer",
+      "lat": -4.3,
+      "lon": 15.3,
+      "url": "https://www.citinewsroom.com/2026/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths/"
+    },
+    {
+      "city": "Asunción",
+      "country": "Paraguay",
+      "headline": "La Fiscalía paraguaya pide hasta 15 años de cárcel para Santiago Peña, destituido por el caso Ueno Bank",
+      "summary": "El expresidente Santiago Peña, destituido por el Senado por mal desempeño, está en prisión preventiva en el Regimiento Guardia Presidencial. La Fiscalía lo imputó por lesión de confianza y administración en provecho propio, y estima que podría recibir hasta 15 años de prisión. El Partido Colorado lo expulsó el martes 10. El Banco Central había ordenado la resolución de Ueno Bank el 3 de noviembre.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Infobae / EFE",
+      "time_note": "ayer",
+      "lat": -25.3,
+      "lon": -57.6,
+      "url": "https://www.infobae.com/america/america-latina/2026/11/11/la-fiscalia-de-paraguay-estimo-que-santiago-pena-podria-recibir-hasta-15-anos-de-carcel-por-el-caso-ueno-bank/"
+    },
+    {
+      "city": "Dublín",
+      "country": "Irlanda",
+      "headline": "Más de 50 líderes europeos se reúnen hoy en Dublín en la novena cumbre de la Comunidad Política Europea",
+      "summary": "La cumbre, con el lema «Europa: fuerte, segura y conectada», la copresiden el presidente del Consejo Europeo, António Costa, y el primer ministro irlandés, Micheál Martin. Participan todos los Estados europeos menos Rusia, Bielorrusia y el Vaticano. Mañana, 13 de noviembre, los líderes de la UE tienen una reunión informal en la misma ciudad.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Consejo de la UE",
+      "time_note": "hoy",
+      "lat": 53.3,
+      "lon": -6.3,
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/"
+    },
+    {
+      "city": "Madrid",
+      "country": "España",
+      "headline": "Tras las cargas policiales en la huelga general del 11-N, Marlaska prohíbe el gas lacrimógeno y ordena una investigación",
+      "summary": "El ministro del Interior le pidió a la Policía que abra investigaciones específicas sobre las cargas y que no use gas lacrimógeno para controlar manifestaciones. Interior contó 1.144 incidencias y 47 detenidos, sin contar Cataluña ni el País Vasco. Los socios del Gobierno piden su renuncia, pero el ministro Félix Bolaños la descartó.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "El Español / Noticias de Navarra",
+      "time_note": "hoy",
+      "lat": 40.4,
+      "lon": -3.7,
+      "url": "https://www.elespanol.com/espana/politica/20261112/marlaska-ordena-investigar-cargas-policiales-huelga-general-socios-gobierno-piden-dimision/1003744455203_0.html"
+    },
+    {
+      "city": "Antalya",
+      "country": "Turquía",
+      "headline": "La COP31 pasa a la negociación con prioridades enfrentadas y una propuesta turca de electrificar el 35% de la energía en 2035",
+      "summary": "Tras dos días de discursos, los pequeños Estados insulares exigieron recortes urgentes de emisiones y los países en desarrollo pidieron más financiamiento. Los productores de petróleo, gas y carbón defendieron seguir usándolos. Turquía, que preside la conferencia, propuso una meta voluntaria: que la electricidad llegue al 35% del consumo final de energía en 2035, cuando hoy ronda un quinto. Los textos los redacta el australiano Chris Bowen, presidente de las negociaciones.",
+      "category": "clima",
+      "impact": "medio",
+      "source": "Al-Monitor / Reuters",
+      "time_note": "hoy",
+      "lat": 36.9,
+      "lon": 30.7,
+      "url": "https://www.al-monitor.com/originals/2026/11/world-leaders-set-out-clashing-priorities-cop31-turns-negotiations"
+    },
+    {
+      "city": "Lisboa",
+      "country": "Portugal",
+      "headline": "Por la tormenta Charles, Portugal cerró todas sus escuelas y canceló más de 300 vuelos",
+      "summary": "El Gobierno cerró escuelas y servicios públicos no esenciales el 11 de noviembre. Fue la primera vez que se recuerde que las cerca de 8.000 escuelas del país suspendieron clases en todo el territorio por una tormenta pronosticada. En Madeira, Charles trajo alerta roja, ráfagas de unos 130 km/h y olas de seis metros. La tormenta Bruna sigue casi inmóvil al noroeste de la península hasta el viernes.",
+      "category": "clima",
+      "impact": "medio",
+      "source": "Euronews / Al Jazeera",
+      "time_note": "ayer",
+      "lat": 38.7,
+      "lon": -9.1,
+      "url": "https://www.euronews.com/2026/11/11/portugal-closes-all-schools-and-non-essential-services-over-storm-charles"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Tesoro renovó solo el 84% de los vencimientos y liberó $1,7 billones al mercado",
+      "summary": "La Secretaría de Finanzas recibió ofertas por $11,6 billones, adjudicó $8,87 billones y anunció un rollover del 103,07%, pero ese cálculo deja afuera los bonos TX26 y TX28. Si se los cuenta, la renovación efectiva baja a cerca del 84%. Es la primera licitación expansiva desde agosto. La demanda se concentró en instrumentos a tasa TAMAR y el Tesoro tuvo que convalidar tasas más altas en los de tasa fija.",
+      "source": "Infobae / BAE Negocios",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/economia/2026/11/11/licitacion-clave-el-gobierno-renovo-el-84-de-los-vencimientos-de-deuda-y-libero-pesos-al-mercado/"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Cancillería calificó de «inadmisible» la designación iraní y le volvió a exigir a Teherán que entregue a los acusados por la AMIA y la Embajada",
+      "summary": "En un comunicado, el Gobierno dijo que la medida iraní no tiene sustento y que es una grave acusación contra instituciones de la Nación. También recordó que la Justicia argentina responsabilizó a Irán por los atentados de 1992 y 1994. Teherán presentó su decisión como una respuesta recíproca a que la Argentina incluyera a la Guardia Revolucionaria en el RePET. Según los reportes, no anunció sanciones concretas.",
+      "source": "La Nación / Ámbito",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-la-decision-de-iran-de-declarar-a-la-armada-y-a-la-fuerza-aerea-como-nid11112026/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Ofrecen $20 millones por el ex integrante de las Brigadas Rojas que se fugó de su arresto domiciliario en la Ciudad",
+      "summary": "Leonardo Bertulazzi, de 74 años y ex integrante de las Brigadas Rojas italianas, escapó el martes del departamento porteño donde cumplía arresto domiciliario. El Ministerio de Seguridad ofrece una recompensa de 20 millones de pesos a quien aporte datos que lleven a su captura.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/sociedad/policiales/2026/11/11/ofrecieron-20-millones-de-recompensa-para-detener-al-exintegrante-de-las-brigadas-rojas-italianas-que-se-fugo-en-buenos-aires/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Una consultora estima que la pobreza volvió a subir y alcanza a 16,2 millones de personas",
+      "summary": "ExQuanti calcula que en el tercer trimestre de 2026 había unas 16,2 millones de personas pobres, unas 3,4 millones más que un año antes. El cálculo combina datos de la EPH del INDEC con proyecciones de la Universidad Torcuato Di Tella. Según la consultora, frente a los 18 millones de fines de 2023 la baja neta durante el gobierno de Milei es de 1,8 millones de personas. Es una estimación privada, no un dato oficial.",
+      "source": "Noticias NQN / Perfil",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/09/360101-la-pobreza-llego-a-16_2-millones-de-argentinos-y-volvio-a-crecer-en-2026"
+    },
+    {
+      "tag": "Economía",
+      "city": "Paso de los Libres",
+      "country": "Argentina",
+      "headline": "El Gobierno avanza con la concesión privada del paso fronterizo de Paso de los Libres, con un solo oferente en carrera",
+      "summary": "El Decreto 1350/2026 declara de interés público una iniciativa privada para administrar y modernizar el centro de frontera con Brasil, que incluye el COTECAR y el Área de Control Integrado. La concesión sería por 20 años, prorrogable por cinco más. Los controles aduaneros y sanitarios seguirían en manos del Estado. Se presentaron ocho iniciativas, pero siete fueron descartadas, y la Jefatura de Gabinete todavía tiene que convocar la licitación.",
+      "source": "El Litoral / Perfil",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -29.7,
+      "lon": -57.1,
+      "url": "https://www.ellitoral.com.ar/nacional/2026-11-11-11-30-0-el-gobierno-avanza-con-la-concesion-privada-del-complejo-fronterizo-de-paso-de-los-libres"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Córdoba",
+      "country": "Argentina",
+      "headline": "Córdoba reabre la paritaria docente y la UEPC suspende la asamblea prevista para hoy",
+      "summary": "Después de reunirse el miércoles con el secretario general de la Gobernación, el gremio que conduce Roberto Cristalli anunció que la Provincia acepta reabrir la negociación salarial. Se armó una mesa de trabajo para responder al pliego docente, que incluye salarios, condiciones laborales y previsión. La reapertura después se extendería al resto de los gremios estatales.",
+      "source": "La Jornada Web / Hoy Día Córdoba",
+      "time_note": "ayer",
+      "impact": "bajo",
+      "lat": -31.4,
+      "lon": -64.2,
+      "url": "https://lajornadaweb.com.ar/el-gobierno-de-cordoba-reabrio-la-paritaria-docente-y-uepc-suspendio-la-asamblea-prevista-para-este-jueves/"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Se espera que hoy Scaloni y Tapia anuncien la renovación del DT de la Selección hasta el Mundial 2030",
+      "summary": "El anuncio se espera en la conferencia previa al amistoso con Uruguay. El contrato actual de Scaloni vence a fin de 2026. Algunos medios hablan de un vínculo directo hasta 2030 y otros de un acuerdo hasta 2028 con renovación automática hasta el Mundial del Centenario. Si se concreta, sería el primer técnico en dirigir tres Mundiales seguidos con la Argentina.",
+      "source": "Los Andes / MisionesOnline",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.losandes.com.ar/deportes/lionel-scaloni-renovara-la-seleccion-argentina-2030-y-buscara-dirigir-tres-mundiales-consecutivos-n6013778"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Mbabane",
+      "country": "Esuatini",
+      "category": "economía",
+      "headline": "Esuatini empezó a cerrar comercios de dueños asiáticos y les da 12 meses a los extranjeros en situación irregular para irse",
+      "summary": "El diputado Welcome Dlamini informó el martes 10 al Parlamento que el Ministerio de Comercio ya cierra tiendas de propietarios asiáticos en aplicación de la Ley de Empoderamiento Económico Ciudadano, tras inspecciones que empezaron en agosto. El Parlamento resolvió darles al menos 12 meses para irse, aunque para eso hay que reformar la ley. Hay diputados que advierten que no existe un plan para que comerciantes locales se hagan cargo de esos negocios.",
+      "por_que": "Es una muestra de la ola de nacionalismo comercial que se extiende por el sur de África, después de Sudáfrica y Kenia.",
+      "source": "Sahara Reporters / Africa Briefing",
+      "lat": -26.3,
+      "lon": 31.1,
+      "url": "https://saharareporters.com/2026/11/11/southern-africas-eswatini-orders-illegal-foreign-businesses-leave-12-months"
+    },
+    {
+      "region": "África",
+      "city": "Acra",
+      "country": "Ghana",
+      "category": "ambiente",
+      "headline": "Ghana quiere convertir Agbogbloshie, uno de los basurales electrónicos más conocidos del mundo, en fuente de 20.000 empleos",
+      "summary": "El país trabaja para transformar el vertedero de Agbogbloshie, sobre el delta de la laguna Korle, en Acra, en una industria de reciclaje con hasta 20.000 puestos permanentes. Según estudios académicos, el sitio da hoy empleo directo informal a unas 6.000 personas, muchas expuestas a sustancias tóxicas al quemar cables y aparatos. Dato de una sola fuente.",
+      "por_que": "Agbogbloshie es el símbolo de la basura electrónica que el norte exporta a África, y formalizar esa actividad podría proteger la salud de miles de trabajadores.",
+      "source": "OkayAfrica",
+      "lat": 5.6,
+      "lon": -0.2,
+      "url": "https://www.okayafrica.com/today-in-africa-nov-11-2026-ghana-is-turning-notorious-e-waste-dump-into-a-20000-job-industry-eswatini-shuts-down-asian-owned-shops/1441820"
+    },
+    {
+      "region": "Asia",
+      "city": "Daca",
+      "country": "Bangladés",
+      "category": "derechos",
+      "headline": "Los obreros textiles de Bangladés piden un salario mínimo de 32.000 takas, más del doble del actual",
+      "summary": "En la segunda reunión de la Junta de Salarios Mínimos, el 9 de noviembre, los representantes de los trabajadores propusieron subir el piso de 12.500 takas, vigente desde 2023, a 32.000, un aumento de alrededor del 156%. Para las categorías superiores pidieron hasta 48.000 takas. Los empresarios tienen cuatro días hábiles para presentar su contrapropuesta, y la junta quiere fijar la nueva escala en diciembre.",
+      "por_que": "Bangladés es el segundo exportador de ropa del mundo y lo que se decida afecta a millones de trabajadoras que cosen para las grandes marcas.",
+      "source": "The Daily Star (Bangladés)",
+      "lat": 23.8,
+      "lon": 90.4,
+      "url": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-pitch-tk-32000-wage-floor-4319716"
+    },
+    {
+      "region": "Asia",
+      "city": "Phnom Penh",
+      "country": "Camboya",
+      "category": "derechos",
+      "headline": "Antes de la cumbre de la Francofonía, la ONU y 70 ONG piden liberar a los cinco ambientalistas presos en Camboya",
+      "summary": "Los cinco jóvenes de Mother Nature Cambodia, presos desde 2024, esperan hace casi dos años una audiencia de apelación que el tribunal volvió a postergar sin nueva fecha. Un grupo de trabajo de la ONU concluyó que su detención es arbitraria. El gobierno de Hun Manet dice que el caso está en manos de la Justicia y que no hay que mezclarlo con la cumbre, adonde llegarán jefes de Estado como Emmanuel Macron.",
+      "por_que": "La cumbre pone a prueba si los países francófonos usarán su peso diplomático para defender a activistas ambientales en un régimen que reprime la protesta.",
+      "source": "AsiaNews / Cambodianess",
+      "lat": 11.6,
+      "lon": 104.9,
+      "url": "https://www.asianews.it/en/south-east-asia/cambodia/human-rights-violations-in-cambodia-at-the-francophone-summit"
+    },
+    {
+      "region": "Europa",
+      "city": "Tirana",
+      "country": "Albania",
+      "category": "política",
+      "headline": "El gobierno de Albania choca con jueces y fiscales por sus sueldos, y crecen las dudas sobre la independencia judicial",
+      "summary": "El primer ministro Edi Rama rechaza los aumentos que reclaman los magistrados y sostiene que quedarían mejor pagos que sus pares de Rumania, Grecia o Eslovenia. Cuatro asociaciones de jueces y fiscales llevaron la ley salarial al Tribunal Constitucional, y la Asociación Europea de Jueces advirtió que un proyecto que recalcula los sueldos de forma retroactiva ignora un fallo previo de ese tribunal.",
+      "por_que": "La reforma judicial es la condición central para que Albania avance en su ingreso a la Unión Europea.",
+      "source": "Balkan Insight",
+      "lat": 41.3,
+      "lon": 19.8,
+      "url": "https://balkaninsight.com/2026/11/11/politics-and-pay-albanian-govt-locks-horns-with-judges-prosecutors/bi/"
+    },
+    {
+      "region": "Europa",
+      "city": "Gospić",
+      "country": "Croacia",
+      "category": "ambiente",
+      "headline": "Decenas de miles de toneladas de basura tóxica en Gospić ponen contra las cuerdas al gobierno croata",
+      "summary": "En febrero de 2025 se descubrieron en una ex planta alimenticia de la región de Lika decenas de miles de toneladas de residuos ilegales que debían ser plásticos reciclables. Análisis de la Universidad de Zagreb detectaron químicos PFAS en el agua subterránea. La oposición presentó una moción de censura contra el primer ministro Andrej Plenković. La primera licitación para retirar los residuos no recibió ofertas y el caso ya llegó a Bruselas.",
+      "por_que": "Muestra cómo el tráfico de residuos peligrosos llega a zonas rurales de Europa y contamina el agua de comunidades enteras.",
+      "source": "Balkan Insight",
+      "lat": 44.5,
+      "lon": 15.4,
+      "url": "https://balkaninsight.com/2026/11/11/croatian-waste-scandal-turns-environment-into-political-battleground/bi/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Ciudad de Kuwait",
+      "country": "Kuwait",
+      "category": "política",
+      "headline": "Los países del Golfo instalarán en Kuwait un cuartel avanzado de su mando militar unificado",
+      "summary": "Reunidos en Manama, los ministros de Defensa del Consejo de Cooperación del Golfo aprobaron crear en Kuwait un cuartel avanzado del Mando Militar Unificado y asignarle tropas. El secretario general, Jasem Al-Budaiwi, vinculó la decisión con los ataques iraníes contra los países del bloque. No se informó cuándo empezará a funcionar ni cuántos efectivos tendrá. El cuartel central sigue en Riad.",
+      "por_que": "Muestra que las monarquías del Golfo empiezan a organizar su propia defensa ante la guerra con Irán, en lugar de depender solo de Estados Unidos.",
+      "source": "Kuwait Times / Gulf Business",
+      "lat": 29.4,
+      "lon": 48.0,
+      "url": "https://kuwaittimes.com/article/53407/kuwait/kuwait-to-host-gcc-forward-hq/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Damasco",
+      "country": "Siria",
+      "category": "derechos",
+      "headline": "Los tribunales de justicia transicional de Siria juzgan a los forenses que ocultaban las muertes de detenidos bajo Al Asad",
+      "summary": "El Cuarto Tribunal Penal de Justicia Transicional de Damasco celebró diez audiencias en un solo día. El acusado más conocido es el general de brigada Akram Al-Shaar, ex jefe forense del Hospital Militar Tishreen, señalado por encabezar comités que examinaban los cuerpos de los detenidos. La investigación abarca también el Hospital 601 y el de Harasta, por ocultar identidades y falsificar causas de muerte.",
+      "por_que": "Es uno de los primeros intentos de la nueva Siria de juzgar en su propio territorio el sistema de tortura y desaparición del régimen anterior.",
+      "source": "Arab News",
+      "lat": 33.5,
+      "lon": 36.3,
+      "url": "https://www.arabnews.com/middle-east/syria-trials-probe-military-hospitals-role-in-detainee-deaths-3011318"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Chihuahua",
+      "country": "México",
+      "category": "política",
+      "headline": "Sheinbaum pide a la Fiscalía investigar a fondo la presencia de la CIA en Chihuahua tras un informe del New York Times",
+      "summary": "Según el diario, el ex fiscal especial Guillermo Zuany Portillo colaboró más de seis meses con la CIA a cambio de recuperar su visa estadounidense, y la gobernadora Maru Campos estaba al tanto. Campos lo niega. Sheinbaum calificó el informe de «muy interesante» y recordó que cualquier agente estadounidense en México debe cumplir la Ley de Seguridad Nacional. El ex fiscal estatal César Jáuregui sigue detenido por el caso.",
+      "por_que": "Pone en tensión la cooperación en seguridad entre México y EE.UU. justo cuando Washington presiona por más acción contra los cárteles.",
+      "source": "Mexico News Daily / El Universal",
+      "lat": 28.6,
+      "lon": -106.1,
+      "url": "https://mexiconewsdaily.com/politics/sheinbaum-nyt-cia-chihuahua-mananera-wednesday/"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Fairbanks",
+      "country": "Estados Unidos",
+      "category": "ciencia",
+      "headline": "En el interior de Alaska hallan la que podría ser la vivienda más antigua del continente americano, de 13.800 años",
+      "summary": "En el sitio Shég' Xdaltth'í', unos 55 km al sudeste de Fairbanks, arqueólogos encontraron un fogón, un pozo pequeño y la marca de un poste de madera de un refugio de hace unos 13.800 años. Es unos 2.300 años más antiguo que la casa de Upward Sun River. El equipo de Kelly Graf, de la Universidad de Kansas, publicó el hallazgo en Science Advances y lo describe con cautela como la estructura habitacional más temprana posible de América del Norte.",
+      "por_que": "Cambia la imagen de los primeros pobladores de Beringia: no solo cazadores de paso, sino grupos que ya construían refugios estables.",
+      "source": "Alaska Public Media / Live Science",
+      "lat": 64.5,
+      "lon": -147.1,
+      "url": "https://alaskapublic.org/news/2026-11-11/interior-alaska-home-to-oldest-known-dwelling-in-western-hemisphere-research-shows"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Río Sarstún",
+      "country": "Guatemala",
+      "category": "política",
+      "headline": "Guatemala y Belice se acusan mutuamente de incursiones militares en el río Sarstún a semanas de los alegatos ante La Haya",
+      "summary": "Belice denunció el sábado 7 que dos lanchas guatemaltecas entraron en aguas que considera propias y se acercaron de forma intimidatoria a una patrulla cerca de la isla Sarstún, y prepara una protesta ante la OEA. El Ejército de Guatemala da la versión contraria: dice que fue una embarcación beliceña la que entró en aguas guatemaltecas y se retiró después de ser advertida. El diferendo territorial está ante la Corte Internacional de Justicia.",
+      "por_que": "Es uno de los pocos conflictos territoriales armados que siguen abiertos en América y podría escalar antes del fallo de la CIJ.",
+      "source": "Prensa Libre / La Hora",
+      "lat": 15.9,
+      "lon": -88.9,
+      "url": "https://www.prensalibre.com/guatemala/politica/guatemala-y-belice-cruzan-senalamientos-por-ingreso-de-embarcaciones-militares-a-sus-territorios-breaking/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Nueva Segovia",
+      "country": "Nicaragua",
+      "category": "derechos",
+      "headline": "Campesinos y ex combatientes de la Contra nicaragüense, engañados con ofertas de trabajo, terminan reclutados por el Cártel del Golfo",
+      "summary": "Una investigación de La Prensa reconstruye cómo hombres del norte de Nicaragua viajaron a Tamaulipas con promesas de trabajo en ranchos ganaderos o en Estados Unidos, con el traslado pagado. Al llegar los recibieron como miembros del cártel, les dieron armas y los mandaron a enfrentamientos. La Asociación Nicaragüense Pro Derechos Humanos (ANPDH) registró la repatriación de restos de nicaragüenses reclutados de esta manera.",
+      "por_que": "Expone cómo el crimen organizado mexicano recluta entre los campesinos pobres de Centroamérica, lejos de la mirada de los grandes medios.",
+      "source": "La Prensa (Nicaragua) / Infobae",
+      "lat": 13.6,
+      "lon": -86.0,
+      "url": "https://www.laprensani.com/2026/11/08/suplemento/la-prensa-domingo/3808727-bienvenidos-al-cartel-los-nicaraguenses-reclutados-para-matar-y-morir-en-mexico"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Numea",
+      "country": "Nueva Caledonia (Francia)",
+      "category": "política",
+      "headline": "Un diputado no independentista de Nueva Caledonia pide a Francia cortar la cooperación con Vanuatu por las islas Matthew y Hunter",
+      "summary": "Nicolas Metzdorf pidió en un video en Facebook que París retire a su embajador en Port Vila y suspenda la cooperación a través del instituto de investigación IRD y de la Agencia Francesa de Desarrollo, mientras Vanuatu mantenga su reclamo sobre los dos islotes. Vanuatu llevó la disputa a la Corte Internacional de Justicia en agosto. Analistas creen que Metzdorf no habla en nombre del gobierno francés.",
+      "por_que": "La disputa por dos islotes deshabitados mezcla soberanía marítima, descolonización y el futuro político de Nueva Caledonia.",
+      "source": "ABC Pacific / Vanuatu Daily Post",
+      "lat": -22.3,
+      "lon": 166.4,
+      "url": "https://www.abc.net.au/pacific/programs/pacificbeat/vannewcalstoush/107371954"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Honiara",
+      "country": "Islas Salomón",
+      "category": "ambiente",
+      "headline": "Islas Salomón reclama en la COP31 que la plata para el clima llegue antes de los desastres, no después",
+      "summary": "El ministro de Cambio Climático, Wayne Ghemu, dijo en Antalya que los largos trámites de acreditación y aprobación del financiamiento climático encarecen la reconstrucción y presionan los presupuestos nacionales. Contó que el seguro TrigaCash del Banco Central pagó a sus 35 asegurados dentro de las dos semanas posteriores al ciclón Maila. También admitió que su país todavía no tiene una entidad nacional acreditada para recibir fondos.",
+      "por_que": "Para los países insulares, que la ayuda llegue a tiempo puede definir si una comunidad se recupera de un ciclón o no.",
+      "source": "PINA (Pacific Islands News Association)",
+      "lat": -9.4,
+      "lon": 160.0,
+      "url": "https://pina.com.fj/2026/11/11/timing-is-everything-solomon-islands-minister-urges-faster-climate-payouts-at-cop31/"
+    }
+  ],
+  "breves": [
+    {
+      "country": "Perú",
+      "category": "ciencia",
+      "text": "Describieron Scaphokogia huachafo, un cachalote pigmeo de hace unos 6 millones de años hallado en Aguada de Lomas, en el sur de Perú. Tiene el cráneo más asimétrico que se conoce en un cetáceo: el hocico apunta unos 31 grados hacia abajo.",
+      "source": "Sci.News / Universidad de Zúrich",
+      "lat": -15.6,
+      "lon": -74.8,
+      "url": "https://www.sci.news/paleontology/scaphokogia-huachafo-15184.html"
+    },
+    {
+      "country": "Tonga",
+      "category": "economía",
+      "text": "Tonga lanzó en Tongatapu y Vava'u un sistema de certificación orgánica comunitaria, en el que los propios agricultores se evalúan entre pares. Es una alternativa barata a las certificadoras externas, y los primeros productores ya recibieron el sello Organic Pasifika. Dato de una sola fuente.",
+      "source": "PACNEWS / Islands Business",
+      "lat": -21.1,
+      "lon": -175.2,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-three-09-november-2026/"
+    },
+    {
+      "country": "Bolivia",
+      "category": "economía",
+      "text": "Después de 15 años, Bolivia volvió a exportar algodón: salieron hacia Paraguay 110 fardos, unas 23 toneladas por cerca de 50.000 dólares. Además se abrieron los mercados de Perú y Ecuador, y el área sembrada se duplicaría a 10.000 hectáreas en 2027.",
+      "source": "Opinión / ABI",
+      "lat": -17.8,
+      "lon": -63.2,
+      "url": "https://www.opinion.com.bo/pais/15-anos-bolivia-volvera-exportar-algodon-paraguay-abre-mercado-peruano/20261109183745998911.html"
+    },
+    {
+      "country": "Kenia",
+      "category": "salud",
+      "text": "Kenia dio de alta a su último paciente de ébola, con lo que suma siete recuperados, y empezó la cuenta regresiva de 42 días para ser declarada libre del virus. Dato de una sola fuente: reportes de días anteriores indicaban que todavía quedaba un paciente internado.",
+      "source": "allAfrica",
+      "lat": -1.3,
+      "lon": 36.8,
+      "url": "https://allafrica.com/stories/202611120147.html"
+    },
+    {
+      "country": "Fiyi",
+      "category": "ambiente",
+      "text": "Según un informe del Fiji Times, el nivel del mar alrededor de Fiyi sube hasta 5 milímetros por año. Al mismo tiempo, El Niño ya tiene bajo estrés a casi una de cada cuatro fuentes de agua del país.",
+      "source": "PACNEWS / Fiji Times",
+      "lat": -18.1,
+      "lon": 178.4,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-three-09-november-2026/"
+    },
+    {
+      "country": "México",
+      "category": "ciencia",
+      "text": "Sheinbaum anunció tres nuevos apoyos para estudiantes de ciencias, entre ellos un fondo de 100 millones de pesos para financiar proyectos de jóvenes científicos.",
+      "source": "La Jornada",
+      "lat": 19.4,
+      "lon": -99.1,
+      "url": "https://www.jornada.com.mx/2026/11/11/ciencias/a06n1cie?partner=rss"
+    },
+    {
+      "country": "Islas Salomón",
+      "category": "ambiente",
+      "text": "Islas Salomón, uno de los países más expuestos al cambio climático, se comprometió a aportar unos 400.000 dólares a la tercera reposición del Fondo Verde para el Clima, según anunció el primer ministro Matthew Wale en la COP31.",
+      "source": "PINA",
+      "lat": -9.4,
+      "lon": 160.0,
+      "url": "https://pina.com.fj/2026/11/12/solomon-islands-pledges-usd400k-to-gcf/"
+    }
+  ],
+  "efemerides": {
+    "dia": "12 de noviembre",
+    "items": [
+      {
+        "year": "1863",
+        "text": "Fusilan en Olta, La Rioja, al caudillo federal Ángel Vicente «Chacho» Peñaloza, después de que lo capturaran las fuerzas del gobierno nacional."
+      },
+      {
+        "year": "1864",
+        "text": "Paraguay captura el vapor brasileño Marqués de Olinda en el río Paraguay, el hecho que desencadena la Guerra de la Triple Alianza."
+      },
+      {
+        "year": "1893",
+        "text": "Afganistán y la India británica firman el acuerdo que traza la Línea Durand, la frontera que todavía hoy divide a los pueblos pastunes entre Afganistán y Pakistán."
+      },
+      {
+        "year": "1912",
+        "text": "Una partida de rescate encuentra en la Antártida la carpa con los cuerpos del explorador Robert Falcon Scott y dos de sus compañeros."
+      },
+      {
+        "year": "1918",
+        "text": "Tras la caída del Imperio austrohúngaro, Austria se proclama república."
+      },
+      {
+        "year": "1948",
+        "text": "El Tribunal Militar Internacional para el Lejano Oriente condena a muerte al ex primer ministro japonés Hideki Tojo y a otros seis líderes por crímenes de guerra."
+      },
+      {
+        "year": "1954",
+        "text": "Muere en Buenos Aires el médico Luis Agote, que en 1914 creó el método para hacer transfusiones de sangre sin que esta se coagule."
+      },
+      {
+        "year": "1963",
+        "text": "Muere en un accidente de tránsito el boxeador José María «El Mono» Gatica, ídolo popular del boxeo argentino."
+      },
+      {
+        "year": "1970",
+        "text": "El ciclón Bhola llega a Pakistán Oriental (hoy Bangladés). Mata a cientos de miles de personas y la respuesta del gobierno acelera la independencia del país."
+      },
+      {
+        "year": "1991",
+        "text": "Tropas indonesias abren fuego contra manifestantes en el cementerio de Santa Cruz, en Dili, Timor Oriental, y matan a más de 250 personas. La masacre llevó al mundo la lucha timorense por la independencia."
+      },
+      {
+        "year": "2014",
+        "text": "El módulo Philae, de la misión europea Rosetta, se convierte en el primer aparato en posarse sobre un cometa, el 67P/Churyumov-Gerasimenko."
+      }
+    ]
+  }
+}
