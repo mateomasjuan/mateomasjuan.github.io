@@ -1,0 +1,530 @@
+{
+  "edicion": 21,
+  "fecha": "2026-11-13",
+  "generado": "2026-11-13T07:45:00-03:00",
+  "nota_editor": "Día cargado: el dato de inflación más alto en seis meses en la Argentina, la salida de Jensen Huang de Nvidia y el Brent arriba de US$95 por los ataques hutíes contra Arabia Saudita.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (venta)",
+      "valor": "$1.570",
+      "variacion": "",
+      "nota": "última cotización informada al 13/11; compra a $1.520"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.565",
+      "variacion": "",
+      "nota": "venta; compra a $1.545 (Ámbito/El Cronista)"
+    },
+    {
+      "label": "Dólar MEP",
+      "valor": "$1.573,95",
+      "variacion": "",
+      "nota": "CCL en $1.679,19"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "< 830",
+      "variacion": "baja",
+      "nota": "volvió a ceder; el 5/11 había tocado 925, su máximo del año"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "s/d",
+      "variacion": "baja",
+      "nota": "quinta caída consecutiva; sin cierre confirmado en puntos"
+    },
+    {
+      "label": "Inflación octubre (INDEC)",
+      "valor": "2,2%",
+      "variacion": "+0,3 pp",
+      "nota": "33,1% interanual; 26,3% acumulado en 2026"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$95,82",
+      "variacion": "+3,3%",
+      "nota": "cierre del 12/11"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Santa Clara",
+      "country": "Estados Unidos",
+      "headline": "Jensen Huang renunció a Nvidia tras 33 años y Colette Kress queda como CEO interina",
+      "summary": "Nvidia informó a la SEC que Huang dejó la presidencia, la dirección ejecutiva y su lugar en el directorio con efecto inmediato. La jefa de finanzas, Colette Kress, de 59 años, asume como CEO interina, y Harvey Jones pasa a presidir el directorio. Según CBS News, la salida se da en medio de una investigación por la relación de Huang con una mujer que las agencias de inteligencia de EE.UU. sospechan que espiaba para China. Las acciones cayeron más de 12% en las primeras operaciones.",
+      "category": "tecnología",
+      "impact": "alto",
+      "source": "Al Jazeera / CBS News / SEC",
+      "time_note": "ayer",
+      "lat": 37.4,
+      "lon": -122.0,
+      "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
+    },
+    {
+      "city": "Yanbu",
+      "country": "Arabia Saudita",
+      "headline": "Los hutíes dicen haber atacado el oleoducto Este-Oeste y Yanbu, y el Brent sube 3,3%",
+      "summary": "El 12 de noviembre los hutíes de Yemen afirmaron haber atacado con un dron una estación de bombeo y con un misil balístico instalaciones petroleras en Yanbu. Riad solo confirmó daños limitados en ataques anteriores: un incendio menor en el oleoducto y una torre de Aramco dañada en Riad. El Brent cerró en US$95,82 el barril, impulsado además por los reportes de explosiones en cuatro petroleros en Ormuz.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Nation Thailand / Al Jazeera",
+      "time_note": "ayer",
+      "lat": 24.1,
+      "lon": 38.1,
+      "url": "https://www.nationthailand.com/news/world/40073442"
+    },
+    {
+      "city": "Moscú",
+      "country": "Rusia",
+      "headline": "Putin acepta que Europa se sume a las negociaciones y se acuerda el mayor canje de prisioneros de la guerra",
+      "summary": "Steve Witkoff y Jared Kushner se reunieron con Putin en el Kremlin después de dos días de conversaciones entre rusos y ucranianos en Abu Dabi. Según Witkoff, Putin aceptó que haya representantes europeos en la próxima ronda. Kushner habló del mayor intercambio de prisioneros desde 2022, cuyos detalles todavía no se conocen. Los enviados viajaron luego a Dublín para informar a Zelenski.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "CNN / Washington Times",
+      "time_note": "ayer",
+      "lat": 55.8,
+      "lon": 37.6,
+      "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl"
+    },
+    {
+      "city": "Tapachula",
+      "country": "México",
+      "headline": "Trump amenaza con duplicar los aranceles a México por una caravana de más de 1.000 migrantes",
+      "summary": "El presidente de EE.UU. amenazó el jueves con duplicar los aranceles a los productos mexicanos si México no frena a los migrantes que cruzan su territorio. La advertencia llegó dos días después de que una caravana de más de 1.000 personas saliera a pie desde Tapachula, en Chiapas.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "Mexico News Daily",
+      "time_note": "ayer",
+      "lat": 14.9,
+      "lon": -92.3,
+      "url": "https://mexiconewsdaily.com/politics/trump-threatens-double-tariffs-mexico-migrant-caravan/"
+    },
+    {
+      "city": "Yakarta",
+      "country": "Indonesia",
+      "headline": "Renunció el vicepresidente de Indonesia, Gibran Rakabuming, cuestionado por sus títulos académicos",
+      "summary": "Gibran, hijo del expresidente Joko Widodo, presentó la renuncia horas antes de que el Parlamento tratara un pedido de juicio político firmado por más de 120 políticos. Es el primer vicepresidente elegido en forma directa que no completa su mandato. Prabowo tiene 14 días para proponer dos candidatos, y el Parlamento, 60 para elegir al reemplazante.",
+      "category": "política",
+      "impact": "medio",
+      "source": "ABC News (Australia) / SCMP",
+      "time_note": "ayer",
+      "lat": -6.2,
+      "lon": 106.8,
+      "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Trump dice que EE.UU. ya no necesita un acuerdo con Irán, y Teherán amplía su lista de blancos",
+      "summary": "Trump cambió de postura y afirmó que su país ya no necesita un acuerdo con Irán, aunque días antes había calificado de «bastante improbable» una nueva acción militar. Las Fuerzas Armadas iraníes actualizaron su lista de posibles blancos para una eventual guerra y quitaron las restricciones geográficas a sus represalias. El estrecho de Ormuz sigue prácticamente cerrado al tráfico comercial.",
+      "category": "política",
+      "impact": "alto",
+      "source": "The National / Middle East Eye",
+      "time_note": "ayer",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://thenationalnews.com/news/us/2026/11/12/iran-deal-trump"
+    },
+    {
+      "city": "Shenzhen",
+      "country": "China",
+      "headline": "Pekín y Moscú negocian una cumbre Xi-Trump-Putin para el APEC de Shenzhen",
+      "summary": "China confirmó que conversa con las «partes relevantes» sobre un encuentro de los tres líderes en la cumbre APEC del 18 y 19 de noviembre, que todavía no está confirmado. Trump se mostró abierto a hablar de armas nucleares, mientras que Putin pone el foco en Ucrania, sin Kiev en la mesa. Algunos analistas lo comparan con Yalta en 1945.",
+      "category": "política",
+      "impact": "medio",
+      "source": "The Japan Times / Washington Post",
+      "time_note": "esta semana",
+      "lat": 22.5,
+      "lon": 114.1,
+      "url": "https://www.japantimes.co.jp/news/2026/11/12/world/politics/xi-trump-putin-summit-1945-yalta/"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La inflación de octubre fue de 2,2%, la más alta desde abril",
+      "summary": "El INDEC informó una suba de 2,2% frente al 1,9% de septiembre, con 33,1% interanual y 26,3% acumulado en diez meses. La división que más subió fue Vivienda, agua, electricidad y gas (4,2%), y los precios estacionales aumentaron 5,5%. La núcleo marcó 1,5%, según Caputo el valor más bajo en 15 meses. Las consultoras esperaban entre 1,8% y 2,1%.",
+      "source": "Infobae / Chequeado",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/economia/2026/11/12/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Gobierno convocará a sesiones extraordinarias para el Presupuesto 2027 y la suspensión de las PASO",
+      "summary": "Martín Menem confirmó que el Ejecutivo llamará a extraordinarias para acelerar el Presupuesto 2027 y la reforma política, que incluye suspender las PASO. Todavía no se conoce la lista de temas. Gabriel Bornoroni se reunió con el PRO, la UCR, Provincias Unidas y otros bloques dialoguistas para ordenar el tratamiento del Presupuesto.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/12/el-gobierno-llamara-a-sesiones-extraordinarias-los-proyectos-clave-que-entraran-y-los-que-estan-en-duda/"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Milei prometió ante empresarios llevar la apertura de la economía del 30% al 90%",
+      "summary": "En la gala de Endeavor Argentina 2026, el Presidente dijo que el coeficiente de apertura del país es del 30% y que debería llegar al 90%. El discurso coincidió con el peor dato de inflación en seis meses.",
+      "source": "Infobae",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/13/javier-milei-hablo-ante-empresarios-y-prometio-llevar-la-apertura-de-la-economia-al-90/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Jubilados, piqueteros e izquierda vuelven a la calle: jornada nacional el miércoles 18",
+      "summary": "Menos de 24 horas después de la partida del papa León XIV, las organizaciones reactivaron su plan de lucha contra el Gobierno. Convocaron a una protesta nacional para el miércoles 18 de noviembre frente a las oficinas de ANSES, con marcha al Congreso.",
+      "source": "Infobae",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/13/jubilados-piqueteros-y-partidos-de-izquierda-reactivan-el-plan-de-lucha-contra-el-gobierno-a-horas-de-la-partida-del-papa/"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Malvinas: tras la ofensiva contra el Reino Unido, el Gobierno mira la conexión aérea Punta Arenas-Malvinas",
+      "summary": "Después de las denuncias penales contra petroleras y directivos que operan en las islas, la Cancillería pone ahora el foco en Chile y en la ruta que une Punta Arenas con Malvinas. Por el proyecto Sea Lion se espera el fallo de un tribunal internacional para el 28 de noviembre.",
+      "source": "Infobae",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/13/despues-de-la-ofensiva-contra-el-reino-unido-la-argentina-mira-a-chile-por-la-conexion-punta-arenas-malvinas/"
+    },
+    {
+      "tag": "Ciencia",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Senado distinguió a investigadores e institutos del CONICET con la Mención al Valor Científico",
+      "summary": "El 12 de noviembre, la Cámara alta premió a científicos de varias disciplinas. Entre ellos estuvieron Lucio Ibiricu, del IPGP-CONICET, y Renata Reinheimer, del Instituto de Agrobiotecnología del Litoral (CONICET-UNL).",
+      "source": "Cadena 3 / CONICET",
+      "time_note": "ayer",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.cadena3.com/noticia/ciencia/investigadores-del-conicet-premiados-por-el-senado-por-sus-aportes-a-la-ciencia-argentina_612526"
+    },
+    {
+      "tag": "Cultura",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Mañana es la Noche de los Museos, con una convocatoria récord y entrada gratis",
+      "summary": "La 22.ª edición será el sábado 14 de noviembre de 19 a 2, con acceso libre a museos, centros culturales y edificios históricos. Time Out habla de más de 350 espacios, pero otras fuentes dan entre 200 y 250 y el listado oficial todavía no se conoce.",
+      "source": "Time Out / Perfil",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.timeout.com/es/buenos-aires/noche-de-los-museos-agenda-que-hacer"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Kinshasa",
+      "country": "República Democrática del Congo",
+      "category": "política",
+      "headline": "Tshisekedi promulgó la ley de referéndum que abre la puerta a una nueva Constitución",
+      "summary": "El presidente congoleño firmó alrededor del 10 de noviembre una ley que regula cómo redactar una nueva Constitución y someterla a referéndum, y cómo reformar la actual. La oposición teme que se use para eliminar el límite de dos mandatos, que hoy el Parlamento no puede tocar. Tshisekedi niega buscar un tercer mandato, pero dijo que lo aceptaría si el pueblo lo quisiera. Todavía no hay fecha de consulta.",
+      "por_que": "El país más grande del África subsahariana, en plena epidemia de ébola y con conflicto en el este, podría reescribir sus reglas de alternancia en el poder.",
+      "source": "allAfrica / Africanews / Reuters",
+      "lat": -4.3,
+      "lon": 15.3,
+      "url": "https://allafrica.com/stories/202611130005.html"
+    },
+    {
+      "region": "África",
+      "city": "Takoradi",
+      "country": "Ghana",
+      "category": "economía",
+      "headline": "Ghana encuentra por primera vez hidrocarburos en un reservorio de carbonatos",
+      "summary": "El pozo Nya Gyidie-1X, en el bloque Deepwater Cape Three Points, perforado con 2.289 metros de agua, halló hidrocarburos entre 3.364 y 3.499 metros de profundidad en una formación carbonatada del Cenomaniano-Turoniano que nunca se había probado. Los hallazgos anteriores de la zona eran en arenisca. La operadora Planet One tiene el 75%, la estatal GNPC el 15% y GOIL el 10%. Todavía no hay estimación de volumen ni de caudal.",
+      "por_que": "Abre un tipo de yacimiento nuevo en el offshore ghanés y puede cambiar el mapa exploratorio del golfo de Guinea.",
+      "source": "Graphic Online / Ghana News Agency",
+      "lat": 4.9,
+      "lon": -1.8,
+      "url": "https://www.graphic.com.gh/business/business-news/gnpc-welcomes-nya-gyidie-1x-hydrocarbon-discovery-offshore-ghana.html"
+    },
+    {
+      "region": "Asia",
+      "city": "Astaná",
+      "country": "Kazajistán",
+      "category": "economía",
+      "headline": "Detienen a los jefes del fondo soberano Samruk-Kazyna y de los ferrocarriles estatales por corrupción",
+      "summary": "El servicio anticorrupción del Comité de Seguridad Nacional detuvo el 11 de noviembre a Nurlan Zhakupov, al frente de Samruk-Kazyna, y a Yelzhas Otynshiyev, de la ferroviaria KTZ, junto con otras personas. Tokayev dijo que es una señal de corrupción extendida en las empresas estatales. Según Bloomberg, el caso probablemente demore la salida a bolsa de KTZ en Londres y Hong Kong.",
+      "por_que": "Golpea a la cúpula del fondo que controla buena parte de la economía kazaja y a uno de los ejes de los corredores logísticos entre China y Europa.",
+      "source": "The Times of Central Asia / Bloomberg",
+      "lat": 51.2,
+      "lon": 71.4,
+      "url": "https://timesca.com/kazakhstan-detains-heads-of-samruk-kazyna-and-national-railways-in-corruption-probe/"
+    },
+    {
+      "region": "Asia",
+      "city": "Naipyidó",
+      "country": "Myanmar",
+      "category": "política",
+      "headline": "La búsqueda de tierras raras acerca a Washington a la junta militar de Myanmar",
+      "summary": "EE.UU. reabrió conversaciones con el régimen militar, que busca inversiones estadounidenses en la minería de tierras raras. Según el Stimson Center, en el país hay más de 600 minas de tierras raras. Mongabay ya había documentado que sus desechos tóxicos llegan a ríos de Tailandia.",
+      "por_que": "La carrera por los minerales críticos puede darle legitimidad a una junta aislada desde el golpe de 2021.",
+      "source": "ABC News (Australia)",
+      "lat": 19.7,
+      "lon": 96.1,
+      "url": "https://www.abc.net.au/news/2026-11-13/trump-quest-for-rare-earths-brings-us-closer-to-myanmar-regime/107376926"
+    },
+    {
+      "region": "Europa",
+      "city": "Yambol",
+      "country": "Bulgaria",
+      "category": "sociedad",
+      "headline": "Doce muertos en el peor choque múltiple de la historia de Bulgaria, en la autopista Trakia",
+      "summary": "Con niebla cerrada, dos choques en cadena cerca del cruce de Zimnitsa dejaron 12 muertos y unos 50 heridos, que fueron llevados a hospitales de Yambol, Sliven y Burgas. Según el Ministerio del Interior, todo empezó cuando un camión con granos le cerró el paso a un micro. El primer ministro Rumen Radev decretó duelo nacional el 11 de noviembre.",
+      "por_que": "Reabre el debate sobre la seguridad vial en uno de los países de la UE con más muertes en ruta por habitante.",
+      "source": "Al Jazeera / Balkan Insight",
+      "lat": 42.5,
+      "lon": 26.5,
+      "url": "https://www.aljazeera.com/amp/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria"
+    },
+    {
+      "region": "Europa",
+      "city": "Skopie",
+      "country": "Macedonia del Norte",
+      "category": "economía",
+      "headline": "Colas en los cajeros y oposición en pie de guerra por la filial de un banco serbio quebrado",
+      "summary": "Las autoridades pusieron bajo administración temporal a la filial macedonia de Alta Banka, de Serbia, el 1 de noviembre, lo que provocó colas en los cajeros y preocupación entre los ahorristas. La oposición acusa al gobierno de haber manejado mal el caso.",
+      "por_que": "Muestra cómo una crisis bancaria en Serbia puede contagiar a un vecino chico que aspira a entrar en la UE.",
+      "source": "Balkan Insight",
+      "lat": 42.0,
+      "lon": 21.4,
+      "url": "https://balkaninsight.com/2026/11/12/north-macedonia-opposition-accuses-govt-over-subsidiary-of-failed-serbian-bank/bi/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Beirut",
+      "country": "Líbano",
+      "category": "política",
+      "headline": "Encuentran estrangulado en Beirut al ex diputado iraquí Ahmed al Alwani",
+      "summary": "Al Alwani, referente de las protestas suníes de 2013, estuvo más de diez años preso y fue liberado en 2025. Lo hallaron muerto en un departamento del barrio Tariq al Jdideh, golpeado en la cabeza y estrangulado. Según la Justicia libanesa, participaron tres personas, dos de ellas extranjeras que huyeron a Siria. Su familia culpa a Hezbolá, e Irak mandó una delegación de seguridad y advirtió contra la incitación sectaria.",
+      "por_que": "El crimen puede reavivar las tensiones sectarias en Irak y complica la relación entre Bagdad y Beirut.",
+      "source": "Al-Monitor / Arab News / Rudaw",
+      "lat": 33.9,
+      "lon": 35.5,
+      "url": "https://www.al-monitor.com/originals/2026/11/ex-iraqi-mp-ahmed-alwani-found-dead-lebanon-what-know"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Fujaira",
+      "country": "Emiratos Árabes Unidos",
+      "category": "sociedad",
+      "headline": "Catorce muertos y 30 heridos en un choque múltiple en Fujaira",
+      "summary": "El accidente, en el que participaron varios vehículos, ocurrió en la madrugada del jueves en la calle Sheikh Khalifa bin Zayed de Fujaira, según The National. El primer ministro del Kurdistán iraquí, Masrour Barzani, envió sus condolencias a los Emiratos.",
+      "por_que": "Es uno de los peores accidentes viales de los últimos años en los Emiratos, en una ruta clave hacia la costa del golfo de Omán.",
+      "source": "The National / Kurdistan24",
+      "lat": 25.1,
+      "lon": 56.3,
+      "url": "https://thenationalnews.com/news/uae/2026/11/12/fujairah-road-accident-truck-crash-latest-toll-updates"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Ottawa",
+      "country": "Canadá",
+      "category": "derechos",
+      "headline": "Diez años de recomendaciones y casi nada cambió: el informe sobre la sobrerrepresentación indígena en las cárceles",
+      "summary": "El nuevo informe del Investigador Correccional de Canadá revisa una década de recomendaciones y concluye que hubo pocos avances para reducir la sobrerrepresentación de indígenas en las cárceles federales. Describe al Servicio Correccional como un organismo reacio al riesgo y centrado en la seguridad, con los programas para indígenas relegados a los márgenes.",
+      "por_que": "La población indígena sigue llenando las cárceles canadienses pese a años de compromisos de reconciliación.",
+      "source": "APTN News",
+      "lat": 45.4,
+      "lon": -75.7,
+      "url": "https://aptnnews.ca/national-news/newest-report-from-correctional-investigator-says-10-year-review-of-prison-life-shows-little-has-changed"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Pemberton",
+      "country": "Canadá",
+      "category": "ambiente",
+      "headline": "Inundaciones en Columbia Británica: la Nación Líl̓wat amplía la evacuación a lo largo del río Lillooet",
+      "summary": "Las lluvias intensas obligaron a emitir órdenes de refugiarse en el lugar en el valle de Pemberton y en partes de Squamish, con rutas cortadas. La Nación Líl̓wat calcula que hay decenas de viviendas afectadas y amplió la orden de evacuación sobre el corredor del río Lillooet. Todavía no hay una estimación de daños.",
+      "por_que": "Las comunidades originarias de la costa oeste canadiense vuelven a estar en primera línea frente a los eventos extremos.",
+      "source": "APTN News / CBC",
+      "lat": 50.3,
+      "lon": -122.8,
+      "url": "https://aptnnews.ca/national-news/shelter-in-place-advisory-issued-near-squamish-b-c-due-to-flooding-from-heavy-rain"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "La Paz",
+      "country": "Bolivia",
+      "category": "política",
+      "headline": "García Linera confirma que está asilado en México, y Evo Morales lo acusa de haber escapado «cobardemente»",
+      "summary": "El exvicepresidente Álvaro García Linera confirmó el jueves que está en México con asilo político, en medio de una investigación contra él y Evo Morales por un operativo policial de 2009 en Santa Cruz. La Cancillería boliviana pidió información oficial a México. Ese mismo día, el Banco Mundial aprobó US$500 millones para respaldar las reformas del gobierno de Rodrigo Paz.",
+      "por_que": "Muestra la ruptura dentro del MAS y suma una nueva tensión diplomática entre La Paz y Ciudad de México.",
+      "source": "Unitel (EFE) / Los Tiempos",
+      "lat": -16.5,
+      "lon": -68.1,
+      "url": "https://unitel.bo/noticias/agencias/exvicepresidente-de-bolivia-garcia-linera-confirma-que-esta-en-mexico-con-asilo-politico-GH24765245"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Puerto Ayacucho",
+      "country": "Venezuela",
+      "category": "derechos",
+      "headline": "Líderes indígenas venezolanos denuncian asesinatos de la guerrilla y bandas por el control de la minería",
+      "summary": "En un foro organizado por Provea, Clima 21 y Wayamoutheri, referentes de Bolívar y Amazonas denunciaron desplazamientos, deforestación y asesinatos de líderes vinculados a la minería ilegal. «Ya no nos están invadiendo, ahora nos están matando», dijeron. Según la ONG, unos 200.000 indígenas, el 28% del total del país, están en riesgo grave.",
+      "por_que": "El arco minero del sur venezolano es una de las fronteras extractivas más violentas y menos cubiertas de la Amazonia.",
+      "source": "Infobae / Correo del Caroní",
+      "lat": 5.7,
+      "lon": -67.6,
+      "url": "https://infobae.com/venezuela/2026/11/12/indigenas-denuncian-que-guerrilla-y-bandas-asesinan-a-sus-lideres-por-el-control-de-la-mineria-al-sur-de-venezuela"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Port Moresby",
+      "country": "Papúa Nueva Guinea",
+      "category": "sociedad",
+      "headline": "Papúa Nueva Guinea evalúa limitar a tres hijos por familia",
+      "summary": "El primer ministro James Marape dijo que limitar las familias a tres hijos serviría para frenar una «expansión demográfica descontrolada» que desborda los servicios públicos. No está claro qué alcance tendría la medida. La fecundidad bajó de 4,4 hijos por mujer en 2006 a 4,2 en 2016-2018, y las mujeres dicen querer unos tres.",
+      "por_que": "Sería una política demográfica poco común en el Pacífico, en un país con fuertes tradiciones religiosas y comunitarias.",
+      "source": "The Star (AFP) / The National",
+      "lat": -9.4,
+      "lon": 147.2,
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/booming-papua-new-guinea-eyes-039three-child039-policy"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Nukualofa",
+      "country": "Tonga",
+      "category": "ambiente",
+      "headline": "Tonga lleva a la COP31 un pedido: que la plata del clima priorice escuelas resilientes",
+      "summary": "El responsable de educación de Tonga pidió en Antalya que el financiamiento climático priorice escuelas capaces de resistir el clima extremo. El reino atraviesa una sequía por El Niño, con declaraciones de sequía ampliadas y pedidos a la población para que ahorre agua. Dato de una sola fuente.",
+      "por_que": "Para los países insulares, el impacto del clima sobre la escolaridad es directo y casi no figura en las negociaciones.",
+      "source": "Islands Business",
+      "lat": -21.1,
+      "lon": -175.2,
+      "url": "https://islandsbusiness.com/news-break/tonga-pushes-for-educations-as-priority-in-global-climate-finance"
+    }
+  ],
+  "breves": [
+    {
+      "country": "México",
+      "category": "cultura",
+      "text": "Por primera vez, la Cancillería mexicana acepta un examen en alguna de seis lenguas indígenas en lugar de uno en idioma extranjero para entrar a la rama técnico-administrativa del Servicio Exterior. La convocatoria ofrece 80 plazas. Dato de una sola fuente.",
+      "source": "Uno TV",
+      "lat": 19.4,
+      "lon": -99.1,
+      "url": "https://www.unotv.com/nacional/sre-cambia-examen-de-idioma-para-aspirantes-al-servicio-exterior-mexicano-acepta-lenguas-indigenas/"
+    },
+    {
+      "country": "Bolivia",
+      "category": "ambiente",
+      "text": "En la COP31, Bolivia acordó con el banco alemán KfW un paquete inicial de unos 250 millones de euros para la protección de sus bosques.",
+      "source": "Los Tiempos",
+      "lat": -17.4,
+      "lon": -66.2,
+      "url": "https://www.lostiempos.com/actualidad/economia/20261112/bolivia-logra-paquete-inicial-250-millones-euros-bosques"
+    },
+    {
+      "country": "Brasil",
+      "category": "ambiente",
+      "text": "La OIM advierte que la sequía asociada a El Niño puede dejar aisladas a 343 localidades amazónicas, 318 de ellas indígenas, con São Gabriel da Cachoeira como la zona más vulnerable.",
+      "source": "Noticias SIN",
+      "lat": -0.1,
+      "lon": -67.1,
+      "url": "https://noticiassin.com/mundo/mundo-general/2026/11/12/cientos-de-comunidades-indigenas-de-la-amazonia-en-riesgo-de-aislamiento-por-la-sequia-2168845"
+    },
+    {
+      "country": "Perú",
+      "category": "sociedad",
+      "text": "La Fenamad y otras organizaciones amazónicas se reunirán el 27 y 28 de noviembre en la comunidad Ese'Eja de Infierno, en Madre de Dios, para debatir la defensa territorial frente a la propuesta de recortar áreas protegidas como el Parque Nacional Bahuaja Sonene.",
+      "source": "Infobae (EFE)",
+      "lat": -12.6,
+      "lon": -69.2,
+      "url": "https://www.infobae.com/america/agencias/2026/11/13/lideres-indigenas-de-peru-se-reunen-en-la-amazonia-para-debatir-sobre-defensa-territorial/"
+    },
+    {
+      "country": "Uzbekistán",
+      "category": "economía",
+      "text": "El Banco Asiático de Desarrollo aprobó un préstamo blando de US$60 millones para pequeños productores ganaderos uzbekos.",
+      "source": "The Times of Central Asia",
+      "lat": 41.3,
+      "lon": 69.2,
+      "url": "https://timesca.com/uzbekistan-livestock-adb-60-million-loan/"
+    },
+    {
+      "country": "Tayikistán",
+      "category": "tecnología",
+      "text": "Según investigadores de CloudSEK, un grupo vinculado a Kazajistán usó herramientas de inteligencia artificial para robar documentos de defensa de Tayikistán. Es un caso poco común de ciberespionaje entre vecinos de Asia Central.",
+      "source": "The Times of Central Asia",
+      "lat": 38.6,
+      "lon": 68.8,
+      "url": "https://timesca.com/kazakhstan-linked-hackers-ai-tajikistan-security-documents/"
+    },
+    {
+      "country": "Nepal",
+      "category": "deporte",
+      "text": "Sandeep Lamichhane hizo el primer hat-trick de la historia de la Nepal Premier League de críquet y terminó con seis wickets para Pokhara Avengers.",
+      "source": "The Kathmandu Post",
+      "lat": 28.2,
+      "lon": 84.0,
+      "url": "https://kathmandupost.com/sports/2026/11/12/lamichhane-takes-npl-s-first-hat-trick-and-six-wicket-haul-as-pokhara-set-133-run-target"
+    }
+  ],
+  "efemerides": {
+    "dia": "13 de noviembre",
+    "items": [
+      {
+        "year": "1655",
+        "text": "Un terremoto con epicentro en el Pacífico destruye buena parte de Lima, Perú."
+      },
+      {
+        "year": "1850",
+        "text": "Primera transmisión telegráfica de México, entre el Palacio Nacional y el Palacio de Minería."
+      },
+      {
+        "year": "1867",
+        "text": "Sale el primer número del diario La Capital, de Rosario, hoy el decano de la prensa argentina."
+      },
+      {
+        "year": "1901",
+        "text": "Nace en Lincoln, provincia de Buenos Aires, el pensador y ensayista Arturo Jauretche."
+      },
+      {
+        "year": "1907",
+        "text": "El francés Paul Cornu hace en Lisieux el que se considera el primer vuelo tripulado en helicóptero."
+      },
+      {
+        "year": "1971",
+        "text": "La sonda Mariner 9 se convierte en la primera nave en orbitar otro planeta: Marte."
+      },
+      {
+        "year": "1985",
+        "text": "La erupción del Nevado del Ruiz sepulta Armero, en Colombia, y mata a más de 20.000 personas."
+      },
+      {
+        "year": "1992",
+        "text": "La inmigrante dominicana Lucrecia Pérez es asesinada en Madrid, primera víctima reconocida del racismo en la España democrática."
+      },
+      {
+        "year": "2002",
+        "text": "El petrolero Prestige se avería frente a Galicia; su hundimiento días después provoca una de las peores catástrofes ambientales de Europa."
+      },
+      {
+        "year": "2015",
+        "text": "Una serie de atentados del Estado Islámico en París deja 130 muertos."
+      }
+    ]
+  }
+}
