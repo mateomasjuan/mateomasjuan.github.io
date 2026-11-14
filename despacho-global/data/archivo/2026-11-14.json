@@ -1,0 +1,530 @@
+{
+  "edicion": 22,
+  "fecha": "2026-11-14",
+  "generado": "2026-11-14T07:06:54-03:00",
+  "nota_editor": "Viernes de apagones: Microsoft estuvo caído en 74 países y EE.UU. frenó todos sus vuelos durante horas. Irán y EE.UU. siguen intercambiando golpes en el Golfo, y en la Argentina los mercados cortaron una racha de cinco caídas.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "0",
+      "nota": "cierre del viernes 13/11; compra a $1.520"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.565",
+      "variacion": "0",
+      "nota": "venta según Ámbito; algunas fuentes lo dieron hasta $1.575"
+    },
+    {
+      "label": "Dólar mayorista",
+      "valor": "$1.543,50",
+      "variacion": "-$2",
+      "nota": "cierre del 13/11; acumula cinco semanas de subas"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "830",
+      "variacion": "-100 en la semana",
+      "nota": "subió levemente el viernes, pero cerró la semana con una baja de más de 100 puntos"
+    },
+    {
+      "label": "Merval (MSCI, en pesos)",
+      "valor": "85.053",
+      "variacion": "+3,1%",
+      "nota": "cierre del 13/11; cortó cinco caídas seguidas desde los mínimos del año"
+    },
+    {
+      "label": "Inflación octubre (INDEC)",
+      "valor": "2,2%",
+      "variacion": "+0,3 pp",
+      "nota": "26,3% acumulado en 2026; núcleo de 1,5%"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$95,84",
+      "variacion": "+0,02",
+      "nota": "cierre del 13/11; segunda baja semanal seguida, de alrededor de 2,5%"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Manama",
+      "country": "Bahréin",
+      "headline": "La Guardia Revolucionaria dice haber destruido un radar de alerta temprana de EE.UU. en Bahréin",
+      "summary": "La Guardia Revolucionaria Islámica de Irán afirmó que destruyó un radar estadounidense de alerta temprana en Bahréin. Lo presentó como represalia por un ataque de EE.UU. contra una torre de telecomunicaciones en el sur de Irán. Según Al Jazeera, el mismo cuerpo informó que un buque gasero se incendió tras chocar con minas en el estrecho de Ormuz. Además, el OIEA admitió que no puede verificar si una planta subterránea de enriquecimiento iraní guarda material nuclear.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Democracy Now / Al Jazeera",
+      "time_note": "ayer",
+      "lat": 26.2,
+      "lon": 50.6,
+      "url": "https://www.democracynow.org/2026/11/13/headlines"
+    },
+    {
+      "city": "Redmond",
+      "country": "Estados Unidos",
+      "headline": "Una caída global de Microsoft dejó sin Outlook, Teams y Copilot a usuarios de 74 países",
+      "summary": "La caída empezó el jueves 12 y siguió el viernes 13. Afectó a Outlook, Teams y Copilot en 74 países y alcanzó a empresas y gobiernos. Después de más de 12 horas, Microsoft reconocía apenas un «éxito marginal» en la restauración. El viernes informó avances y algunos usuarios recuperaron el correo.",
+      "category": "tecnología",
+      "impact": "alto",
+      "source": "Al Jazeera / CBC",
+      "time_note": "ayer",
+      "lat": 47.7,
+      "lon": -122.1,
+      "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "EE.UU. frenó todos los despegues durante más de cuatro horas por una falla de comunicaciones",
+      "summary": "La FAA ordenó una inusual suspensión nacional de despegues por un «problema de comunicación» en los centros de control aéreo. La medida se levantó después de más de cuatro horas. Según FlightAware, más de 10.000 vuelos se demoraron y al menos 4.000 se cancelaron. El impacto llegó a otros países, como República Dominicana, donde se cancelaron decenas de vuelos.",
+      "category": "sociedad",
+      "impact": "alto",
+      "source": "Al Jazeera / Diario Libre",
+      "time_note": "ayer",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+    },
+    {
+      "city": "Antalya",
+      "country": "Turquía",
+      "headline": "COP31: pocos avances al cumplirse la primera semana, y la pelea pasa a la plata para la adaptación",
+      "summary": "Los ministros empiezan a llegar a Antalya sin grandes avances en la negociación. Un borrador sobre el objetivo global de adaptación se perfila como el eje de la disputa: África quiere que se acuerde triplicar el financiamiento para adaptación, y el texto incluye la opción de revisar la base y el monto de esa meta. El primer borrador de la decisión final podría publicarse el lunes. EE.UU. no participa de la cumbre, que termina el 20 de noviembre.",
+      "category": "clima",
+      "impact": "medio",
+      "source": "Climate Home News",
+      "time_note": "hoy",
+      "lat": 36.9,
+      "lon": 30.7,
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+      "city": "Madrid",
+      "country": "España",
+      "headline": "España arrancó la campaña para el 29-N después de su primera huelga general en 14 años",
+      "summary": "La campaña para las elecciones generales del 29 de noviembre empezó el viernes 13. Sánchez y Feijóo debatirán cara a cara el 19 de noviembre, en un debate organizado por la Academia de la Televisión. Dos días antes de la campaña, UGT y CCOO hicieron un paro de 24 horas contra el costo de la vivienda. Una confederación de inquilinos estimó la participación en cuatro millones de personas. Sánchez convocó a elecciones anticipadas después de no lograr aprobar un paquete de medidas de vivienda.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Infobae (EFE) / NPR",
+      "time_note": "ayer",
+      "lat": 40.4,
+      "lon": -3.7,
+      "url": "https://www.infobae.com/espana/2026/11/13/campana-de-las-elecciones-generales-29-n-en-directo-las-entrevistas-de-jordi-wild-un-nuevo-sondeo-y-ultima-hora-politica/"
+    },
+    {
+      "city": "Lima",
+      "country": "Perú",
+      "headline": "León XIV pidió a los obispos peruanos acompañar a sus fieles y responder a las víctimas de abusos",
+      "summary": "En la última etapa de su gira sudamericana, el papa León XIV pidió a los obispos de Perú que acompañen a sus comunidades y respondan a las víctimas de abusos sexuales cometidos por miembros del clero. Llegó a Perú después de pasar por Uruguay y Argentina. Perú es el país donde vivió casi dos décadas y donde fue obispo de Chiclayo. La misa central de la visita está prevista en las Pampas de Pimentel, en Lambayeque.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "AP vía The Gleaner / Andina",
+      "time_note": "ayer",
+      "lat": -12.0,
+      "lon": -77.0,
+      "url": "https://jamaica-gleaner.com/article/world-news/20261113/pope-tells-bishops-accompany-their-flocks-respond-abuse-victims"
+    },
+    {
+      "city": "La Habana",
+      "country": "Cuba",
+      "headline": "Díaz-Canel dice que Cuba se prepara para defenderse de una posible agresión militar de EE.UU.",
+      "summary": "El presidente cubano Miguel Díaz-Canel afirmó que la isla se prepara ante una eventual agresión militar estadounidense y que tiene derecho a defenderse. Del otro lado, Trump dijo que quiere resolver el tema de Cuba antes de terminar su mandato. Según 14ymedio, el cruce coincide con una ola de despidos en el sector estatal y con más represión contra familiares de presos políticos.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Diario Libre / 14ymedio",
+      "time_note": "ayer",
+      "lat": 23.1,
+      "lon": -82.4,
+      "url": "https://www.diariolibre.com/mundo/america-latina/2026/11/13/cuba-se-prepara-para-defensa-ante-agresion-militar-de-ee-uu/3720217"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Karina Milei vuelve a convocar a la mesa política, en plena pelea con Bullrich por las PASO",
+      "summary": "La Casa Rosada reunirá el martes a la mesa política, después de casi un mes sin encuentros. La convocatoria llega en medio de la tensión con Patricia Bullrich, jefa del bloque oficialista en el Senado, por la suspensión de las PASO 2027. En la agenda figuran las PASO, la ley Malvinas y la sanción del Presupuesto 2027. El proyecto para suspender las primarias empieza a tratarse en comisión el martes 17.",
+      "source": "Infobae / Ámbito / El Destape",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/13/karina-milei-vuelve-a-convocar-a-la-mesa-politica-tras-un-mes-sin-reuniones-y-en-plena-tension-con-bullrich/"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Los salarios registrados subieron 1,9% en septiembre y empataron con la inflación",
+      "summary": "Según datos oficiales, los salarios registrados aumentaron 1,9% en septiembre, lo mismo que la inflación de ese mes. En los primeros nueve meses del año, en cambio, los salarios del sector privado quedaron por debajo de los precios. El dato se conoció el mismo día en que el Gobierno defendió que la desinflación sigue en curso, pese al 2,2% de octubre.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/economia/2026/11/13/los-salarios-registrados-subieron-19-y-empataron-contra-la-inflacion-en-septiembre/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Remedios de Escalada",
+      "country": "Argentina",
+      "headline": "Una explosión de gas durante obras viales en Lanús dejó 21 heridos",
+      "summary": "La rotura de un caño de gas durante trabajos en la vía pública en Remedios de Escalada, partido de Lanús, provocó una explosión y un incendio. Según fuentes oficiales citadas por Infobae, hubo 21 heridos, seis de ellos con quemaduras graves. Un comerciante grabó desde su local el momento de la explosión.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.7,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/sociedad/2026/11/13/un-hombre-grabo-desde-adentro-de-su-local-como-vivio-la-explosion-en-lanus-es-una-locura-tenemos-que-irnos/"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Gobierno ordenó el regreso al país del embajador en Emiratos Árabes Unidos",
+      "summary": "Por el Decreto 1357/2026, el Gobierno dispuso que el embajador en Emiratos Árabes Unidos, Jorge Agustín Molina Arambarri, vuelva a prestar funciones en la Cancillería. La fecha fijada para su regreso es el 8 de diciembre. La medida llega mientras la región del Golfo sigue alcanzada por el conflicto entre EE.UU. e Irán.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/13/el-gobierno-ordeno-el-regreso-a-la-argentina-del-embajador-en-emiratos-arabes-unidos/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "San Nicolás",
+      "country": "Argentina",
+      "headline": "Condenan a cuatro años de prisión a un dirigente de Camioneros por bloqueos sindicales",
+      "summary": "Una jueza de San Nicolás condenó a Fernando Espíndola, dirigente de Camioneros, a cuatro años de prisión en una causa por bloqueos a empresas. Antes, otro juez del mismo departamento judicial había absuelto a siete imputados en un expediente similar. El fallo reabre la discusión sobre cómo encuadrar penalmente las medidas de fuerza sindicales.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -33.3,
+      "lon": -60.2,
+      "url": "https://www.infobae.com/politica/2026/11/13/bloqueos-sindicales-tras-la-absolucion-de-7-imputados-otra-jueza-de-san-nicolas-condeno-a-un-dirigente-de-camioneros/"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "En su primer partido sin Messi, la Selección perdió 2-1 con Uruguay en una Bombonera semivacía",
+      "summary": "Uruguay le ganó 2-1 a la Argentina en un amistoso en La Bombonera, con menos del 40% del estadio ocupado. Los dos goles uruguayos llegaron de pelota parada en seis minutos al comienzo del segundo tiempo: un gol en contra de Leonardo Balerdi y otro de Maximiliano Araújo. Descontó Julián Álvarez. Un día antes, Scaloni había confirmado que sigue hasta 2030. El martes 17 la Selección juega con Costa Rica en Córdoba.",
+      "source": "La Nación / Bolavip",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-uruguay-en-vivo-nid13112026/"
+    },
+    {
+      "tag": "Cultura",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La Noche de los Museos abre esta noche con más de 350 espacios, la cifra más alta de su historia",
+      "summary": "La 22.ª edición de La Noche de los Museos se hace este sábado 14, en general de 19 a 2. Participan más de 350 espacios culturales con entrada gratuita, entre ellos el Teatro Colón y el Museo Nacional de Bellas Artes. Los colectivos son gratuitos desde las 18 del sábado hasta las 3 del domingo.",
+      "source": "Prensa Mercosur / Perfil",
+      "time_note": "hoy",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://prensamercosur.org/2026/11/10/noche-de-los-museos-2026-que-visitar-entre-mas-de-350-sedes-gratuitas/"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Luanda",
+      "country": "Angola",
+      "category": "derechos",
+      "headline": "Amnistía pide liberar al activista General Nila y a otros cuatro miembros de UNTRA, detenidos en un acto conmemorativo",
+      "summary": "Amnistía Internacional exigió la liberación inmediata de Serrote José de Oliveira, conocido como General Nila, y de otros cuatro integrantes del movimiento UNTRA. Los cinco fueron detenidos durante una ceremonia conmemorativa. General Nila había salido en libertad el 23 de julio, después de casi un año en prisión preventiva. Seguía con restricciones: debía presentarse ante las autoridades cada 15 días y tenía prohibido viajar. En 2025, un policía de civil le disparó mientras transmitía en vivo un paro de taxistas.",
+      "por_que": "Muestra cómo se endurece el trato a la protesta social en Angola, uno de los mayores productores de petróleo de África.",
+      "source": "allAfrica / Amnistía Internacional",
+      "lat": -8.8,
+      "lon": 13.2,
+      "url": "https://allafrica.com/stories/202611130024.html"
+    },
+    {
+      "region": "África",
+      "city": "Mbabane",
+      "country": "Esuatini",
+      "category": "economía",
+      "headline": "Esuatini empieza a cerrar comercios de extranjeros y les da un año para irse",
+      "summary": "El Parlamento de Esuatini acordó que los dueños extranjeros de negocios que operan de forma ilegal tengan al menos 12 meses para dejar el país. Según el diputado Welcome Dlamini, el Ministerio de Comercio ya empezó a cerrar tiendas de propietarios asiáticos. Otra diputada, Tanele Magagula, pidió actuar de inmediato. Los comerciantes locales se quejaban de que estas empresas ocupaban el comercio minorista tradicional. Dato de una sola fuente.",
+      "por_que": "Pone a prueba la convivencia entre la última monarquía absoluta de África y las comunidades de comerciantes inmigrantes.",
+      "source": "Sahara Reporters",
+      "lat": -26.3,
+      "lon": 31.1,
+      "url": "https://saharareporters.com/2026/11/11/southern-africas-eswatini-orders-illegal-foreign-businesses-leave-12-months"
+    },
+    {
+      "region": "Asia",
+      "city": "Ereván",
+      "country": "Armenia",
+      "category": "política",
+      "headline": "La alianza militar que lidera Rusia le quitó a Armenia el derecho a voto",
+      "summary": "En la cumbre del 11 de noviembre en Moscú, los miembros de la OTSC le quitaron a Armenia el derecho a voto por no pagar sus cuotas durante dos años, con base en el artículo 25 de la carta. Ereván tampoco podrá proponer representantes para cargos en la organización. El secretario general, Taalatbek Masadykov, dijo que la expulsión no está en agenda y que Armenia puede recuperar sus derechos si paga la deuda. Armenia ya había dejado de participar en la alianza, aunque no se retiró formalmente.",
+      "por_que": "Muestra que el bloque de seguridad que Moscú armó con exrepúblicas soviéticas se sigue desarmando.",
+      "source": "Meduza / TASS",
+      "lat": 40.2,
+      "lon": 44.5,
+      "url": "https://meduza.io/en/news/2026/11/11/russia-led-military-alliance-strips-armenia-of-voting-rights"
+    },
+    {
+      "region": "Asia",
+      "city": "Manila",
+      "country": "Filipinas",
+      "category": "tecnología",
+      "headline": "Miles de estudiantes filipinos marchan contra Pax Silica antes de la llegada de Trump",
+      "summary": "Miles de estudiantes de todo el país abandonaron las aulas para protestar contra Pax Silica, el pacto que impulsa EE.UU. sobre semiconductores, minerales críticos e inteligencia artificial, y contra la visita de Trump a la cumbre de la ASEAN, del 15 al 17 de noviembre. Solo en Benguet salieron a la calle unos 9.000 estudiantes. El proyecto prevé un polo industrial en una zona económica de unas 1.618 hectáreas en New Clark City, Tarlac. Filipinas se sumó al pacto en abril de 2026 y se espera que lo firme formalmente este mes.",
+      "por_que": "Muestra cómo la carrera tecnológica entre EE.UU. y China llega a la tierra y a la política de un país del sudeste asiático.",
+      "source": "Rappler / Africanews",
+      "lat": 14.6,
+      "lon": 121.0,
+      "url": "https://www.rappler.com/philippines/student-protest-pax-silica-donald-trump-visit-manila-asean/"
+    },
+    {
+      "region": "Europa",
+      "city": "Lisboa",
+      "country": "Portugal",
+      "category": "ambiente",
+      "headline": "La tormenta Charles cerró todas las escuelas de Portugal y obligó a cancelar más de 300 vuelos",
+      "summary": "Por la tormenta Charles, Portugal cerró todas las escuelas y los servicios no esenciales, y declaró alerta roja en zonas que incluyen Lisboa. Se cancelaron más de 300 vuelos. Antes de llegar al continente, la depresión pasó por Madeira, y los meteorólogos advierten que vienen más tormentas.",
+      "por_que": "Es una muestra de cómo los temporales atlánticos más intensos ya paralizan países enteros de Europa.",
+      "source": "Al Jazeera / Portugal Resident",
+      "lat": 38.7,
+      "lon": -9.1,
+      "url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles"
+    },
+    {
+      "region": "Europa",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "category": "derechos",
+      "headline": "La UE y el Reino Unido, preocupados porque Kosovo vuelve a recortar al tribunal de crímenes de guerra de La Haya",
+      "summary": "La UE y el Reino Unido pidieron a los diputados kosovares que consulten a sus aliados internacionales antes de aprobar otra reforma que limita las facultades de las Salas Especializadas de Kosovo, con sede en La Haya. En octubre, el Parlamento ya había aprobado cambios que reducían la jurisdicción del tribunal y fijaban un máximo de 15 años de prisión. Esos cambios llegaron después de la condena en primera instancia del expresidente Hashim Thaçi y de otros exjefes del UÇK.",
+      "por_que": "Está en juego si se juzgan los crímenes de la guerra de 1998-99 y la relación de Kosovo con la UE.",
+      "source": "Balkan Insight (BIRN)",
+      "lat": 42.7,
+      "lon": 21.2,
+      "url": "https://balkaninsight.com/2026/11/13/eu-uk-concerned-as-kosovo-moves-against-hague-courts-powers-again/btj/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Valle de la Bekaa",
+      "country": "Líbano",
+      "category": "ambiente",
+      "headline": "La guerra le está quitando al Líbano más de la mitad de sus campos de trigo",
+      "summary": "Según una investigadora del CNRS libanés, el sur del país perdió el 47% de la superficie sembrada con trigo en 2023-2024 y el 61% en 2024-2025. La Bekaa, que produce cerca del 64% del trigo nacional, también tuvo fuertes pérdidas. El Ministerio de Agricultura calcula que el 78% de los productores del sur dejó de trabajar por el desplazamiento y que hay más de 10.000 explotaciones dañadas. Expertos advierten que la destrucción acelera la sequía y la desertificación.",
+      "por_que": "Pone en riesgo la seguridad alimentaria de un país donde más de un millón de personas ya pasa hambre aguda.",
+      "source": "Al Jazeera",
+      "lat": 33.8,
+      "lon": 35.9,
+      "url": "https://aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Kuwait",
+      "country": "Kuwait",
+      "category": "política",
+      "headline": "Las monarquías del Golfo instalarán en Kuwait un comando militar conjunto de avanzada",
+      "summary": "Los ministros de Defensa del Consejo de Cooperación del Golfo, reunidos en Manama, aprobaron instalar en Kuwait un cuartel de avanzada del Comando Militar Unificado, con fuerzas asignadas. Ese comando fue creado en 2013 y tiene su sede central en Riad. No se informó el tamaño de la fuerza, su composición ni los plazos. La decisión llega después de los ataques iraníes contra países miembros.",
+      "por_que": "Es el paso más concreto en años hacia una defensa común del Golfo sin depender del todo de EE.UU.",
+      "source": "The National / Al Jazeera",
+      "lat": 29.4,
+      "lon": 48.0,
+      "url": "https://thenationalnews.com/news/gulf/2026/11/10/gcc-defence-ministers-approve-advanced-military-command-in-kuwait"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Ottawa",
+      "country": "Canadá",
+      "category": "cultura",
+      "headline": "Canadá nombra a Dorothy Myo comisionada de Lenguas Indígenas, una oficina bajo auditoría",
+      "summary": "Dorothy Myo, criada en una Primera Nación saulteaux de Saskatchewan, fue designada comisionada de Lenguas Indígenas por cinco años. Fue vicejefa de autogobierno de la Nación Métis de Saskatchewan. La oficina que va a dirigir enfrenta una auditoría financiera federal, iniciada por denuncias anónimas. Exempleados ya habían dicho que no logra fortalecer las lenguas indígenas.",
+      "por_que": "De esta oficina depende en parte que sobrevivan decenas de lenguas originarias en riesgo en Canadá.",
+      "source": "CBC / CTV",
+      "lat": 45.4,
+      "lon": -75.7,
+      "url": "https://www.cbc.ca/news/indigenous/dorothy-myo-indigenous-languages-commissioner-9.7421064"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Ciudad Acuña",
+      "country": "México",
+      "category": "ambiente",
+      "headline": "México entregó menos del 1% del agua que le debe a EE.UU., con las presas de la frontera casi vacías",
+      "summary": "Según Mexico News Daily, México entregó menos del 1% del agua que le adeuda a EE.UU. por el tratado de 1944. El nivel bajo de embalses como la presa La Amistad complica el cumplimiento. El tratado obliga a México a entregar 1,75 millones de acres-pie cada cinco años. El Gobierno mexicano atribuye el atraso a la sequía en el norte del país. Dato de una sola fuente.",
+      "por_que": "El agua del río Bravo puede convertirse en otro frente de presión de Washington sobre México, junto a los aranceles.",
+      "source": "Mexico News Daily",
+      "lat": 29.3,
+      "lon": -100.9,
+      "url": "https://mexiconewsdaily.com/news/mexico-delivered-less-than-1-percnet-water-owes-us-border-dams-run-low/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Puerto Príncipe",
+      "country": "Haití",
+      "category": "economía",
+      "headline": "EE.UU. advierte que Haití no atraerá grandes inversiones mientras las bandas tengan el control",
+      "summary": "El subsecretario de Estado Christopher Landau dijo que Haití necesita un mínimo de seguridad antes de recibir inversiones importantes. Según el Banco Mundial, la economía haitiana se contrajo 1,5% en 2026. Las elecciones previstas para el 13 de diciembre se postergaron sin nueva fecha. Mientras tanto, Bukele difundió un video de la destrucción de la casa del líder de la banda 400 Mawozo, y Marco Rubio advirtió sobre el riesgo de choques accidentales entre las fuerzas extranjeras.",
+      "por_que": "Haití sigue sin un camino electoral ni económico mientras crece la intervención militar de terceros países.",
+      "source": "Diario Libre (EFE)",
+      "lat": 18.5,
+      "lon": -72.3,
+      "url": "https://www.diariolibre.com/mundo/haiti/2026/11/13/crisis-de-seguridad-en-haiti-afecta-inversion-y-elecciones/3720018"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "León",
+      "country": "Nicaragua",
+      "category": "ambiente",
+      "headline": "Organismos del Estado nicaragüense permitieron vender comida con aletas de tortuga en una feria",
+      "summary": "El Instituto de Turismo (INTUR) y el Instituto de Pesca (Inpesca) permitieron vender platos hechos con aletas de tortuga en una feria caribeña en León. La caza y la venta de tortugas están prohibidas en Nicaragua desde 2005. La veda de la tortuga verde en el Caribe Sur se renueva todos los años con participación del propio Inpesca. Dato de una sola fuente.",
+      "por_que": "Expone la distancia entre las vedas que firma el Estado y lo que el mismo Estado permite.",
+      "source": "Confidencial",
+      "lat": 12.4,
+      "lon": -86.9,
+      "url": "https://confidencial.digital/noticias/intur-inpesca-venta-tortugas-nicaragua-veda/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Port Vila",
+      "country": "Vanuatu",
+      "category": "política",
+      "headline": "Vanuatu perdió el rastro de 1.390 pasaportes diplomáticos en cinco años",
+      "summary": "Un informe de una comisión parlamentaria determinó que entre 2019 y 2024 desaparecieron 1.390 pasaportes diplomáticos de Vanuatu, 1.301 de ellos solo en 2024. El país ya había tenido un escándalo en 2013, cuando una comisión investigadora concluyó que se habían vendido pasaportes diplomáticos desde 2002. Dato de una sola fuente.",
+      "por_que": "Afecta la credibilidad de los documentos de un país chico que ya fue cuestionado por vender ciudadanías y pasaportes.",
+      "source": "PACNEWS (Islands Business)",
+      "lat": -17.7,
+      "lon": 168.3,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-one-13-november-2026/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Honiara",
+      "country": "Islas Salomón",
+      "category": "política",
+      "headline": "Papúa Nueva Guinea e Islas Salomón refuerzan el control de su frontera y comparten inteligencia",
+      "summary": "Los gobiernos de Papúa Nueva Guinea y de Islas Salomón acordaron reforzar la seguridad en su frontera común y ampliar el intercambio de inteligencia. Esa frontera marítima corre entre Bougainville y las islas Shortland. La misma semana, un comandante militar francés se reunió con autoridades de Samoa para hablar de seguridad regional. Dato de una sola fuente.",
+      "por_que": "El Pacífico sur se volvió escenario de competencia por la seguridad entre potencias, y los países isleños buscan coordinarse entre ellos.",
+      "source": "PACNEWS (Islands Business)",
+      "lat": -9.4,
+      "lon": 159.9,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-two-12-november-2026/"
+    }
+  ],
+  "breves": [
+    {
+      "country": "Kenia",
+      "category": "salud",
+      "text": "Kenia dio el alta a su último paciente de ébola y empezó la cuenta regresiva de 42 días: si no aparecen casos nuevos, será declarada libre del virus alrededor del 23 de diciembre. El país registró nueve casos y dos muertes.",
+      "source": "BusinessDay / Al Jazeera",
+      "lat": -1.3,
+      "lon": 36.8,
+      "url": "https://www.businessday.co.za/world/africa/2026-11-11-kenya-releases-last-ebola-patient-starts-42-day-countdown-to-disease-free-status/"
+    },
+    {
+      "country": "Senegal",
+      "category": "deporte",
+      "text": "Terminaron en Dakar los primeros Juegos Olímpicos de la Juventud hechos en África. El presidente del COI los calificó como «un éxito organizativo del 100%», y el desafío ahora es que dejen un legado duradero.",
+      "source": "allAfrica",
+      "lat": 14.7,
+      "lon": -17.4,
+      "url": "https://allafrica.com/stories/202611130334.html"
+    },
+    {
+      "country": "Sri Lanka",
+      "category": "economía",
+      "text": "Sri Lanka fue elegida por primera vez como destino de la vuelta al mundo en jet privado que Four Seasons organizará en 2028, una señal de que la isla vuelve al mapa del turismo de lujo.",
+      "source": "EconomyNext",
+      "lat": 6.9,
+      "lon": 79.9,
+      "url": "https://economynext.com/sri-lanka-picked-for-first-time-in-four-seasons-2028-private-jet-tour-290168/"
+    },
+    {
+      "country": "República Dominicana",
+      "category": "economía",
+      "text": "Las exportaciones dominicanas a Haití llegaron a un récord de US$1.040,5 millones entre enero y septiembre de 2026, según los registros de Aduanas, pese a la crisis del país vecino.",
+      "source": "Diario Libre",
+      "lat": 18.5,
+      "lon": -69.9,
+      "url": "https://www.diariolibre.com/economia/consumo/2026/11/13/exportaciones-dominicanas-a-haiti-alcanzar-record-de-us10405-mm/3720142"
+    },
+    {
+      "country": "Nepal",
+      "category": "economía",
+      "text": "Las exportaciones nepalíes de alto valor crecieron 23,85% en el primer trimestre del año fiscal.",
+      "source": "The Kathmandu Post",
+      "lat": 27.7,
+      "lon": 85.3,
+      "url": "https://kathmandupost.com/money/2026/11/14/nepal-s-high-value-exports-rise-23-85-percent-in-first-quarter"
+    },
+    {
+      "country": "Bangladés",
+      "category": "deporte",
+      "text": "Bangladés le ganó 4-0 a Sri Lanka en el Estadio Nacional de Daca por el Campeonato de la SAFF, con dos goles en cada tiempo, y terminó primero de su grupo.",
+      "source": "The Daily Star",
+      "lat": 23.8,
+      "lon": 90.4,
+      "url": "https://thedailystar.net/sports/football/news/bangladesh-raise-the-rafters-scintillating-4-0-win-4321316"
+    },
+    {
+      "country": "México",
+      "category": "deporte",
+      "text": "México, EE.UU., Costa Rica y Jamaica se perfilan como sedes conjuntas del Mundial femenino 2031. Sería otro Mundial en suelo mexicano, después del masculino de 2026.",
+      "source": "Mexico News Daily",
+      "lat": 19.4,
+      "lon": -99.1,
+      "url": "https://mexiconewsdaily.com/lifestyle/ready-host-another-world-cup-mexico-us-canada-jamaica-joint-bid-for-2031-likely/"
+    }
+  ],
+  "efemerides": {
+    "dia": "14 de noviembre",
+    "items": [
+      {
+        "year": "1889",
+        "text": "La periodista estadounidense Nellie Bly parte de Nueva York para intentar dar la vuelta al mundo en menos de 80 días. Lo logra en 72."
+      },
+      {
+        "year": "1918",
+        "text": "Tomáš Masaryk es elegido primer presidente de la recién nacida Checoslovaquia."
+      },
+      {
+        "year": "1940",
+        "text": "La aviación alemana bombardea Coventry durante la noche y destruye gran parte de la ciudad inglesa y su catedral medieval."
+      },
+      {
+        "year": "1946",
+        "text": "Muere en Alta Gracia, Córdoba, el compositor español Manuel de Falla, que vivió sus últimos años exiliado en la Argentina."
+      },
+      {
+        "year": "1960",
+        "text": "Ruby Bridges, de seis años, se convierte en la primera niña negra en asistir a una escuela primaria para blancos en Nueva Orleans."
+      },
+      {
+        "year": "1962",
+        "text": "Muere en Buenos Aires el escritor Manuel Gálvez, autor de «Nacha Regules» y de biografías de figuras de la historia argentina."
+      },
+      {
+        "year": "1969",
+        "text": "Despega el Apolo 12, la segunda misión tripulada que llega a la superficie de la Luna."
+      },
+      {
+        "year": "1973",
+        "text": "Estudiantes ocupan la Universidad Politécnica de Atenas contra la dictadura de los coroneles. La revuelta es reprimida con tanques tres días después."
+      },
+      {
+        "year": "1975",
+        "text": "Con los Acuerdos de Madrid, España cede la administración del Sahara Occidental a Marruecos y Mauritania sin consultar al pueblo saharaui. El conflicto sigue abierto."
+      },
+      {
+        "year": "1991",
+        "text": "El príncipe Norodom Sihanouk vuelve a Camboya después de 13 años de exilio, tras los acuerdos de paz de París."
+      }
+    ]
+  }
+}
