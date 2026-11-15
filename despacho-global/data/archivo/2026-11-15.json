@@ -1,0 +1,530 @@
+{
+  "edicion": 23,
+  "fecha": "2026-11-15",
+  "generado": "2026-11-15T08:00:12-03:00",
+  "nota_editor": "Domingo con la cumbre Trump-Xi-Putin en el horizonte y Milei lanzado a la reelección. En el radar: elecciones postergadas en Sudán del Sur, oro y terrorismo en Pakistán, hambre infantil en Nunavut y las cenizas de Asturias de vuelta en Guatemala.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "",
+      "nota": "cierre del viernes 13/11"
+    },
+    {
+      "label": "Dólar blue (venta)",
+      "valor": "$1.570",
+      "variacion": "",
+      "nota": "cierre del 13/11 según Ámbito; otras notas lo dieron en $1.565"
+    },
+    {
+      "label": "Dólar MEP",
+      "valor": "$1.577,22",
+      "variacion": "",
+      "nota": "cierre del 13/11 (Ámbito)"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "830",
+      "variacion": "leve baja",
+      "nota": "cierre del 13/11; en el día osciló entre 827 y 840 puntos"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "85.053",
+      "variacion": "+3,1%",
+      "nota": "13/11, cortó una racha de cinco bajas seguidas"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "2,2%",
+      "variacion": "+0,3 pp",
+      "nota": "octubre; la más alta desde abril; 26,3% acumulada en el año y 33,1% interanual"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$95,84",
+      "variacion": "+0,02",
+      "nota": "cierre del 13/11; perdió 2,5% en la semana"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Shenzhen",
+      "country": "China",
+      "headline": "El Kremlin confirma que Trump, Xi y Putin se reunirán el 19 de noviembre en Shenzhen",
+      "summary": "El vocero ruso Dmitri Peskov confirmó el sábado que los tres presidentes tendrán un encuentro trilateral el 19 de noviembre, al margen de la cumbre APEC que se hace en Shenzhen el 18 y el 19. Será la primera reunión de este tipo entre los jefes de las tres mayores potencias nucleares. Según la Casa Blanca, Trump quiere hablar de la guerra con Irán y de armas nucleares, pero no espera anunciar acuerdos. No hay prevista una bilateral entre Trump y Putin.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Anadolu / Al Jazeera",
+      "time_note": "ayer",
+      "lat": 22.5,
+      "lon": 114.1,
+      "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+    },
+    {
+      "city": "Estrecho de Ormuz",
+      "country": "Irán",
+      "headline": "Irán dice que tres petroleros se incendiaron al chocar con minas en Ormuz",
+      "summary": "La Armada iraní y la Guardia Revolucionaria informaron que tres petroleros chocaron con minas marinas en el estrecho de Ormuz y que dos se incendiaron. Teherán sigue exigiendo que los barcos le pidan autorización para cruzar, y Washington sostiene que ya limpió de minas las rutas principales. Los reportes llegan en medio de nuevos ataques de EE.UU. contra la isla de Qeshm. Por ahora, la versión de los incidentes es casi toda de fuentes iraníes.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "The National / Arab News",
+      "time_note": "ayer",
+      "lat": 26.6,
+      "lon": 56.3,
+      "url": "https://thenationalnews.com/news/mena/2026/11/14/iran-war-live-irgc-strait-of-hormuz"
+    },
+    {
+      "city": "Kiev",
+      "country": "Ucrania",
+      "headline": "Zelensky revela que EE.UU. sugirió que Ucrania ceda el Donbás a cambio de entrar en la OTAN",
+      "summary": "El presidente ucraniano contó que, tras la última ronda de negociaciones con Rusia en Abu Dabi, los negociadores estadounidenses plantearon que Ucrania entregue parte del Donbás a cambio de ser miembro de la OTAN. Zelensky dijo que Kiev no va a ceder territorio, aunque evaluaría hacer un referéndum si recibe garantías de seguridad. Mientras tanto, Ucrania atacó una planta petrolera en Samara y la base aérea Lipetsk-2.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Rappler / Kyiv Independent",
+      "time_note": "ayer",
+      "lat": 50.5,
+      "lon": 30.5,
+      "url": "https://rappler.com/world/europe/us-floated-ukraine-ceding-donbas-nato-membership"
+    },
+    {
+      "city": "Jan Yunis",
+      "country": "Palestina",
+      "headline": "Israel mató al jefe de la Brigada Rafah de Hamás con un dron sobre una carpa de desplazados",
+      "summary": "El ejército israelí y el Shin Bet confirmaron la muerte de Samir Abu Younis, que llevaba unos dos meses al frente de la Brigada Rafah, en un ataque con dron en Al Mawasi pasada la medianoche del sábado. Hamás confirmó su muerte. Según Al Jazeera, el ataque dio en una carpa de desplazados y dejó dos heridos. Desde la tregua de octubre de 2025, Israel mató a por lo menos 1.643 palestinos, según cifras sanitarias de Gaza.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al Jazeera / Jerusalem Post",
+      "time_note": "hoy",
+      "lat": 31.3,
+      "lon": 34.3,
+      "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+    },
+    {
+      "city": "Antalya",
+      "country": "Turquía",
+      "headline": "La COP31 entra en su última semana con los ministros y sin acuerdo sobre fósiles",
+      "summary": "Con la llegada de los ministros, la cumbre del clima entró en su fase política, que va hasta el 19 de noviembre. Algunos grandes países en desarrollo rechazan una decisión general con metas sectoriales, como electrificar el 35% del uso de energía para 2035. Los grandes productores se resisten a nuevos compromisos para dejar el petróleo, el gas y el carbón. El jefe de la ONU para el clima, Simon Stiell, pidió evitar las demoras tácticas.",
+      "category": "clima",
+      "impact": "medio",
+      "source": "Climate Home News",
+      "time_note": "ayer",
+      "lat": 36.9,
+      "lon": 30.7,
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+      "city": "Manila",
+      "country": "Filipinas",
+      "headline": "Arranca en Manila la 49ª cumbre de la ASEAN, con Trump entre los invitados",
+      "summary": "La cumbre se hace del 15 al 17 de noviembre. El presidente indonesio Prabowo Subianto llegó el sábado a la noche, y obligó a cancelar y reprogramar vuelos. En la apertura, la policía detuvo a por lo menos 11 manifestantes contra el pacto Pax Silica en el Freedom Park.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Tempo / Rappler",
+      "time_note": "hoy",
+      "lat": 14.6,
+      "lon": 121.0,
+      "url": "https://en.tempo.co/read/2123682/todays-top-3-news-prabowo-arrives-in-manila-for-49th-asean-summit"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Un cambio de cable de cobre causó el apagón aéreo que paralizó a EE.UU., según la Casa Blanca",
+      "summary": "El gobierno estadounidense atribuyó la falla de comunicaciones que frenó todos los vuelos del país a un contratista que estaba reemplazando una línea de cobre en un sitio remoto: el trabajo sobrecargó el viejo sistema de control aéreo. Hubo casi 6.000 vuelos cancelados y no hay indicios de un ataque. Air Canada canceló unos 250 vuelos que afectaron a 27.000 pasajeros, y las demoras seguirán hasta el domingo.",
+      "category": "tecnología",
+      "impact": "medio",
+      "source": "CBC",
+      "time_note": "ayer",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.cbc.ca/news/world/livestory/airport-delays-faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421992"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Milei confirmó que irá por la reelección en 2027: \"Para los que dudan, sí\"",
+      "summary": "El presidente lo dijo el sábado al inaugurar una muestra sobre Manuel Belgrano en el Museo de la Casa Rosada, durante la Noche de los Museos. Planteó como meta que el país comercie con el 90% del mundo hacia 2031: dijo que al asumir lo hacía con el 10% y que hoy lo hace con el 30%. Cerró con un \"Viva la Patria\", en lugar de su arenga partidaria de siempre.",
+      "source": "Análisis Digital / Prensa Mercosur",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.analisisdigital.com.ar/nacionales/2026/11/14/milei-ratifico-sus-intenciones-de-competir-en-2027-para-los-que-dudan-si-estoy-yendo-por-la-reeleccion"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Gobierno dice tener los votos para el dictamen que suspende las PASO el martes en el Senado",
+      "summary": "La comisión de Asuntos Constitucionales, que preside Agustín Coto, tratará el proyecto el martes 17 a las 15. El oficialismo asegura contar con 10 de las 19 firmas y quiere llevarlo al recinto el jueves 26. Los tres senadores del PRO definen el lunes su postura, y Patricia Bullrich quedó al margen de las negociaciones.",
+      "source": "El Ciudadano / La Nación",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://elciudadanoweb.com/el-gobierno-acelera-en-el-senado-corrio-a-bullrich-y-ya-tiene-votos-para-dictaminar-a-favor-de-suspender-las-paso/"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La Cámara de la Seguridad Social declaró inconstitucional la fórmula jubilatoria de 2020",
+      "summary": "La Sala II, con los jueces Juan Alberto Fantini y Nora Carmen Dorado, ordenó recalcular el haber de una jubilada con la fórmula de la Ley 27.426. El tribunal concluyó que la Ley 27.609 le hizo perder 46,83% de poder adquisitivo. El fallo vale solo para ese caso, pero puede servir de antecedente. También se declaró inconstitucional el tope cuando implica una quita de 15% o más.",
+      "source": "Infobae / MDZ",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/judiciales/2026/11/13/la-justicia-declaro-inconstitucional-el-aumento-a-jubilados-durante-el-gobierno-de-alberto-fernandez-y-ordeno-recalcular-los-haberes/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "Remedios de Escalada",
+      "country": "Argentina",
+      "headline": "Explosión en Remedios de Escalada: un muerto y demoran a dos directivos de Metrogas",
+      "summary": "La explosión de gas del viernes en el partido de Lanús dejó un muerto y unos 30 heridos, siete de ellos graves. La fiscal Yanina Estévez, de la UFI 6, ordenó demorar a dos directivos de la empresa. El municipio acusa a Metrogas de no haber activado los protocolos de emergencia cuando le avisaron de la fuga. Según Perfil, ya no quedan personas desaparecidas.",
+      "source": "AUNO / La Nación / Perfil",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.7,
+      "lon": -58.4,
+      "url": "https://auno.org.ar/explosion-en-remedios-de-escalada-un-muerto-y-dos-desaparecidos"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La inflación de octubre fue de 2,2%, la más alta desde abril",
+      "summary": "El INDEC informó que los precios subieron 2,2% en octubre, por encima del 1,9% de septiembre y del 1,8% que esperaba el REM del Banco Central. La inflación acumulada en el año llegó a 26,3% y la interanual a 33,1%. La núcleo bajó a 1,5%, y el rubro que más subió fue Vivienda, agua, electricidad y gas (4,2%).",
+      "source": "INDEC / Rankia",
+      "time_note": "esta semana",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.rankia.com.ar/noticias/bolsa/7550399-inflacion-octubre-2026-ipc-indec-fue-2-mas-alto-abril"
+    },
+    {
+      "tag": "Cultura",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Récord en la Noche de los Museos: 1,4 millones de personas, según la Ciudad",
+      "summary": "La 22ª edición abrió gratis unos 350 espacios culturales el sábado a la noche. Según la estimación oficial, participaron 1,4 millones de personas, más que las 1,2 millones de 2025. Perfil, también con datos oficiales, habló de más de 1,3 millones. Hubo largas filas y transporte gratuito.",
+      "source": "Infobae / Perfil",
+      "time_note": "hoy",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/cultura/2026/11/15/mas-de-un-millon-de-personas-recorren-la-ciudad-de-buenos-aires-en-una-nueva-edicion-de-la-noche-de-los-museos/"
+    },
+    {
+      "tag": "Internacional",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Milei llamó a Pedro Alliana, el nuevo presidente de Paraguay tras la caída de Peña",
+      "summary": "El presidente habló por teléfono con Alliana y le dio su respaldo \"para esta nueva etapa\". Alliana asumió el 6 de noviembre, después de la salida de Santiago Peña por el escándalo del Ueno Bank, y gobernará hasta agosto de 2028. Según Infobae, el banco hizo perder más de 1.200 millones de dólares a ahorristas y jubilados.",
+      "source": "Misiones Online / Infobae",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://misionesonline.net/2026/11/14/javier-milei-hablo-con-el-nuevo-presidente-de-paraguay/"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Yuba",
+      "country": "Sudán del Sur",
+      "category": "política",
+      "headline": "Sudán del Sur vuelve a postergar sus primeras elecciones: ahora serán el 11 de febrero de 2027",
+      "summary": "La Comisión Electoral Nacional pasó la votación general, prevista para el 22 de diciembre, al 11 de febrero de 2027, casi dos meses después del plazo que fija la ley. El nuevo calendario abre el registro de votantes entre el 14 y el 28 de noviembre. Según Radio Tamazuj, eso puede chocar con la regla que exige publicar el padrón tres meses antes de la elección. En marzo, observadores locales advirtieron que la comisión había recibido solo el 4% del presupuesto que pidió.",
+      "por_que": "El país más joven del mundo nunca votó desde su independencia en 2011, y cada postergación estira un gobierno de transición que no eligió nadie.",
+      "source": "People Daily / Radio Tamazuj",
+      "lat": 4.9,
+      "lon": 31.6,
+      "url": "https://peopledaily.digital/news/south-sudan-postpones-planned-december-polls-sets-new-election-date"
+    },
+    {
+      "region": "África",
+      "city": "Lilongüe",
+      "country": "Malaui",
+      "category": "ambiente",
+      "headline": "Mozambique y Malaui, elegidos para un nuevo fondo de adaptación climática",
+      "summary": "Los Fondos de Inversión en el Clima anunciaron en la COP31 que los dos países entran en ARISE, un nuevo programa de adaptación. El programa conjunto podrá pedir hasta US$40 millones, aunque es un techo y no una asignación. Ambos países sufren ciclones y sequías cada vez más seguidos.",
+      "por_que": "Muestra cómo empieza a llegar, todavía en montos chicos, la plata para la adaptación que reclaman los países más expuestos.",
+      "source": "Rio Times",
+      "lat": -13.9,
+      "lon": 33.8,
+      "url": "https://www.riotimesonline.com/mozambique-malawi-climate-fund-arise/"
+    },
+    {
+      "region": "Asia",
+      "city": "Peshawar",
+      "country": "Pakistán",
+      "category": "economía",
+      "headline": "Khyber Pakhtunkhwa prohíbe la minería de oro y anula todas las concesiones",
+      "summary": "El gobernador Faisal Karim Kundi, que gobierna la provincia bajo estado de emergencia, revocó todas las concesiones de oro y dio siete días para retirar la maquinaria. La medida llega después del ataque del 11 de noviembre en Kohat contra policías que volvían de un operativo contra la minería ilegal: murieron 10 agentes y 18 atacantes. Kundi dice que la minería ilegal financia el terrorismo y saca unos 90 kilos de oro por mes. Dato de una sola fuente.",
+      "por_que": "Expone el vínculo entre extracción ilegal y grupos armados en una de las provincias más violentas de Pakistán.",
+      "source": "Dawn",
+      "lat": 34.0,
+      "lon": 71.6,
+      "url": "https://www.dawn.com/news/2044485/kp-governor-kundi-announces-suspension-of-gold-mining-across-province"
+    },
+    {
+      "region": "Asia",
+      "city": "Biskek",
+      "country": "Kirguistán",
+      "category": "política",
+      "headline": "Once aspirantes se anotaron para enfrentar a Japarov en las presidenciales kirguisas",
+      "summary": "Se cerró el plazo de postulación para la elección del 27 de enero de 2027, con 11 nominados, entre ellos el presidente Sadyr Japarov, que busca un segundo mandato. Japarov juntó en menos de 24 horas las 60.000 firmas, el máximo permitido. La comisión electoral tiene hasta el 23 de diciembre para registrar a los candidatos, y dos exfuncionarios ya quedaron afuera por no aprobar el examen de idioma kirguís.",
+      "por_que": "Es la prueba de un gobierno que viene concentrando poder en Asia Central, después de un fallo que le habilitó a Japarov un nuevo mandato.",
+      "source": "Caspian Post / Times of Central Asia",
+      "lat": 42.9,
+      "lon": 74.6,
+      "url": "https://caspianpost.com/kyrgyzstan/kyrgyzstan-s-presidential-race-takes-shape-with-11-candidates"
+    },
+    {
+      "region": "Europa",
+      "city": "Riga",
+      "country": "Letonia",
+      "category": "economía",
+      "headline": "Letonia propone prohibir por su cuenta el tránsito de \"granos de sangre\" rusos y bielorrusos",
+      "summary": "La Cancillería letona redactó una norma para frenar el tránsito de cereales de Rusia y Bielorrusia mediante sanciones nacionales, porque no hay apoyo suficiente en la UE para una prohibición común. El tránsito de granos rusos por Letonia se multiplicó por 3,1 en los primeros diez meses de 2026. El gobierno admite riesgos de juicios por contratos ya firmados.",
+      "por_que": "Parte de ese grano saldría de territorios ucranianos ocupados, y la medida pone a prueba hasta dónde puede avanzar un país solo frente a Moscú.",
+      "source": "LSM",
+      "lat": 56.9,
+      "lon": 24.1,
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/13.11.2026-latvian-foreign-ministry-proposes-national-blood-grain-transit-ban.a671921/"
+    },
+    {
+      "region": "Europa",
+      "city": "Vilna",
+      "country": "Lituania",
+      "category": "economía",
+      "headline": "Lituania tuvo la mayor caída trimestral del PBI de la UE",
+      "summary": "La economía lituana se contrajo 1% entre julio y septiembre frente al trimestre anterior, la peor cifra entre los 20 países de la UE con datos publicados, que en promedio crecieron 0,5%. En la comparación interanual todavía creció 2,3%. Los economistas lo atribuyen a que se agotó el consumo financiado con unos 1.500 millones de euros retirados de los fondos de pensión.",
+      "por_que": "Muestra el costo de liberar ahorro previsional para consumir, en un país clave del flanco este de la OTAN.",
+      "source": "LRT",
+      "lat": 54.7,
+      "lon": 25.3,
+      "url": "https://www.lrt.lt/en/news-in-english/19/3113251/lithuania-records-eu-s-steepest-quarterly-gdp-decline-in-third-quarter"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Riad",
+      "country": "Arabia Saudita",
+      "category": "derechos",
+      "headline": "Arabia Saudita ejecutó a Jawad Qureiris, detenido por protestas de cuando era menor",
+      "summary": "Según la agencia oficial SPA, citada por Middle East Eye, el reino ejecutó a Jawad Qureiris. Lo habían acusado bajo la ley antiterrorista por hechos de cuando tenía 15 y 17 años, entre ellos participar en una protesta en 2010. Su condena a muerte había sido confirmada en apelación, y en octubre ya había sido ejecutado Hassan al-Faraj en un caso similar. Dato de una sola fuente.",
+      "por_que": "La Convención sobre los Derechos del Niño, que Riad firmó, prohíbe la pena de muerte por delitos cometidos antes de los 18 años.",
+      "source": "Middle East Eye",
+      "lat": 24.7,
+      "lon": 46.7,
+      "url": "https://www.middleeasteye.net/news/saudi-arabia-executes-former-child-protester-jawad-qureiris"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Bagdad",
+      "country": "Irak",
+      "category": "política",
+      "headline": "Llegó a Bagdad el cuerpo del exdiputado Ahmed Al Alwani, asesinado en Beirut",
+      "summary": "La fiscalía libanesa autorizó entregar el cuerpo a la embajada iraquí, y el sábado se hizo el funeral. Las autoridades del Líbano dicen que en el crimen participaron tres personas, pero todavía no tienen conclusiones sobre el motivo.",
+      "por_que": "El crimen de un político iraquí en Beirut suma tensión entre dos países atravesados por la guerra regional.",
+      "source": "The National / Arab News",
+      "lat": 33.3,
+      "lon": 44.4,
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/14/lebanon-hands-over-body-of-iraqi-former-mp-found-dead-in-beirut/"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Iqaluit",
+      "country": "Canadá",
+      "category": "salud",
+      "headline": "Siete de cada diez chicos inuit de Nunavut viven en hogares que saltean comidas",
+      "summary": "Un informe de 146 páginas de Qupanuaq e investigadores universitarios concluye que Nunavut atraviesa una crisis alimentaria. El 70% de los chicos inuit vive en hogares que saltean comidas, comen menos o comen peor para llegar a fin de mes. El estudio relaciona el deterioro con el fin del programa de vales alimentarios municipales, después del cual aumentaron la anemia y la baja hemoglobina en chicos de 2 a 5 años.",
+      "por_que": "Muestra una desigualdad extrema dentro de uno de los países más ricos del mundo.",
+      "source": "APTN News",
+      "lat": 63.7,
+      "lon": -68.5,
+      "url": "https://www.aptnnews.ca/national-news/70-of-inuit-children-live-in-households-that-skip-meals-eat-less-to-make-ends-meet-report/"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Papantla",
+      "country": "México",
+      "category": "ambiente",
+      "headline": "Comunidades de la Huasteca y el Totonacapan exigen prohibir el fracking por decreto",
+      "summary": "Organizaciones y pueblos de la Huasteca Potosina, el Totonacapan y la Sierra Norte de Puebla pidieron prohibir por decreto el fracking en la cuenca Tampico-Misantla. Dicen que todavía no se publicó el decreto que daría certeza a sus territorios. El reclamo coincide con la pausa de la nueva ley general de derechos indígenas, que el gobierno dejó en suspenso.",
+      "por_que": "La cuenca es la gran apuesta de gas no convencional de México y está sobre territorios indígenas con agua escasa.",
+      "source": "La Jornada",
+      "lat": 20.4,
+      "lon": -97.3,
+      "url": "https://www.jornada.com.mx/2026/11/13/politica/012n2pol?partner=rss"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Ciudad de Guatemala",
+      "country": "Guatemala",
+      "category": "cultura",
+      "headline": "Con una ceremonia maya, Guatemala recibió las cenizas de Miguel Ángel Asturias después de 52 años",
+      "summary": "Los restos del Nobel de Literatura de 1967, que estuvieron 52 años en París, llegaron el jueves en una urna con forma de grano de maíz y los recibió el presidente Bernardo Arévalo. El sábado, guías espirituales mayas le rindieron homenaje en el sitio arqueológico de Kaminaljuyú, con la presencia de Rigoberta Menchú. Hoy los restos se depositan en un monumento con forma de estela maya en el Centro Cultural Miguel Ángel Asturias.",
+      "por_que": "Cierra simbólicamente el exilio de uno de los grandes escritores de la región, con los pueblos indígenas que inspiraron su obra en el centro del homenaje.",
+      "source": "La Hora / Infobae",
+      "lat": 14.6,
+      "lon": -90.5,
+      "url": "https://lahora.gt/nacionales/kjordan/2026/11/14/con-una-ceremonia-maya-rinden-homenaje-a-miguel-angel-asturias-en-kaminaljuyu/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Asunción",
+      "country": "Paraguay",
+      "category": "política",
+      "headline": "Caso ueno: revelan que la Fiscalía sabía de maniobras de lavado de Marset en el banco desde hace tres años",
+      "summary": "Última Hora informó que el Ministerio Público tenía datos sobre operaciones de lavado ligadas al narcotraficante uruguayo Sebastián Marset en ueno bank desde hace tres años y no investigó. La revelación se suma a la intervención del banco, la caída del presidente Santiago Peña y los reclamos de juicio político al fiscal general Emiliano Rolón. Dato de una sola fuente.",
+      "por_que": "Apunta a la responsabilidad de la justicia en el escándalo financiero que derribó a un presidente.",
+      "source": "Última Hora",
+      "lat": -25.3,
+      "lon": -57.6,
+      "url": "https://www.ultimahora.com/inaccion-fiscalia-sabia-hace-tres-anos-de-maniobras-de-lavado-de-marset-en-ueno-bank-y-no-investigo"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Honiara",
+      "country": "Islas Salomón",
+      "category": "ambiente",
+      "headline": "Salomón pide que la plata del clima llegue antes de la temporada de ciclones",
+      "summary": "El ministro de Cambio Climático, Wayne Ghemu, reclamó en Antalya que el financiamiento climático para el Pacífico se desembolse más rápido. Pidió a los organismos financieros acordar de antemano protocolos de entrega de fondos antes de la temporada de ciclones, que empieza en noviembre.",
+      "por_que": "Para las islas del Pacífico, que la plata llegue a tiempo puede ser la diferencia entre prevenir un desastre y reconstruir después.",
+      "source": "Islands Business",
+      "lat": -9.4,
+      "lon": 160.0,
+      "url": "https://islandsbusiness.com/news-break/solomons-ministers-urges-faster-climate-finance-disbursement-for-pacific"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Suva",
+      "country": "Fiyi",
+      "category": "política",
+      "headline": "Fiyi: liberan de cargos al exviceprimer ministro Biman Prasad en la causa de la agencia anticorrupción",
+      "summary": "Un juez concluyó que no había caso para responder en los dos cargos que la Comisión Independiente contra la Corrupción (FICAC) le había imputado al exviceprimer ministro y exministro de Finanzas, por no cumplir obligaciones de declaración. El proceso venía con demoras desde 2025 y cambios en la acusación. Dato de una sola fuente.",
+      "por_que": "Pone a prueba la credibilidad de la agencia anticorrupción de Fiyi en causas contra figuras del poder.",
+      "source": "Islands Business (PACNEWS)",
+      "lat": -18.1,
+      "lon": 178.4,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-one-13-november-2026/"
+    }
+  ],
+  "breves": [
+    {
+      "country": "Croacia",
+      "category": "derechos",
+      "text": "Cientos de personas se manifestaron en Zagreb por la muerte de Kristian Josip Periš, un exdeportista de 32 años que murió en una clínica psiquiátrica. Cuatro técnicos sanitarios están detenidos e investigados por homicidio agravado.",
+      "source": "Arab News / AFP",
+      "lat": 45.8,
+      "lon": 16.0,
+      "url": "https://www.arabnews.com/world/croatians-rally-over-psychiatric-patient-death-3011860"
+    },
+    {
+      "country": "Canadá",
+      "category": "cultura",
+      "text": "Los Snowbirds, la patrulla acrobática de la Fuerza Aérea canadiense, hacen hoy su último vuelo con los Tutor CT-114 sobre Calgary, en la final de la 113ª Grey Cup, antes de que esos aviones dejen de volar para siempre.",
+      "source": "CBC",
+      "lat": 51.0,
+      "lon": -114.1,
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-final-flight-caf-rcaf-9.7421352"
+    },
+    {
+      "country": "Estados Unidos",
+      "category": "ciencia",
+      "text": "SpaceX atrapó en el aire la nave Starship cuando volvía a Texas después de un vuelo orbital en el que desplegó satélites Starlink. En cambio, abortó la recuperación del propulsor Super Heavy por una falla en sus motores.",
+      "source": "BioBioChile",
+      "lat": 26.0,
+      "lon": -97.2,
+      "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/11/14/spacex-atrapa-en-el-aire-la-nave-starship-tras-un-viaje-orbital-pero-falla-con-su-propulsor-gigante.shtml"
+    },
+    {
+      "country": "Canadá",
+      "category": "sociedad",
+      "text": "Makivvik, la organización de los inuit de Nunavik, abrió en Montreal Amauti, un refugio de emergencia para mujeres y chicos inuit.",
+      "source": "CBC North",
+      "lat": 45.5,
+      "lon": -73.6,
+      "url": "https://cbc.ca/news/canada/north/makivvik-new-emergency-shelter-9.7421689?cmp=rss"
+    },
+    {
+      "country": "México",
+      "category": "cultura",
+      "text": "El encuentro de arte textil Original sumó a su programa un festival de música en lenguas originarias.",
+      "source": "La Jornada",
+      "lat": 19.4,
+      "lon": -99.1,
+      "url": "https://www.jornada.com.mx/2026/11/13/cultura/a05n1cul?partner=rss"
+    },
+    {
+      "country": "Uzbekistán",
+      "category": "economía",
+      "text": "Uzbekistán recibió US$44.100 millones de inversión extranjera en los primeros nueve meses del año.",
+      "source": "Trend",
+      "lat": 41.3,
+      "lon": 69.2,
+      "url": "https://trend.az/casia/uzbekistan/4246530.html"
+    },
+    {
+      "country": "Sudáfrica",
+      "category": "sociedad",
+      "text": "Tiyani Makamu, de 27 años y de la provincia de Gauteng, fue coronada Miss Sudáfrica 2026 en el Sandton Convention Centre de Johannesburgo.",
+      "source": "Rio Times",
+      "lat": -26.1,
+      "lon": 28.1,
+      "url": "https://www.riotimesonline.com/tiyani-makamu-crowned-miss-south-africa-2026"
+    }
+  ],
+  "efemerides": {
+    "dia": "15 de noviembre",
+    "items": [
+      {
+        "year": "1630",
+        "text": "Muere en Ratisbona el astrónomo alemán Johannes Kepler, autor de las leyes del movimiento de los planetas."
+      },
+      {
+        "year": "1889",
+        "text": "En Brasil, un golpe militar encabezado por el mariscal Deodoro da Fonseca derroca al emperador Pedro II y proclama la República."
+      },
+      {
+        "year": "1920",
+        "text": "En Ginebra se reúne por primera vez la Asamblea de la Sociedad de las Naciones."
+      },
+      {
+        "year": "1922",
+        "text": "En Guayaquil, Ecuador, el ejército reprime una huelga general obrera y mata a cientos de trabajadores, en una de las peores masacres laborales de América Latina."
+      },
+      {
+        "year": "1959",
+        "text": "En la Argentina, la Ley 15.240 crea el Consejo Nacional de Educación Técnica (CONET); por eso hoy es el Día de la Educación Técnica."
+      },
+      {
+        "year": "1983",
+        "text": "Los dirigentes turcochipriotas proclaman la República Turca del Norte de Chipre, que solo reconoce Turquía."
+      },
+      {
+        "year": "1988",
+        "text": "En Argel, el Consejo Nacional Palestino proclama la Declaración de Independencia del Estado de Palestina."
+      },
+      {
+        "year": "1988",
+        "text": "El transbordador soviético Burán hace su único vuelo orbital, sin tripulación y con aterrizaje automático en Baikonur."
+      },
+      {
+        "year": "2000",
+        "text": "Se crea en la India el estado de Jharkhand, separado de Bihar después de décadas de reclamos de los pueblos adivasis."
+      },
+      {
+        "year": "2017",
+        "text": "Se pierde el contacto con el submarino ARA San Juan en el Atlántico Sur, con 44 tripulantes a bordo. Sus restos se encontraron un año después."
+      }
+    ]
+  }
+}
