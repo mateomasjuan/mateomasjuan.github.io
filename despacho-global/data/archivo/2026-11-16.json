@@ -1,0 +1,524 @@
+{
+  "edicion": 24,
+  "fecha": "2026-11-16",
+  "generado": "2026-11-16T07:30:11-03:00",
+  "nota_editor": "Semana de cumbres con el Golfo en tensión: Trump llega a Manila y el jueves se reúne con Xi y Putin en Shenzhen, mientras Irán vuelve a atacar en Bahréin y en Ormuz. En la Argentina, el Senado se prepara para pelear la suspensión de las PASO.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.570",
+      "variacion": "estable",
+      "nota": "cierre del viernes 13/11; el mayorista cerró en $1.543,50"
+    },
+    {
+      "label": "Dólar blue (venta)",
+      "valor": "$1.570",
+      "variacion": "estable",
+      "nota": "cierre del 13/11 según Ámbito; otras fuentes lo dan en $1.565"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "830",
+      "variacion": "-100 en la semana",
+      "nota": "cierre del 13/11 (JP Morgan); el viernes subió 0,1%"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "85.053",
+      "variacion": "+3,1%",
+      "nota": "cierre del 13/11; cortó cinco caídas seguidas"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "2,2%",
+      "variacion": "",
+      "nota": "octubre de 2026, la más alta desde abril"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$95,84",
+      "variacion": "+0,02%",
+      "nota": "cierre del 13/11; segunda semana seguida en baja"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Manama",
+      "country": "Bahréin",
+      "headline": "Irán ataca por segunda vez en tres días una instalación de radar de EE.UU. en Bahréin",
+      "summary": "Los Guardianes de la Revolución atacaron con drones el domingo un radar estadounidense en Bahréin, y las defensas aéreas bahreiníes dicen haberlos interceptado. Los Guardianes también afirman que un superpetrolero con unos 2 millones de barriles se hundió al chocar con una mina en Ormuz, pero nadie lo confirmó de forma independiente. Según el NYT, el portaaviones Theodore Roosevelt llega hoy a la región, con lo que EE.UU. tendría tres allí.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "The Telegraph / BBC",
+      "time_note": "ayer",
+      "lat": 26.2,
+      "lon": 50.6,
+      "url": "https://www.telegraph.co.uk/world-news/2026/11/15/iran-attacks-us-military-base-in-bahrain/"
+    },
+    {
+      "city": "Shenzhen",
+      "country": "China",
+      "headline": "China confirma la cumbre de Xi, Trump y Putin del jueves 19 en Shenzhen, la primera de los tres",
+      "summary": "La Cancillería china confirmó la fecha y el lugar del encuentro, al margen de la cumbre de la APEC del 18 y 19 de noviembre, pero no publicó una agenda. La Casa Blanca dice que Trump quiere hablar de reducir los arsenales nucleares, y el asesor ruso Yuri Ushakov apunta a un acuerdo sobre Ucrania. Shenzhen prohibió drones en toda la ciudad entre el 11 y el 21 de noviembre.",
+      "category": "política",
+      "impact": "alto",
+      "source": "UNN / RBC-Ucrania / Reuters",
+      "time_note": "hoy",
+      "lat": 22.5,
+      "lon": 114.1,
+      "url": "https://unn.ua/en/news/china-has-officially-confirmed-the-meeting-between-trump-putin-and-xi-on-november-19-what-the-leaders-will-discuss-has-become-known"
+    },
+    {
+      "city": "Jerusalén",
+      "country": "Israel",
+      "headline": "Eisenkot dice que Netanyahu \"no puede seguir ni un minuto más\" tras una denuncia de manipulación electoral",
+      "summary": "Según un informe del Canal 12, colaboradores de Netanyahu se habrían coordinado con la policía y el Shin Bet para inventar cargos contra miembros de la Lista Árabe Unida antes de las elecciones del mes pasado. Gadi Eisenkot, a quien el presidente Herzog le encargó formar gobierno, calificó la conducta del primer ministro como una \"amenaza concreta e inmediata\" a la democracia. El Likud y el bloque Yashar tenían previsto negociar el domingo un gobierno de unidad.",
+      "category": "política",
+      "impact": "alto",
+      "source": "The New Arab / i24 News",
+      "time_note": "ayer",
+      "lat": 31.8,
+      "lon": 35.2,
+      "url": "https://www.newarab.com/news/eisenkot-says-netanyahu-cannot-stay-office-minute-longer"
+    },
+    {
+      "city": "Kerch",
+      "country": "Ucrania (Crimea ocupada)",
+      "headline": "Ucrania ataca el puente que une Crimea con Rusia y obliga a restringir el tránsito",
+      "summary": "Un funcionario designado por Moscú confirmó el ataque al puente de Kerch, que dejó el tránsito restringido este lunes. El Ministerio de Defensa ruso dijo haber derribado más de 1.300 drones ucranianos durante la noche en varias regiones, incluido el mar Negro. Pasa a dos días de la reunión trilateral de Shenzhen.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al Arabiya / AP",
+      "time_note": "hoy",
+      "lat": 45.3,
+      "lon": 36.5,
+      "url": "https://english.alarabiya.net/News/world/2026/11/16/ukraine-strikes-bridge-linking-crimea-to-russia-regional-official-says"
+    },
+    {
+      "city": "Adén",
+      "country": "Yemen",
+      "headline": "Los hutíes avanzan hasta 60 kilómetros de Adén, la capital de facto del gobierno yemení",
+      "summary": "Según fuentes militares citadas por la AFP, los hutíes avanzaron sobre todo por la provincia de Lahij, y el gobierno sacó sus últimas tropas de la zona del estrecho de Bab el-Mandeb para reforzar Adén. Un ataque con misiles hutí mató el domingo al menos a ocho personas en Lahij. El mismo día, la Cruz Roja informó que los hutíes liberaron a 600 combatientes progubernamentales.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "France 24 / AFP",
+      "time_note": "ayer",
+      "lat": 12.8,
+      "lon": 45.0,
+      "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+    },
+    {
+      "city": "Manila",
+      "country": "Filipinas",
+      "headline": "Trump llega hoy a Manila para la cumbre ASEAN-EE.UU., entre protestas y la crisis del petróleo",
+      "summary": "Trump participará mañana, 17 de noviembre, en la cumbre especial ASEAN-EE.UU., el último acto del encuentro regional, y se reunirá a solas con Ferdinand Marcos antes de viajar a la APEC en China. Rappler informó que casi 300 manifestantes fueron detenidos en Muntinlupa en la apertura. Los líderes del bloque insisten en que no normalizan relaciones con la junta de Myanmar.",
+      "category": "política",
+      "impact": "medio",
+      "source": "NPR / Rappler / AP",
+      "time_note": "hoy",
+      "lat": 14.6,
+      "lon": 121.0,
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6040052/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit"
+    },
+    {
+      "city": "Phnom Penh",
+      "country": "Camboya",
+      "headline": "La rivalidad entre la RD del Congo y Ruanda por la secretaría general divide la cumbre de la Francofonía",
+      "summary": "La 20ª cumbre de la Organización Internacional de la Francofonía se hace el 15 y 16 de noviembre en Phnom Penh y Siem Reap. Ruanda mantiene la candidatura de Louise Mushikiwabo a un tercer mandato y la RD del Congo presentó a Juliana Lumumba. Emmanuel Macron propuso retirar las dos candidaturas para llegar a un consenso y evitar que Kinshasa abandone la organización.",
+      "category": "política",
+      "impact": "medio",
+      "source": "La Libre / AFP / RTS",
+      "time_note": "ayer",
+      "lat": 11.6,
+      "lon": 104.9,
+      "url": "https://www.lalibre.be/dernieres-depeches/2026/11/15/francophonie-debut-dun-sommet-capital-rattrape-par-la-rivalite-rdc-rwanda-G72FJWPP7JH3TKVFY5IU2TNMFY/"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "PASO: Santilli asegura que tiene 38 votos en el Senado y Bullrich advierte que no alcanzan",
+      "summary": "El oficialismo intenta avanzar esta semana con la reforma electoral que suspende las primarias. Al ser una ley electoral, necesita la mitad más uno de todo el cuerpo. El jefe de Gabinete, Diego Santilli, dice contar con 38 votos potenciales. Patricia Bullrich, presidenta del bloque libertario, sostiene que los números no dan, y en su entorno temen que la Casa Rosada la culpe si fracasa; según Ámbito, Santilli y los Menem negocian con los gobernadores sin ella.",
+      "source": "El Día / Ámbito",
+      "time_note": "hoy",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "http://www.eldia.com/politica-y-economia/suspension-de-las-paso-un-debate-a-pura-interna-en-lla-politica-y-economia_1794806035"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El riesgo país bajó más de 100 puntos en la semana y cerró en 830",
+      "summary": "Los bonos argentinos rebotaron 3% en una semana de mucha volatilidad externa, y el indicador de JP Morgan terminó el viernes en 830 puntos básicos, después de haber tocado 925 a principios de mes. El S&P Merval subió 3,1% el viernes, hasta 85.053 puntos, y cortó así cinco ruedas seguidas en baja. El dólar oficial se mantuvo en $1.570 en el Banco Nación.",
+      "source": "Infobae / Diario Popular",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/economia/2026/11/14/los-bonos-rebotaron-3-y-el-riesgo-pais-argentino-desconto-mas-de-100-puntos-basicos-en-una-semana-de-alta-volatilidad-externa/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Lanús",
+      "country": "Argentina",
+      "headline": "Explosión en Remedios de Escalada: el Municipio de Lanús será querellante contra Metrogas",
+      "summary": "El intendente Julián Álvarez anunció que el Municipio se presentará como querellante por un \"evidente incumplimiento de los protocolos de emergencia\" de la empresa, y que dará ayudas a los vecinos afectados. La explosión, causada por la rotura de un caño durante una reparación, dejó un muerto y unos 30 heridos. Un operario de Metrogas, Marcelo García, de 47 años, sigue desaparecido. La zona restringida se redujo y los vecinos empezaron a volver a sus casas.",
+      "source": "Inforegión / Infobae / MDZ",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.7,
+      "lon": -58.4,
+      "url": "https://www.inforegion.com.ar/2026/11/16/explosion-en-remedios-de-escalada-el-municipio-sera-querellante-y-anuncio-ayuda/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "Gualeguaychú",
+      "country": "Argentina",
+      "headline": "Detienen en Entre Ríos a dos sospechosos de ayudar a escapar al exbrigadista rojo Leonardo Bertulazzi",
+      "summary": "Una mujer salvadoreña y un hombre uruguayo fueron detenidos el jueves 12 cuando intentaban cruzar a Uruguay. Les secuestraron seis celulares, documentos con datos distintos, dinero, pendrives y dos notebooks. Bertulazzi, de 74 años, se escapó el 10 de noviembre del arresto domiciliario que cumplía en San Telmo mientras esperaba su extradición a Italia. Los investigadores creen que la fuga se coordinó en un grupo de WhatsApp de unas 15 personas, y el Ministerio de Seguridad ofrece $20 millones de recompensa.",
+      "source": "Análisis Digital / Perfil / A24",
+      "time_note": "esta semana",
+      "impact": "medio",
+      "lat": -33.0,
+      "lon": -58.5,
+      "url": "https://www.analisisdigital.com.ar/policiales/2026/11/14/detuvieron-en-entre-rios-dos-sospechosos-de-colaborar-en-la-fuga-del-exintegrante-de-las-brigadas-rojas"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Milei recibe hoy a Toyota en la Casa Rosada y cierra la semana con el desembarco de Tesla",
+      "summary": "El Presidente recibe a las 13 a directivos de Toyota junto con Karina Milei y Luis Caputo, y a las 20 va a la cena del CICyP en el Alvear Palace. El miércoles recibirá doctorados honoris causa de la Universidad de Belgrano y del Instituto Universitario Isaac Abarbanel. El viernes a las 19 encabezará en La Boca el lanzamiento oficial de Tesla en el país.",
+      "source": "MDZ / Noticias Argentinas / Perfil",
+      "time_note": "hoy",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.mdzol.com/politica/2026/11/16/polo-empresarios-y-tesla-la-particular-agenda-que-tendra-javier-milei-esta-semana-1995573.html"
+    },
+    {
+      "tag": "Cultura",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Récord en la Noche de los Museos: 1,4 millones de personas recorrieron la Ciudad",
+      "summary": "La 22ª edición se hizo el sábado 14 entre las 19 y las 2, con más de 360 espacios abiertos y transporte gratuito en colectivos, subtes y Ecobici. Según la estimación oficial del Gobierno porteño, superó a los 1,2 millones de visitantes de 2025.",
+      "source": "Ámbito / Filo.news",
+      "time_note": "ayer",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.ambito.com/informacion-general/la-noche-los-museos-batio-un-record-historico-14-millones-personas-recorrieron-buenos-aires-n6345368"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Génova",
+      "country": "Italia",
+      "headline": "Los Pumas le ganaron 19-14 a Italia en Génova y el sábado juegan con Francia",
+      "summary": "El seleccionado de rugby se recuperó de la derrota 42-12 con Irlanda en Dublín de la semana anterior, aunque con un juego deslucido. Italia descontó con un try penal cerca del final pero no le alcanzó para empatar. El próximo partido de la ventana es contra Francia, el 21 de noviembre.",
+      "source": "La Nación / El Día",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": 44.4,
+      "lon": 8.9,
+      "url": "https://lanacion.com.ar/deportes/rugby/los-pumas-vencieron-a-italia-pero-volvieron-a-ser-un-equipo-ordinario-nid14112026"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Praia",
+      "country": "Cabo Verde",
+      "category": "política",
+      "headline": "José María Neves es reelegido en Cabo Verde con casi 64% de los votos y una abstención récord",
+      "summary": "Con el 96,8% de las mesas escrutadas, Neves, apoyado por el PAICV, sumaba 80.018 votos (63,8%), contra 39.660 (31,6%) de Joana Rosa, candidata del MpD y primera mujer en disputar la presidencia, que reconoció la derrota. La abstención rondó el 68%, contra cerca del 52% en 2021, sobre unos 419.400 inscriptos. Son resultados provisorios de la Comisión Nacional de Elecciones.",
+      "por_que": "Cabo Verde es una de las democracias más estables de África, y la caída de la participación es una señal de alerta para todo el archipiélago.",
+      "source": "Rádio Renascença / Observador / Inforpress",
+      "lat": 14.9,
+      "lon": -23.5,
+      "url": "https://rr.pt/noticia/mundo/2026/11/15/presidenciais-em-cabo-verde-jose-maria-neves-reeleito-com-637-dos-votos/493734/"
+    },
+    {
+      "region": "África",
+      "city": "Siguiri",
+      "country": "Guinea",
+      "category": "economía",
+      "headline": "Diez muertos en Guinea en choques por la prohibición de la minería artesanal de oro",
+      "summary": "Los enfrentamientos empezaron el miércoles 11 en Siguiri, en el noreste del país, cuando las fuerzas de seguridad controlaban que se cumpliera la prohibición vigente desde el 2 de noviembre. Hubo 13 heridos, y cinco de los muertos eran extranjeros. Más de 1.200 personas fueron detenidas por minería ilegal en la zona. Malí dice que unas 100.000 personas llegaron a Bamako después de salir de Guinea, y Burkina Faso repatrió a 45.406 ciudadanos.",
+      "por_que": "La minería artesanal es el sustento de cientos de miles de personas en África Occidental, y esta prohibición ya provoca migraciones masivas entre países vecinos.",
+      "source": "Reuters vía Arab News / Bloomberg",
+      "lat": 11.4,
+      "lon": -9.2,
+      "url": "https://www.arabnews.pk/world/10-killed-in-clashes-in-guinea-after-artisanal-mining-ban-3006926"
+    },
+    {
+      "region": "Asia",
+      "city": "Daca",
+      "country": "Bangladés",
+      "category": "economía",
+      "headline": "Los fabricantes textiles de Bangladés amenazan con abandonar la negociación salarial",
+      "summary": "Los dueños de las fábricas de indumentaria amenazaron con dejar la mesa de salarios y alegaron falta de seguridad en las plantas tras semanas de protestas obreras. A principios de mes el gobierno había formado una junta salarial y acordado una nueva escala de sueldos desde diciembre, después de protestas violentas que cerraron fábricas.",
+      "por_que": "El sector textil genera la mayor parte de las exportaciones de Bangladés y emplea a millones de trabajadoras que hacen ropa para marcas de todo el mundo.",
+      "source": "AFP vía France 24 / Dhaka Tribune",
+      "lat": 23.8,
+      "lon": 90.4,
+      "url": "https://www.france24.com/en/live-news/20261114-bangladesh-garment-makers-threaten-to-quit-wage-talks"
+    },
+    {
+      "region": "Asia",
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "category": "ambiente",
+      "headline": "Alerta roja en Sri Lanka por una depresión en el golfo de Bengala que puede volverse ciclón severo",
+      "summary": "El Departamento de Meteorología advirtió que el sistema, al este de la isla, se convertiría en una depresión profunda y en una tormenta ciclónica severa hacia el 17 de noviembre. Se espera que se mueva hacia el noroeste, lejos de la costa, pero se pronostican lluvias e inundaciones, y se pidió a pescadores y marinos no salir al mar.",
+      "por_que": "Sri Lanka todavía se recupera de inundaciones recientes, y un nuevo ciclón amenaza a las comunidades pesqueras de la costa este.",
+      "source": "Newswire / Ada Derana",
+      "lat": 6.9,
+      "lon": 79.9,
+      "url": "https://www.newswire.lk/2026/11/15/met-dept-issues-warning-as-bay-of-bengal-system-set-to-intensify-into-cyclonic-storm/"
+    },
+    {
+      "region": "Europa",
+      "city": "Narva",
+      "country": "Estonia",
+      "category": "política",
+      "headline": "Estonia cierra sus pasos fronterizos con Rusia tras un intento de incendio contra un fabricante de drones",
+      "summary": "Las autoridades estonias detuvieron a ocho personas por el intento de incendiar una empresa que fabrica drones y culpan a la inteligencia militar rusa. La Cancillería rusa calificó el cierre de \"rusofobia agresiva y desenfrenada\".",
+      "por_que": "Es un paso más de la llamada \"guerra híbrida\" en el flanco báltico de la OTAN, con sabotajes contra la industria de defensa europea.",
+      "source": "Al Jazeera",
+      "lat": 59.4,
+      "lon": 28.2,
+      "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+    },
+    {
+      "region": "Europa",
+      "city": "Ginebra",
+      "country": "Suiza",
+      "category": "tecnología",
+      "headline": "La ONU debate en Ginebra límites para las armas autónomas guiadas por IA, con EE.UU. y Rusia en contra",
+      "summary": "Esta semana se reúne en Ginebra la Convención sobre Ciertas Armas Convencionales para discutir reglas sobre los sistemas de armas letales autónomos. Según Reuters, EE.UU. y Rusia se oponen a negociar límites vinculantes, mientras Alemania, Francia y el Reino Unido dudan entre una regulación obligatoria y simples lineamientos.",
+      "por_que": "Puede ser la última oportunidad de fijar reglas antes de que los drones y armas que eligen solos sus blancos se generalicen en las guerras.",
+      "source": "Reuters / Barron's",
+      "lat": 46.2,
+      "lon": 6.1,
+      "url": "https://www.reuters.com/world/us-russia-oppose-talks-limiting-autonomous-weapons-2026-11-16/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Jaramana",
+      "country": "Siria",
+      "category": "conflicto",
+      "headline": "Un coche bomba mata al menos a dos personas, entre ellas un chico, en un suburbio druso y cristiano de Damasco",
+      "summary": "La explosión fue el sábado en Jaramana, al sur de la capital siria, una zona habitada sobre todo por drusos y cristianos, y dejó además al menos un herido. Nadie se atribuyó el ataque.",
+      "por_que": "La violencia contra minorías religiosas pone a prueba la promesa de convivencia del nuevo gobierno sirio.",
+      "source": "AP",
+      "lat": 33.5,
+      "lon": 36.3,
+      "url": "https://apnews.com/article/syria-explosion-damascus-jaramana-car-5d37a9bb4c4176986ff198c0766151b3"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Gaza",
+      "country": "Palestina",
+      "category": "derechos",
+      "headline": "Las propias cifras de Israel muestran que llega a Gaza la mitad de la ayuda acordada en el alto el fuego",
+      "summary": "Según Haaretz, el acuerdo de octubre del año pasado prevé unos 18.200 camiones de ayuda por mes, pero después de un pico en enero y febrero las entregas se estabilizaron en alrededor de la mitad. Casi todo lo que entra es comida, y los insumos médicos y los materiales para refugios están muy por debajo de lo necesario. La UE pidió acceso \"inmediato y sin trabas\" después de inundaciones y deslizamientos recientes.",
+      "por_que": "Con el invierno y las inundaciones, la falta de refugios y de medicamentos agrava la crisis sanitaria de dos millones de personas.",
+      "source": "Haaretz / Al Jazeera",
+      "lat": 31.5,
+      "lon": 34.5,
+      "url": "https://www.haaretz.com/gaza/2026-11-15/ty-article/.premium/israels-own-numbers-reveal-gaza-aid-deliveries-fell-far-short-of-commitments/000001a1-de03-d1ce-a9a3-fe1371dd0000"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Kingston",
+      "country": "Jamaica",
+      "category": "política",
+      "headline": "Holness defiende ante su partido que Jamaica sigue junto a Cuba, pese a abstenerse en la ONU",
+      "summary": "En la conferencia del Partido Laborista de Jamaica, el primer ministro Andrew Holness dijo que el país sigue apoyando a Cuba, aunque el 28 de octubre se abstuvo en la votación de la Asamblea General contra el embargo de EE.UU. Fue una de las 25 abstenciones, la cifra más alta en dos décadas. El ex primer ministro P. J. Patterson había calificado el cambio de voto de \"traición abominable\".",
+      "por_que": "Muestra cómo la presión de Washington está rompiendo la histórica unidad del Caribe frente al embargo a Cuba.",
+      "source": "The Gleaner / Jamaica Observer",
+      "lat": 18.0,
+      "lon": -76.8,
+      "url": "https://jamaica-gleaner.com/article/news/20261115/jlp-conference-pm-says-jamaica-stands-cuba-despite-abstaining-un-embargo-vote"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Guadalajara",
+      "country": "México",
+      "category": "sociedad",
+      "headline": "Murió a los 80 años Miguel Ángel Félix Gallardo, fundador del Cártel de Guadalajara",
+      "summary": "Félix Gallardo murió el 15 de noviembre en un hospital de Guadalajara. Había sido condenado por el asesinato del agente de la DEA Enrique \"Kiki\" Camarena en 1985. El mismo fin de semana, hombres armados atacaron un bar de la Zona Dorada de Mazatlán y dos fiestas, con al menos tres muertos. Dato de una sola fuente.",
+      "por_que": "Fue el arquitecto del narcotráfico moderno en México, cuya fragmentación dio origen a los cárteles de Sinaloa y Jalisco.",
+      "source": "The Rio Times",
+      "lat": 20.7,
+      "lon": -103.3,
+      "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-november-16-2026/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Barrancabermeja",
+      "country": "Colombia",
+      "category": "ambiente",
+      "headline": "Ecopetrol confirma que reactivará el fracking en el Magdalena Medio",
+      "summary": "La petrolera estatal anunció que vuelve a poner en marcha sus proyectos de exploración con fracturación hidráulica en el Magdalena Medio. También negocia importar gas de Venezuela durante diez años, un giro respecto de la política del gobierno anterior, que había frenado el fracking.",
+      "por_que": "Reabre en Colombia el debate entre seguridad energética y protección del agua en una región con fuerte resistencia comunitaria.",
+      "source": "Infobae Colombia / La República / Semana",
+      "lat": 7.1,
+      "lon": -73.9,
+      "url": "https://www.infobae.com/colombia/2026/11/14/ecopetrol-confirma-que-reactivara-el-fracking-en-el-magdalena-medio-esta-es-la-zona-elegida/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "category": "derechos",
+      "headline": "Crece la violencia contra pueblos indígenas en Brasil después del balotaje que ganó Lula",
+      "summary": "Según las autoridades brasileñas, desde el balotaje del 25 de octubre, que Lula ganó por más de 4 millones de votos, aumentaron los ataques de seguidores de Flávio Bolsonaro contra comunidades vistas como afines al PT. El Ministerio de Derechos Humanos recibió 189 denuncias de violencia en los primeros cinco días después de la votación, y el de Pueblos Indígenas, 13. No todas fueron verificadas ni se confirmó su motivación política.",
+      "por_que": "Los pueblos indígenas quedan en el centro de la polarización política, sobre todo en la Amazonia.",
+      "source": "The Washington Post",
+      "lat": -15.8,
+      "lon": -47.9,
+      "url": "https://wapo.st/490R7it"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Funafuti",
+      "country": "Tuvalu",
+      "category": "ambiente",
+      "headline": "Tuvalu en la COP31: \"No nos vamos a ir\"",
+      "summary": "El primer ministro Feleti Teo dijo en Antalya que su país no se prepara para abandonar su territorio y pidió más financiamiento climático y recortes de emisiones. Al mismo tiempo, el presidente del IPCC advirtió que el mundo está a punto de superar el límite de 1,5 °C de calentamiento.",
+      "por_que": "Tuvalu, con apenas unos metros sobre el nivel del mar, es el símbolo de los países que podrían desaparecer por el cambio climático.",
+      "source": "PACNEWS / Islands Business",
+      "lat": -8.5,
+      "lon": 179.2,
+      "url": "https://islandsbusiness.com/news-break/tuvalu-stands-firm-were-not-moving/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Port Moresby",
+      "country": "Papúa Nueva Guinea",
+      "category": "ambiente",
+      "headline": "Papúa Nueva Guinea amplía su ley contra los plásticos de un solo uso más allá de las bolsas",
+      "summary": "El gobierno revisa la normativa para sumar otros productos de plástico descartable a la prohibición vigente, que hasta ahora alcanzaba sobre todo a las bolsas de compras. Distintos sectores de la industria se venían quejando de que no sabían con claridad qué cubría la prohibición.",
+      "por_que": "Los plásticos que llegan al mar dañan los arrecifes y la pesca, de los que dependen millones de personas en el Pacífico.",
+      "source": "PACNEWS / The National",
+      "lat": -9.4,
+      "lon": 147.2,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-one-16-november-2026/"
+    }
+  ],
+  "breves": [
+    {
+      "country": "Indonesia",
+      "category": "ambiente",
+      "text": "El presidente Prabowo Subianto pidió disculpas a Singapur y Malasia por el humo tóxico de los incendios forestales en Borneo y Sumatra, que cubre parte del sudeste asiático desde hace semanas.",
+      "source": "Al Jazeera",
+      "lat": -6.2,
+      "lon": 106.8,
+      "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze"
+    },
+    {
+      "country": "Uzbekistán",
+      "category": "ambiente",
+      "text": "Uzbekistán y Tayikistán firmaron en la COP31 dos declaraciones: una para proteger bosques y paisajes y otra para crear un sistema regional de alerta temprana de incendios forestales.",
+      "source": "UzDaily / Trend",
+      "lat": 41.3,
+      "lon": 69.3,
+      "url": "https://uzdaily.uz/en/uzbekistan-and-tajikistan-agree-to-protect-forests-and-landscapes"
+    },
+    {
+      "country": "Australia",
+      "category": "deporte",
+      "text": "Las Jillaroos ganaron su cuarto Mundial femenino de rugby league seguido: vencieron 34-10 a las Kiwi Ferns de Nueva Zelanda en el Suncorp Stadium de Brisbane.",
+      "source": "PACNEWS Sports",
+      "lat": -27.5,
+      "lon": 153.0,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-sports-16-november-2026/"
+    },
+    {
+      "country": "Chile",
+      "category": "cultura",
+      "text": "La Noche de Museos chilena también batió su récord de participación, con filas enormes en la Quinta Normal: el balance preliminar contó 100.940 visitas en apenas 61 de los 361 espacios.",
+      "source": "The Clinic",
+      "lat": -33.4,
+      "lon": -70.7,
+      "url": "https://www.theclinic.cl/2026/11/14/nadie-come-cultura-noche-de-museos-rompe-record-de-participacion-con-filas-gigantes-en-quinta-normal-museos-emblematicos-repletos-y-familias-recorriendo-las-calles/"
+    },
+    {
+      "country": "Honduras",
+      "category": "cultura",
+      "text": "Murió en Tegucigalpa, a los 70 años, Emmanuel Jaén Sierra, el dramaturgo e investigador que reconstruyó la historia del teatro hondureño.",
+      "source": "Proceso Digital",
+      "lat": 14.1,
+      "lon": -87.2,
+      "url": "https://proceso.hn/resumen-de-noticias-domingo-15-de-noviembre-de-2026/"
+    },
+    {
+      "country": "República Centroafricana",
+      "category": "sociedad",
+      "text": "Cientos de personas marcharon en Bangui contra la suba de los combustibles y para pedir la liberación de cinco líderes sociales detenidos; la oposición le dio al gobierno entre dos y tres semanas para responder.",
+      "source": "Africanews",
+      "lat": 4.4,
+      "lon": 18.6,
+      "url": "https://www.africanews.com/2026/11/13/car-opposition-marchest-in-bangui-against-rising-cost-of-living/"
+    },
+    {
+      "country": "Kazajistán",
+      "category": "economía",
+      "text": "La economía de Kazajistán creció 4,5% en los primeros diez meses de 2026, y el FMI espera que el crecimiento se acelere en 2027.",
+      "source": "Trend",
+      "lat": 51.2,
+      "lon": 71.4,
+      "url": "https://trend.az/casia/kazakhstan/4246972.html"
+    }
+  ],
+  "efemerides": {
+    "dia": "16 de noviembre",
+    "items": [
+      {
+        "year": "1532",
+        "text": "Francisco Pizarro captura al inca Atahualpa en Cajamarca, un hecho decisivo en la conquista del Imperio incaico."
+      },
+      {
+        "year": "1849",
+        "text": "Un tribunal ruso condena a muerte a Fiódor Dostoievski por integrar el círculo de Petrashevski; la pena se le conmuta a último momento por trabajos forzados en Siberia."
+      },
+      {
+        "year": "1885",
+        "text": "Ejecutan en Regina, Canadá, a Louis Riel, líder del pueblo métis y de la rebelión del Noroeste."
+      },
+      {
+        "year": "1907",
+        "text": "Oklahoma, levantado en gran parte sobre el antiguo Territorio Indio, se convierte en el estado número 46 de EE.UU."
+      },
+      {
+        "year": "1922",
+        "text": "Nace en Azinhaga, Portugal, José Saramago, Premio Nobel de Literatura 1998."
+      },
+      {
+        "year": "1945",
+        "text": "Se firma en Londres la constitución de la UNESCO, la agencia de la ONU para la educación, la ciencia y la cultura."
+      },
+      {
+        "year": "1973",
+        "text": "Despega la misión Skylab 4, cuya tripulación pasó 84 días en órbita, un récord para la época."
+      },
+      {
+        "year": "1974",
+        "text": "El radiotelescopio de Arecibo, en Puerto Rico, emite hacia el cúmulo estelar M13 el primer mensaje enviado deliberadamente a posibles civilizaciones extraterrestres."
+      },
+      {
+        "year": "1988",
+        "text": "El Partido del Pueblo de Pakistán gana las elecciones y Benazir Bhutto se convierte poco después en la primera mujer en gobernar un país de mayoría musulmana."
+      },
+      {
+        "year": "1989",
+        "text": "Militares salvadoreños asesinan en la Universidad Centroamericana (UCA) de San Salvador a seis sacerdotes jesuitas, entre ellos Ignacio Ellacuría, y a dos trabajadoras."
+      }
+    ]
+  }
+}
