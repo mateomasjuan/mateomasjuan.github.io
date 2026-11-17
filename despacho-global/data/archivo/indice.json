@@ -93,5 +93,10 @@
     "fecha": "2026-11-16",
     "edicion": 24,
     "archivo": "archivo/2026-11-16.json"
+  },
+  {
+    "fecha": "2026-11-17",
+    "edicion": 25,
+    "archivo": "archivo/2026-11-17.json"
   }
 ]

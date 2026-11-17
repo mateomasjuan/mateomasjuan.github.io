@@ -1,137 +1,143 @@
 {
-  "edicion": 24,
-  "fecha": "2026-11-16",
-  "generado": "2026-11-16T07:30:11-03:00",
-  "nota_editor": "Semana de cumbres con el Golfo en tensión: Trump llega a Manila y el jueves se reúne con Xi y Putin en Shenzhen, mientras Irán vuelve a atacar en Bahréin y en Ormuz. En la Argentina, el Senado se prepara para pelear la suspensión de las PASO.",
+  "edicion": 25,
+  "fecha": "2026-11-17",
+  "generado": "2026-11-17T08:15:03-03:00",
+  "nota_editor": "Martes con los mercados globales en baja antes del balance de Nvidia, con APEC arrancando en Shenzhen y con el Paraná sobre el nivel de evacuación en Santa Fe. El Senado empieza a debatir la suspensión de las PASO.",
   "indicadores": [
     {
       "label": "Dólar oficial (BNA, venta)",
-      "valor": "$1.570",
-      "variacion": "estable",
-      "nota": "cierre del viernes 13/11; el mayorista cerró en $1.543,50"
+      "valor": "$1.575",
+      "variacion": "+$5",
+      "nota": "cierre del lunes 16/11, máximo nominal"
     },
     {
-      "label": "Dólar blue (venta)",
-      "valor": "$1.570",
-      "variacion": "estable",
-      "nota": "cierre del 13/11 según Ámbito; otras fuentes lo dan en $1.565"
+      "label": "Dólar blue",
+      "valor": "$1.600",
+      "variacion": "",
+      "nota": "cierre del 16/11, según Diario Panorama"
+    },
+    {
+      "label": "Dólar mayorista",
+      "valor": "$1.551",
+      "variacion": "+$7,50",
+      "nota": "cierre del 16/11; el BCRA compró US$33 millones"
     },
     {
       "label": "Riesgo país",
-      "valor": "830",
-      "variacion": "-100 en la semana",
-      "nota": "cierre del 13/11 (JP Morgan); el viernes subió 0,1%"
+      "valor": "855",
+      "variacion": "+21",
+      "nota": "cierre del 16/11 (JP Morgan)"
     },
     {
       "label": "S&P Merval",
-      "valor": "85.053",
-      "variacion": "+3,1%",
-      "nota": "cierre del 13/11; cortó cinco caídas seguidas"
+      "valor": "80.972",
+      "variacion": "-4,8%",
+      "nota": "cierre del 16/11 según BYMA; otras fuentes informan -5,3%"
     },
     {
       "label": "Inflación mensual (INDEC)",
       "valor": "2,2%",
-      "variacion": "",
-      "nota": "octubre de 2026, la más alta desde abril"
+      "variacion": "+0,3 pp",
+      "nota": "octubre 2026, la más alta desde abril; acumula 26,3% en el año"
     },
     {
       "label": "Petróleo Brent",
-      "valor": "US$95,84",
-      "variacion": "+0,02%",
-      "nota": "cierre del 13/11; segunda semana seguida en baja"
+      "valor": "US$92,44",
+      "variacion": "-3,55%",
+      "nota": "cierre del 16/11; el martes temprano operaba en US$91,66"
     }
   ],
   "ranking": [
     {
-      "city": "Manama",
-      "country": "Bahréin",
-      "headline": "Irán ataca por segunda vez en tres días una instalación de radar de EE.UU. en Bahréin",
-      "summary": "Los Guardianes de la Revolución atacaron con drones el domingo un radar estadounidense en Bahréin, y las defensas aéreas bahreiníes dicen haberlos interceptado. Los Guardianes también afirman que un superpetrolero con unos 2 millones de barriles se hundió al chocar con una mina en Ormuz, pero nadie lo confirmó de forma independiente. Según el NYT, el portaaviones Theodore Roosevelt llega hoy a la región, con lo que EE.UU. tendría tres allí.",
-      "category": "conflicto",
+      "city": "Nueva York",
+      "country": "Estados Unidos",
+      "headline": "El Brent cae más de 3% y los mercados se retraen antes del balance de Nvidia",
+      "summary": "El Brent cayó 3,55% el lunes y cerró en US$92,44. El martes a las 04:30 GMT operaba en US$91,66, mientras Goldman Sachs advierte sobre un exceso de oferta de crudo. La baja se dio en una ola de ventas globales previa a los resultados trimestrales de Nvidia, que este mes tocó su mínimo en 52 semanas.",
+      "category": "economía",
       "impact": "alto",
-      "source": "The Telegraph / BBC",
-      "time_note": "ayer",
-      "lat": 26.2,
-      "lon": 50.6,
-      "url": "https://www.telegraph.co.uk/world-news/2026/11/15/iran-attacks-us-military-base-in-bahrain/"
+      "source": "FinanceFeeds / Wealth Professional",
+      "time_note": "hoy",
+      "lat": 40.7,
+      "lon": -74.0,
+      "url": "https://financefeeds.com/brent-crude-oil-price-91-66-tuesday-goldman-glut-warning-bull-96-bear-88/"
     },
     {
       "city": "Shenzhen",
       "country": "China",
-      "headline": "China confirma la cumbre de Xi, Trump y Putin del jueves 19 en Shenzhen, la primera de los tres",
-      "summary": "La Cancillería china confirmó la fecha y el lugar del encuentro, al margen de la cumbre de la APEC del 18 y 19 de noviembre, pero no publicó una agenda. La Casa Blanca dice que Trump quiere hablar de reducir los arsenales nucleares, y el asesor ruso Yuri Ushakov apunta a un acuerdo sobre Ucrania. Shenzhen prohibió drones en toda la ciudad entre el 11 y el 21 de noviembre.",
-      "category": "política",
+      "headline": "Empieza en Shenzhen la cumbre empresarial de APEC, con 12 jefes de Estado o de gobierno",
+      "summary": "La APEC CEO Summit se hace el 17 y 18 de noviembre en el Centro de Convenciones Internacional de Qianhai. Según el Ministerio de Comercio chino, asistirán 12 líderes de las economías miembro. A continuación, el 18 y 19, se reúnen en Shenzhen los líderes de las 21 economías del foro, presididos por Xi Jinping. Es la tercera vez que China organiza la cumbre.",
+      "category": "economía",
       "impact": "alto",
-      "source": "UNN / RBC-Ucrania / Reuters",
+      "source": "CGTN / Gobierno de Shenzhen",
       "time_note": "hoy",
       "lat": 22.5,
       "lon": 114.1,
-      "url": "https://unn.ua/en/news/china-has-officially-confirmed-the-meeting-between-trump-putin-and-xi-on-november-19-what-the-leaders-will-discuss-has-become-known"
+      "url": "https://news.cgtn.com/news/2026-11-15/Twelve-APEC-leaders-to-attend-CEO-Summit-in-Shenzhen-1S5mNgHhkKA/p.html"
     },
     {
-      "city": "Jerusalén",
-      "country": "Israel",
-      "headline": "Eisenkot dice que Netanyahu \"no puede seguir ni un minuto más\" tras una denuncia de manipulación electoral",
-      "summary": "Según un informe del Canal 12, colaboradores de Netanyahu se habrían coordinado con la policía y el Shin Bet para inventar cargos contra miembros de la Lista Árabe Unida antes de las elecciones del mes pasado. Gadi Eisenkot, a quien el presidente Herzog le encargó formar gobierno, calificó la conducta del primer ministro como una \"amenaza concreta e inmediata\" a la democracia. El Likud y el bloque Yashar tenían previsto negociar el domingo un gobierno de unidad.",
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "EE.UU. pierde el estatus de país libre de sarampión, después de 26 años",
+      "summary": "La comisión de sarampión de la Organización Panamericana de la Salud (OPS) se reunió del 10 al 13 de noviembre y concluyó que el virus circuló sin interrupción en EE.UU. durante más de 12 meses. Está previsto que la OPS lo anuncie públicamente el 17 de noviembre. Hasta el 5 de noviembre, los CDC registraban 5.182 casos confirmados en 2026, más del doble de todo 2025. Las muertes asociadas al sarampión llegaron a 10.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "WUNC (NPR) / Al Jazeera",
+      "time_note": "hoy",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.wunc.org/2026-11-14/us-has-lost-measles-elimination-status-global-health-authorities-say"
+    },
+    {
+      "city": "El Hierro",
+      "country": "España",
+      "headline": "Canarias recibe casi 1.500 migrantes en un solo día, un récord en la ruta atlántica",
+      "summary": "El sábado 14 llegaron cerca de 1.500 personas, por encima del récord anterior de 1.461 del 7 de noviembre de 2020. De ellas, 1.235 desembarcaron en 12 barcazas en El Hierro, una isla de unos 12.000 habitantes. La mayoría venía de Senegal, Gambia y Guinea. Entre viernes y sábado sumaron 2.331 llegadas, aunque entre enero y octubre los arribos fueron 5,5% menores que en 2025.",
+      "category": "sociedad",
+      "impact": "alto",
+      "source": "EFE vía TimesLIVE",
+      "time_note": "esta semana",
+      "lat": 27.8,
+      "lon": -17.9,
+      "url": "https://www.timeslive.co.za/news/world/2026-11-15-nearly-1500-migrants-arrive-in-canary-islands-in-one-day/"
+    },
+    {
+      "city": "Bruselas",
+      "country": "Bélgica",
+      "headline": "Eslovaquia, Hungría, Chequia y Bulgaria buscan quedar fuera del endeudamiento común de la UE",
+      "summary": "Al menos cuatro países quieren excluirse del plan de deuda conjunta de la Unión Europea, mientras el bloque discute qué papel tendrá en las negociaciones de paz en Ucrania. El primer ministro eslovaco, Robert Fico, endureció su postura y usó las conversaciones de paz como argumento. Hungría sigue oponiéndose al préstamo de 45.000 millones de euros para Kiev. Dato de una sola fuente.",
       "category": "política",
       "impact": "alto",
-      "source": "The New Arab / i24 News",
+      "source": "Euronews",
       "time_note": "ayer",
-      "lat": 31.8,
-      "lon": 35.2,
-      "url": "https://www.newarab.com/news/eisenkot-says-netanyahu-cannot-stay-office-minute-longer"
-    },
-    {
-      "city": "Kerch",
-      "country": "Ucrania (Crimea ocupada)",
-      "headline": "Ucrania ataca el puente que une Crimea con Rusia y obliga a restringir el tránsito",
-      "summary": "Un funcionario designado por Moscú confirmó el ataque al puente de Kerch, que dejó el tránsito restringido este lunes. El Ministerio de Defensa ruso dijo haber derribado más de 1.300 drones ucranianos durante la noche en varias regiones, incluido el mar Negro. Pasa a dos días de la reunión trilateral de Shenzhen.",
-      "category": "conflicto",
-      "impact": "alto",
-      "source": "Al Arabiya / AP",
-      "time_note": "hoy",
-      "lat": 45.3,
-      "lon": 36.5,
-      "url": "https://english.alarabiya.net/News/world/2026/11/16/ukraine-strikes-bridge-linking-crimea-to-russia-regional-official-says"
-    },
-    {
-      "city": "Adén",
-      "country": "Yemen",
-      "headline": "Los hutíes avanzan hasta 60 kilómetros de Adén, la capital de facto del gobierno yemení",
-      "summary": "Según fuentes militares citadas por la AFP, los hutíes avanzaron sobre todo por la provincia de Lahij, y el gobierno sacó sus últimas tropas de la zona del estrecho de Bab el-Mandeb para reforzar Adén. Un ataque con misiles hutí mató el domingo al menos a ocho personas en Lahij. El mismo día, la Cruz Roja informó que los hutíes liberaron a 600 combatientes progubernamentales.",
-      "category": "conflicto",
-      "impact": "alto",
-      "source": "France 24 / AFP",
-      "time_note": "ayer",
-      "lat": 12.8,
-      "lon": 45.0,
-      "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+      "lat": 50.8,
+      "lon": 4.4,
+      "url": "https://euronews.com/2026/11/16/substance-over-style-as-europe-debates-ukraine-peace-role"
     },
     {
       "city": "Manila",
       "country": "Filipinas",
-      "headline": "Trump llega hoy a Manila para la cumbre ASEAN-EE.UU., entre protestas y la crisis del petróleo",
-      "summary": "Trump participará mañana, 17 de noviembre, en la cumbre especial ASEAN-EE.UU., el último acto del encuentro regional, y se reunirá a solas con Ferdinand Marcos antes de viajar a la APEC en China. Rappler informó que casi 300 manifestantes fueron detenidos en Muntinlupa en la apertura. Los líderes del bloque insisten en que no normalizan relaciones con la junta de Myanmar.",
-      "category": "política",
+      "headline": "Prabowo pide perdón a Singapur y Malasia por el humo de los incendios de Indonesia",
+      "summary": "En la cumbre de la ASEAN en Manila, el presidente indonesio Prabowo Subianto pidió disculpas en nombre de su gobierno por la bruma transfronteriza. La causan incendios forestales que llevan casi cuatro meses. Dijo que hay 104 empresas investigadas y que murieron 16 bomberos. En octubre había advertido que Indonesia no aceptaría que la insultaran por el tema.",
+      "category": "clima",
       "impact": "medio",
-      "source": "NPR / Rappler / AP",
-      "time_note": "hoy",
+      "source": "Reuters vía Khaleej Times / SCMP",
+      "time_note": "esta semana",
       "lat": 14.6,
       "lon": 121.0,
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6040052/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit"
+      "url": "https://www.khaleejtimes.com/world/asia/indonesia-president-apology-singapore-malaysia-wildfire-haze"
     },
     {
-      "city": "Phnom Penh",
-      "country": "Camboya",
-      "headline": "La rivalidad entre la RD del Congo y Ruanda por la secretaría general divide la cumbre de la Francofonía",
-      "summary": "La 20ª cumbre de la Organización Internacional de la Francofonía se hace el 15 y 16 de noviembre en Phnom Penh y Siem Reap. Ruanda mantiene la candidatura de Louise Mushikiwabo a un tercer mandato y la RD del Congo presentó a Juliana Lumumba. Emmanuel Macron propuso retirar las dos candidaturas para llegar a un consenso y evitar que Kinshasa abandone la organización.",
+      "city": "Asunción",
+      "country": "Paraguay",
+      "headline": "Un juez manda al expresidente Santiago Peña a una cárcel militar por la causa Ueno Bank",
+      "summary": "El juez de garantías Osmar Legal ordenó trasladar a Peña a la prisión militar de Viñas Cué, en Asunción, y mantenerlo separado de los demás procesados. Estaba detenido desde el 6 de noviembre en el Regimiento Escolta Presidencial, donde lo habían denunciado por recibir privilegios. El juez también pidió a las autoridades militares un informe sobre los protocolos de seguridad.",
       "category": "política",
-      "impact": "medio",
-      "source": "La Libre / AFP / RTS",
+      "impact": "alto",
+      "source": "EFE vía CNN en Español / La República",
       "time_note": "ayer",
-      "lat": 11.6,
-      "lon": 104.9,
-      "url": "https://www.lalibre.be/dernieres-depeches/2026/11/15/francophonie-debut-dun-sommet-capital-rattrape-par-la-rivalite-rdc-rwanda-G72FJWPP7JH3TKVFY5IU2TNMFY/"
+      "lat": -25.3,
+      "lon": -57.6,
+      "url": "https://cnnespanol.cnn.com/2026/11/16/latinoamerica/paraguay-santiago-pena-carcel-militar-efe"
     }
   ],
   "argentina": [
@@ -139,385 +145,385 @@
       "tag": "Política",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "PASO: Santilli asegura que tiene 38 votos en el Senado y Bullrich advierte que no alcanzan",
-      "summary": "El oficialismo intenta avanzar esta semana con la reforma electoral que suspende las primarias. Al ser una ley electoral, necesita la mitad más uno de todo el cuerpo. El jefe de Gabinete, Diego Santilli, dice contar con 38 votos potenciales. Patricia Bullrich, presidenta del bloque libertario, sostiene que los números no dan, y en su entorno temen que la Casa Rosada la culpe si fracasa; según Ámbito, Santilli y los Menem negocian con los gobernadores sin ella.",
-      "source": "El Día / Ámbito",
+      "headline": "El Senado empieza a tratar la suspensión de las PASO 2027, con colectoras y Ficha Limpia",
+      "summary": "La Comisión de Asuntos Constitucionales, que preside Agustín Coto, trata hoy a las 15 un proyecto nuevo. Ya no elimina las PASO: las suspende para 2027, suma un régimen de adhesiones (las \"colectoras\") y una versión de Ficha Limpia. Para aprobarlo hacen falta 37 votos. La Libertad Avanza tiene 21 bancas propias y, según el conteo publicado el domingo, reúne 31 apoyos. Patricia Bullrich, jefa del bloque, rechaza las colectoras.",
+      "source": "Diario Crónica / Perfil / Diario Huarpe",
       "time_note": "hoy",
       "impact": "alto",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "http://www.eldia.com/politica-y-economia/suspension-de-las-paso-un-debate-a-pura-interna-en-lla-politica-y-economia_1794806035"
+      "url": "https://www.diariocronica.com.ar/noticias/2026/11/16/178221-el-senado-comienza-el-debate-por-los-cambios-electorales-que-impulsa-milei-para-2027"
     },
     {
       "tag": "Economía",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "El riesgo país bajó más de 100 puntos en la semana y cerró en 830",
-      "summary": "Los bonos argentinos rebotaron 3% en una semana de mucha volatilidad externa, y el indicador de JP Morgan terminó el viernes en 830 puntos básicos, después de haber tocado 925 a principios de mes. El S&P Merval subió 3,1% el viernes, hasta 85.053 puntos, y cortó así cinco ruedas seguidas en baja. El dólar oficial se mantuvo en $1.570 en el Banco Nación.",
-      "source": "Infobae / Diario Popular",
-      "time_note": "esta semana",
+      "headline": "Lunes negativo: el riesgo país sube a 855 puntos, las acciones caen hasta 7,7% y el dólar toca un máximo",
+      "summary": "El riesgo país subió unos 21 puntos y cerró en 855 puntos básicos. El S&P Merval perdió entre 4,8% y 5,3%, según la fuente, y los ADR argentinos en Wall Street cayeron hasta 7,7%. El dólar oficial del Banco Nación subió $5, a $1.575, un máximo nominal, y el blue llegó a $1.600. Los bonos en dólares bajaron en promedio 0,6%.",
+      "source": "MDZ / Rankia / Diario Panorama",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.mdzol.com/economia/2026/11/16/el-riesgo-pais-no-da-tregua-llego-a-los-855-puntos-y-el-dolar-extendio-su-suba-1995854.html"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Diputados sesiona mañana para tratar la \"Ley Malvinas\" y la Carta Orgánica del Banco Central",
+      "summary": "La sesión está convocada para el miércoles 18 a las 12. El tema principal es el proyecto de Defensa de la Soberanía Nacional. El oficialismo tendría los votos para aprobarlo en general, pero corre riesgo el capítulo 7, sobre financiamiento extranjero de campañas y nuevos delitos de injerencia extranjera. El temario también incluye el traspaso de competencias penales a la Ciudad y el acuerdo Mercosur–EFTA.",
+      "source": "APF Digital / Elonce / Ámbito",
+      "time_note": "hoy",
       "impact": "medio",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.infobae.com/economia/2026/11/14/los-bonos-rebotaron-3-y-el-riesgo-pais-argentino-desconto-mas-de-100-puntos-basicos-en-una-semana-de-alta-volatilidad-externa/"
+      "url": "https://www.apfdigital.com.ar/noticias/2026/11/17/479430-diputados-sesionara-este-miercoles-para-tratar-la-ley-malvinas-y-carta-organica-del-banco-central"
     },
     {
       "tag": "Sociedad",
-      "city": "Lanús",
+      "city": "Santa Fe",
       "country": "Argentina",
-      "headline": "Explosión en Remedios de Escalada: el Municipio de Lanús será querellante contra Metrogas",
-      "summary": "El intendente Julián Álvarez anunció que el Municipio se presentará como querellante por un \"evidente incumplimiento de los protocolos de emergencia\" de la empresa, y que dará ayudas a los vecinos afectados. La explosión, causada por la rotura de un caño durante una reparación, dejó un muerto y unos 30 heridos. Un operario de Metrogas, Marcelo García, de 47 años, sigue desaparecido. La zona restringida se redujo y los vecinos empezaron a volver a sus casas.",
-      "source": "Inforegión / Infobae / MDZ",
+      "headline": "El Paraná llega a 5,83 metros en Santa Fe y ya hay 269 personas en centros de evacuados",
+      "summary": "A las 6 de hoy, Prefectura midió 5,83 metros en el puerto de Santa Fe, por encima del nivel de evacuación (5,70 m). El municipio asiste a 269 personas en centros de evacuados y tiene 33 puntos de bombeo funcionando. El INA estima que el río llegará a 5,90 m hacia el 24 de noviembre, sin descartar un pico de 6,20 m.",
+      "source": "Uno Santa Fe / Diario Río Negro",
       "time_note": "hoy",
       "impact": "medio",
-      "lat": -34.7,
-      "lon": -58.4,
-      "url": "https://www.inforegion.com.ar/2026/11/16/explosion-en-remedios-de-escalada-el-municipio-sera-querellante-y-anuncio-ayuda/"
+      "lat": -31.6,
+      "lon": -60.7,
+      "url": "https://www.unosantafe.com.ar/santa-fe/crecida-del-parana-santa-fe-el-rio-llego-583-metros-y-continua-la-asistencia-269-personas-los-centros-municipales-n10292565.html"
     },
     {
-      "tag": "Seguridad",
-      "city": "Gualeguaychú",
+      "tag": "Ciencia",
+      "city": "Londres (Catamarca)",
       "country": "Argentina",
-      "headline": "Detienen en Entre Ríos a dos sospechosos de ayudar a escapar al exbrigadista rojo Leonardo Bertulazzi",
-      "summary": "Una mujer salvadoreña y un hombre uruguayo fueron detenidos el jueves 12 cuando intentaban cruzar a Uruguay. Les secuestraron seis celulares, documentos con datos distintos, dinero, pendrives y dos notebooks. Bertulazzi, de 74 años, se escapó el 10 de noviembre del arresto domiciliario que cumplía en San Telmo mientras esperaba su extradición a Italia. Los investigadores creen que la fuga se coordinó en un grupo de WhatsApp de unas 15 personas, y el Ministerio de Seguridad ofrece $20 millones de recompensa.",
-      "source": "Análisis Digital / Perfil / A24",
-      "time_note": "esta semana",
-      "impact": "medio",
-      "lat": -33.0,
-      "lon": -58.5,
-      "url": "https://www.analisisdigital.com.ar/policiales/2026/11/14/detuvieron-en-entre-rios-dos-sospechosos-de-colaborar-en-la-fuga-del-exintegrante-de-las-brigadas-rojas"
-    },
-    {
-      "tag": "Economía",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "headline": "Milei recibe hoy a Toyota en la Casa Rosada y cierra la semana con el desembarco de Tesla",
-      "summary": "El Presidente recibe a las 13 a directivos de Toyota junto con Karina Milei y Luis Caputo, y a las 20 va a la cena del CICyP en el Alvear Palace. El miércoles recibirá doctorados honoris causa de la Universidad de Belgrano y del Instituto Universitario Isaac Abarbanel. El viernes a las 19 encabezará en La Boca el lanzamiento oficial de Tesla en el país.",
-      "source": "MDZ / Noticias Argentinas / Perfil",
+      "headline": "El CONICET transmite en vivo una excavación arqueológica en El Shincal de Quimivil, un sitio inca de Catamarca",
+      "summary": "La \"Expedición Inka 2026\" se transmite del 17 al 20 de noviembre, de 11 a 13, por el canal de YouTube de la Fundación Azara. Los investigadores trabajan en El Shincal de Quimivil, uno de los principales sitios incas del noroeste argentino. Dato de una sola fuente.",
+      "source": "La Capital",
       "time_note": "hoy",
       "impact": "bajo",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "https://www.mdzol.com/politica/2026/11/16/polo-empresarios-y-tesla-la-particular-agenda-que-tendra-javier-milei-esta-semana-1995573.html"
+      "lat": -27.7,
+      "lon": -67.2,
+      "url": "https://www.lacapital.com.ar/informacion-general/expedicion-inka-2026-el-conicet-transmitira-una-campana-arqueologica-catamarca-n10292597.html"
     },
     {
-      "tag": "Cultura",
-      "city": "Buenos Aires",
+      "tag": "Ciencia",
+      "city": "Mar del Plata",
       "country": "Argentina",
-      "headline": "Récord en la Noche de los Museos: 1,4 millones de personas recorrieron la Ciudad",
-      "summary": "La 22ª edición se hizo el sábado 14 entre las 19 y las 2, con más de 360 espacios abiertos y transporte gratuito en colectivos, subtes y Ecobici. Según la estimación oficial del Gobierno porteño, superó a los 1,2 millones de visitantes de 2025.",
-      "source": "Ámbito / Filo.news",
+      "headline": "Investigadores del CONICET identifican un pez de agua dulce que llevaba casi 200 años confundido con otra especie",
+      "summary": "Un equipo del Instituto de Investigaciones Marinas y Costeras (IIMyC) de Mar del Plata descubrió que se trata de una especie nueva. El hallazgo surgió mientras estudiaban cómo afectan los contaminantes a los peces. Según los autores, algunos estudios ambientales anteriores podrían tener que revisarse. Dato de una sola fuente.",
+      "source": "El Destape",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": -38.0,
+      "lon": -57.6,
+      "url": "http://www.eldestapeweb.com/sociedad/cientificos-confunden-casi-200-anos-especie-pez-conicet-descubre-realidad-20261115142750"
+    },
+    {
+      "tag": "Ciencia",
+      "city": "Mar del Plata",
+      "country": "Argentina",
+      "headline": "Un animal con apéndices en forma de cuernos, hallado en el cañón submarino de Mar del Plata, sorprende al CONICET",
+      "summary": "El ejemplar fue analizado en un taller internacional de identificación de especies en Buenos Aires. Las muestras vienen de la expedición de 2025 a bordo del buque oceanográfico R/V Falkor (too) en el cañón submarino de Mar del Plata. Dato de una sola fuente.",
+      "source": "0223",
       "time_note": "ayer",
       "impact": "bajo",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "https://www.ambito.com/informacion-general/la-noche-los-museos-batio-un-record-historico-14-millones-personas-recorrieron-buenos-aires-n6345368"
-    },
-    {
-      "tag": "Deportes",
-      "city": "Génova",
-      "country": "Italia",
-      "headline": "Los Pumas le ganaron 19-14 a Italia en Génova y el sábado juegan con Francia",
-      "summary": "El seleccionado de rugby se recuperó de la derrota 42-12 con Irlanda en Dublín de la semana anterior, aunque con un juego deslucido. Italia descontó con un try penal cerca del final pero no le alcanzó para empatar. El próximo partido de la ventana es contra Francia, el 21 de noviembre.",
-      "source": "La Nación / El Día",
-      "time_note": "esta semana",
-      "impact": "bajo",
-      "lat": 44.4,
-      "lon": 8.9,
-      "url": "https://lanacion.com.ar/deportes/rugby/los-pumas-vencieron-a-italia-pero-volvieron-a-ser-un-equipo-ordinario-nid14112026"
+      "lat": -38.0,
+      "lon": -57.6,
+      "url": "http://www.0223.com.ar/nota/2026-11-16-13-28-0-el-insolito-animal-con-cuernos-que-el-conicet-descubrio-en-las-profundidades-de-mar-del-plata"
     }
   ],
   "mundo": [
     {
       "region": "África",
-      "city": "Praia",
-      "country": "Cabo Verde",
-      "category": "política",
-      "headline": "José María Neves es reelegido en Cabo Verde con casi 64% de los votos y una abstención récord",
-      "summary": "Con el 96,8% de las mesas escrutadas, Neves, apoyado por el PAICV, sumaba 80.018 votos (63,8%), contra 39.660 (31,6%) de Joana Rosa, candidata del MpD y primera mujer en disputar la presidencia, que reconoció la derrota. La abstención rondó el 68%, contra cerca del 52% en 2021, sobre unos 419.400 inscriptos. Son resultados provisorios de la Comisión Nacional de Elecciones.",
-      "por_que": "Cabo Verde es una de las democracias más estables de África, y la caída de la participación es una señal de alerta para todo el archipiélago.",
-      "source": "Rádio Renascença / Observador / Inforpress",
-      "lat": 14.9,
-      "lon": -23.5,
-      "url": "https://rr.pt/noticia/mundo/2026/11/15/presidenciais-em-cabo-verde-jose-maria-neves-reeleito-com-637-dos-votos/493734/"
+      "city": "Bamako",
+      "country": "Malí",
+      "category": "derechos",
+      "headline": "Malí ya evacuó a 73.000 personas expulsadas de Guinea por la prohibición de la minería de oro",
+      "summary": "Hasta el 14 de noviembre, Malí había evacuado a 73.000 de las personas expulsadas desde la región guineana de Siguiri, donde rige desde el 2 de noviembre una prohibición de la minería artesanal no regulada. Burkina Faso informó que repatrió a 45.406 de sus ciudadanos. Guinea llegó a contar 1.412 detenidos en los operativos.",
+      "por_que": "La prohibición minera en Guinea se volvió una crisis de desplazamiento regional que afecta a varios países del Sahel con frontera abierta.",
+      "source": "Benin Web TV / Al Jazeera",
+      "lat": 12.6,
+      "lon": -8.0,
+      "url": "https://beninwebtv.bj/en/mali-73000-people-expelled-from-guinea-already-evacuated/"
     },
     {
       "region": "África",
-      "city": "Siguiri",
-      "country": "Guinea",
-      "category": "economía",
-      "headline": "Diez muertos en Guinea en choques por la prohibición de la minería artesanal de oro",
-      "summary": "Los enfrentamientos empezaron el miércoles 11 en Siguiri, en el noreste del país, cuando las fuerzas de seguridad controlaban que se cumpliera la prohibición vigente desde el 2 de noviembre. Hubo 13 heridos, y cinco de los muertos eran extranjeros. Más de 1.200 personas fueron detenidas por minería ilegal en la zona. Malí dice que unas 100.000 personas llegaron a Bamako después de salir de Guinea, y Burkina Faso repatrió a 45.406 ciudadanos.",
-      "por_que": "La minería artesanal es el sustento de cientos de miles de personas en África Occidental, y esta prohibición ya provoca migraciones masivas entre países vecinos.",
-      "source": "Reuters vía Arab News / Bloomberg",
-      "lat": 11.4,
-      "lon": -9.2,
-      "url": "https://www.arabnews.pk/world/10-killed-in-clashes-in-guinea-after-artisanal-mining-ban-3006926"
-    },
-    {
-      "region": "Asia",
-      "city": "Daca",
-      "country": "Bangladés",
-      "category": "economía",
-      "headline": "Los fabricantes textiles de Bangladés amenazan con abandonar la negociación salarial",
-      "summary": "Los dueños de las fábricas de indumentaria amenazaron con dejar la mesa de salarios y alegaron falta de seguridad en las plantas tras semanas de protestas obreras. A principios de mes el gobierno había formado una junta salarial y acordado una nueva escala de sueldos desde diciembre, después de protestas violentas que cerraron fábricas.",
-      "por_que": "El sector textil genera la mayor parte de las exportaciones de Bangladés y emplea a millones de trabajadoras que hacen ropa para marcas de todo el mundo.",
-      "source": "AFP vía France 24 / Dhaka Tribune",
-      "lat": 23.8,
-      "lon": 90.4,
-      "url": "https://www.france24.com/en/live-news/20261114-bangladesh-garment-makers-threaten-to-quit-wage-talks"
-    },
-    {
-      "region": "Asia",
-      "city": "Colombo",
-      "country": "Sri Lanka",
-      "category": "ambiente",
-      "headline": "Alerta roja en Sri Lanka por una depresión en el golfo de Bengala que puede volverse ciclón severo",
-      "summary": "El Departamento de Meteorología advirtió que el sistema, al este de la isla, se convertiría en una depresión profunda y en una tormenta ciclónica severa hacia el 17 de noviembre. Se espera que se mueva hacia el noroeste, lejos de la costa, pero se pronostican lluvias e inundaciones, y se pidió a pescadores y marinos no salir al mar.",
-      "por_que": "Sri Lanka todavía se recupera de inundaciones recientes, y un nuevo ciclón amenaza a las comunidades pesqueras de la costa este.",
-      "source": "Newswire / Ada Derana",
-      "lat": 6.9,
-      "lon": 79.9,
-      "url": "https://www.newswire.lk/2026/11/15/met-dept-issues-warning-as-bay-of-bengal-system-set-to-intensify-into-cyclonic-storm/"
-    },
-    {
-      "region": "Europa",
-      "city": "Narva",
-      "country": "Estonia",
+      "city": "Dakar",
+      "country": "Senegal",
       "category": "política",
-      "headline": "Estonia cierra sus pasos fronterizos con Rusia tras un intento de incendio contra un fabricante de drones",
-      "summary": "Las autoridades estonias detuvieron a ocho personas por el intento de incendiar una empresa que fabrica drones y culpan a la inteligencia militar rusa. La Cancillería rusa calificó el cierre de \"rusofobia agresiva y desenfrenada\".",
-      "por_que": "Es un paso más de la llamada \"guerra híbrida\" en el flanco báltico de la OTAN, con sabotajes contra la industria de defensa europea.",
-      "source": "Al Jazeera",
-      "lat": 59.4,
-      "lon": 28.2,
-      "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+      "headline": "El Consejo Constitucional de Senegal anula la ley de declaración de patrimonio de los funcionarios",
+      "summary": "Según la prensa senegalesa de hoy, el Consejo Constitucional también anuló la ley que separaba la presidencia de la República de la jefatura de un partido. Pasa en plena ruptura entre el presidente Bassirou Diomaye Faye y Ousmane Sonko, líder de Pastef, que cuestiona las cifras oficiales de deuda y el presupuesto 2027. Dakar, además, retomó la auditoría de su deuda con la consultora Deloitte. Dato de una sola fuente.",
+      "por_que": "Las dos normas eran piezas centrales de la agenda de transparencia con la que llegó al poder el gobierno senegalés en 2024.",
+      "source": "Afrik.com (revista de prensa)",
+      "lat": 14.7,
+      "lon": -17.5,
+      "url": "https://www.afrik.com/revue-de-presse-senegal-du-mardi-17-novembre-2026-diomaye-faye-obtient-un-compromis-sur-l-oif-le-budget-2027-sous-tension"
+    },
+    {
+      "region": "Asia",
+      "city": "Lago Issyk-Kul",
+      "country": "Kirguistán",
+      "category": "ambiente",
+      "headline": "Kirguistán prohíbe la pesca comercial en los lagos Issyk-Kul y Son-Kul hasta 2029",
+      "summary": "El Gabinete de Ministros aprobó el 16 de noviembre las medidas para aplicar una moratoria de tres años: no se emitirán permisos de pesca comercial. Siguen permitidas la pesca deportiva y recreativa y la reproducción artificial de trucha de Issyk-Kul, sig y carpa. La veda anterior había empezado en 2023.",
+      "por_que": "Issyk-Kul es uno de los lagos de montaña más grandes del mundo y sus poblaciones de peces vienen castigadas por la pesca furtiva.",
+      "source": "The Times of Central Asia / Economist.kg / Open.kg",
+      "lat": 42.4,
+      "lon": 77.3,
+      "url": "https://timesca.com/kyrgyzstan-commercial-fishing-ban-issyk-kul-son-kul-2029/"
+    },
+    {
+      "region": "Asia",
+      "city": "Saratok",
+      "country": "Malasia",
+      "category": "derechos",
+      "headline": "Detienen en Sarawak a un hombre de 28 años por violar a una alumna de 12 que quedó embarazada",
+      "summary": "La policía de Saratok detuvo a un trabajador de una plantación de palma aceitera. El caso salió a la luz cuando la madre de la nena avisó a la escuela del embarazo. Según Mothership, la madre quería que la chica dejara la escuela y se casara con el sospechoso. La directora derivó el caso a la oficina educativa del distrito, que le indicó hacer la denuncia policial.",
+      "por_que": "Vuelve a poner en debate el matrimonio infantil en Malasia, donde casar a la víctima con el agresor se usa para evitar el proceso penal.",
+      "source": "Malay Mail / Mothership",
+      "lat": 1.7,
+      "lon": 111.3,
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/14/sarawak-school-alert-leads-to-arrest-of-palm-worker-28-after-year-six-girl-found-pregnant/243211"
     },
     {
       "region": "Europa",
-      "city": "Ginebra",
-      "country": "Suiza",
-      "category": "tecnología",
-      "headline": "La ONU debate en Ginebra límites para las armas autónomas guiadas por IA, con EE.UU. y Rusia en contra",
-      "summary": "Esta semana se reúne en Ginebra la Convención sobre Ciertas Armas Convencionales para discutir reglas sobre los sistemas de armas letales autónomos. Según Reuters, EE.UU. y Rusia se oponen a negociar límites vinculantes, mientras Alemania, Francia y el Reino Unido dudan entre una regulación obligatoria y simples lineamientos.",
-      "por_que": "Puede ser la última oportunidad de fijar reglas antes de que los drones y armas que eligen solos sus blancos se generalicen en las guerras.",
-      "source": "Reuters / Barron's",
-      "lat": 46.2,
-      "lon": 6.1,
-      "url": "https://www.reuters.com/world/us-russia-oppose-talks-limiting-autonomous-weapons-2026-11-16/"
+      "city": "Lisboa",
+      "country": "Portugal",
+      "category": "sociedad",
+      "headline": "Decenas de miles marchan en más de 30 ciudades de Portugal por la crisis de vivienda",
+      "summary": "La convocatoria fue de Casa Para Viver, que reúne a unas 100 asociaciones, con marchas en Lisboa, Oporto, Faro, Coimbra y Braga, entre otras ciudades. Las protestas siguieron a la aprobación parlamentaria de un plan que flexibiliza los contratos de alquiler y acelera los desalojos. El gobierno promete 145.000 viviendas nuevas, y el presidente António José Seguro convocó al Consejo de Estado.",
+      "por_que": "Portugal es uno de los casos más agudos de la crisis de vivienda europea, empujada por el turismo y la inversión extranjera.",
+      "source": "Al Jazeera / AP",
+      "lat": 38.7,
+      "lon": -9.1,
+      "url": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests"
+    },
+    {
+      "region": "Europa",
+      "city": "Helsinki",
+      "country": "Finlandia",
+      "category": "deporte",
+      "headline": "Finlandia deja de dar visas a los atletas rusos, incluso a los que compiten como neutrales",
+      "summary": "Desde el 16 de noviembre, Finlandia restringe la entrada de deportistas rusos y limita las visas por trabajos de corta duración a los casos de \"interés nacional\". La canciller Elina Valtonen dijo que los atletas rusos no son bienvenidos mientras siga la guerra. La medida alcanza al Finlandia Trophy de patinaje (20 y 21 de noviembre) y a la Copa del Mundo de esquí de fondo en Ruka.",
+      "por_que": "Choca con la reciente decisión del COI de levantar sanciones a los atletas rusos, y la Unión Internacional de Patinaje pide aclaraciones.",
+      "source": "Meduza / The Star / Yle",
+      "lat": 60.2,
+      "lon": 24.9,
+      "url": "https://meduza.io/en/news/2026/11/12/days-before-major-winter-tournaments-finland-narrows-a-visa-exception-for-russian-athletes-including-those-competing-as-neutrals"
     },
     {
       "region": "Medio Oriente",
-      "city": "Jaramana",
-      "country": "Siria",
-      "category": "conflicto",
-      "headline": "Un coche bomba mata al menos a dos personas, entre ellas un chico, en un suburbio druso y cristiano de Damasco",
-      "summary": "La explosión fue el sábado en Jaramana, al sur de la capital siria, una zona habitada sobre todo por drusos y cristianos, y dejó además al menos un herido. Nadie se atribuyó el ataque.",
-      "por_que": "La violencia contra minorías religiosas pone a prueba la promesa de convivencia del nuevo gobierno sirio.",
-      "source": "AP",
-      "lat": 33.5,
-      "lon": 36.3,
-      "url": "https://apnews.com/article/syria-explosion-damascus-jaramana-car-5d37a9bb4c4176986ff198c0766151b3"
+      "city": "Jurf al-Sakhar",
+      "country": "Irak",
+      "category": "política",
+      "headline": "El primer ministro iraquí echa a nueve jefes de seguridad por contrabando de petróleo en un bastión de Kataib Hezbollah",
+      "summary": "Ali al-Zaidi destituyó a nueve altos funcionarios de seguridad por una red de contrabando de petróleo en Jurf al-Sakhar, al sur de Bagdad, zona que controla la milicia proiraní. Ya se había postergado una operación para entrar en la localidad porque se filtraron sus detalles. Kataib Hezbollah niega las acusaciones.",
+      "por_que": "Es la prueba más seria hasta ahora de si Bagdad puede desarmar a las milicias proiraníes sin una guerra abierta.",
+      "source": "Al Jazeera / The National",
+      "lat": 32.9,
+      "lon": 44.2,
+      "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold"
     },
     {
       "region": "Medio Oriente",
       "city": "Gaza",
       "country": "Palestina",
       "category": "derechos",
-      "headline": "Las propias cifras de Israel muestran que llega a Gaza la mitad de la ayuda acordada en el alto el fuego",
-      "summary": "Según Haaretz, el acuerdo de octubre del año pasado prevé unos 18.200 camiones de ayuda por mes, pero después de un pico en enero y febrero las entregas se estabilizaron en alrededor de la mitad. Casi todo lo que entra es comida, y los insumos médicos y los materiales para refugios están muy por debajo de lo necesario. La UE pidió acceso \"inmediato y sin trabas\" después de inundaciones y deslizamientos recientes.",
-      "por_que": "Con el invierno y las inundaciones, la falta de refugios y de medicamentos agrava la crisis sanitaria de dos millones de personas.",
-      "source": "Haaretz / Al Jazeera",
+      "headline": "Hay 150.000 carpas frenadas en la frontera de Gaza mientras llega el invierno, denuncian cuatro países",
+      "summary": "Los cancilleres de Australia, Canadá, Italia y el Reino Unido pidieron a Israel un acceso humanitario \"rápido y sin trabas\" y denunciaron que 150.000 carpas y otros insumos están retenidos en la frontera. Advirtieron que las inundaciones recientes empeoraron la situación y que fue \"solo la primera tormenta del invierno\". La Unión Europea había emitido un pedido similar el sábado.",
+      "por_que": "Detrás del alto el fuego, el refugio para el invierno es hoy la necesidad más urgente para cientos de miles de desplazados.",
+      "source": "CP24 (AP) / Arab News / Cancillería italiana",
       "lat": 31.5,
       "lon": 34.5,
-      "url": "https://www.haaretz.com/gaza/2026-11-15/ty-article/.premium/israels-own-numbers-reveal-gaza-aid-deliveries-fell-far-short-of-commitments/000001a1-de03-d1ce-a9a3-fe1371dd0000"
+      "url": "https://www.cp24.com/news/world/2026/11/15/australia-uk-canada-italy-urge-israel-to-allow-rapid-gaza-aid-access/"
     },
     {
       "region": "Norteamérica",
-      "city": "Kingston",
-      "country": "Jamaica",
-      "category": "política",
-      "headline": "Holness defiende ante su partido que Jamaica sigue junto a Cuba, pese a abstenerse en la ONU",
-      "summary": "En la conferencia del Partido Laborista de Jamaica, el primer ministro Andrew Holness dijo que el país sigue apoyando a Cuba, aunque el 28 de octubre se abstuvo en la votación de la Asamblea General contra el embargo de EE.UU. Fue una de las 25 abstenciones, la cifra más alta en dos décadas. El ex primer ministro P. J. Patterson había calificado el cambio de voto de \"traición abominable\".",
-      "por_que": "Muestra cómo la presión de Washington está rompiendo la histórica unidad del Caribe frente al embargo a Cuba.",
-      "source": "The Gleaner / Jamaica Observer",
-      "lat": 18.0,
-      "lon": -76.8,
-      "url": "https://jamaica-gleaner.com/article/news/20261115/jlp-conference-pm-says-jamaica-stands-cuba-despite-abstaining-un-embargo-vote"
-    },
-    {
-      "region": "Norteamérica",
-      "city": "Guadalajara",
+      "city": "Shenzhen",
       "country": "México",
+      "category": "economía",
+      "headline": "Sheinbaum se reúne con Xi y le ofrece a China una \"nueva era\" tras la disputa por los aranceles",
+      "summary": "La presidenta mexicana se reunió con Xi Jinping en Shenzhen, al margen de APEC, para dejar atrás la disputa por los aranceles a productos chinos sin tensar la relación con Washington. Según Reuters, propuso cooperar en tecnología, agricultura, agua, salud y turismo. El martes también tenía prevista una reunión con el primer ministro canadiense Mark Carney para hablar del tratado comercial con EE.UU. (T-MEC).",
+      "por_que": "México y Canadá buscan diversificar su comercio mientras está abierta la revisión del T-MEC con Trump.",
+      "source": "Bloomberg / Reuters / CTV",
+      "lat": 22.5,
+      "lon": 114.1,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/sheinbaum-offers-new-era-of-mexico-china-ties-after-trade-spat"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "category": "tecnología",
+      "headline": "EE.UU. prueba hoy su sistema nacional de alertas, y las autoridades desmienten el \"apagón mundial\" viral",
+      "summary": "La agencia de emergencias (FEMA) y el regulador de comunicaciones (FCC) hacen hoy a las 14:20, hora del este, una prueba nacional de alertas por televisión, radio y celulares. En redes circulaba que el 17 de noviembre habría un \"apagón mundial\". Las autoridades aclararon que se trata solo de un ensayo programado.",
+      "por_que": "Es un ejemplo de cómo un procedimiento técnico de rutina se vuelve desinformación masiva en varios países de habla hispana.",
+      "source": "Bloomberg Línea / Northern Public Radio",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.bloomberglinea.com/mundo/lo-que-pasara-el-17-de-noviembre-en-eeuu-y-por-que-no-habra-un-apagon-mundial-como-se-dice-en-redes/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Caracas",
+      "country": "Venezuela",
       "category": "sociedad",
-      "headline": "Murió a los 80 años Miguel Ángel Félix Gallardo, fundador del Cártel de Guadalajara",
-      "summary": "Félix Gallardo murió el 15 de noviembre en un hospital de Guadalajara. Había sido condenado por el asesinato del agente de la DEA Enrique \"Kiki\" Camarena en 1985. El mismo fin de semana, hombres armados atacaron un bar de la Zona Dorada de Mazatlán y dos fiestas, con al menos tres muertos. Dato de una sola fuente.",
-      "por_que": "Fue el arquitecto del narcotráfico moderno en México, cuya fragmentación dio origen a los cárteles de Sinaloa y Jalisco.",
-      "source": "The Rio Times",
-      "lat": 20.7,
-      "lon": -103.3,
-      "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-november-16-2026/"
+      "headline": "Maestros, trabajadores de la salud y universidades de Venezuela hacen un paro de 12 horas por salarios",
+      "summary": "El paro fue de 7 a 19. Según la Federación Venezolana de Maestros, lo cumplió el 80% de las escuelas, y lo acataron 19 universidades públicas. Fetrasalud reclama un aguinaldo de 960 dólares y los docentes, de al menos 500. Hubo marchas en 22 estados y un corte parcial de la autopista Francisco Fajardo en Caracas. Las cifras de acatamiento son de los convocantes.",
+      "por_que": "Es la mayor protesta laboral coordinada del año en un país donde los salarios públicos quedaron pulverizados.",
+      "source": "Descifrado / Versión Final / Aporrea",
+      "lat": 10.5,
+      "lon": -66.9,
+      "url": "https://www.descifrado.com/2026/11/16/gremios-de-salud-educacion-y-universidades-comenzaron-paro-nacional-de-12-horas-por-mejoras-salariales/"
     },
     {
       "region": "Latinoamérica",
-      "city": "Barrancabermeja",
-      "country": "Colombia",
-      "category": "ambiente",
-      "headline": "Ecopetrol confirma que reactivará el fracking en el Magdalena Medio",
-      "summary": "La petrolera estatal anunció que vuelve a poner en marcha sus proyectos de exploración con fracturación hidráulica en el Magdalena Medio. También negocia importar gas de Venezuela durante diez años, un giro respecto de la política del gobierno anterior, que había frenado el fracking.",
-      "por_que": "Reabre en Colombia el debate entre seguridad energética y protección del agua en una región con fuerte resistencia comunitaria.",
-      "source": "Infobae Colombia / La República / Semana",
-      "lat": 7.1,
-      "lon": -73.9,
-      "url": "https://www.infobae.com/colombia/2026/11/14/ecopetrol-confirma-que-reactivara-el-fracking-en-el-magdalena-medio-esta-es-la-zona-elegida/"
-    },
-    {
-      "region": "Latinoamérica",
-      "city": "Brasilia",
-      "country": "Brasil",
-      "category": "derechos",
-      "headline": "Crece la violencia contra pueblos indígenas en Brasil después del balotaje que ganó Lula",
-      "summary": "Según las autoridades brasileñas, desde el balotaje del 25 de octubre, que Lula ganó por más de 4 millones de votos, aumentaron los ataques de seguidores de Flávio Bolsonaro contra comunidades vistas como afines al PT. El Ministerio de Derechos Humanos recibió 189 denuncias de violencia en los primeros cinco días después de la votación, y el de Pueblos Indígenas, 13. No todas fueron verificadas ni se confirmó su motivación política.",
-      "por_que": "Los pueblos indígenas quedan en el centro de la polarización política, sobre todo en la Amazonia.",
-      "source": "The Washington Post",
-      "lat": -15.8,
-      "lon": -47.9,
-      "url": "https://wapo.st/490R7it"
+      "city": "Ciudad de México",
+      "country": "Bolivia",
+      "category": "política",
+      "headline": "García Linera viajó de Argentina a México y dice que le restituyeron el asilo de 2019; Bolivia pide explicaciones",
+      "summary": "El exvicepresidente boliviano, procesado junto a Evo Morales en el llamado \"Caso Terrorismo\", confirmó que tiene asilo político en México. La Cancillería boliviana pidió a México información oficial sobre ese asilo. García Linera estaba en Argentina antes de viajar.",
+      "por_que": "Vuelve a tensar la relación entre La Paz y México por el refugio que da a dirigentes del MAS.",
+      "source": "Correo del Sur / Demócrata",
+      "lat": 19.4,
+      "lon": -99.1,
+      "url": "https://correodelsur.com/politica/20261113/garcia-linera-viajo-de-argentina-a-mexico-afirma-que-le-restituyeron-el-asilo-politico-de-2019.html"
     },
     {
       "region": "Oceanía",
-      "city": "Funafuti",
-      "country": "Tuvalu",
+      "city": "Suva",
+      "country": "Fiyi",
       "category": "ambiente",
-      "headline": "Tuvalu en la COP31: \"No nos vamos a ir\"",
-      "summary": "El primer ministro Feleti Teo dijo en Antalya que su país no se prepara para abandonar su territorio y pidió más financiamiento climático y recortes de emisiones. Al mismo tiempo, el presidente del IPCC advirtió que el mundo está a punto de superar el límite de 1,5 °C de calentamiento.",
-      "por_que": "Tuvalu, con apenas unos metros sobre el nivel del mar, es el símbolo de los países que podrían desaparecer por el cambio climático.",
+      "headline": "El cambio climático ya les cuesta miles de millones de dólares a los países insulares del Pacífico, según un informe regional",
+      "summary": "Un nuevo informe regional calcula que los impactos climáticos ya cuestan miles de millones de dólares a las islas del Pacífico. Sale mientras en la COP31 los activistas critican el primer borrador por no avanzar en el abandono de los combustibles fósiles, y Tuvalu pide acción urgente y un tratado de plásticos más fuerte. Dato de una sola fuente.",
+      "por_que": "Le da cifras al reclamo de financiamiento climático de los países que menos emiten y más sufren.",
       "source": "PACNEWS / Islands Business",
-      "lat": -8.5,
-      "lon": 179.2,
-      "url": "https://islandsbusiness.com/news-break/tuvalu-stands-firm-were-not-moving/"
+      "lat": -18.1,
+      "lon": 178.4,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-three-17-november-2026/"
     },
     {
       "region": "Oceanía",
-      "city": "Port Moresby",
-      "country": "Papúa Nueva Guinea",
-      "category": "ambiente",
-      "headline": "Papúa Nueva Guinea amplía su ley contra los plásticos de un solo uso más allá de las bolsas",
-      "summary": "El gobierno revisa la normativa para sumar otros productos de plástico descartable a la prohibición vigente, que hasta ahora alcanzaba sobre todo a las bolsas de compras. Distintos sectores de la industria se venían quejando de que no sabían con claridad qué cubría la prohibición.",
-      "por_que": "Los plásticos que llegan al mar dañan los arrecifes y la pesca, de los que dependen millones de personas en el Pacífico.",
-      "source": "PACNEWS / The National",
-      "lat": -9.4,
-      "lon": 147.2,
-      "url": "https://islandsbusiness.com/pacnews/pacnews-one-16-november-2026/"
+      "city": "Wellington",
+      "country": "Nueva Zelanda",
+      "category": "derechos",
+      "headline": "Una investigación revela que un ministerio israelí vigiló a un grupo judío neozelandés contra la ocupación",
+      "summary": "Según la investigación, antes de una marcha del 10 de octubre frente al Parlamento en Wellington, cerca de la embajada israelí, el ministerio vigiló y apuntó contra Dayenu (judíos neozelandeses contra la ocupación) y contra grupos de solidaridad con Palestina. El mismo fin de semana, Auckland celebró su primer Día de Palestina pese a un intento de bloquearlo. Dato de una sola fuente.",
+      "por_que": "Abre un debate sobre injerencia extranjera en Nueva Zelanda y Australia mientras el país espera el resultado final de sus elecciones.",
+      "source": "Asia Pacific Report",
+      "lat": -41.3,
+      "lon": 174.8,
+      "url": "https://asiapacificreport.nz/2026/11/16/foreign-interference-revealed-israels-surveillance-of-australia-and-new-zealand/"
     }
   ],
   "breves": [
     {
-      "country": "Indonesia",
-      "category": "ambiente",
-      "text": "El presidente Prabowo Subianto pidió disculpas a Singapur y Malasia por el humo tóxico de los incendios forestales en Borneo y Sumatra, que cubre parte del sudeste asiático desde hace semanas.",
-      "source": "Al Jazeera",
-      "lat": -6.2,
-      "lon": 106.8,
-      "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze"
+      "country": "Sudáfrica",
+      "category": "ciencia",
+      "text": "Paleontólogos de la Universidad de Witwatersrand describieron Nyana rooiwalnesis, un dinosaurio de hace unos 200 millones de años. Lo conocen por un ejemplar juvenil de unos 440 kilos hallado en 2018 en Cabo Oriental.",
+      "source": "Interesting Engineering",
+      "lat": -32.3,
+      "lon": 26.4,
+      "url": "https://interestingengineering.com/science/scientists-discover-dinosaur-species"
     },
     {
-      "country": "Uzbekistán",
-      "category": "ambiente",
-      "text": "Uzbekistán y Tayikistán firmaron en la COP31 dos declaraciones: una para proteger bosques y paisajes y otra para crear un sistema regional de alerta temprana de incendios forestales.",
-      "source": "UzDaily / Trend",
-      "lat": 41.3,
-      "lon": 69.3,
-      "url": "https://uzdaily.uz/en/uzbekistan-and-tajikistan-agree-to-protect-forests-and-landscapes"
+      "country": "India",
+      "category": "ciencia",
+      "text": "Con análisis de ADN, científicos indios demostraron que los tiburones espinosos pescados frente a la costa suroeste son en realidad una especie distinta, que llamaron Echinorhinus roinee.",
+      "source": "Forbes",
+      "lat": 9.9,
+      "lon": 76.3,
+      "url": "https://www.forbes.com/sites/melissacristinamarquez/2026/11/16/scientists-discover-new-deep-sea-shark-species-hiding-in-plain-sight/"
     },
     {
-      "country": "Australia",
+      "country": "Vietnam",
+      "category": "ciencia",
+      "text": "Biólogos describieron Hemiphyllodactylus baviensis, un geco nuevo y difícil de distinguir de otros, que vive en el bosque de montaña del Parque Nacional Ba Vi, en el norte del país.",
+      "source": "Bioengineer.org",
+      "lat": 21.1,
+      "lon": 105.4,
+      "url": "https://bioengineer.org/new-slender-gecko-species-discovered-in-northern-vietnam-montane-forest/"
+    },
+    {
+      "country": "Brasil",
+      "category": "ambiente",
+      "text": "Un estudio genético identificó dos especies de mono aullador amazónico que no se conocían: Alouatta iroi y Alouatta matogrossensis. Según los autores, la segunda probablemente esté al borde de la extinción.",
+      "source": "Live Science",
+      "lat": -12.6,
+      "lon": -55.7,
+      "url": "https://www.livescience.com/animals/primates/scientists-discover-two-adorable-species-of-howler-monkey-in-the-amazon-and-theyre-already-endangered"
+    },
+    {
+      "country": "Islas Marshall",
+      "category": "política",
+      "text": "Las Islas Marshall nombraron a Junior Aini como su primer embajador ante Samoa, con sede fuera de ese país.",
+      "source": "RNZ Pacific",
+      "lat": 7.1,
+      "lon": 171.4,
+      "url": "https://www.rnz.co.nz/news/pacific/2638396/pacific-news-in-brief-for-17-november"
+    },
+    {
+      "country": "Senegal",
       "category": "deporte",
-      "text": "Las Jillaroos ganaron su cuarto Mundial femenino de rugby league seguido: vencieron 34-10 a las Kiwi Ferns de Nueva Zelanda en el Suncorp Stadium de Brisbane.",
-      "source": "PACNEWS Sports",
-      "lat": -27.5,
-      "lon": 153.0,
-      "url": "https://islandsbusiness.com/pacnews/pacnews-sports-16-november-2026/"
+      "text": "Senegal le ganó 4-2 a Sudán en Juba por las eliminatorias de la Copa Africana de Naciones 2027 y quedó más cerca de clasificar.",
+      "source": "Afrik.com",
+      "lat": 4.9,
+      "lon": 31.6,
+      "url": "https://www.afrik.com/revue-de-presse-senegal-du-lundi-16-novembre-2026-sonko-acte-la-rupture-avec-diomaye-nouveaux-drames-de-l-emigration"
     },
     {
-      "country": "Chile",
+      "country": "Nueva Zelanda",
       "category": "cultura",
-      "text": "La Noche de Museos chilena también batió su récord de participación, con filas enormes en la Quinta Normal: el balance preliminar contó 100.940 visitas en apenas 61 de los 361 espacios.",
-      "source": "The Clinic",
-      "lat": -33.4,
-      "lon": -70.7,
-      "url": "https://www.theclinic.cl/2026/11/14/nadie-come-cultura-noche-de-museos-rompe-record-de-participacion-con-filas-gigantes-en-quinta-normal-museos-emblematicos-repletos-y-familias-recorriendo-las-calles/"
-    },
-    {
-      "country": "Honduras",
-      "category": "cultura",
-      "text": "Murió en Tegucigalpa, a los 70 años, Emmanuel Jaén Sierra, el dramaturgo e investigador que reconstruyó la historia del teatro hondureño.",
-      "source": "Proceso Digital",
-      "lat": 14.1,
-      "lon": -87.2,
-      "url": "https://proceso.hn/resumen-de-noticias-domingo-15-de-noviembre-de-2026/"
-    },
-    {
-      "country": "República Centroafricana",
-      "category": "sociedad",
-      "text": "Cientos de personas marcharon en Bangui contra la suba de los combustibles y para pedir la liberación de cinco líderes sociales detenidos; la oposición le dio al gobierno entre dos y tres semanas para responder.",
-      "source": "Africanews",
-      "lat": 4.4,
-      "lon": 18.6,
-      "url": "https://www.africanews.com/2026/11/13/car-opposition-marchest-in-bangui-against-rising-cost-of-living/"
-    },
-    {
-      "country": "Kazajistán",
-      "category": "economía",
-      "text": "La economía de Kazajistán creció 4,5% en los primeros diez meses de 2026, y el FMI espera que el crecimiento se acelere en 2027.",
-      "source": "Trend",
-      "lat": 51.2,
-      "lon": 71.4,
-      "url": "https://trend.az/casia/kazakhstan/4246972.html"
+      "text": "Auckland celebró su primer Día de Palestina, que reunió a comunidades palestinas, árabes y neozelandesas. Los organizadores lo consideraron un éxito pese a un intento de bloquearlo.",
+      "source": "Asia Pacific Report",
+      "lat": -36.8,
+      "lon": 174.8,
+      "url": "https://asiapacificreport.nz/2026/11/16/organisers-hail-palestine-day-as-great-success-in-spite-of-bid-to-block-it/"
     }
   ],
   "efemerides": {
-    "dia": "16 de noviembre",
+    "dia": "17 de noviembre",
     "items": [
       {
-        "year": "1532",
-        "text": "Francisco Pizarro captura al inca Atahualpa en Cajamarca, un hecho decisivo en la conquista del Imperio incaico."
+        "year": "1558",
+        "text": "Isabel I sube al trono de Inglaterra tras la muerte de María I. Reinará 44 años."
       },
       {
-        "year": "1849",
-        "text": "Un tribunal ruso condena a muerte a Fiódor Dostoievski por integrar el círculo de Petrashevski; la pena se le conmuta a último momento por trabajos forzados en Siberia."
+        "year": "1800",
+        "text": "El Congreso de EE.UU. sesiona por primera vez en Washington, la nueva capital."
       },
       {
-        "year": "1885",
-        "text": "Ejecutan en Regina, Canadá, a Louis Riel, líder del pueblo métis y de la rebelión del Noroeste."
+        "year": "1869",
+        "text": "Se inaugura el Canal de Suez, en Egipto, que une el Mediterráneo con el mar Rojo."
       },
       {
-        "year": "1907",
-        "text": "Oklahoma, levantado en gran parte sobre el antiguo Territorio Indio, se convierte en el estado número 46 de EE.UU."
+        "year": "1939",
+        "text": "Las fuerzas de ocupación nazis ejecutan a nueve estudiantes checos y cierran las universidades. La fecha se recuerda como Día Internacional del Estudiante."
       },
       {
-        "year": "1922",
-        "text": "Nace en Azinhaga, Portugal, José Saramago, Premio Nobel de Literatura 1998."
+        "year": "1950",
+        "text": "Tenzin Gyatso, de 15 años, asume plenos poderes como 14º Dalái Lama del Tíbet, en plena invasión china."
       },
       {
-        "year": "1945",
-        "text": "Se firma en Londres la constitución de la UNESCO, la agencia de la ONU para la educación, la ciencia y la cultura."
+        "year": "1970",
+        "text": "El Lunojod 1 soviético se convierte en el primer vehículo robótico que recorre la superficie de la Luna."
+      },
+      {
+        "year": "1972",
+        "text": "Juan Domingo Perón vuelve a la Argentina después de 17 años de exilio. La fecha se celebra como Día de la Militancia peronista."
       },
       {
         "year": "1973",
-        "text": "Despega la misión Skylab 4, cuya tripulación pasó 84 días en órbita, un récord para la época."
-      },
-      {
-        "year": "1974",
-        "text": "El radiotelescopio de Arecibo, en Puerto Rico, emite hacia el cúmulo estelar M13 el primer mensaje enviado deliberadamente a posibles civilizaciones extraterrestres."
-      },
-      {
-        "year": "1988",
-        "text": "El Partido del Pueblo de Pakistán gana las elecciones y Benazir Bhutto se convierte poco después en la primera mujer en gobernar un país de mayoría musulmana."
+        "text": "La junta militar griega aplasta con tanques el levantamiento estudiantil del Politécnico de Atenas."
       },
       {
         "year": "1989",
-        "text": "Militares salvadoreños asesinan en la Universidad Centroamericana (UCA) de San Salvador a seis sacerdotes jesuitas, entre ellos Ignacio Ellacuría, y a dos trabajadoras."
+        "text": "Una marcha estudiantil reprimida en Praga da inicio a la Revolución de Terciopelo en Checoslovaquia."
+      },
+      {
+        "year": "1997",
+        "text": "Un atentado en el templo de Hatshepsut, en Luxor (Egipto), mata a 62 personas, la mayoría turistas."
       }
     ]
   }
