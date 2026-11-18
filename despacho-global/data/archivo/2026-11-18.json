@@ -1,0 +1,530 @@
+{
+  "edicion": 26,
+  "fecha": "2026-11-18",
+  "generado": "2026-11-18T08:07:19-03:00",
+  "nota_editor": "Ormuz vuelve a mover el tablero con buques minados y un tercer portaaviones estadounidense, mientras Xi recibe a Trump en Shenzhen. En Argentina, hoy es un miércoles clave en el Congreso.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.575",
+      "variacion": "=",
+      "nota": "cierre del 17/11; máximo nominal"
+    },
+    {
+      "label": "Dólar blue (venta)",
+      "valor": "$1.605",
+      "variacion": "+$5",
+      "nota": "cierre del 17/11; récord nominal"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "854",
+      "variacion": "-1",
+      "nota": "cierre del 17/11 (J.P. Morgan)"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "2.848.900",
+      "variacion": "-0,35%",
+      "nota": "cierre del 17/11, en pesos"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "2,2%",
+      "variacion": "+0,3 pp",
+      "nota": "dato de octubre, el más alto en seis meses; 33,1% interanual"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$93,02",
+      "variacion": "+0,6%",
+      "nota": "cierre del 17/11, contrato de enero"
+    },
+    {
+      "label": "Dólar CCL",
+      "valor": "$1.689,22",
+      "variacion": "",
+      "nota": "cierre del 17/11"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Estrecho de Ormuz",
+      "country": "Irán",
+      "headline": "Llega un tercer portaaviones de EE.UU. a Medio Oriente e Irán dice que seis petroleros chocaron con minas en Ormuz",
+      "summary": "La armada de la Guardia Revolucionaria iraní afirma que desde el domingo seis petroleros se incendiaron o se hundieron al pasar por rutas que no había autorizado. Según Teherán, uno de ellos se hundió con más de 2 millones de barriles de crudo a bordo. La agencia británica UKMTO informó por separado que un proyectil no identificado alcanzó a otro tanquero y que la tripulación está a salvo. Irán no presentó pruebas de los ataques con minas.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "CNBC / Anadolu",
+      "time_note": "ayer",
+      "lat": 26.6,
+      "lon": 56.3,
+      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+    },
+    {
+      "city": "Shenzhen",
+      "country": "China",
+      "headline": "Xi rompe el protocolo y recibe a Trump en el aeropuerto de Shenzhen antes de una cumbre con Putin",
+      "summary": "Trump llegó a Shenzhen desde Manila para la cumbre de líderes de APEC. Xi Jinping lo recibió en persona al pie del avión, algo que no hace habitualmente. Es su tercer encuentro del año, y para el jueves está prevista una reunión a tres con Vladimir Putin para hablar de control de armas nucleares y de la guerra con Irán. En su discurso de apertura, Xi pidió rechazar el proteccionismo comercial.",
+      "category": "política",
+      "impact": "alto",
+      "source": "CNN / CNBC",
+      "time_note": "hoy",
+      "lat": 22.5,
+      "lon": 114.1,
+      "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
+    },
+    {
+      "city": "Kinshasa",
+      "country": "República Democrática del Congo",
+      "headline": "África CDC dice que el ébola en el Congo está \"fuera de control\": 5.500 muertos en seis meses",
+      "summary": "Según su director general, Jean Kaseya, el brote ya suma más de 11.200 contagios y 5.500 muertes en ocho provincias. Advirtió que puede extenderse a la República Centroafricana y a Sudán del Sur. La cepa Bundibugyo no tiene una vacuna eficaz, y la OMS estima que la escala real del brote podría ser de dos a cuatro veces mayor que las cifras oficiales.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "allAfrica / Africa CDC",
+      "time_note": "ayer",
+      "lat": -4.3,
+      "lon": 15.3,
+      "url": "https://allafrica.com/stories/202611170097.html"
+    },
+    {
+      "city": "Santa Clara",
+      "country": "Estados Unidos",
+      "headline": "Nvidia factura US$115.800 millones en el trimestre, el doble que hace un año, en su primer balance sin Jensen Huang",
+      "summary": "Los ingresos del tercer trimestre fiscal crecieron 103% interanual, y el negocio de centros de datos aportó US$107.600 millones. El mercado esperaba unos US$109.000 millones. La empresa proyecta US$130.000 millones para el próximo trimestre, sin contar ventas de cómputo a China. Es el primer reporte con Colette Kress como CEO interina, y según Kress los chips Vera Rubin generaron casi US$20.000 millones en su primer trimestre.",
+      "category": "tecnología",
+      "impact": "alto",
+      "source": "Nvidia / StockAnalysis / Technology.org",
+      "time_note": "ayer",
+      "lat": 37.4,
+      "lon": -122.0,
+      "url": "https://stockanalysis.com/news/nvda-q3-fy2027-earnings-beat/"
+    },
+    {
+      "city": "Manila",
+      "country": "Filipinas",
+      "headline": "La cumbre ASEAN-EE.UU. en Manila cierra con un pacto contra las estafas en línea",
+      "summary": "Ferdinand Marcos anunció que los líderes adoptaron diez principios de cooperación público-privada contra las estafas digitales y un plan de trabajo, y que pasan a ser una prioridad regional. Trump se perdió la cumbre principal de la ASEAN y solo participó de la reunión especial. También se reunió con los líderes del Quad, que firmaron acuerdos para asegurar el suministro de minerales críticos.",
+      "category": "política",
+      "impact": "medio",
+      "source": "GMA News / PIA",
+      "time_note": "ayer",
+      "lat": 14.6,
+      "lon": 121.0,
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009864/trump-asean-adopt-principles-to-combat-online-scams-marcos/story/"
+    },
+    {
+      "city": "Kigali",
+      "country": "Ruanda",
+      "headline": "Cinco países de la UE presentan su plan para un centro de deportación de migrantes en Ruanda",
+      "summary": "Alemania, Dinamarca, Austria, Grecia y Países Bajos presentaron junto a funcionarios ruandeses el primer centro de \"retorno\" fuera del bloque. Allí irían solicitantes de asilo rechazados que ya agotaron todas las vías legales. Grecia calcula que abriría en la segunda mitad de 2027, con una capacidad inicial de unas 100 personas. Amnistía Internacional advierte que estos centros pueden convertirse en \"agujeros negros\" para los derechos humanos.",
+      "category": "política",
+      "impact": "medio",
+      "source": "SCMP / Daily Maverick / allAfrica",
+      "time_note": "esta semana",
+      "lat": -1.9,
+      "lon": 30.1,
+      "url": "https://www.scmp.com/news/world/europe/article/3374648/five-eu-countries-unveil-plans-rwanda-deportation-hub"
+    },
+    {
+      "city": "Jartum",
+      "country": "Sudán",
+      "headline": "La ONU dice que los drones causaron casi el 75% de las muertes de civiles en Sudán este año",
+      "summary": "Según Naciones Unidas, los ataques con drones explican casi tres de cada cuatro civiles muertos en 2026 en la guerra entre el ejército y las Fuerzas de Apoyo Rápido. El dato muestra que el conflicto se volvió cada vez más aéreo, después de más de tres años de guerra. Dato de una sola fuente.",
+      "category": "conflicto",
+      "impact": "medio",
+      "source": "Impact.sn / ONU",
+      "time_note": "ayer",
+      "lat": 15.5,
+      "lon": 32.5,
+      "url": "https://www.impact.sn/notes/Guerre-au-Soudan-des-drones-responsables-de-pres-de-75-des-deces-de-civils-cette-annee-selon-l-ONU_b98735945.html"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Al oficialismo le faltan dos firmas y posterga hasta hoy el dictamen para suspender las PASO",
+      "summary": "La comisión de Asuntos Constitucionales del Senado pasó a un cuarto intermedio hasta hoy al mediodía. La Libertad Avanza necesita 10 de las 19 firmas y el martes tenía 8. Para destrabarlo presentó un borrador recortado, que mantiene la suspensión de las PASO 2027 pero saca puntos clave de la reforma política. El PRO anunció que acompañará en general, y el Gobierno apunta a sancionar la ley en la sesión del 26 de noviembre.",
+      "source": "Infobae / Parlamentario / MDZ",
+      "time_note": "hoy",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/18/senado-el-oficialismo-quiere-dictaminar-la-suspension-de-las-paso-y-ya-hay-dudas-por-lo-que-ocurra-en-el-recinto/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Diputados vota hoy la \"Ley Malvinas\" y la reforma de la Carta Orgánica del Banco Central",
+      "summary": "La sesión empieza al mediodía. Según los cálculos previos, el oficialismo tiene los votos para aprobar en general la Ley Malvinas, pero podría perder un capítulo que cambia el sistema electoral y necesita 129 votos. En la reforma del BCRA, Diputados solo puede aceptar o rechazar los cambios del Senado. El principal permite remover a directores del banco con 37 votos de la Cámara alta, sin pasar por Diputados.",
+      "source": "Los Andes / Noticias Argentinas",
+      "time_note": "hoy",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.losandes.com.ar/politica/sesion-diputados-votan-hoy-los-cambios-la-ley-malvinas-y-ratifican-la-reforma-del-banco-central-n6014676"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El dólar oficial cierra en $1.575 y el blue en $1.605, los dos en máximos nominales",
+      "summary": "El dólar minorista del Banco Nación cerró el martes en $1.525 para la compra y $1.575 para la venta. El blue subió $5 y terminó en $1.605. El MEP cerró en $1.594,58, el contado con liquidación en $1.689,22 y el dólar tarjeta en $2.047,50.",
+      "source": "Noticias Argentinas / Ámbito / El Cronista",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://noticiasargentinas.com/economia/el-dolar-oficial-cerroen--1-575-para-la-venta--mientras-que-el-blue-concluyo-en--1-605_a6afcbf9d80252b427d4832d1"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Los activos argentinos aguantan la caída de Wall Street: riesgo país en 854 y el BCRA compra US$75 millones",
+      "summary": "En una rueda negativa para Wall Street, los bonos en dólares terminaron mixtos y el riesgo país cerró en 854 puntos básicos. El S&P Merval bajó cerca de 0,35% en pesos, hasta unos 2.848.900 puntos. El Banco Central compró US$75 millones en el mercado de cambios.",
+      "source": "Rosario Finanzas / Diario Mendoza",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -32.9,
+      "lon": -60.6,
+      "url": "https://rosariofinanzas.ar/noticias/acciones-y-bonos-argentinos-resistieron-a-rueda-bajista-de-wall-street-dolar-a-1-575"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Milei ironiza sobre la suba del riesgo país, defiende el dato de inflación y dice que ganará la reelección en primera vuelta",
+      "summary": "En plena volatilidad del mercado, el presidente habló de la suba del riesgo país y defendió el 2,2% de inflación de octubre. También aseguró que en 2027 será reelecto sin necesidad de segunda vuelta.",
+      "source": "El Destape / Google Noticias",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-martes-17-noviembre-minuto-minuto-2026111772833"
+    },
+    {
+      "tag": "Ciencia",
+      "city": "Mar del Plata",
+      "country": "Argentina",
+      "headline": "El CONICET presenta \"Loki\", un pepino de mar con cuernos hallado en el cañón submarino de Mar del Plata",
+      "summary": "La especie apareció durante la campaña Talud Continental IV, que en total permitió identificar 57 especies y cinco géneros nuevos para la ciencia. La validación científica terminó en octubre de 2026, y los ejemplares quedaron en el Museo Argentino de Ciencias Naturales.",
+      "source": "0223 / CONICET",
+      "time_note": "esta semana",
+      "impact": "bajo",
+      "lat": -38.0,
+      "lon": -57.6,
+      "url": "http://www.0223.com.ar/nota/2026-11-16-13-28-0-el-insolito-animal-con-cuernos-que-el-conicet-descubrio-en-las-profundidades-de-mar-del-plata"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La Ciudad lanza su propio régimen de incentivos para medianas inversiones, una versión porteña del RIGI",
+      "summary": "El nuevo Régimen de Incentivo para Medianas Inversiones de la Ciudad de Buenos Aires busca facilitar las inversiones de las pymes, con una lógica parecida al RIGI nacional pero pensada para proyectos más chicos. Es una medida del gobierno porteño, no del nacional. Dato de una sola fuente.",
+      "source": "Noticias Argentinas",
+      "time_note": "ayer",
+      "impact": "bajo",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://noticiasargentinas.com/politica/---javier-milei-en-vivo--anuncios-y-medidas-del-gobierno-minuto-a-minuto-del-17-de-noviembre-de-2026_a6afc200080252b427d3ea132"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Harare",
+      "country": "Zimbabue",
+      "category": "derechos",
+      "headline": "Harare suspende todas las demoliciones de viviendas \"hasta nuevo aviso\"",
+      "summary": "El secretario municipal interino de Harare, Warren Chiwawa, firmó un memorándum que frena todas las demoliciones de viviendas con efecto inmediato. En la capital de Zimbabue, los desalojos de asentamientos considerados ilegales son una fuente de conflicto desde hace años.",
+      "por_que": "Para miles de familias de barrios informales significa al menos una pausa en la pérdida de sus casas.",
+      "source": "allAfrica",
+      "lat": -17.8,
+      "lon": 31.0,
+      "url": "https://allafrica.com/stories/202611170117.html"
+    },
+    {
+      "region": "África",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "category": "política",
+      "headline": "Empieza el juicio contra el opositor Venâncio Mondlane, y sin cámaras en vivo",
+      "summary": "El Tribunal Supremo de Mozambique abrió el 17 de noviembre el juicio contra Venâncio Mondlane, acusado de terrorismo e incitación a la desobediencia civil por las protestas que siguieron a las elecciones de octubre de 2024. El tribunal prohibió la transmisión en vivo. Mondlane niega todos los cargos.",
+      "por_que": "El proceso pone a prueba las libertades políticas en Mozambique después de la crisis poselectoral más violenta de su historia reciente.",
+      "source": "Impact.sn / Rio Times",
+      "lat": -26.0,
+      "lon": 32.6,
+      "url": "https://www.impact.sn/Round-up-de-l-actualite-du-lundi-17-novembre-2026-en-Afrique-centrale-et-de-l-Est_a59771.html"
+    },
+    {
+      "region": "Asia",
+      "city": "Astaná",
+      "country": "Kazajistán",
+      "category": "tecnología",
+      "headline": "Kazajistán debate una ley para revisar juegos y apps antes de que los descarguen los chicos",
+      "summary": "La vicepresidenta del Parlamento, Dinara Zakiyeva, presentó el proyecto \"Sobre la seguridad digital e informativa de los niños\". La ley obligaría a que el Estado revise juegos y aplicaciones antes de que los menores puedan descargarlos. También exigiría etiquetas de riesgo y controles parentales en todas las plataformas, y pondría límites a las compras en línea de los menores. Dato de una sola fuente.",
+      "por_que": "Sería una de las regulaciones de protección digital infantil más estrictas de Asia Central.",
+      "source": "The Times of Central Asia",
+      "lat": 51.2,
+      "lon": 71.4,
+      "url": "https://timesca.com/kazakhstan-online-child-safety-bill-games-apps/"
+    },
+    {
+      "region": "Asia",
+      "city": "Katmandú",
+      "country": "Nepal",
+      "category": "salud",
+      "headline": "El valle de Katmandú empieza a vender carne con sello de inspección sanitaria",
+      "summary": "El gobierno nepalí desplegó 240 inspectores capacitados para aplicar las normas de control de la carne en el valle de Katmandú. La certificación será obligatoria en todo el país a partir de julio de 2027.",
+      "por_que": "En un país donde gran parte de la carne se faena sin control, la medida apunta a reducir las enfermedades transmitidas por alimentos.",
+      "source": "The Kathmandu Post",
+      "lat": 27.7,
+      "lon": 85.3,
+      "url": "https://kathmandupost.com/valley/2026/11/18/kathmandu-valley-begins-selling-meat-with-safety-stamps"
+    },
+    {
+      "region": "Europa",
+      "city": "Vilna",
+      "country": "Lituania",
+      "category": "derechos",
+      "headline": "Lituania abre la reproducción asistida a mujeres solas y parejas no casadas",
+      "summary": "El presidente Gitanas Nausėda promulgó la reforma, que amplía el acceso a matrimonios, parejas registradas o no y mujeres solas. El Estado solo financiará los tratamientos en casos de infertilidad o de ciertas enfermedades graves. El cambio llegó después de un fallo del Tribunal Constitucional, y entre 2018 y 2024 nacieron unos 2.800 chicos bajo las reglas anteriores.",
+      "por_que": "Es un cambio grande en un país donde la ley limitaba estos tratamientos a las parejas casadas.",
+      "source": "LRT",
+      "lat": 54.7,
+      "lon": 25.3,
+      "url": "https://www.lrt.lt/en/news-in-english/19/3118121/lithuania-expands-access-to-assisted-reproduction-as-president-signs-law"
+    },
+    {
+      "region": "Europa",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "category": "economía",
+      "headline": "Kosovo gasta más en subsidios que en obras: la autopista a Gjilan cuesta el doble y está a medio hacer",
+      "summary": "La autopista Pristina-Gjilan, de menos de 50 km, está construida a la mitad y ya cuesta €183,7 millones, más del doble de lo previsto en 2018. Entre enero y septiembre, el gobierno ejecutó solo el 37% del presupuesto de inversión (€376,85 millones) y el 76% del de subsidios (€1.032,53 millones). Según un análisis de BIRN, solo el 16% de los €1.070 millones anunciados para obras en 2027 es dinero nuevo.",
+      "por_que": "Muestra las dificultades de uno de los países más pobres de Europa para convertir el presupuesto en infraestructura.",
+      "source": "Balkan Insight",
+      "lat": 42.7,
+      "lon": 21.2,
+      "url": "https://balkaninsight.com/2026/11/18/handouts-or-highways-critics-question-kosovos-infrastructure-strategy/bi/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Mundafan",
+      "country": "Arabia Saudita",
+      "category": "ciencia",
+      "headline": "Arabia Saudita presenta rastros de actividad humana de hace 125.000 años junto a un antiguo lago del desierto",
+      "summary": "La Comisión de Patrimonio saudita dio a conocer evidencias de presencia humana de hace 125.000 años en el paleolago de Mundafan, en el Rub al-Jali. En esa época el desierto era más verde y tenía lagos. Dato de una sola fuente.",
+      "por_que": "Aporta pruebas sobre las primeras rutas de dispersión humana fuera de África a través de Arabia.",
+      "source": "Asharq Al-Awsat",
+      "lat": 18.6,
+      "lon": 45.4,
+      "url": "https://english.aawsat.com/culture/5340873-saudi-heritage-commission-unveils-evidence-human-activity-dating-back-125000-years"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Damasco",
+      "country": "Siria",
+      "category": "economía",
+      "headline": "Damasco recibe un foro de cooperación de la UE, que planea una conferencia de inversiones para Siria en 2027",
+      "summary": "El ministro de Economía sirio, Mohammad Nidal al-Shaar, y la comisaria europea Dubravka Šuica participaron del Foro de Cooperación y Asociación con Siria que organizó la UE en Damasco. Siria pronostica un fuerte crecimiento económico, y Bruselas anunció una conferencia de inversión para 2027.",
+      "por_que": "Es una señal del regreso de Europa a la reconstrucción económica de Siria.",
+      "source": "Asharq Al-Awsat",
+      "lat": 33.5,
+      "lon": 36.3,
+      "url": "https://english.aawsat.com/business/5342424-syria-forecasts-strong-economic-growth-eu-plans-2027-investment-conference"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Kingston",
+      "country": "Jamaica",
+      "category": "política",
+      "headline": "La auditoría de Jamaica detecta que se desviaron J$33 millones de las donaciones por el huracán Melissa",
+      "summary": "Un informe de la auditora general Pamela Monroe Ellis, presentado el martes en el Parlamento, dice que la oficina de emergencias ODPEM usó J$33 millones para despachar en aduana mercadería de terceros. Ese dinero salía de J$45,1 millones donados para reparar techos y viviendas. Además, el 77% de las donaciones en especie (J$4.800 millones de J$6.300 millones) se había consignado a nombre de terceros.",
+      "por_que": "Pone en duda cómo se gestiona la ayuda en un Caribe cada vez más expuesto a huracanes extremos.",
+      "source": "Jamaica Gleaner",
+      "lat": 18.0,
+      "lon": -76.8,
+      "url": "https://www.jamaica-gleaner.com/article/news/20261118/millions-misused"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Halifax",
+      "country": "Canadá",
+      "category": "ambiente",
+      "headline": "La ballena franca del Atlántico Norte baja a 382 ejemplares, pese a su mejor temporada de crías desde 2009",
+      "summary": "El Consorcio de la Ballena Franca del Atlántico Norte estimó 382 ejemplares en 2025, contra 389 en 2024. En la temporada 2025-2026 nacieron 24 crías, la cifra más alta desde 2009, pero todavía no están en el cálculo. Según la presidenta del consorcio, Heather Pettis, la especie no está en camino de recuperarse.",
+      "por_que": "Es una de las ballenas más amenazadas del mundo, y su suerte depende de las reglas de pesca y navegación de Canadá y EE.UU.",
+      "source": "CTV News Atlantic / WBUR",
+      "lat": 44.6,
+      "lon": -63.6,
+      "url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/strong-calving-season-provides-glimmer-of-hope-for-endangered-right-whales/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Lima",
+      "country": "Perú",
+      "category": "derechos",
+      "headline": "El Poder Judicial de Perú tiene solo 97 intérpretes para 48 lenguas indígenas",
+      "summary": "Según el registro del Poder Judicial, hay 97 profesionales para interpretar o traducir lenguas originarias en un país con 48 lenguas indígenas y más de 6,7 millones de personas que se reconocen como indígenas. Dirigentes de los pueblos chapra, awajún, asháninka y kichwa piden un enfoque intercultural en los juicios.",
+      "por_que": "Sin intérpretes, millones de peruanos enfrentan la justicia en un idioma que no es el suyo.",
+      "source": "Ojo Público",
+      "lat": -12.0,
+      "lon": -77.0,
+      "url": "https://ojo-publico.com/6582/desigualdad-linguistica-poder-judicial-tiene-solo-97-interpretes"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Santa Cruz de la Sierra",
+      "country": "Bolivia",
+      "category": "economía",
+      "headline": "Bolivia vuelve a exportar algodón después de 15 años, con un primer envío a Paraguay",
+      "summary": "El primer envío es de 23 toneladas de fibra en 110 fardos, por unos US$50.000, informó José Luis Landívar, de Fedepa. La superficie sembrada pasaría de 2.000 a 6.000 hectáreas la próxima campaña, y la meta es llegar a 100.000 hectáreas en 2036, con exportaciones de unos US$250 millones.",
+      "por_que": "Para una economía en crisis de divisas, recuperar un cultivo exportable diversifica sus ingresos.",
+      "source": "El Deber",
+      "lat": -17.8,
+      "lon": -63.2,
+      "url": "https://eldeber.com.bo/economia/bolivia-retoma-exportacion-algodon-despues-15-anos-primer-envio-paraguay_1794947615"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Suva",
+      "country": "Fiyi",
+      "category": "ambiente",
+      "headline": "Fiyi declara el desastre nacional por la sequía de El Niño",
+      "summary": "El primer ministro Sitiveni Rabuka anunció que el gobierno toma el control central de los equipos y recursos de emergencia. Reasignó FJ$20 millones para la respuesta a la sequía.",
+      "por_que": "Muestra cómo El Niño golpea la provisión de agua y la producción de alimentos en las islas del Pacífico.",
+      "source": "RNZ Pacific",
+      "lat": -18.1,
+      "lon": 178.4,
+      "url": "https://www.rnz.co.nz/news/pacific/2660183/fiji-declares-state-of-national-disaster-over-el-nino-drought"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Port Moresby",
+      "country": "Papúa Nueva Guinea",
+      "category": "sociedad",
+      "headline": "Papúa Nueva Guinea propone limitar a tres los hijos por familia",
+      "summary": "El gobierno anunció una política que alienta a las familias a no tener más de tres hijos, para frenar el crecimiento de la población. Los expertos en salud la recibieron con opiniones divididas, y remarcan que la mitad de la población del país son chicos.",
+      "por_que": "Es un giro poco común en el Pacífico, en un país cuyos servicios públicos no dan abasto con el crecimiento demográfico.",
+      "source": "RNZ Pacific / ABC Pacific",
+      "lat": -9.4,
+      "lon": 147.2,
+      "url": "https://www.abc.net.au/news/2026-11-17/png-policy-aims-to-limit-families-to-three-children/107385842"
+    }
+  ],
+  "breves": [
+    {
+      "country": "Niue",
+      "category": "ambiente",
+      "text": "Niue, una isla del Pacífico de menos de 2.000 habitantes, ganó el premio Earthshot 2026 en la categoría de conservación de los océanos.",
+      "source": "Islands Business / PACNEWS",
+      "lat": -19.1,
+      "lon": -169.9,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-one-18-november-2026/"
+    },
+    {
+      "country": "Islandia",
+      "category": "cultura",
+      "text": "La compositora islandesa Anna Thorvaldsdóttir ganó en Londres el premio Ivor Novello a la mejor obra de gran formato por su concierto para cello \"Before We Fall\". Es la segunda vez que gana en esa categoría, después de 2021.",
+      "source": "Iceland Review",
+      "lat": 64.1,
+      "lon": -21.9,
+      "url": "https://www.icelandreview.com/news/anna-thorvaldsdottir-ivor-novello-award-2026/"
+    },
+    {
+      "country": "Estonia",
+      "category": "ciencia",
+      "text": "Una cámara de fauna en la isla de Saaremaa filmó un corzo con un único cuerno en la frente, como un \"unicornio\". La misma cámara, instalada para estudiar al visón europeo, captó también una rara cigüeña negra.",
+      "source": "ERR News",
+      "lat": 58.4,
+      "lon": 22.5,
+      "url": "https://news.err.ee/1610198344/unicorn-caught-on-saaremaa-wildlife-camera"
+    },
+    {
+      "country": "Nepal",
+      "category": "economía",
+      "text": "Terminó de perforarse el segundo túnel de Mahadevtar, de 3,4 km, en la autopista Katmandú-Terai. La obra lleva nueve años y está completa en un 50%.",
+      "source": "The Kathmandu Post",
+      "lat": 27.6,
+      "lon": 85.2,
+      "url": "https://kathmandupost.com/national/2026/11/18/second-mahadevtar-tunnel-bore-breaks-through-kathmandu-tarai-expressway"
+    },
+    {
+      "country": "Vanuatu",
+      "category": "derechos",
+      "text": "Una mujer de la isla de Tanna recibió un reconocimiento internacional por un proyecto de iluminación solar contra la violencia de género en la comunidad de Lawital. Según una ONG local, algunas mujeres de la isla se encierran de noche con un machete bajo la almohada.",
+      "source": "RNZ Pacific",
+      "lat": -19.5,
+      "lon": 169.3,
+      "url": "https://www.rnz.co.nz/news/pacific/2627141/vanuatu-woman-internationally-recognised-for-solar-scheme-tackling-violence"
+    },
+    {
+      "country": "Islas Cook",
+      "category": "clima",
+      "text": "El ciclón Xavier, de categoría 5 y con ráfagas de hasta 315 km/h, golpea el norte de las Islas Cook, donde Manihiki y Rakahanga están en alerta.",
+      "source": "RNZ Pacific",
+      "lat": -10.4,
+      "lon": -161.0,
+      "url": "https://www.rnz.co.nz/news/pacific/2648447/category-5-cyclone-xavier-batters-northern-cook-islands-with-gusts-up-to-315km-h"
+    },
+    {
+      "country": "Ecuador",
+      "category": "clima",
+      "text": "El Inamhi declaró alerta roja por lluvias y tormentas en toda la costa de Ecuador hasta el sábado 21. Desde el 29 de agosto, El Niño ya dejó 14 muertos y 51.095 personas afectadas.",
+      "source": "Primicias",
+      "lat": -2.2,
+      "lon": -79.9,
+      "url": "https://www.primicias.ec/sociedad/inamhi-clima-lluvias-tormentas-electricas-del17al21-noviembre-fenomeno-elnino-137355/"
+    }
+  ],
+  "efemerides": {
+    "dia": "18 de noviembre",
+    "items": [
+      {
+        "year": "1803",
+        "text": "En la batalla de Vertières, el ejército de Jean-Jacques Dessalines derrota a las tropas francesas. Es el triunfo decisivo que lleva a la independencia de Haití, la primera república negra del mundo."
+      },
+      {
+        "year": "1883",
+        "text": "Los ferrocarriles de Estados Unidos y Canadá adoptan los husos horarios estándar y terminan con el caos de cientos de horas locales."
+      },
+      {
+        "year": "1908",
+        "text": "Nace en Camet, provincia de Buenos Aires, el pintor Juan Carlos Castagnino, uno de los grandes artistas argentinos del siglo XX."
+      },
+      {
+        "year": "1918",
+        "text": "Letonia proclama su independencia en Riga, al final de la Primera Guerra Mundial."
+      },
+      {
+        "year": "1928",
+        "text": "Se estrena \"Steamboat Willie\", el corto sonoro con el que debuta Mickey Mouse."
+      },
+      {
+        "year": "1940",
+        "text": "Nace en Salalah el sultán Qaboos bin Said, que modernizó Omán. Su cumpleaños quedó como el Día Nacional del país."
+      },
+      {
+        "year": "1951",
+        "text": "Se transmite por primera vez en la Argentina un partido de fútbol por televisión: San Lorenzo y River empatan 1 a 1 en el Gasómetro."
+      },
+      {
+        "year": "1978",
+        "text": "En Jonestown, Guyana, 918 miembros de la secta Templo del Pueblo mueren en una masacre y suicidio colectivo, el mismo día en que matan al congresista estadounidense Leo Ryan."
+      },
+      {
+        "year": "1991",
+        "text": "Después de un sitio de 87 días, la ciudad croata de Vukovar cae en manos del ejército yugoslavo y las fuerzas serbias."
+      },
+      {
+        "year": "1993",
+        "text": "En Sudáfrica, los negociadores de 21 partidos aprueban la Constitución provisoria que abre el camino a las primeras elecciones multirraciales de 1994."
+      }
+    ]
+  }
+}
