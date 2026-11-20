@@ -303,6 +303,15 @@ window.CONTENT = {
       url: "https://www.instagram.com/p/DIHVbQzJ5SX/"
     },
     {
+      id: "w-rolling", track: "r", year: 2023, featured: true,
+      kind: { es: "Ensayo + entrevistas", en: "Essay + interviews" },
+      title: { es: "My Life as a Rolling Stone", en: "My Life as a Rolling Stone" },
+      context: { es: "Narración Audiovisual · Proyecto final", en: "Audiovisual Narrative · Final project" },
+      desc: { es: "Ensayo sobre la docuserie de los Rolling Stones. Entrevisté a Benjamin Thomas, director de fotografía, y a Angus Sutherland, editor de la serie, para entender cómo se filmó y se montó.", en: "Essay on the Rolling Stones docuseries. I interviewed Benjamin Thomas, director of photography, and Angus Sutherland, the series' editor, to understand how it was shot and cut." },
+      image: "assets/img/trabajos/my-life-rolling-stone.jpg?v=2", imagePos: "center",
+      url: "https://docs.google.com/document/d/1bRklhHOWXhcpZ8OHiMQ-gVkATzQjVgHTjRPyaaUr6TU/view"
+    },
+    {
       id: "w-contepomi", track: "r", year: 2023, featured: true,
       kind: { es: "Entrevista multimedia", en: "Multimedia interview" },
       title: { es: "Bebe Contepomi", en: "Bebe Contepomi" },
