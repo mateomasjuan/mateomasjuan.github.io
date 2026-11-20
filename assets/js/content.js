@@ -307,9 +307,9 @@ window.CONTENT = {
       kind: { es: "Ensayo + entrevistas", en: "Essay + interviews" },
       title: { es: "My Life as a Rolling Stone", en: "My Life as a Rolling Stone" },
       context: { es: "Narración Audiovisual · Proyecto final", en: "Audiovisual Narrative · Final project" },
-      desc: { es: "Ensayo sobre la docuserie de los Rolling Stones. Entrevisté a Benjamin Thomas, director de fotografía, y a Angus Sutherland, editor de la serie, para entender cómo se filmó y se montó.", en: "Essay on the Rolling Stones docuseries. I interviewed Benjamin Thomas, director of photography, and Angus Sutherland, the series' editor, to understand how it was shot and cut." },
+      desc: { es: "Ensayo sobre la docuserie de los Rolling Stones. Entrevisté a Benjamin Thomas, director de fotografía, y a Angus Sutherland, editor de la serie, para entender cómo se filmó y se montó, y a Laura Camargo, crítica de Indie Hoy, para sumar una mirada desde afuera.", en: "Essay on the Rolling Stones docuseries. I interviewed Benjamin Thomas, director of photography, and Angus Sutherland, the series' editor, to understand how it was shot and cut, and Laura Camargo, a critic at Indie Hoy, for an outside perspective." },
       image: "assets/img/trabajos/my-life-rolling-stone.jpg?v=2", imagePos: "center",
-      url: "https://docs.google.com/document/d/1bRklhHOWXhcpZ8OHiMQ-gVkATzQjVgHTjRPyaaUr6TU/view"
+      url: { es: "https://docs.google.com/document/d/1bRklhHOWXhcpZ8OHiMQ-gVkATzQjVgHTjRPyaaUr6TU/view", en: "https://docs.google.com/document/d/1rL7VVodIbMutNraD8goYM7VNauwoz_wvHONI_ZebtKU/view" }
     },
     {
       id: "w-contepomi", track: "r", year: 2023, featured: true,

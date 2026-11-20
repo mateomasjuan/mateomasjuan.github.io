@@ -105,7 +105,7 @@
 
   const ext = (url, html, cls = "") => `<a href="${esc(url)}" target="_blank" rel="noopener"${cls ? ` class="${cls}"` : ""}>${html}</a>`;
   const thumb = (w) => w.image || (w.youtube ? `assets/img/trabajos/yt-${w.youtube}.jpg` : "");
-  const workUrl = (w) => w.url || (w.youtube ? `https://www.youtube.com/watch?v=${w.youtube}` : "");
+  const workUrl = (w) => L(w.url) || (w.youtube ? `https://www.youtube.com/watch?v=${w.youtube}` : "");
 
   function store(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* sin storage */ } }
   function read(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
