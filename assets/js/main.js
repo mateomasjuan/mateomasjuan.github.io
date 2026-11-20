@@ -267,7 +267,7 @@
         <p class="insp__role">${esc(L(c.role))}</p>
         <div class="insp__body">
         <ul class="insp__bullets">${(c.bullets || []).map((b) => `<li>${esc(L(b))}</li>`).join("")}</ul>
-        ${links.length ? `<div class="insp__links">${links.map((l) => ext(l.url, `${esc(L(l.label))} ↗`, "insp__link")).join("")}</div>` : ""}
+        ${links.length ? `<div class="insp__links">${links.map((l) => ext(L(l.url), `${esc(L(l.label))} ↗`, "insp__link")).join("")}</div>` : ""}
         </div>
         <div class="insp__nav">
           <button type="button" data-step="-1" ${i === 0 ? "disabled" : ""}>${t("tl.prev")}</button>

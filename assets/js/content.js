@@ -69,6 +69,18 @@ window.CONTENT = {
       notes: ["n-mdz-5", "n-mdz-3", "n-mdz-7", "n-mdz-4", "n-mdz-6", "n-mdz-1", "n-mdz-8"]
     },
     {
+      id: "rolling", track: "r", start: 2023.42, end: 2023.6, lane: 1,
+      title: { es: "My Life as a Rolling Stone", en: "My Life as a Rolling Stone" },
+      role: { es: "Ensayo + entrevistas — Narración Audiovisual", en: "Essay + interviews — Audiovisual Narrative" },
+      dates: { es: "Jun — Ago 2023 · Proyecto final", en: "Jun — Aug 2023 · Final project" },
+      bullets: [
+        { es: "Ensayo sobre la docuserie de los Rolling Stones: cómo el material de archivo y la fotografía construyen una mirada verosímil de la banda.", en: "Essay on the Rolling Stones docuseries: how archival footage and cinematography build a credible portrait of the band." },
+        { es: "Entrevisté a Benjamin Thomas (director de fotografía), Angus Sutherland (editor) y Laura Camargo (crítica de Indie Hoy).", en: "Interviewed Benjamin Thomas (director of photography), Angus Sutherland (editor) and Laura Camargo (Indie Hoy critic)." }
+      ],
+      link: { url: { es: "https://docs.google.com/document/d/1bRklhHOWXhcpZ8OHiMQ-gVkATzQjVgHTjRPyaaUr6TU/view", en: "https://docs.google.com/document/d/1rL7VVodIbMutNraD8goYM7VNauwoz_wvHONI_ZebtKU/view" }, label: { es: "Leer el ensayo", en: "Read the essay" } },
+      works: ["w-rolling"]
+    },
+    {
       id: "contepomi", labelSide: "left", track: "r", start: 2023.75, end: 2023.91,
       title: { es: "Entrevista a Bebe Contepomi", en: "Interview with Bebe Contepomi" },
       role: { es: "Entrevista multimedia — Producción Discursiva", en: "Multimedia interview — Discourse Production" },
@@ -221,7 +233,7 @@ window.CONTENT = {
       kind: { es: "Proyecto editorial propio", en: "Personal editorial project" },
       title: { es: "Despacho Global", en: "Despacho Global" },
       context: { es: "Medio digital · Idea y dirección", en: "Digital outlet · Concept and direction" },
-      desc: { es: "Un diario digital con lo más importante del día y las historias que los grandes medios no cuentan. Ideé el proyecto y definí la línea editorial, las secciones y el criterio de cobertura; las ediciones se generan cada día con IA.", en: "A digital paper with the day's main news and the stories big media leave out. I came up with the project and set its editorial line, sections and coverage criteria; each daily edition is generated with AI." },
+      desc: { es: "Un cable de noticias con lo más importante del día y las historias que los grandes medios no cuentan. Ideé el proyecto y definí la línea editorial, las secciones y el criterio de cobertura; las ediciones se generan cada día con IA.", en: "A news wire with the day's main news and the stories big media leave out. I came up with the project and set its editorial line, sections and coverage criteria; each daily edition is generated with AI." },
       image: "assets/img/trabajos/despacho-global.jpg?v=2", imagePos: "center top",
       url: "despacho-global/index.html"
     },
