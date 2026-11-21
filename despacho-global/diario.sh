@@ -22,6 +22,17 @@ for i in $(seq 1 40); do
   sleep 30
 done
 
+# Si la edición de hoy ya está en GitHub (la armó otra corrida), no hacer nada.
+# Para rehacerla igual: bash diario.sh --forzar
+if [ "$1" != "--forzar" ] && git -C .. fetch -q origin main 2>/dev/null; then
+  FECHA_GH=$(git -C .. show origin/main:despacho-global/data/edicion.json 2>/dev/null | \
+    python3 -c "import json,sys; print(json.load(sys.stdin)['fecha'])" 2>/dev/null)
+  if [ "$FECHA_GH" = "$(date +%Y-%m-%d)" ]; then
+    echo "La edición de hoy ($FECHA_GH) ya está publicada. Nada que hacer."
+    exit 0
+  fi
+fi
+
 OK=0
 for intento in 1 2 3; do
   echo "Intento $intento de armar la edición…"
