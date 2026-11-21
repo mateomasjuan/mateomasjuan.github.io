@@ -1,143 +1,143 @@
 {
-  "edicion": 27,
-  "fecha": "2026-11-20",
-  "generado": "2026-11-20T12:03:14-03:00",
-  "nota_editor": "Viernes de mucha tensión en los mercados: después de un récord anual el jueves, el riesgo país pasa los 1.000 puntos en la rueda de hoy. Afuera, Rusia responde con un ataque masivo horas después de la cumbre de Shenzhen.",
+  "edicion": 28,
+  "fecha": "2026-11-21",
+  "generado": "2026-11-21T10:32:22-03:00",
+  "nota_editor": "Semana de máxima tensión financiera en la Argentina, con el dólar oficial en récord, mientras la COP31 sigue en tiempo extra sin acuerdo sobre combustibles fósiles.",
   "indicadores": [
     {
       "label": "Dólar oficial (BNA, venta)",
-      "valor": "$1.585",
-      "variacion": "+$5",
-      "nota": "cierre del jueves 19/11, máximo nominal; mayorista en $1.565"
+      "valor": "$1.600",
+      "variacion": "+$15",
+      "nota": "cierre del 20/11; récord nominal"
     },
     {
       "label": "Dólar blue",
-      "valor": "$1.640",
-      "variacion": "+$15",
-      "nota": "cierre del 19/11, récord nominal"
+      "valor": "$1.675",
+      "variacion": "+2,1%",
+      "nota": "cierre del 20/11"
+    },
+    {
+      "label": "Dólar mayorista",
+      "valor": "$1.580",
+      "variacion": "",
+      "nota": "cierre del 20/11; máximo nominal"
     },
     {
       "label": "Riesgo país",
-      "valor": "930",
-      "variacion": "+82",
-      "nota": "cierre del 19/11 (+9,7%); hoy, en plena rueda, supera los 1.000 puntos"
+      "valor": "1.065",
+      "variacion": "+14,4%",
+      "nota": "cierre del 20/11 según Rava; en la rueda tocó 1.071, máximo en 13 meses"
     },
     {
       "label": "S&P Merval",
-      "valor": "81.146",
-      "variacion": "-1%",
-      "nota": "cierre del 19/11; -3,3% medido en dólares"
+      "valor": "80.662",
+      "variacion": "-0,6%",
+      "nota": "cierre del 20/11 según Rava"
     },
     {
       "label": "Inflación mensual (INDEC)",
       "valor": "2,2%",
       "variacion": "+0,3 pp",
-      "nota": "octubre 2026; 33,1% interanual, la más alta en seis meses"
+      "nota": "octubre; 33,1% interanual y 26,3% acumulada en 2026"
     },
     {
       "label": "Petróleo Brent",
-      "valor": "US$92,77",
-      "variacion": "",
-      "nota": "mañana del 20/11; cae cerca de 20% en noviembre"
-    },
-    {
-      "label": "S&P 500",
-      "valor": "7.175,83",
-      "variacion": "-2,02%",
-      "nota": "cierre del 19/11, sexta baja seguida"
+      "valor": "US$92,57",
+      "variacion": "-3,4% semanal",
+      "nota": "cierre del 20/11; tercera semana de baja"
     }
   ],
   "ranking": [
     {
-      "city": "Kiev",
-      "country": "Ucrania",
-      "headline": "Rusia lanza un ataque masivo con misiles y drones sobre Ucrania como represalia por el puente de Kerch",
-      "summary": "Horas después de la cumbre de Shenzhen, Putin prometió vengar los ataques ucranianos al puente que une Crimea con Rusia. Durante la noche, sus fuerzas atacaron Kiev, Leópolis y otras ciudades, con al menos 8 muertos y más de 20 heridos. Un ataque a una subestación dejó sin luz a Leópolis y a provincias vecinas. Polonia investiga una posible violación de su espacio aéreo.",
-      "category": "conflicto",
-      "impact": "alto",
-      "source": "UPI / AP",
-      "time_note": "hoy",
-      "lat": 50.4,
-      "lon": 30.5,
-      "url": "https://www.upi.com/Top_News/World-News/2026/11/20/Ukraine-Russia-mounts-deadly-missile-drone-assault/8421795165920"
-    },
-    {
-      "city": "Shenzhen",
-      "country": "China",
-      "headline": "La cumbre Trump-Xi-Putin en Shenzhen termina sin acuerdos concretos sobre Ucrania ni sobre armas nucleares",
-      "summary": "La primera cumbre de los tres líderes, al margen del APEC, duró cerca de 80 minutos. Según la cancillería china, la declaración conjunta tiene cuatro puntos: reformar la ONU, aumentar la producción de petróleo refinado, defender la inmunidad de los funcionarios estatales ante la Corte Penal Internacional y abrir un diálogo sobre riesgos nucleares. Trump admitió que un consenso nuclear es \"algo muy difícil\".",
+      "city": "La Haya",
+      "country": "Países Bajos",
+      "headline": "La Corte Internacional de Justicia declara que Myanmar cometió genocidio contra los rohinyás",
+      "summary": "El 19 de noviembre, el máximo tribunal de la ONU resolvió que Myanmar es responsable de genocidio por las 'operaciones de limpieza' militares de 2016 y 2017, en la causa que presentó Gambia en 2019. Según Human Rights Watch, es la primera vez que la CIJ declara a un Estado responsable de cometer un genocidio. El fallo ordena reparaciones para las víctimas, cuyo monto se fijará en otra etapa del proceso, y es obligatorio para Myanmar. La junta militar todavía no respondió.",
       "category": "política",
       "impact": "alto",
-      "source": "CNN en Español / DangDai",
-      "time_note": "ayer",
-      "lat": 22.5,
-      "lon": 114.1,
-      "url": "https://cnnespanol.cnn.com/2026/11/19/mundo/trump-putin-xi-jinping-china-cumbre-conclusiones-trax"
-    },
-    {
-      "city": "Nueva York",
-      "country": "Estados Unidos",
-      "headline": "Anthropic debuta en el Nasdaq con la mayor salida a bolsa de la historia, mientras Wall Street suma su sexta caída",
-      "summary": "La empresa colocó sus acciones a US$83, abrió a US$111,50 y cerró a US$97,17. Con la opción de sobreasignación recaudó unos US$93.500 millones. El mismo día el Dow Jones cayó 1.100 puntos hasta 49.097, el S&P 500 perdió 2,02% y el Nasdaq 2,25%, por dudas sobre las acciones de inteligencia artificial. Antes de la apertura de hoy, la acción de Anthropic retrocedía cerca de 6%.",
-      "category": "economía",
-      "impact": "alto",
-      "source": "CNBC / Infobae",
-      "time_note": "ayer",
-      "lat": 40.7,
-      "lon": -74.0,
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
-    },
-    {
-      "city": "Estrecho de Ormuz",
-      "country": "Irán",
-      "headline": "Irán intensifica los ataques a petroleros en Ormuz y EE.UU. bombardea la isla de Qeshm",
-      "summary": "Según datos de Bloomberg, los ataques a buques aumentaron en octubre y siguen al mismo ritmo en noviembre. El 17 de noviembre fue atacado un barco de ADNOC Logistics. EE.UU. atacó un sitio de misiles de la Guardia Revolucionaria en Qeshm y lo presentó como \"defensa propia\". Aun así, el Brent cae cerca de un quinto en el mes, porque las exportaciones de la región se acercan a niveles de antes de la guerra.",
-      "category": "conflicto",
-      "impact": "alto",
-      "source": "The Japan Times / CBS News",
-      "time_note": "hoy",
-      "lat": 26.6,
-      "lon": 56.3,
-      "url": "https://www.japantimes.co.jp/news/2026/11/20/world/iran-hormuz-attacks-oil-prices/"
-    },
-    {
-      "city": "Kinshasa",
-      "country": "República Democrática del Congo",
-      "headline": "El ébola en el Congo duplica sus casos en tres meses y llega a Kenia y Nigeria",
-      "summary": "Según el director de la OMS, ya hay más de 11.000 casos y 5.400 muertes en 67 zonas sanitarias de ocho provincias, con entre 400 y 500 casos nuevos por semana. Dos tercios de las muertes confirmadas ocurren fuera de los centros de tratamiento. Los chicos son más de un cuarto de los casos. La OMS mantiene la emergencia internacional y hay casos importados en Kenia y Nigeria.",
-      "category": "salud",
-      "impact": "alto",
-      "source": "Noticias ONU",
+      "source": "OPB (AP) / Human Rights Watch",
       "time_note": "esta semana",
-      "lat": -4.3,
-      "lon": 15.3,
-      "url": "https://news.un.org/en/story/2026/11/1168827"
-    },
-    {
-      "city": "Riad",
-      "country": "Arabia Saudita",
-      "headline": "Arabia Saudita confirma un ataque hutí contra una torre del distrito financiero de Riad",
-      "summary": "La Defensa Civil saudí informó daños en una torre del King Abdullah Financial District, vinculada al fondo soberano PIF, tras un ataque de los hutíes de Yemen. La cancillería lo condenó. La coalición dijo haber interceptado cinco drones y un misil balístico en Asir y Jazán. En paralelo, Irán atacó objetivos en Kuwait y Baréin.",
-      "category": "conflicto",
-      "impact": "medio",
-      "source": "The National",
-      "time_note": "ayer",
-      "lat": 24.7,
-      "lon": 46.7,
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/19/live-iran-war-saudi-riyadh-attack-houthis/"
+      "lat": 52.1,
+      "lon": 4.3,
+      "url": "https://www.opb.org/article/2026/11/19/top-u-n-court-rules-myanmar-committed-genocide-against-rohingya/"
     },
     {
       "city": "Antalya",
       "country": "Turquía",
-      "headline": "La COP31 llega a su último día sin acuerdo sobre financiamiento ni combustibles fósiles",
-      "summary": "La cumbre del clima, presidida por Turquía y con Australia a cargo de las negociaciones, tiene que cerrar hoy, pero el bloqueo sigue en financiamiento climático y combustibles fósiles. Según Simon Stiell, jefe de la ONU para el clima, el 19 de noviembre había 165 temas en negociación. La ONU plantea esta COP como una cumbre para cumplir compromisos ya asumidos, sin un gran acuerdo nuevo.",
+      "headline": "La COP31 sigue en tiempo extra: el borrador ya no menciona los combustibles fósiles",
+      "summary": "La cumbre del clima no cerró el viernes como estaba previsto: casi 200 países siguen trabados sobre un borrador de acuerdo que ya no nombra a los combustibles fósiles, con objeciones de grandes productores encabezados por Arabia Saudita. La plenaria de cierre se suspendió el viernes a las 22:29, hora local. Siguen sin resolverse el financiamiento, la reducción de emisiones y la adaptación, y para este sábado se espera un tercer borrador, los 'Acuerdos de Antalya'.",
       "category": "clima",
-      "impact": "medio",
-      "source": "Noticias ONU",
+      "impact": "alto",
+      "source": "Al Jazeera / The Climate Watch",
       "time_note": "hoy",
       "lat": 36.9,
       "lon": 30.7,
-      "url": "https://news.un.org/en/story/2026/11/1168812"
+      "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime"
+    },
+    {
+      "city": "Mogadiscio",
+      "country": "Somalia",
+      "headline": "Somalia expulsa al embajador de Emiratos Árabes y habla de una 'invasión abierta'",
+      "summary": "Después de una reunión del Consejo de Ministros, el 19 de noviembre, el gobierno somalí le dio 72 horas al embajador emiratí para irse del país y llamó a consultas a su propio representante en Abu Dabi. Mogadiscio acusó a Emiratos de violar su soberanía, pero no dijo qué acciones motivaron la medida. Abu Dabi la calificó de 'escalatoria y hostil' y dio por terminada su misión de entrenamiento militar en Somalia. En enero, Somalia ya había cancelado todos sus acuerdos con Emiratos, incluidos los portuarios y los de defensa.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Al Jazeera / The EastAfrican",
+      "time_note": "esta semana",
+      "lat": 2.0,
+      "lon": 45.3,
+      "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty"
+    },
+    {
+      "city": "Kuwait",
+      "country": "Kuwait",
+      "headline": "Irán ataca una base de EE.UU. en Kuwait y vuelve a golpear Bahréin como represalia por Qeshm",
+      "summary": "El miércoles 18, Irán disparó contra una base aérea estadounidense en Kuwait y lanzó varios ataques contra Bahréin, en aparente represalia por los bombardeos de EE.UU. sobre la isla de Qeshm del día anterior. Kuwait activó sus defensas antiaéreas contra drones por primera vez desde principios de septiembre. Para Bahréin fue el tercer ataque con drones iraníes en cinco días, y las negociaciones de paz siguen estancadas.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al Jazeera",
+      "time_note": "esta semana",
+      "lat": 29.4,
+      "lon": 48.0,
+      "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island"
+    },
+    {
+      "city": "Odesa",
+      "country": "Ucrania",
+      "headline": "Trump cuestiona los miles de millones que Europa destina a Ucrania en una llamada sorpresiva",
+      "summary": "Horas después de la cumbre con Putin y Xi, Trump se sumó desde el Air Force One a una reunión de los aliados europeos de Kiev, cuestionó el apoyo financiero que siguen dando a Ucrania y aseguró que Moscú está dispuesto a negociar la paz. El mismo día, un ataque ruso sobre Odesa mató a cuatro personas e hirió al menos a 13.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Euronews",
+      "time_note": "esta semana",
+      "lat": 46.5,
+      "lon": 30.7,
+      "url": "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call"
+    },
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "EE.UU., México y Bolivia pierden el estatus de países libres de sarampión",
+      "summary": "El 17 de noviembre, la Organización Panamericana de la Salud dio por restablecida la transmisión endémica del sarampión en los tres países, porque un mismo linaje del virus circuló sin interrupción durante 12 meses o más. EE.UU. pierde el estatus después de 26 años y suma más de 7.000 casos y 11 muertes en los últimos dos años. Los tres países tienen que presentar planes correctivos. Canadá, que lo había perdido en noviembre de 2025, ya cortó la cadena de contagios.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "Al Jazeera / ITV",
+      "time_note": "esta semana",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
+    },
+    {
+      "city": "Puerto Príncipe",
+      "country": "Haití",
+      "headline": "Un operativo policial en Martissant deja al menos 34 presuntos pandilleros muertos en Haití",
+      "summary": "La Policía Nacional de Haití informó el jueves 19 que mató al menos a 34 presuntos integrantes de pandillas en Martissant, al sur de la capital. Es el primer operativo de envergadura en ese barrio en los cinco años que lleva bajo control de las bandas. Participó una fuerza de tareas que trabaja con la empresa de seguridad Vectus Global, del fundador de Blackwater, Erik Prince. La policía negó que hayan intervenido los militares salvadoreños que envió Nayib Bukele.",
+      "category": "conflicto",
+      "impact": "medio",
+      "source": "Jamaica Observer / La Nación (AP)",
+      "time_note": "esta semana",
+      "lat": 18.5,
+      "lon": -72.3,
+      "url": "https://www.jamaicaobserver.com/2026/11/19/34-haiti-gang-members-killed-police/"
     }
   ],
   "argentina": [
@@ -145,385 +145,385 @@
       "tag": "Economía",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "El riesgo país salta casi 10% hasta 930 puntos y hoy pasa los 1.000 por primera vez desde octubre de 2025",
-      "summary": "El indicador de JP Morgan subió 82 puntos el jueves, de 848 a 930. Los Globales y Bonares perdieron en promedio cerca de 3%, y algunos casi 4%. El Merval bajó 1% en pesos y 3,3% en dólares. Hoy, en plena rueda, el riesgo país cotiza por encima de los 1.000 puntos; ese dato todavía no es de cierre.",
-      "source": "Infobae / DolarHoy",
-      "time_note": "hoy",
-      "impact": "alto",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/"
-    },
-    {
-      "tag": "Política",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "headline": "El Senado sanciona la ley de Inviolabilidad de la Propiedad Privada, que agiliza los desalojos",
-      "summary": "Fue aprobada con 42 votos a favor y 26 en contra, y el Senado aceptó los cambios de Diputados. La ley permite que un juez ordene la entrega anticipada de un inmueble usurpado, obliga al Estado a fundamentar cada expropiación y restituye la Ley de Tierras Rurales, derogada por el DNU 70/23. Se mantiene la suspensión de desalojos en barrios populares hasta 2032. En la misma sesión se aprobó la adhesión al Tratado de Cooperación en materia de Patentes (PCT).",
-      "source": "Parlamentario / El Cronista",
+      "headline": "El dólar oficial toca un récord de $1.600 y el blue sube a $1.675 en una semana negra para los activos",
+      "summary": "El viernes, el dólar oficial cerró en $1.600 en el Banco Nación y el mayorista en $1.580, ambos máximos nominales, mientras el blue subió 2,1% hasta $1.675. El riesgo país terminó cerca de los 1.065 puntos, con un pico de 1.071 durante la rueda, el nivel más alto en 13 meses. En la semana, el riesgo país subió unos 230 puntos e YPF cayó 12,5% en dólares, hasta su menor nivel en dos años.",
+      "source": "Perfil / Infobae",
       "time_note": "ayer",
       "impact": "alto",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.parlamentario.com/2026/11/19/ley-de-tierras-desalojos-y-expropiaciones-es-ley-el-proyecto-de-inviolabilidad-de-la-propiedad-privada/"
+      "url": "https://www.perfil.com/economia/el-riesgo-pais-llego-a-los-1.071-puntos-el-nivel-mas-alto-en-13-meses-y-el-dolar-toco-los-1600-aVCyg1j6EV7k"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Condenan a Pity Álvarez a 12 años de prisión domiciliaria por el crimen de Cristian Díaz",
+      "summary": "El Tribunal Oral en lo Criminal y Correccional N° 29, integrado por Gustavo Goerner, Juan María Ramos Padilla y Hugo Navarro, condenó al exlíder de Intoxicados y Viejas Locas por homicidio agravado por el uso de arma de fuego. Cumplirá la pena en su casa, con tobillera electrónica. El fiscal Sandro Abraldes había pedido 18 años y seis meses. El crimen ocurrió el 12 de julio de 2018 en Villa Lugano.",
+      "source": "Infobae / Rolling Stone en Español",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.7,
+      "lon": -58.5,
+      "url": "https://www.infobae.com/sociedad/policiales/2026/11/20/juicio-a-pity-alvarez-en-vivo-sin-el-musico-en-la-sala-el-tribunal-dara-a-conocer-el-veredicto/"
     },
     {
       "tag": "Política",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "Se cae por falta de quórum la sesión de Diputados por la Ley Malvinas y la Carta Orgánica del BCRA",
-      "summary": "Martín Menem levantó la sesión con 126 diputados en el recinto, tres menos de los 129 necesarios. Los 18 legisladores de Provincias Unidas no se sentaron. La reforma del Banco Central volvía con cambios del Senado, y la Ley Malvinas todavía necesita media sanción. El Gobierno evalúa insistir con los dos proyectos en sesiones extraordinarias.",
-      "source": "Ámbito / MDZ",
+      "headline": "El Senado sanciona por unanimidad una ley permanente de discapacidad",
+      "summary": "El jueves, la Cámara alta aprobó con 71 votos a favor y ninguno en contra una reforma integral del sistema de protección y prestaciones para personas con discapacidad. El nuevo régimen permanente reemplaza a la emergencia en discapacidad, que vencía el 31 de diciembre. El dictamen había tenido el apoyo de La Libertad Avanza, el bloque justicialista, el PRO, la UCR y los bloques provinciales.",
+      "source": "Parlamentario / Perfil",
       "time_note": "esta semana",
       "impact": "alto",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.ambito.com/politica/diputados-sesiona-la-ley-defensa-la-soberania-nacional-y-la-reforma-del-banco-central-n6346397"
-    },
-    {
-      "tag": "Política",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "headline": "El oficialismo consigue el dictamen para suspender las PASO 2027 y el Senado lo votará el 26 de noviembre",
-      "summary": "La firma salió en la Comisión de Asuntos Constitucionales después de que el Gobierno aceptó sacar las \"listas colectoras\" del proyecto. El debate en el recinto está previsto para el 26 de noviembre, la última sesión del período ordinario. Para aprobarlo hacen falta al menos 37 votos.",
-      "source": "Diario Panorama",
-      "time_note": "esta semana",
-      "impact": "medio",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "https://diariopanorama.com/noticia/573444/gobierno-logro-dictamen-para-suspender-paso-2027-senado-debatira-reforma-electoral-proximo-jueves"
+      "url": "https://www.parlamentario.com/2026/11/19/discapacidad-el-senado-convirtio-en-ley-una-reforma-integral-para-fortalecer-el-sistema-de-proteccion-y-prestaciones/"
     },
     {
       "tag": "Economía",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "El Gobierno evalúa volver a usar el swap con China para pagar la deuda de enero",
-      "summary": "El canje de monedas con China vuelve a aparecer como opción para el programa financiero, frente a vencimientos de unos US$4.500 millones en enero. No hay confirmación pública de que Pekín haya autorizado un tramo adicional. En paralelo, el DNU 1391/2026 sumó $6.157 millones al presupuesto de la SIDE.",
-      "source": "MDZ / Análisis Digital",
-      "time_note": "hoy",
+      "headline": "Tesla desembarca oficialmente en la Argentina con Milei en el lanzamiento en La Boca",
+      "summary": "La automotriz de Elon Musk presentó el viernes a la noche su llegada al país, con los modelos Model 3 y Model Y, en un acto en La Boca que cerró el Presidente. Milei vinculó el desembarco con la eliminación del impuesto PAIS y con cambios regulatorios para facilitar los autos eléctricos. Según Perfil, la primera concesionaria funcionará en el shopping Unicenter. Los precios de venta todavía no se confirmaron.",
+      "source": "Perfil / The Objective",
+      "time_note": "ayer",
       "impact": "medio",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.mdzol.com/economia/2026/11/20/milei-mira-otra-vez-a-china-el-gobierno-evalua-activar-el-swap-para-afrontar-los-vencimientos-de-deuda-1996796.html"
+      "url": "https://perfil.com/politica/tesla-desembarco-oficialmente-en-la-argentina-awu3V6G6U81o"
+    },
+    {
+      "tag": "Política",
+      "city": "Rawson",
+      "country": "Argentina",
+      "headline": "Chubut adelanta sus elecciones al 21 de marzo de 2027 y Torres buscará la reelección",
+      "summary": "El gobierno chubutense convocó formalmente a elecciones provinciales para el 21 de marzo de 2027, separadas del calendario nacional. El gobernador Ignacio Torres, que en los últimos meses evitó definir la fecha y había rechazado versiones de una votación en abril, competirá por un segundo mandato. Dato de una sola fuente.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -43.3,
+      "lon": -65.1,
+      "url": "https://www.infobae.com/politica/2026/11/20/chubut-adelanto-las-elecciones-a-marzo-y-torres-buscara-la-reeleccion/"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Cuatro gobernadores debaten federalismo en el CFI y marcan diferencias sobre las PASO",
+      "summary": "Rogelio Frigerio (Entre Ríos), Sergio Ziliotto (La Pampa), Claudio Poggi (San Luis) y Alberto Weretilneck (Río Negro) participaron de un panel del Consejo Federal de Inversiones sobre federalismo y recursos naturales. Ziliotto rechazó la suspensión de las primarias, mientras que Frigerio respaldó excluir las listas colectoras de la reforma política y habló de la crisis económica. Para avanzar con la suspensión de las PASO, el oficialismo tuvo que acordar con cerca de diez gobernadores.",
+      "source": "Infobae",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/20/cuatro-gobernadores-debatieron-federalismo-y-dejaron-definiciones-sobre-las-paso-milei-y-la-interna-peronista/"
     },
     {
       "tag": "Sociedad",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "Cuatro relatorías de la ONU piden explicaciones al Gobierno por el recorte a los comedores comunitarios",
-      "summary": "En una carta al Estado, los relatores advierten sobre la reducción de la asistencia a comedores y a huertas familiares y escolares, sobre la suba de los precios de los alimentos y sobre la menor capacidad del Estado para controlarlos. La presentación la hicieron en mayo el CELS, la Mesa Agroalimentaria Argentina y otras organizaciones. Según El Destape, el presupuesto 2027 recorta casi 10% real el programa de comedores, que acumularía una baja del 47,6% desde 2023.",
-      "source": "El Destape / Diagonales",
-      "time_note": "hoy",
-      "impact": "medio",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "http://www.eldestapeweb.com/politica/onu-comedores-advertencia-gobierno-milei-asistencia-alimentaria-20261120057"
-    },
-    {
-      "tag": "Economía",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "headline": "Tesla se presenta hoy en La Boca, con Milei, y abre la venta del Model 3 y el Model Y",
-      "summary": "El lanzamiento está previsto para las 19 en La Boca, en el Día de la Soberanía Nacional. Los autos llegarán importados de la Gigafactory de Shanghái y no habrá producción local. La empresa, con sede local registrada en marzo, anunció un centro de servicio en Munro, un local en Belgrano y una alianza con YPF para la carga. Los precios todavía no se conocen.",
-      "source": "La Nación / C5N",
-      "time_note": "hoy",
+      "headline": "El Senado convoca un plenario de comisiones para debatir la ley de ludopatía el miércoles 25",
+      "summary": "La Cámara alta citó a un plenario de comisiones para el miércoles 25 de noviembre a las 10 para tratar la regulación de las apuestas online y la prevención de la ludopatía. En el Senado conviven el proyecto con media sanción de Diputados, que prohibía la publicidad del juego online, y una iniciativa del Poder Ejecutivo que, según sus críticos, es más flexible en ese punto.",
+      "source": "Infobae / Chequeado",
+      "time_note": "ayer",
       "impact": "bajo",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.lanacion.com.ar/autos/cuando-se-inaugura-el-local-de-tesla-en-la-argentina-todo-lo-que-se-sabe-sobre-la-llegada-de-la-nid17112026/"
+      "url": "https://www.infobae.com/politica/2026/11/20/el-senado-convoco-al-plenario-de-comisiones-para-debatir-la-ley-de-ludopatia-el-proximo-miercoles/"
     }
   ],
   "mundo": [
     {
       "region": "África",
-      "city": "Abuya",
-      "country": "Nigeria",
+      "city": "Dakar",
+      "country": "Senegal",
       "category": "política",
-      "headline": "Las 36 legislaturas estaduales de Nigeria aprueban crear policías provinciales",
-      "summary": "Todas las asambleas estaduales aprobaron la reforma constitucional, muy por encima del mínimo de 24 estados, horas antes del plazo del 17 de noviembre. La reforma reemplaza la Policía Federal única por un sistema de dos niveles, con comisiones estaduales independientes y estándares nacionales sobre uso de la fuerza y detenciones. Para entrar en vigor todavía necesita la firma del presidente Bola Tinubu y leyes complementarias.",
-      "por_que": "Es el mayor cambio en la seguridad del país más poblado de África desde 1999, en plena crisis de secuestros y violencia rural.",
-      "source": "Daily Trust / P.M. News",
-      "lat": 9.1,
-      "lon": 7.5,
-      "url": "https://dailytrust.com/36-assemblies-approve-state-police/"
+      "headline": "El partido gobernante de Senegal expulsa al presidente Bassirou Diomaye Faye",
+      "summary": "El martes 17, el Consejo Nacional de Pastef confirmó la expulsión del jefe de Estado y de otros 31 miembros 'inactivos'. La ruptura con Ousmane Sonko venía de antes: en mayo Faye lo destituyó como primer ministro, Sonko pasó a presidir la Asamblea Nacional y en julio Faye fundó su propio partido, Kiiraay. En lo formal no cambia nada en las instituciones: Faye sigue siendo presidente y el gobierno sigue en funciones.",
+      "por_que": "Deja al presidente sin el partido que lo llevó al poder y enfrentado a la Asamblea que controla Sonko, en una de las democracias más estables de África Occidental.",
+      "source": "Africanews / Koaci",
+      "lat": 14.7,
+      "lon": -17.4,
+      "url": "https://www.africanews.com/2026/11/18/senegals-ruling-party-pastef-expels-countrys-president-and-31-others/"
     },
     {
       "region": "África",
-      "city": "Yenne",
-      "country": "Senegal",
-      "category": "sociedad",
-      "headline": "Decenas de desaparecidos al naufragar un cayuco con migrantes al sur de Dakar",
-      "summary": "La embarcación, que iba hacia España, chocó contra rocas frente a Yenne en la noche del 17 al 18 de noviembre. Ya se recuperaron cuatro cuerpos y los sobrevivientes calculan que viajaban unas 100 personas. Fue el segundo naufragio en menos de dos semanas, después de uno con al menos 39 muertos. El presidente Diomaye Faye pidió investigar las causas de la migración irregular.",
-      "por_que": "La ruta atlántica hacia Canarias ya suma al menos 454 muertos o desaparecidos este año, según la OIM, y casi no aparece en la agenda internacional.",
-      "source": "InfoMigrants / allAfrica",
-      "lat": 14.6,
-      "lon": -17.1,
-      "url": "https://www.infomigrants.net/en/post/74826/senegal-dozens-missing-and-at-least-one-dead-after-migrant-boat-capsizes"
+      "city": "Kwale",
+      "country": "Kenia",
+      "category": "economía",
+      "headline": "Kenia elige a un consorcio estadounidense para explotar las tierras raras de Mrima Hill",
+      "summary": "El 19 de noviembre, el Ministerio de Minería emitió una notificación de intención de adjudicar el proyecto de niobio y tierras raras de Mrima Hill al Frontier Minerals Consortium, integrado por empresas de EE.UU. Un estudio de 2022 estimó 5,8 millones de toneladas de niobio y 48,7 millones de toneladas de tierras raras. Dos empresas chinas se habían retirado de la licitación en octubre. El cerro es reserva forestal y bosque sagrado kaya de los pueblos mijikenda y digo, y vecinos de la zona temen por sus tierras y sus sitios ancestrales.",
+      "por_que": "Es uno de los mayores yacimientos de minerales críticos de África y queda en el centro de la competencia entre EE.UU. y China.",
+      "source": "Africanews / Daily Nation / Business Daily",
+      "lat": -4.5,
+      "lon": 39.3,
+      "url": "https://www.africanews.com/2026/11/19/kenya-awards-sought-after-minerals-contract-to-us-consortium/"
     },
     {
       "region": "Asia",
-      "city": "Savannakhet",
-      "country": "Laos",
-      "category": "ambiente",
-      "headline": "Laos firma el acuerdo para el que sería su mayor parque eólico: 1.275 MW en Savannakhet",
-      "summary": "El 17 de noviembre, el gobierno laosiano firmó un Acuerdo de Desarrollo de Proyecto con dos empresas, entre ellas Naseng-Wayo, para el parque Vilatsaphone. El acuerdo abre un estudio de factibilidad de dos años. Si se construye, duplicaría la potencia del parque Monsoon, de 600 MW. Dato de una sola fuente.",
-      "por_que": "Laos, conocido como \"batería del sudeste asiático\" por sus represas, apuesta al viento para exportar electricidad a los países vecinos.",
-      "source": "Laotian Times",
-      "lat": 16.6,
-      "lon": 105.5,
-      "url": "https://laotiantimes.com/2026/11/19/laos-signs-development-agreement-for-1275-mw-vilatsaphone-wind-project"
-    },
-    {
-      "region": "Asia",
-      "city": "Yakarta",
-      "country": "Indonesia",
+      "city": "Ulán Bator",
+      "country": "Mongolia",
       "category": "política",
-      "headline": "Indonesia aprueba, después de 18 años de debate, una ley para decomisar bienes sin condena previa",
-      "summary": "El Parlamento aprobó la ley el 19 de noviembre. Permite incautar bienes ligados a 13 tipos de delitos, como corrupción, narcotráfico, terrorismo, evasión fiscal y minería ilegal, cuando el acusado huye, muere o está incapacitado. También crea dos organismos para supervisar y administrar lo decomisado. El Instituto de Asistencia Legal advirtió que faltan garantías contra abusos.",
-      "por_que": "Era un reclamo central de las protestas estudiantiles de agosto contra la corrupción en la cuarta democracia más poblada del mundo.",
-      "source": "Antara / Bloomberg",
-      "lat": -6.2,
-      "lon": 106.8,
-      "url": "https://en.antaranews.com/news/443759/indonesia-parliament-passes-long-awaited-asset-forfeiture-bill"
+      "headline": "Por primera vez, un presidente de Mongolia renuncia antes de terminar su mandato",
+      "summary": "Ukhnaagiin Khürelsükh anunció su renuncia el 17 de noviembre, tras acusaciones de corrupción y amenazas de juicio político de la oposición, y negó cualquier delito. El 19, el Gran Jural del Estado aceptó la renuncia con el voto del 92,3% de los diputados presentes. Según el Parlamento, es la primera vez en la historia del país que un presidente deja el cargo voluntariamente.",
+      "por_que": "Abre una crisis institucional inédita en una de las pocas democracias de la región, que ya venía de una seguidilla de cambios de primer ministro.",
+      "source": "Hürriyet Daily News / Charter 97",
+      "lat": 47.9,
+      "lon": 106.9,
+      "url": "https://www.hurriyetdailynews.com/mongolian-president-announces-resignation-statement-229506"
+    },
+    {
+      "region": "Asia",
+      "city": "Taskent",
+      "country": "Uzbekistán",
+      "category": "derechos",
+      "headline": "Uzbekistán condena a cuatro exjueces por una 'decisión injusta' y alarma a los abogados",
+      "summary": "Cuatro exjueces de apelación fueron condenados por haber reducido la pena de Akmal Shukurov en un caso resonante de agresión y fraude. El exvicepresidente del Tribunal de la Ciudad de Taskent, Murodjon Mirzajonov, recibió cuatro años de prisión y los otros tres, cuatro años de libertad restringida. Abogados defensores dicen que, por miedo a ser procesados, los jueces del país casi dejaron de absolver.",
+      "por_que": "Relatores de la ONU ya advirtieron que la figura de 'decisión injusta' amenaza la independencia judicial en Uzbekistán.",
+      "source": "Eurasianet / UzDaily",
+      "lat": 41.3,
+      "lon": 69.3,
+      "url": "https://eurasianet.org/uzbekistans-judicial-reforms-on-trial-four-judges-convicted-for-unjust-decision"
     },
     {
       "region": "Europa",
-      "city": "Belgrado",
-      "country": "Serbia",
-      "category": "política",
-      "headline": "Serbia elige a un presidente del Parlamento de la Lista Estudiantil y archiva la causa contra nueve estudiantes",
-      "summary": "Aleksandar Cupić, de la Lista Estudiantil, asumió como presidente de la Asamblea Nacional, como parte del traspaso de poder tras las elecciones de octubre. Este viernes, el Tribunal Superior de Belgrado cerró la causa contra nueve estudiantes acusados de promover un \"cambio violento del orden constitucional\". La fiscalía retiró los cargos por falta de pruebas.",
-      "por_que": "Muestra cómo un movimiento estudiantil nacido tras la tragedia ferroviaria de Novi Sad llegó a desplazar a Vučić del poder.",
+      "city": "Sarajevo",
+      "country": "Bosnia y Herzegovina",
+      "category": "derechos",
+      "headline": "La Corte Constitucional de Bosnia anula la prohibición serbobosnia de los símbolos del ejército bosnio de los 90",
+      "summary": "El viernes 20, el tribunal declaró inconstitucional la reforma del código penal de la República Srpska que castigaba exhibir símbolos del Ejército de la República de Bosnia y Herzegovina. La corte sostuvo que la Asamblea Nacional de esa entidad no tiene facultades para derogar normas dictadas por las instituciones del Estado central.",
+      "por_que": "Es un nuevo choque entre la entidad serbia y el Estado central por la memoria de la guerra, en un país todavía atravesado por divisiones étnicas.",
       "source": "Balkan Insight",
-      "lat": 44.8,
-      "lon": 20.5,
-      "url": "https://balkaninsight.com/2026/11/19/dignity-promised-as-serbias-parliament-elects-new-speaker-from-student-list/bi/"
+      "lat": 43.9,
+      "lon": 18.4,
+      "url": "https://balkaninsight.com/2026/11/20/republika-srpska-ban-on-1990s-bosnian-army-symbols-ruled-unconstitutional/btj/"
     },
     {
       "region": "Europa",
-      "city": "La Haya",
-      "country": "Países Bajos",
-      "category": "derechos",
-      "headline": "El tribunal para Kosovo suma 17 meses de cárcel al expresidente Thaçi por presionar a testigos",
-      "summary": "El juez Christopher Gosnell encontró culpable a Hashim Thaçi en 9 de los 11 cargos. Según la fiscalía, usaba las visitas en el centro de detención para indicar a los testigos qué declarar en su juicio por crímenes de guerra. La pena se cumple aparte de la condena de 25 años de septiembre y puede apelarse. En octubre, el Parlamento de Kosovo votó recortar las facultades del tribunal.",
-      "por_que": "Reaviva la tensión entre Kosovo y la justicia internacional sobre los crímenes de la guerra de 1998-99.",
-      "source": "JURIST / Balkan Insight",
-      "lat": 52.1,
-      "lon": 4.3,
-      "url": "https://www.jurist.org/news/2026/11/kosovo-court-sentences-former-president-hashim-thaci-to-additional-17-months-for-obstruction-and-contempt-of-court/"
+      "city": "Riga",
+      "country": "Letonia",
+      "category": "política",
+      "headline": "El Parlamento de Letonia aprueba el segundo gobierno de Andris Kulbergs",
+      "summary": "El 17 de noviembre, la Saeima aprobó el nuevo gabinete de Kulbergs por 57 votos contra 34, con 5 diputados que no votaron. La composición del gobierno se conoció esa misma mañana y fue votada a última hora del día.",
+      "por_que": "Letonia, en la frontera oriental de la OTAN, recupera un gobierno con respaldo parlamentario en plena tensión con Rusia en el Báltico.",
+      "source": "LSM (Latvijas Sabiedriskie Mediji)",
+      "lat": 56.9,
+      "lon": 24.1,
+      "url": "https://eng.lsm.lv/article/politics/saeima/17.11.2026-new-latvian-government-finally-approved-by-parliament.a672391/"
     },
     {
       "region": "Medio Oriente",
-      "city": "Áqaba",
-      "country": "Jordania",
-      "category": "ambiente",
-      "headline": "Jordania lanza un acueducto de US$6.600 millones para llevar agua desalinizada del mar Rojo a Amán",
-      "summary": "El 18 de noviembre empezó la obra y el 19 se firmó el contrato con la desarrolladora Meridiam. El proyecto desalinizará agua del golfo de Áqaba y la llevará a la capital por un caño de unos 417 km: 300 millones de m³ por año, cerca del 40% de la demanda del país. El bombeo empezaría a fines de 2030, y el Banco Europeo de Inversiones aporta un préstamo de US$400 millones.",
-      "por_que": "En uno de los países con menos agua del mundo, la mayoría de los hogares recibe agua una vez por semana, y el proyecto reduce la dependencia del agua israelí.",
-      "source": "The Jordan Times / Petra",
-      "lat": 29.5,
-      "lon": 35.0,
-      "url": "https://jordantimes.com/news/local/prime-minister-attends-signing-of-66-billion-water-carrier-project-agreement"
+      "city": "Jurf al-Sakhar",
+      "country": "Irak",
+      "category": "política",
+      "headline": "Las fuerzas iraquíes entran en el bastión de Kataib Hezbolá tras un acuerdo de último momento",
+      "summary": "El viernes 20, fuerzas de seguridad iraquíes se desplegaron en Jurf al-Sakhar, al sur de Bagdad, que estaba bajo control de la milicia proiraní Kataib Hezbolá. Lo hicieron en el marco de un compromiso alcanzado después de que el primer ministro Ali al-Zaidi le diera un ultimátum al grupo, al que su gobierno acusa de contrabando de petróleo. La fuerza conjunta incluye al ejército, la policía federal, la policía energética y brigadas de las Fuerzas de Movilización Popular.",
+      "por_que": "Es la primera vez en años que el Estado iraquí intenta recuperar una zona vedada que controlaba una milicia aliada de Irán.",
+      "source": "Arab News / Rudaw / Shafaq News",
+      "lat": 32.9,
+      "lon": 44.2,
+      "url": "https://www.arabnews.pk/middle-east/iraq-reaches-compromise-with-kataeb-hezbollah-after-readying-forces-officials-say-3007494"
     },
     {
       "region": "Medio Oriente",
-      "city": "Estambul",
-      "country": "Turquía",
+      "city": "Erbil",
+      "country": "Irak",
+      "category": "economía",
+      "headline": "Una aerolínea kurda abrirá vuelos directos entre Erbil y Damasco el 2 de diciembre",
+      "summary": "Fly Erbil y la Autoridad General de Aviación Civil de Siria anunciaron una ruta regular entre la capital del Kurdistán iraquí y Damasco, con tres vuelos semanales. La aerolínea dice ser la primera kurda e iraquí en volar de forma directa a Siria. La siria Fly Sham ya opera esa ruta, también con tres frecuencias por semana.",
+      "por_que": "Suma conectividad entre el Kurdistán iraquí y la Siria de posguerra, cuya reintegración regional avanza de a poco.",
+      "source": "Shafaq News / Kurdistan24",
+      "lat": 36.2,
+      "lon": 44.0,
+      "url": "https://shafaq.com/en/Kurdistan/Direct-Erbil-Damascus-flights-to-begin-December-2"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Ciudad de México",
+      "country": "México",
       "category": "derechos",
-      "headline": "Turquía saca del aire a Sözcü TV, el último gran canal opositor, mientras es sede de la COP31",
-      "summary": "La policía allanó al amanecer la sede del canal en Estambul y detuvo a cuatro directivos, entre ellos la presidenta Funda Tuncer Sıdalı. El canal y su web quedaron en manos del fondo estatal TMSF. Un mes antes había pasado lo mismo con Halk TV. Es el sexto gran medio intervenido desde 2022.",
-      "por_que": "Con Sözcü fuera del aire, la oposición turca queda sin pantallas de alcance masivo de cara a las próximas elecciones.",
-      "source": "Al-Monitor / Reuters",
-      "lat": 41.0,
-      "lon": 29.0,
-      "url": "https://www.al-monitor.com/originals/2026/11/turkey-takes-pro-opposition-tv-channel-sozcu-air-raid-appoints-trustee"
+      "headline": "México aprueba su primera ley general de bienestar animal, con multas y un registro de maltratadores",
+      "summary": "El 18 de noviembre, la Cámara de Diputados aprobó con 470 votos a favor y dos abstenciones la Ley General de Bienestar, Cuidado y Protección Animal, que ya tenía media sanción del Senado. La norma reconoce a los animales como seres sintientes, fija multas de hasta 234.620 pesos, permite arrestos administrativos y crea un registro nacional de infractores. Falta que el Ejecutivo la promulgue y la publique.",
+      "por_que": "Unifica en todo el país reglas que hasta ahora variaban de un estado a otro y pone obligaciones legales concretas a los dueños de mascotas.",
+      "source": "Mexico News Daily / Mexico Business News",
+      "lat": 19.4,
+      "lon": -99.1,
+      "url": "https://mexiconewsdaily.com/news/congress-approves-law-spelling-out-pet-owners-legal-responsibilities/"
     },
     {
       "region": "Norteamérica",
       "city": "Iqaluit",
       "country": "Canadá",
-      "category": "derechos",
-      "headline": "Las organizaciones inuit tomarán el control del programa federal de salud y apoyo para sus chicos",
-      "summary": "Ottawa anunció que la Iniciativa Inuit Child First será reemplazada el 1 de abril de 2027 por Pirutsiagutiit (\"recursos para crecer bien\", en inuktut). El nuevo programa lo administrarán cuatro organizaciones regionales, entre ellas Nunavut Tunngavik y Makivvik. El presupuesto 2026 propone 575 millones de dólares canadienses en cinco años. Natan Obed, presidente de ITK, lo llamó \"un paso incremental y positivo\".",
-      "por_que": "Es un avance concreto en el autogobierno indígena sobre servicios básicos para la infancia en el Ártico.",
-      "source": "CBC North / APTN",
+      "category": "sociedad",
+      "headline": "Los tripulantes de cabina de Canadian North amenazan con un paro desde el 19 de diciembre",
+      "summary": "El sindicato que representa a unos 200 tripulantes de cabina de la aerolínea Canadian North advirtió que podría ir a la huelga desde el 19 de diciembre si no se firma un nuevo convenio. La empresa cubre buena parte de las rutas de Nunavut y los Territorios del Noroeste. Dato de una sola fuente.",
+      "por_que": "En el Ártico canadiense muchas comunidades no tienen rutas terrestres, y el avión es su vía de acceso a alimentos, salud y transporte, justo antes de las fiestas.",
+      "source": "Nunatsiaq News",
       "lat": 63.7,
       "lon": -68.5,
-      "url": "https://www.cbc.ca/news/canada/north/inuit-organizations-to-take-over-administering-federal-inuit-child-first-initiative-9.7426631"
-    },
-    {
-      "region": "Norteamérica",
-      "city": "Nuuk",
-      "country": "Groenlandia",
-      "category": "política",
-      "headline": "Dinamarca ratifica por unanimidad el acuerdo con EE.UU. que amplía la presencia militar en Groenlandia",
-      "summary": "El Parlamento danés aprobó el acuerdo de seguridad firmado en septiembre. Permite instalar el escudo antimisiles \"Golden Dome\" y crear \"áreas de defensa\" estadounidenses en Narsarsuaq y Mestersvig. El texto reafirma la soberanía danesa y el derecho de los groenlandeses a la autodeterminación, después de la crisis de enero por las amenazas de Trump de anexar la isla.",
-      "por_que": "Define el futuro estratégico del Ártico y el lugar de la población inuit groenlandesa en esa disputa.",
-      "source": "NBC News",
-      "lat": 64.2,
-      "lon": -51.7,
-      "url": "https://www.nbcnews.com/world/greenland/denmark-ratifies-trump-deal-greenland-expanding-us-military-role-rcna610161"
+      "url": "https://nunatsiaq.com/stories/article/canadian-north-flight-attendants-could-strike-dec-19/"
     },
     {
       "region": "Latinoamérica",
-      "city": "Valparaíso",
-      "country": "Chile",
-      "category": "sociedad",
-      "headline": "Diputados de Chile aprueban la Sala Cuna Universal, que deja de depender de tener 20 trabajadoras",
-      "summary": "El informe de la Comisión de Trabajo se aprobó con 132 votos a favor y 12 abstenciones. El proyecto elimina la obligación que hoy tienen solo las empresas con 20 o más trabajadoras y extiende el beneficio a padres y a independientes. Se financia con un aporte del 0,30% sobre los salarios imponibles. Ahora pasa al Senado.",
-      "por_que": "Es una de las reformas laborales y de cuidado más esperadas en Chile, con impacto directo en el empleo femenino.",
-      "source": "Pauta / El Periodista",
-      "lat": -33.0,
-      "lon": -71.6,
-      "url": "https://www.pauta.cl/actualidad/2026/11/18/camara-aprueba-sala-cuna-universal-quienes-podran-acceder-como-se-financiara-y-que-falta-para-que-sea-ley.html"
-    },
-    {
-      "region": "Latinoamérica",
-      "city": "Ciudad de Guatemala",
-      "country": "Guatemala",
+      "city": "La Habana",
+      "country": "Cuba",
       "category": "derechos",
-      "headline": "El Congreso de Guatemala acepta el veto de Arévalo y aprueba en un día una nueva ley de prisión preventiva",
-      "summary": "Con 143 votos, el Congreso aprobó una reforma al Código Procesal Penal, el Decreto 30-2026, después de aceptar el veto presidencial al Decreto 23-2026. La norma crea una Unidad de Control de Medidas de Coerción dentro de la Corte Suprema de Justicia.",
-      "por_que": "La prisión preventiva es un tema clave en la pelea entre el gobierno de Arévalo y el sistema judicial guatemalteco.",
-      "source": "Infobae Guatemala",
-      "lat": 14.6,
-      "lon": -90.5,
-      "url": "https://www.infobae.com/guatemala/2026/11/18/el-congreso-de-guatemala-aprobo-en-un-dia-una-ley-de-prision-preventiva-tras-aceptar-un-veto-presidencial/"
+      "headline": "Cuba reconoce hasta diez años de cuidado de familiares como tiempo de servicio para jubilarse",
+      "summary": "El Decreto-Ley 140 y el Decreto 186, publicados el 18 de noviembre en la Gaceta Oficial N° 97, permiten computar hasta diez años dedicados a cuidar familiares dependientes dentro de los 30 años de servicio que se exigen para la pensión. Las personas cuidadas tienen que necesitar ayuda para las actividades esenciales de la vida diaria, y el reconocimiento se tramita con una certificación dentro de la pensión por edad.",
+      "por_que": "Reconoce para la jubilación el trabajo de cuidados no pagado, que recae sobre todo en las mujeres, en uno de los países más envejecidos de América Latina.",
+      "source": "Telesur / Directorio Cubano",
+      "lat": 23.1,
+      "lon": -82.4,
+      "url": "https://www.telesurtv.net/cuba-nueva-normativa-seguridad-social/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Roseau",
+      "country": "Dominica",
+      "category": "política",
+      "headline": "Dominica irá a elecciones anticipadas el 16 de diciembre",
+      "summary": "El primer ministro Roosevelt Skerrit anunció el 18 de noviembre, por radio y televisión, que pidió disolver el Parlamento y convocó a elecciones generales más de un año antes del plazo constitucional. Las candidaturas se presentan el 30 de noviembre. El Partido Laborista de Skerrit ganó 19 de los 21 escaños en 2022, y la oposición reclama una reforma electoral. Dato de una sola fuente.",
+      "por_que": "Los partidos tienen menos de un mes para hacer campaña, en una isla caribeña donde la oposición ya boicoteó la elección anterior por falta de garantías.",
+      "source": "Caribbean National Weekly",
+      "lat": 15.3,
+      "lon": -61.4,
+      "url": "https://www.caribbeannationalweekly.com/posts/dominica-pm-roosevelt-skerrit-calls-early-general-election-for-december-16"
     },
     {
       "region": "Oceanía",
-      "city": "Pago Pago",
-      "country": "Samoa Americana",
+      "city": "Suva",
+      "country": "Fiyi",
       "category": "ambiente",
-      "headline": "Un fallo judicial frena la minería submarina en Samoa Americana, pero Washington hace igual la primera licitación",
-      "summary": "El 16 de noviembre, la jueza federal Jill Otake resolvió que el servicio de pesca de EE.UU. violó la Ley de Especies Amenazadas al no evaluar los efectos de la minería en el fondo del mar. Grupos del Pacífico celebraron el fallo. Según Earthjustice, el gobierno de Trump hizo igual el 19 de noviembre la primera licitación de minería submarina del mundo. Hay otra prevista para el 16 de diciembre frente a Guam y las Marianas.",
-      "por_que": "Las comunidades isleñas pelean por decidir sobre su océano frente a una industria nueva y de impacto desconocido.",
-      "source": "RNZ Pacific / Earthjustice",
-      "lat": -14.3,
-      "lon": -170.7,
-      "url": "https://www.rnz.co.nz/news/pacific/2674632/pacific-groups-hail-us-court-ruling-against-deep-sea-mining-plans"
+      "headline": "Fiyi declara el desastre nacional y Tonga la emergencia por la sequía de El Niño",
+      "summary": "El 18 de noviembre, el gabinete de Fiyi aprobó un estado de desastre nacional por un mes, porque la sequía alcanzó los umbrales de crisis. Ya se repartieron más de dos millones de litros de agua en comunidades de las islas y hay racionamiento nocturno en partes de la División Occidental. Tonga decretó al día siguiente un estado de emergencia por falta de agua en todo el país, y el pronóstico es que El Niño siga muy fuerte hasta principios de 2027.",
+      "por_que": "Las islas del Pacífico, que casi no emiten gases de efecto invernadero, están entre los primeros países en declarar emergencias por un El Niño que podría ser récord.",
+      "source": "1News / Oman Observer / PACNEWS",
+      "lat": -18.1,
+      "lon": 178.4,
+      "url": "https://www.1news.co.nz/2026/11/18/fiji-declares-nationwide-state-of-disaster-as-el-nino-drought-worsens/"
     },
     {
       "region": "Oceanía",
-      "city": "Manihiki",
-      "country": "Islas Cook",
+      "city": "Alofi",
+      "country": "Niue",
       "category": "ambiente",
-      "headline": "El ciclón Xavier golpea el norte de las Islas Cook en un noviembre inusual por El Niño",
-      "summary": "Xavier llegó a categoría 5 el 18 de noviembre sobre los atolones del norte. Después bajó a categoría 4 y se espera que siga perdiendo fuerza. Hubo alerta de tormenta para Manihiki y Rakahanga. Según las autoridades de Samoa, el ciclón no es una amenaza directa por ahora. Con El Niño, la zona de ciclones se corre hacia el este.",
-      "por_que": "Muestra cómo El Niño cambia el calendario y la ubicación de los ciclones en atolones muy vulnerables.",
-      "source": "Samoa Global News",
-      "lat": -10.4,
-      "lon": -161.0,
-      "url": "https://samoaglobalnews.com/category-5-cyclone-xavier-batters-northern-cook-islands-tracks-northeast-samoa/"
+      "headline": "Niue gana el premio Earthshot por su modelo para financiar la protección del océano",
+      "summary": "El Niue Ocean Wide Trust ganó el 17 de noviembre, en Mumbai, la categoría 'Revivir nuestros océanos' del premio Earthshot, dotada con un millón de libras. El modelo premiado permite que personas y empresas apadrinen la protección de un kilómetro cuadrado del mar de Niue por 250 dólares neozelandeses. El fondo busca recaudar otros US$10 millones hasta 2028 y que al menos otro país del Pacífico copie el esquema.",
+      "por_que": "Un país de menos de 2.000 habitantes encontró una forma de financiar la protección de un área marina enorme que puede servir de ejemplo a otros estados insulares.",
+      "source": "1News / Universidad de Auckland",
+      "lat": -19.1,
+      "lon": -169.9,
+      "url": "https://www.1news.co.nz/2026/11/18/niue-ocean-wide-trust-wins-prestigious-earthshot-award/"
     }
   ],
   "breves": [
     {
+      "country": "India",
+      "category": "ciencia",
+      "text": "Un investigador del instituto agrícola ICAR-IARI describió en Zootaxa una nueva polilla diminuta, Glyphipterix brevimucronata, hallada en Assam junto al santuario de gibones de Hollongapar. Es la primera especie india que se suma a esa familia de polillas en casi un siglo.",
+      "source": "Northeast Now",
+      "lat": 26.8,
+      "lon": 94.2,
+      "url": "https://nenow.in/?p=549710"
+    },
+    {
+      "country": "Indonesia",
+      "category": "ciencia",
+      "text": "En un lago de altura de los montes Mekongga, en Sulawesi, científicos describieron una nueva rana voladora, Rhacophorus kurniatiae. A diferencia de sus parientes, que arman nidos de espuma, pone los huevos en masas de gel pegadas a las hojas.",
+      "source": "Sci.News",
+      "lat": -3.7,
+      "lon": 121.2,
+      "url": "https://www.sci.news/biology/rhacophorus-kurniatiae-15204.html"
+    },
+    {
+      "country": "Países Bajos",
+      "category": "ciencia",
+      "text": "Paleontólogos describieron Alsasuacaris dirkeysermansi, un artrópodo parecido a un cangrejo de la época de los dinosaurios, a partir de un ejemplar de 1,6 milímetros hallado cerca de Maastricht. Creen que pudo vivir como parásito de reptiles marinos.",
+      "source": "Sci.News",
+      "lat": 50.9,
+      "lon": 5.7,
+      "url": "https://www.sci.news/paleontology/alsasuacaris-dirkeysermansi-15205.html"
+    },
+    {
       "country": "Estados Unidos",
-      "category": "ciencia",
-      "text": "Investigadores de la Universidad Estatal de Oregón lograron que plantas de papa completaran su ciclo en suelo lunar simulado: con 30% de compost de lombriz rindieron igual que en tierra común.",
-      "source": "KTVZ",
-      "lat": 44.6,
-      "lon": -123.3,
-      "url": "https://ktvz.com/news/2026/11/19/potatoes-on-the-moon-osu-study-shows-promise-for-growing-food-in-lunar-soil/"
-    },
-    {
-      "country": "Palestina",
-      "category": "cultura",
-      "text": "Una misión ítalo-palestina encontró en Khirbet Thaniyah, cerca de Jericó, tres tumbas monumentales de la época de Herodes, con ataúdes de madera, restos de telas y urnas de piedra caliza.",
-      "source": "Greek Reporter / AGI",
-      "lat": 31.9,
-      "lon": 35.4,
-      "url": "https://greekreporter.com/2026/11/20/tombs-jerusalem-elite-near-jericho/"
-    },
-    {
-      "country": "Reino Unido",
-      "category": "cultura",
-      "text": "Estudiantes de arqueología de la Universidad de Newcastle desenterraron en Redesdale, Northumberland, joyas de oro, inscripciones y una gema tallada de época romana.",
-      "source": "Universidad de Newcastle",
-      "lat": 55.3,
-      "lon": -2.2,
-      "url": "https://www.ncl.ac.uk/press/articles/latest/2026/11/archaeologystudentsredesdale2026/"
-    },
-    {
-      "country": "Kirguistán",
-      "category": "ambiente",
-      "text": "Kirguistán destinará 50 millones de soms por año para recuperar pasturas degradadas: la meta es sembrar 30.000 hectáreas y dejar descansar un millón de hectáreas hasta 2030.",
-      "source": "Trend.Az",
-      "lat": 42.9,
-      "lon": 74.6,
-      "url": "https://www.trend.az/casia/kyrgyzstan/4248392.html"
-    },
-    {
-      "country": "Sudáfrica",
-      "category": "ciencia",
-      "text": "Un cráneo de dinosaurio casi completo, hallado en 2018 cerca de un pueblo del Cabo Oriental, resultó ser de una especie nueva de sauropodomorfo, bautizada Nyana rooiwalensis.",
-      "source": "The Daily Galaxy",
-      "lat": -32.0,
-      "lon": 26.5,
-      "url": "https://dailygalaxy.com/2026/11/south-africa-dinosaur-skull-new-species/"
-    },
-    {
-      "country": "Francia",
       "category": "sociedad",
-      "text": "Según el colectivo Les Glorieuses, desde el 19 de noviembre a las 10:51 las francesas trabajan \"gratis\" hasta fin de año: ganan en promedio 11,8% menos que los hombres.",
-      "source": "La finance pour tous",
-      "lat": 48.9,
-      "lon": 2.3,
-      "url": "https://www.lafinancepourtous.com/2026/11/18/inegalites-les-francaises-appelees-a-arreter-le-travail-le-19-novembre-a-10h51/"
+      "text": "Murió a los 9 años Fiona, la hipopótamo del Zoológico de Cincinnati que se volvió famosa en todo el mundo por haber nacido seis semanas prematura en 2017. Había tragado un gorro que un visitante arrojó a su recinto, y por su tamaño no se la podía operar.",
+      "source": "OPB (AP) / Axios",
+      "lat": 39.1,
+      "lon": -84.5,
+      "url": "https://www.opb.org/article/2026/11/19/cincinnati-zoo-says-fiona-the-hippo-has-died-days-after-ingesting-a-visitors-hat/"
     },
     {
-      "country": "Francia",
-      "category": "economía",
-      "text": "Llegó el Beaujolais Nouveau 2026, una cosecha fresca y liviana con la que los productores esperan reactivar un sector vitivinícola en crisis.",
+      "country": "Malaui",
+      "category": "sociedad",
+      "text": "El grupo opositor Malawi First renovó su amenaza de convocar protestas en todo el país porque, según dice, venció el plazo de dos semanas que pidió el gobierno para responder por la escasez de combustible, el hambre, los apagones y los cortes de agua.",
+      "source": "allAfrica",
+      "lat": -14.0,
+      "lon": 33.8,
+      "url": "https://allafrica.com/stories/202611200219.html"
+    },
+    {
+      "country": "Bélgica",
+      "category": "ambiente",
+      "text": "Dos manifestantes le arrojaron una sustancia gris parecida a cenizas al comisario europeo de Salud, Olivér Várhelyi, durante una cumbre sobre cáncer en Bruselas, en protesta por los cambios propuestos a las reglas de pesticidas de la UE. Hubo cuatro detenidos.",
       "source": "Euronews",
-      "lat": 46.1,
-      "lon": 4.6,
-      "url": "https://www.euronews.com/2026/11/19/beaujolais-nouveau-2026-a-fresh-light-vintage-hopes-to-revive-a-struggling-sector"
+      "lat": 50.8,
+      "lon": 4.4,
+      "url": "https://www.euronews.com/2026/11/19/eu-health-chief-pelted-with-ashes-by-pesticide-protesters"
+    },
+    {
+      "country": "Kazajistán",
+      "category": "economía",
+      "text": "Kazajistán aumentó 8,8% sus exportaciones de granos a Uzbekistán, hasta 1,39 millones de toneladas, y 9,6% las enviadas a Tayikistán, hasta 417.000 toneladas, según el Ministerio de Agricultura.",
+      "source": "Qazinform",
+      "lat": 51.2,
+      "lon": 71.4,
+      "url": "https://qazinform.com/news/kazakhstan-boost-grain-exports-to-china-tajikistan-and-afghanistan-93776d"
     }
   ],
   "efemerides": {
-    "dia": "20 de noviembre",
+    "dia": "21 de noviembre",
     "items": [
       {
-        "year": "1845",
-        "text": "Batalla de la Vuelta de Obligado: tropas de la Confederación Argentina enfrentan en el río Paraná a la flota anglo-francesa. La fecha se recuerda como Día de la Soberanía Nacional."
+        "year": "1620",
+        "text": "Los colonos del Mayflower firman frente a la costa de Massachusetts el Pacto del Mayflower, uno de los primeros textos de autogobierno en América del Norte."
       },
       {
-        "year": "1910",
-        "text": "Empieza la Revolución Mexicana, convocada por Francisco I. Madero en el Plan de San Luis contra Porfirio Díaz."
+        "year": "1774",
+        "text": "Nace en Buenos Aires Domingo French, uno de los protagonistas de la Revolución de Mayo."
       },
       {
-        "year": "1917",
-        "text": "La Rada Central de Kiev proclama la República Popular Ucraniana con su Tercer Universal."
+        "year": "1783",
+        "text": "Jean-François Pilâtre de Rozier y el marqués de Arlandes hacen en París el primer vuelo tripulado en globo libre."
       },
       {
-        "year": "1945",
-        "text": "Empiezan en Núremberg los juicios contra los principales jerarcas nazis."
+        "year": "1877",
+        "text": "Thomas Edison anuncia la invención del fonógrafo, el primer aparato capaz de grabar y reproducir sonido."
       },
       {
-        "year": "1959",
-        "text": "La Asamblea General de la ONU adopta la Declaración de los Derechos del Niño."
+        "year": "1920",
+        "text": "'Domingo Sangriento' en Dublín: en plena guerra de independencia de Irlanda mueren más de 30 personas, entre ellas 14 civiles baleados por las fuerzas británicas en el estadio de Croke Park."
       },
       {
-        "year": "1975",
-        "text": "Muere Francisco Franco y termina la dictadura de casi 40 años en España."
+        "year": "1969",
+        "text": "Se establece el primer enlace permanente de ARPANET, entre la UCLA y el Instituto de Investigación de Stanford: el antecedente de internet."
       },
       {
-        "year": "1979",
-        "text": "Un grupo armado liderado por Juhayman al-Otaybi toma la Gran Mezquita de La Meca. El asedio dura dos semanas."
+        "year": "1981",
+        "text": "En plena dictadura, el general Roberto Viola delega la presidencia de facto en el general Horacio Tomás Liendo, en la antesala de su reemplazo por Leopoldo Galtieri."
       },
       {
-        "year": "1985",
-        "text": "Microsoft lanza Windows 1.0."
+        "year": "1995",
+        "text": "Se rubrican en Dayton, Ohio, los acuerdos de paz que ponen fin a la guerra de Bosnia y Herzegovina."
       },
       {
-        "year": "1989",
-        "text": "La ONU aprueba la Convención sobre los Derechos del Niño, hoy el tratado de derechos humanos más ratificado del mundo."
+        "year": "2004",
+        "text": "La segunda vuelta presidencial en Ucrania, denunciada como fraudulenta, desata las protestas de la Revolución Naranja."
       },
       {
-        "year": "1998",
-        "text": "Desde Baikonur, en Kazajistán, se lanza Zariá, el primer módulo de la Estación Espacial Internacional."
+        "year": "2017",
+        "text": "Robert Mugabe renuncia a la presidencia de Zimbabue después de 37 años en el poder, en medio de un juicio político y de la presión militar."
       }
     ]
   }
