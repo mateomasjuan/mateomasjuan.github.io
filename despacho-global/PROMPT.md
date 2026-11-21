@@ -11,6 +11,16 @@ Para encontrarlos:
 - Variá los países día a día. Evitá repetir siempre los mismos (EE.UU., China, Rusia, Ucrania, Israel, Europa occidental) en las secciones de radar y breves.
 - Variá los temas: no todo es conflicto o política. Mezclá ciencia, cultura, ambiente, sociedad, derechos, economía, tecnología, deporte, salud.
 
+## Exigencia de búsqueda (no te relajes)
+
+El lector quiere lo mejor de los rincones del mundo y lo más nuevo. Cada edición tiene que sentirse distinta de la anterior.
+- Investigá a fondo: hacé **al menos 50 búsquedas**, y abrí las notas cuando el resultado no alcance para confirmar fecha y datos. No te conformes con el primer resultado ni con la portada de una agencia internacional.
+- Buscá región por región y país por país, y también en el idioma local (francés para África occidental, portugués para Mozambique o Angola, árabe para el Magreb, swahili, indonesio, ruso para Asia Central, etc.). Probá con medios locales concretos de cada país.
+- Frescura: preferí lo publicado en las **últimas 24–48 horas**. Una nota de 3 o 4 días solo entra si no hay nada más nuevo de igual valor.
+- Novedad real: si una historia ya salió en la edición anterior, solo vuelve si hubo un hecho nuevo importante, y el titular tiene que contar ese hecho nuevo.
+- Rotación de países: estos aparecieron en *mundo* y *breves* en las últimas 5 ediciones (entre paréntesis, cuántas veces): {{PAISES_RECIENTES}}. En *mundo* y *breves*, priorizá países que **no** estén en esa lista; repetir uno solo se justifica con una noticia de peso. Que al menos la mitad del *mundo* sean países que no aparecieron en esa lista.
+- Antes de responder, revisá tu propia edición: si una región quedó con notas flojas, viejas o previsibles, seguí buscando hasta reemplazarlas.
+
 ## Reglas editoriales
 
 - Solo hechos verificables y recientes. Chequeá la fecha de cada nota: si es de hace más de 4 días, no va (salvo efemérides).

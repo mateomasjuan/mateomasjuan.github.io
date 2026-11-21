@@ -10,6 +10,7 @@ import os
 import re
 import shutil
 import subprocess
+import threading
 import sys
 import time
 from datetime import datetime
@@ -20,7 +21,7 @@ DATA = os.path.join(RAIZ, 'data')
 ARCHIVO = os.path.join(DATA, 'archivo')
 LOCK = os.path.join(DATA, '.actualizando')
 TZ = ZoneInfo('America/Argentina/Buenos_Aires')
-TIMEOUT = 20 * 60
+TIMEOUT = 40 * 60
 
 MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
          'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
@@ -59,7 +60,17 @@ def armar_prompt(ahora, previa):
     titulares = [n['headline'] for n in (previa or {}).get('argentina', [])[:5]]
     titulares += [n['headline'] for n in (previa or {}).get('ranking', [])[:7]]
     titulares += [n['headline'] for n in (previa or {}).get('mundo', [])[:14]]
+    # Países del radar y breves en las últimas 5 ediciones, para rotar de verdad.
+    conteo = {}
+    for ruta in sorted(glob.glob(os.path.join(DATA, 'archivo', '2*.json')))[-5:]:
+        ed = leer_json(ruta, {}) or {}
+        for n in ed.get('mundo', []) + ed.get('breves', []):
+            pais = n.get('country')
+            if pais:
+                conteo[pais] = conteo.get(pais, 0) + 1
+    recientes = ', '.join(f'{p} ({c})' for p, c in sorted(conteo.items(), key=lambda x: -x[1]))
     reemplazos = {
+        '{{PAISES_RECIENTES}}': recientes or 'ninguno',
         '{{FECHA_LARGA}}': f"{DIAS[ahora.weekday()]} {ahora.day} de {MESES[ahora.month - 1]} de {ahora.year}",
         '{{FECHA_ISO}}': ahora.strftime('%Y-%m-%d'),
         '{{HORA}}': ahora.strftime('%H:%M'),
@@ -113,6 +124,11 @@ def correr(progreso=print):
              '--output-format', 'stream-json', '--verbose',
              '--allowedTools', 'WebSearch', 'WebFetch'],
             cwd=RAIZ, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        # Vigilante: si Claude se cuelga (por ejemplo, la Mac se durmió a mitad
+        # de camino), lo corta a los TIMEOUT segundos y diario.sh reintenta.
+        vigilante = threading.Timer(TIMEOUT, proc.kill)
+        vigilante.daemon = True
+        vigilante.start()
         resultado, busquedas = None, 0
         for linea in proc.stdout:
             try:
@@ -132,6 +148,7 @@ def correr(progreso=print):
             elif ev.get('type') == 'result':
                 resultado = ev
         proc.wait(timeout=TIMEOUT)
+        vigilante.cancel()
         if not resultado or resultado.get('is_error'):
             detalle = (resultado or {}).get('result') or proc.stderr.read()[-400:]
             if 'login' in str(detalle).lower():

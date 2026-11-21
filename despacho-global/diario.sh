@@ -7,6 +7,9 @@
 # 3. Si salió bien, sube la edición con publicar.sh (2 intentos).
 cd "$(dirname "$0")"
 
+# Que la Mac no se duerma mientras se arma y se sube la edición.
+caffeinate -i -w $$ &
+
 hay_internet() {
   curl -s -o /dev/null --max-time 10 https://api.anthropic.com && \
   curl -s -o /dev/null --max-time 10 https://github.com
