@@ -1,143 +1,143 @@
 {
-  "edicion": 29,
-  "fecha": "2026-11-22",
-  "generado": "2026-11-22T07:34:00-03:00",
-  "nota_editor": "Fin de semana largo en la Argentina: el riesgo país pasó los 1.000 puntos, Boca ganó la Sudamericana y la COP31 sigue en tiempo extra en Antalya, mientras crece la tensión en la frontera entre Etiopía y Eritrea.",
+  "edicion": 30,
+  "fecha": "2026-11-23",
+  "generado": "2026-11-23T07:43:32-03:00",
+  "nota_editor": "Lunes feriado en la Argentina, con el mercado todavía pendiente del salto del dólar y de los bonos. En el mundo, la COP31 terminó sin acuerdo y el ébola sigue avanzando en el Congo.",
   "indicadores": [
     {
       "label": "Dólar oficial (BNA, venta)",
       "valor": "$1.595",
-      "variacion": "",
-      "nota": "cierre del viernes 20/11, el más alto del año"
+      "variacion": "+$10",
+      "nota": "cierre del viernes 20/11; hoy no opera por el feriado"
     },
     {
       "label": "Dólar blue",
-      "valor": "$1.675",
-      "variacion": "+20",
+      "valor": "$1.670",
+      "variacion": "+$30",
+      "nota": "cierre del 20/11, máximo nominal"
+    },
+    {
+      "label": "Dólar MEP",
+      "valor": "$1.679,94",
+      "variacion": "+2,2%",
       "nota": "cierre del 20/11"
     },
     {
       "label": "Riesgo país",
-      "valor": "1.050",
-      "variacion": "",
-      "nota": "20/11; las fuentes dan entre 1.025 y casi 1.100 puntos. Es el nivel más alto desde las elecciones de 2025"
-    },
-    {
-      "label": "Dólar MEP",
-      "valor": "$1.701",
-      "variacion": "",
-      "nota": "20/11; el contado con liqui quedó cerca de $1.804"
-    },
-    {
-      "label": "S&P Merval",
-      "valor": "81.168",
-      "variacion": "+0,03%",
-      "nota": "valor de media rueda del 20/11 (12:35), no es el cierre"
+      "valor": "1.025",
+      "variacion": "+94",
+      "nota": "cierre del 20/11 según La Posta del Noroeste y Filo News; Noticias Argentinas lo ubica en 1.070"
     },
     {
       "label": "Inflación mensual (INDEC)",
       "valor": "2,2%",
       "variacion": "+0,3 pp",
-      "nota": "octubre de 2026, la más alta en seis meses; 33,1% interanual"
+      "nota": "dato de octubre; septiembre fue 1,9%"
     },
     {
-      "label": "Petróleo Brent",
-      "valor": "US$92,57",
-      "variacion": "+0,64%",
-      "nota": "cierre del 20/11; tercera semana seguida en baja (-3,4%)"
+      "label": "Inflación interanual (INDEC)",
+      "valor": "33,1%",
+      "variacion": "",
+      "nota": "octubre 2026; acumula 26,3% en el año"
+    },
+    {
+      "label": "Dólar en Brasil",
+      "valor": "R$5,93",
+      "variacion": "+1,15%",
+      "nota": "cierre del 19/11, el valor más alto desde abril de 2025"
     }
   ],
   "ranking": [
     {
       "city": "Antalya",
       "country": "Turquía",
-      "headline": "La COP31 se estira sin acuerdo y la UE amenaza con bloquear un texto que no hable de los combustibles fósiles",
-      "summary": "La cumbre del clima siguió después de su cierre previsto del 20 de noviembre. El nuevo borrador de la Declaración de Antalya, preparado por Turquía y Australia, quedó en nueve páginas y sacó la transición fuera de los combustibles fósiles y la meta de US$120.000 millones para adaptación. El comisario europeo Wopke Hoekstra advirtió que 'no habrá acuerdo' si el texto no cambia, y la UE busca el apoyo de unos 130 países.",
+      "headline": "La COP31 termina sin acuerdo después de 49 horas de prórroga",
+      "summary": "La cumbre climática de la ONU en Antalya cerró el domingo 22 sin un acuerdo general, algo que no pasaba desde Copenhague en 2009. La Unión Europea y otros países rechazaron el borrador final porque no mencionaba los combustibles fósiles, y además no hubo acuerdo sobre financiamiento ni sobre captura de carbono. El presidente de la cumbre, Murat Kurum, dijo que no habría un nuevo borrador. El australiano Chris Bowen, que presidió las negociaciones, habló de 'líneas rojas infranqueables'.",
       "category": "clima",
       "impact": "alto",
-      "source": "Moncloa.com / Yahoo Noticias / PACNEWS",
-      "time_note": "hoy",
+      "source": "CNN / Fox Business",
+      "time_note": "ayer",
       "lat": 36.9,
       "lon": 30.7,
-      "url": "https://www.moncloa.com/2026/11/22/cop31-combustibles-fosiles-prorroga-3472490"
+      "url": "https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure"
+    },
+    {
+      "city": "Bunia",
+      "country": "República Democrática del Congo",
+      "headline": "El brote de ébola en el Congo pasa los 11.700 casos y los combates en Ituri dejan atrapados a los equipos de salud",
+      "summary": "El brote del virus Bundibugyo suma 11.762 casos confirmados y 5.775 muertes en 68 zonas sanitarias de ocho provincias. Es el más letal de la historia del país. Ituri concentra más de 8.000 casos. El director de la OMS, Tedros Adhanom Ghebreyesus, contó que el personal de una maternidad tuvo que refugiarse cerca de 24 horas por los combates y pidió un paso seguro.",
+      "category": "salud",
+      "impact": "alto",
+      "source": "Noticias ONU / TASS",
+      "time_note": "hoy",
+      "lat": 1.6,
+      "lon": 30.3,
+      "url": "https://news.un.org/en/story/2026/11/1168858"
+    },
+    {
+      "city": "Manama",
+      "country": "Bahréin",
+      "headline": "Bahréin intercepta nuevos ataques iraníes mientras Teherán prepara 14 petroleros para romper el bloqueo de EE.UU.",
+      "summary": "Bahréin informó que interceptó varios ataques aéreos iraníes durante el fin de semana. Según Gulf News, Irán alista 14 petroleros para atravesar el bloqueo naval que Estados Unidos mantiene sobre sus puertos. CNN contó al menos 22 ataques en Ormuz y sus alrededores en lo que va de noviembre. Trump dijo que en la última semana Irán lanzó más drones y misiles que en cualquier momento del último año.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Gulf News / ABC News",
+      "time_note": "ayer",
+      "lat": 26.2,
+      "lon": 50.6,
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
     },
     {
       "city": "Varsovia",
       "country": "Polonia",
-      "headline": "Caen misiles rusos en Polonia y la OTAN habla de una 'grave violación' de su espacio aéreo",
-      "summary": "Varios misiles rusos cayeron en territorio polaco mientras países europeos hacían maniobras militares cerca. La OTAN lo calificó de 'grave violación' y el Consejo del Atlántico Norte se reúne en Bruselas para analizar una respuesta.",
+      "headline": "Polonia pide más defensa aérea a la OTAN, pero no activa el artículo 4 por los misiles rusos",
+      "summary": "Varsovia confirmó que los dos misiles caídos en Rudnik nad Sanem y en Nowy Lipowiec y el dron hallado en Młodycz eran rusos. Por ahora no invocará el artículo 4: pidió más medios aliados dentro de la misión Eastern Sentry, entre ellos aviones de alerta temprana. Un viceministro de Defensa dijo que 'no hace falta' invocarlo. El secretario general de la OTAN, Mark Rutte, pidió revisar si los esquemas de defensa actuales alcanzan.",
       "category": "conflicto",
       "impact": "alto",
-      "source": "Al Jazeera / PBS / Manila Times",
-      "time_note": "ayer",
+      "source": "RBC-Ukraine / Latin Times",
+      "time_note": "esta semana",
       "lat": 52.2,
       "lon": 21.0,
-      "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+      "url": "https://newsukraine.rbc.ua/news/poland-wants-nato-to-strengthen-defenses-1795369392.html"
     },
     {
-      "city": "Guasave",
-      "country": "México",
-      "headline": "Cae 'El Chapo Isidro', uno de los diez más buscados del FBI, tras un operativo que paralizó Guasave",
-      "summary": "Fuerzas federales detuvieron en Guasave, Sinaloa, a Fausto Isidro Meza Flores, jefe de una facción heredera de los Beltrán Leyva. El operativo armado paralizó la ciudad. Según la Sedena, ya había sido detenido y liberado cuatro veces durante los gobiernos de Calderón y Peña Nieto.",
+      "city": "La Haya",
+      "country": "Países Bajos",
+      "headline": "Myanmar rechaza el fallo de la Corte Internacional de Justicia que lo declaró responsable del genocidio rohinyá",
+      "summary": "El jueves 19 la CIJ resolvió por 9 votos a 6 que Myanmar cometió genocidio contra los rohinyás. Ordenó restitución e indemnizaciones y le dio dos años para informar qué hizo para cumplir. Es la primera vez que la Corte declara a un Estado autor de un genocidio. La vocera del gobierno, Khine Khine Soe, calificó el fallo de 'injusto' por lo dividido de la votación, y el Consejo de Seguridad de la ONU prepara consultas a puerta cerrada.",
       "category": "política",
       "impact": "alto",
-      "source": "Infobae / El Financiero",
-      "time_note": "ayer",
-      "lat": 25.6,
-      "lon": -108.5,
-      "url": "https://www.infobae.com/mexico/2026/11/21/reportan-la-detencion-de-el-chapo-isidro-tras-operativo-armado-en-guasave-sinaloa/"
+      "source": "ABC News (AP) / Malay Mail",
+      "time_note": "esta semana",
+      "lat": 52.1,
+      "lon": 4.3,
+      "url": "https://abcnews.com/International/wireStory/myanmar-dismisses-courts-ruling-responsibility-rohingya-genocide-unfair-138313854"
     },
     {
-      "city": "Badme",
-      "country": "Etiopía / Eritrea",
-      "headline": "Etiopía y Eritrea juntan tropas en la frontera tras días de ataques con drones y artillería cerca de Badme",
-      "summary": "Según ACLED, el 12 de noviembre drones etíopes atacaron posiciones eritreas alrededor de Badme y Eritrea respondió con artillería; al día siguiente hubo combates del lado etíope. Ambos países están reforzando sus tropas en la frontera y el G7 advirtió sobre el riesgo de una guerra regional. Badme fue el centro de la guerra de 1998-2000, que dejó decenas de miles de muertos.",
-      "category": "conflicto",
+      "city": "Santa Clara",
+      "country": "Estados Unidos",
+      "headline": "Nvidia repone a Jensen Huang como director ejecutivo y su acción sube cerca de 26%",
+      "summary": "El directorio de Nvidia devolvió a Huang los cargos de presidente y director ejecutivo con efecto inmediato. Había renunciado unas dos semanas antes por su relación con una mujer que la inteligencia estadounidense sospecha que espía para China. La empresa dijo que, tras consultar a altos funcionarios, considera que su vuelta no es un riesgo para la seguridad nacional. Trump celebró la decisión, y en las primeras operaciones el Nasdaq subía más de 5%.",
+      "category": "tecnología",
       "impact": "alto",
-      "source": "Korea Times (Reuters) / Anadolu / allAfrica",
-      "time_note": "esta semana",
-      "lat": 14.7,
-      "lon": 37.8,
-      "url": "https://www.koreatimes.co.kr/world/20261118/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say"
+      "source": "Africanews",
+      "time_note": "hoy",
+      "lat": 37.4,
+      "lon": -122.0,
+      "url": "https://www.africanews.com/2026/11/23/ai-giant-nvidia-reinstates-jensen-huang-as-ceo-after-spy-scandal/"
     },
     {
-      "city": "El Obeid",
-      "country": "Sudán",
-      "headline": "El ejército sudanés recupera más de 30 pueblos en Kordofán y la ONU alerta por las víctimas de los drones",
-      "summary": "Desde comienzos de noviembre, el ejército y sus aliados retomaron más de 30 pueblos y ciudades de Kordofán del Norte y del Oeste, según el analista de ACLED para Sudán. Las tropas avanzan hacia un bastión de las Fuerzas de Apoyo Rápido, mientras la ONU advierte por el número de civiles muertos en ataques con drones.",
-      "category": "conflicto",
+      "city": "El Hierro",
+      "country": "España",
+      "headline": "Canarias recibe más de 2.500 migrantes en un fin de semana, un récord a seis días de las elecciones españolas",
+      "summary": "Más de 2.500 personas llegaron a las Canarias durante el fin de semana, la cifra más alta registrada en un solo día. En noviembre ya suman más de 10.000 llegadas, otro récord. Solo el domingo llegaron a El Hierro seis embarcaciones con unas 350 personas, y la isla, de 12.000 habitantes, aloja ahora a unas 900. El gobierno anunció 5 millones de euros de ayuda de emergencia antes de las generales del domingo 29.",
+      "category": "sociedad",
       "impact": "medio",
-      "source": "The National / Sudan Tribune",
-      "time_note": "esta semana",
-      "lat": 13.2,
-      "lon": 30.2,
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/18/al-burhans-forces-push-towards-rsf-stronghold-as-un-warns-of-sudan-drone-toll/"
-    },
-    {
-      "city": "Shenzhen",
-      "country": "China",
-      "headline": "La APEC cierra en Shenzhen con la 'Perspectiva de Shenzhen' y una iniciativa común sobre inteligencia artificial",
-      "summary": "La 33.ª cumbre de líderes de la APEC, el 18 y 19 de noviembre, aprobó por consenso una declaración que incluye la 'Perspectiva de Shenzhen' sobre comercio, conectividad, innovación y crecimiento, y una Iniciativa de IA para 2026-2030. Xi Jinping presidió la reunión; el canciller Wang Yi la definió como el logro 'más importante' en la historia del foro.",
-      "category": "economía",
-      "impact": "medio",
-      "source": "Tribune India / People's Daily / Global Times",
-      "time_note": "esta semana",
-      "lat": 22.5,
-      "lon": 114.1,
-      "url": "https://www.tribuneindia.com/news/world/asia-pacific-leaders-call-for-shared-trade-benefits-as-apec-summit-concludes"
-    },
-    {
-      "city": "Bhubaneswar",
-      "country": "India",
-      "headline": "El ciclón Akvan llega a la costa este de la India tras la evacuación de más de 100.000 personas",
-      "summary": "Odisha y Andhra Pradesh evacuaron a más de 105.000 personas a 1.224 refugios y cerraron escuelas antes de que el ciclón severo Akvan tocara tierra entre Narsapur y Puri, con vientos de 90 a 110 km/h. Todavía no hay un balance oficial de daños.",
-      "category": "clima",
-      "impact": "medio",
-      "source": "All India Radio / Down to Earth / Gulf News",
-      "time_note": "esta semana",
-      "lat": 20.3,
-      "lon": 85.8,
-      "url": "https://newsonair.gov.in/odisha-evacuates-72000-people-as-severe-cyclone-akvan-approaches-coast/"
+      "source": "Africanews",
+      "time_note": "hoy",
+      "lat": 27.8,
+      "lon": -17.9,
+      "url": "https://www.africanews.com/2026/11/23/spanish-authorities-under-pressure-after-record-number-of-migrants-reach-canaries/"
     }
   ],
   "argentina": [
@@ -145,385 +145,385 @@
       "tag": "Economía",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "El riesgo país supera los 1.000 puntos por primera vez desde las elecciones de 2025",
-      "summary": "El índice de JP Morgan subió 14% en un día y pasó los 1.000 puntos básicos; tocó 1.038 durante la rueda del viernes 20. Ese mismo día el dólar oficial cerró en $1.595, su valor más alto del año, y el contado con liqui quedó cerca de $1.800. El Gobierno atribuye la turbulencia a factores externos y a dudas del mercado.",
-      "source": "Infobae / La Nación / iProfesional",
+      "headline": "El dólar cierra la semana en récord nominal y los bonos acumulan una caída del 7%",
+      "summary": "El viernes el blue cerró a $1.670 (+$30) y el MEP a $1.679,94, mientras el oficial del Banco Nación terminó en $1.595. Los Globales y Bonares cayeron en promedio 4,6% en el día y 7% en la semana, en medio de dudas sobre cómo se pagarán los vencimientos de 2027. El ministro Luis Caputo sostuvo que hay un 'cambio estructural' gracias a un superávit comercial de US$30.000 millones. En la Casa Rosada temen que el ruido financiero frene el repunte de la economía.",
+      "source": "Infobae / El Litoral",
       "time_note": "ayer",
       "impact": "alto",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.infobae.com/economia/2026/11/20/el-riesgo-pais-salto-14-en-un-solo-dia-y-alcanzo-el-nivel-mas-alto-desde-las-elecciones-de-2025/"
-    },
-    {
-      "tag": "Deportes",
-      "city": "Barranquilla",
-      "country": "Colombia",
-      "headline": "Boca le gana 2-0 a Atlético Mineiro y es campeón de la Copa Sudamericana",
-      "summary": "En el Estadio Metropolitano de Barranquilla, Boca le ganó la final del sábado 21 a Atlético Mineiro con goles de Ascacibar, a los 15 minutos, y de Merentiel, a los 48. Es su tercera Sudamericana, después de las de 2004 y 2005, y su primer título internacional en 18 años.",
-      "source": "La Nación / RPP",
-      "time_note": "ayer",
-      "impact": "alto",
-      "lat": 11.0,
-      "lon": -74.8,
-      "url": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-atletico-mineiro-la-final-de-la-copa-sudamericana-en-vivo-nid21112026/"
-    },
-    {
-      "tag": "Economía",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "headline": "El Gobierno aprueba el ingreso al RIGI de Argentina LNG, un proyecto de US$50.750 millones",
-      "summary": "El proyecto de gas natural licuado de YPF, Eni y XRG entra al Régimen de Incentivo para Grandes Inversiones con una inversión prevista hasta 2050. Luis Caputo lo llamó 'la mayor inversión de la historia argentina', y las exportaciones podrían superar los US$9.000 millones por año.",
-      "source": "BAE Negocios",
-      "time_note": "ayer",
-      "impact": "alto",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "https://www.baenegocios.com/energia/el-gobierno-aprobo-el-ingreso-al-rigi-del-proyecto-argentina-lng-por-usd-50-750-millones/"
+      "url": "https://www.infobae.com/economia/2026/11/22/el-shock-financiero-complica-al-gobierno-presiona-al-dolar-y-amenaza-el-repunte-de-la-economia/"
     },
     {
       "tag": "Política",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "El Gobierno cuenta los votos para suspender las PASO por un año en el Senado",
-      "summary": "El dictamen suspende las primarias por un año y avanza con una reforma electoral. El oficialismo dice tener 37 votos asegurados, 38 según sus propias filas y 39 en la cuenta más optimista. La sesión sería el jueves próximo.",
-      "source": "La Nación",
+      "headline": "El oficialismo apunta al jueves 26 para votar en el Senado la suspensión de las PASO de 2027",
+      "summary": "El Gobierno ya tiene dictamen y busca llevar el proyecto al recinto el jueves 26. Necesita 37 de los 72 senadores. Para sumar apoyos de radicales y gobernadores, el texto pasó de 79 artículos a 25 y ahora solo suspende las primarias de 2027 en lugar de derogarlas. Según Infobae, los votos están al límite y hay dudas sobre dos senadores de Santa Cruz.",
+      "source": "617 News / Infobae / Estrella Digital",
       "time_note": "ayer",
-      "impact": "medio",
+      "impact": "alto",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-admite-que-tiene-los-votos-justos-para-aprobar-la-suspension-de-las-paso-en-el-senado-nid21112026/"
+      "url": "https://617.news/reforma-electoral-milei-suspension-paso-2027/"
     },
     {
       "tag": "Sociedad",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "UNICEF: el 41% de los hogares con chicos no llega a cubrir sus gastos corrientes",
-      "summary": "El dato es 10 puntos peor que en 2025, según el relevamiento de UNICEF. En los hogares que cobran la Asignación Universal por Hijo, la proporción sube al 57%.",
-      "source": "Tiempo Argentino",
-      "time_note": "ayer",
+      "headline": "Las universidades harán paro nacional y marcharán al Congreso el miércoles 25",
+      "summary": "Los gremios docentes y nodocentes anunciaron un paro de 24 horas con movilización a Diputados para exigir que se cumpla la Ley de Financiamiento Universitario. Rechazan el Presupuesto 2027, que asigna $7,3 billones a las universidades públicas cuando, según los gremios, hacen falta $11 billones. El jueves 26 es asueto por el Día del Trabajador Nodocente, y ya anticipan nuevas medidas para diciembre.",
+      "source": "InfoRegión / El Eco",
+      "time_note": "hoy",
       "impact": "medio",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.tiempoar.com.ar/ta_article/hogares-con-ninos-unicef-argentina/"
+      "url": "https://www.inforegion.com.ar/2026/11/23/universidades-otra-semana-de-paro-y-movilizacion-a-diputados/"
     },
     {
       "tag": "Seguridad",
-      "city": "Buenos Aires",
+      "city": "Ezpeleta",
       "country": "Argentina",
-      "headline": "Allanan el Banco Hipotecario y el BIND en la causa por lavado contra Ariel Vallejo",
-      "summary": "El juez federal Juan Tomás Rodríguez Ponte ordenó los allanamientos para investigar si las dos entidades encubrieron las maniobras de lavado atribuidas a Ariel Vallejo.",
-      "source": "La Nación",
-      "time_note": "ayer",
+      "headline": "Explota una rotisería durante los festejos por el aniversario de Ezpeleta: al menos siete heridos",
+      "summary": "El domingo a la noche, en pleno festejo por los 154 años de la localidad del partido de Quilmes, explotó y se incendió una rotisería de la Avenida Centenario al 5200. El herido más grave es un hombre de 32 años con quemaduras en cerca del 50% del cuerpo, y entre los otros heridos hay una nena de unos 11 años. Se suspendió el show de Los Leales y se evacuó la zona. Las causas todavía se investigan; DIB habla de ocho heridos.",
+      "source": "La Nación / Canal 26 / DIB",
+      "time_note": "hoy",
       "impact": "medio",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "https://www.lanacion.com.ar/politica/allanan-el-banco-hipotecario-y-el-bind-e-investigan-si-encubrieron-las-maniobras-de-lavado-de-ariel-nid20112026/"
+      "lat": -34.8,
+      "lon": -58.2,
+      "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-del-local-de-comida-que-exploto-cuando-festejaban-el-aniversario-de-ezpeleta-al-menos-nid23112026/"
     },
     {
-      "tag": "Economía",
+      "tag": "Deportes",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "Una familia del AMBA necesitó $291.247 en noviembre para pagar servicios y transporte",
-      "summary": "El gasto subió 66% en un año y 950% desde diciembre de 2023, según El Economista. Equivale al 14% de un salario de referencia de $2.103.942.",
-      "source": "El Economista",
+      "headline": "River le gana 3-1 a Lanús con dos goles de Thiago Almada y pasa a cuartos del Clausura",
+      "summary": "En el Monumental, Almada abrió el partido de penal, Ramiro Carrera empató para Lanús y Tobías Andrada puso el 2-1. Almada cerró el 3-1 de contraataque sobre el final. En cuartos River jugará con Instituto, que eliminó a Huracán.",
+      "source": "Ámbito / La Nación",
       "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.5,
+      "lon": -58.4,
+      "url": "https://www.ambito.com/deportes/con-un-thiago-almada-figura-river-vencio-lanus-y-avanzo-cuartos-final-del-torneo-clausura-n6348140"
+    },
+    {
+      "tag": "Deportes",
+      "city": "Rosario",
+      "country": "Argentina",
+      "headline": "Rosario Central e Instituto completan el fin de semana de octavos del Clausura",
+      "summary": "Rosario Central le ganó 3-1 a Gimnasia de Mendoza y pasó a cuartos de final. Instituto venció 2-1 a Huracán y eliminó al equipo de Parque Patricios. Instituto será el rival de River en la próxima ronda.",
+      "source": "Canal 26",
+      "time_note": "ayer",
+      "impact": "bajo",
+      "lat": -32.9,
+      "lon": -60.7,
+      "url": "https://www.canal26.com/futbol/liga-profesional-de-futbol/rosario-central-vs-gimnasia-mendoza-en-vivo-hoy-resultado-goles-y-minuto-a-minuto-del-torneo-clausura-2026/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Feriado por el Día de la Soberanía Nacional: hoy no hay clases ni actividad bancaria",
+      "summary": "El feriado del 20 de noviembre, que recuerda la Vuelta de Obligado de 1845, pasó a este lunes por la Ley 27.399 de feriados trasladables y armó un fin de semana largo de tres días. No hay clases en escuelas públicas ni privadas de todo el país. En lo que queda del año solo hay dos feriados más: el martes 8 y el viernes 25 de diciembre.",
+      "source": "Diario Río Negro / La Nación",
+      "time_note": "hoy",
       "impact": "bajo",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://eleconomista.com.ar/energia/las-tarifas-acumulan-salto-950-ya-llevan-14-salario-n99818"
+      "url": "https://www.rionegro.com.ar/servicios/descanso-largo-en-marcha-por-que-es-feriado-este-lunes-23-de-noviembre-y-que-fechas-quedan-en-2026-4808790/"
     }
   ],
   "mundo": [
     {
       "region": "África",
-      "city": "Accra",
-      "country": "Ghana",
-      "category": "política",
-      "headline": "Ghana estrena un avión presidencial de US$60,7 millones y el gasto desata críticas",
-      "summary": "El Falcon 6X llegó el 16 de noviembre para reemplazar al Falcon 900EX de 16 años, que tenía corrosión y pérdidas en el tanque de combustible. El Gobierno de Mahama dice que se pagó sin tomar deuda y que el Parlamento lo aprobó en diciembre de 2025. La oposición recuerda que el NDC criticaba compras parecidas cuando no gobernaba y pide priorizar ambulancias.",
-      "por_que": "Es un debate sobre prioridades de gasto en un país que hace muy poco salió de una reestructuración de deuda con el FMI.",
-      "source": "Graphic Online / Modern Ghana / Adom Online",
-      "lat": 5.6,
-      "lon": -0.2,
-      "url": "https://www.graphic.com.gh/news/general-news/ghana-replaces-ageing-presidential-jet-with-us-60-68m-falcon-6x.html"
+      "city": "Lusaka",
+      "country": "Zambia",
+      "category": "derechos",
+      "headline": "Procesan por traición a Brian Mundubile, el opositor que salió segundo en las elecciones de Zambia",
+      "summary": "Un juez de paz mandó a juicio en el Tribunal Superior a Mundubile, a su compañero de fórmula y a otras 12 personas acusadas de traición. Todavía no hay fecha de audiencia. Si los condenan, arriesgan prisión perpetua. Mundubile quedó segundo detrás del presidente Hakainde Hichilema en las elecciones de agosto, que según los observadores internacionales tuvieron irregularidades.",
+      "por_que": "Las organizaciones de derechos humanos lo ven como una muestra de represión política después de las elecciones en un país que solía presentarse como modelo democrático en la región.",
+      "source": "Africanews",
+      "lat": -15.4,
+      "lon": 28.3,
+      "url": "https://www.africanews.com/2026/11/23/zambian-opposition-leader-mundubile-formally-indicted-on-treason-charges/"
     },
     {
       "region": "África",
-      "city": "Yaundé",
-      "country": "Camerún",
-      "category": "economía",
-      "headline": "Camerún reúne a 1.500 delegados en su foro de inversiones para atraer capital privado",
-      "summary": "El 5.º Cameroon Investment Forum se abrió el 18 de noviembre en Yaundé con más de 1.500 participantes. Los organizadores esperan entre 400.000 y 800.000 millones de francos CFA en intenciones de negocio, con foco en sustituir importaciones y procesar materias primas en el país.",
-      "por_que": "Pone a prueba la estrategia de desarrollo de Camerún hacia 2030, un país casi ausente de la agenda económica internacional.",
-      "source": "Cameroon Tribune",
-      "lat": 3.9,
-      "lon": 11.5,
-      "url": "https://cameroon-tribune.cm/article.html/82752/fr.html/details_2"
+      "city": "Ezulwini",
+      "country": "Esuatini",
+      "category": "política",
+      "headline": "El foro parlamentario del África austral busca convertirse en un Parlamento regional con poder real",
+      "summary": "Del 20 al 27 de noviembre se hace en Ezulwini la 59.ª Asamblea Plenaria del Foro Parlamentario de la SADC. El presidente del Parlamento de Zimbabue, Jacob Mudenda, encabeza el último empuje para darle facultades legislativas. Hoy sus 'leyes modelo' no obligan a ningún país, y los críticos describen sus diez años de reclamos como un 'programa de charlas'. Dato de una sola fuente.",
+      "por_que": "Un Parlamento regional con poder legislativo cambiaría cómo se gobiernan temas comunes de 16 países del sur de África.",
+      "source": "allAfrica",
+      "lat": -26.4,
+      "lon": 31.2,
+      "url": "https://allafrica.com/stories/202611230138.html"
     },
     {
       "region": "Asia",
-      "city": "Chiang Rai",
-      "country": "Tailandia",
-      "category": "ambiente",
-      "headline": "Tailandia presenta un plan contra el arsénico en los ríos Kok y Sai antes de negociar con China y Myanmar",
-      "summary": "El Gobierno tailandés presentó su plan antes de la reunión entre China y Myanmar del 24 de noviembre sobre la contaminación de los dos ríos, que bajan de zonas mineras de Myanmar. Las conversaciones entre Tailandia y Myanmar siguen el 25 y 26 de noviembre. Dato de una sola fuente.",
-      "por_que": "La minería sin control en Myanmar contamina el agua de comunidades del otro lado de la frontera y lo convierte en un tema diplomático regional.",
-      "source": "The Star (Asean+)",
-      "lat": 19.9,
-      "lon": 99.8,
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/asean-news-headlines-at-10pm-on-saturday-nov-21-2026"
-    },
-    {
-      "region": "Asia",
-      "city": "Manila",
-      "country": "Filipinas",
-      "category": "economía",
-      "headline": "Marcos sale a aclarar después de que Trump dijera que Filipinas compraría todos sus productos agrícolas y energéticos a EE.UU.",
-      "summary": "Trump afirmó que Filipinas compraría a Estados Unidos el 100% de sus importaciones agrícolas y energéticas, y Ferdinand Marcos Jr. tuvo que aclarar el alcance de esos dichos. Dato de una sola fuente.",
-      "por_que": "Muestra la presión comercial de Washington sobre sus aliados del sudeste asiático.",
-      "source": "The Star (Asean+)",
-      "lat": 14.6,
-      "lon": 121.0,
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/asean-news-headlines-at-10pm-on-saturday-nov-21-2026"
-    },
-    {
-      "region": "Europa",
-      "city": "Skopie",
-      "country": "Macedonia del Norte",
-      "category": "política",
-      "headline": "Macedonia del Norte desarma una red vinculada a Irán que planeaba un asesinato en Grecia",
-      "summary": "La Agencia de Seguridad Nacional detuvo a cinco personas, cuatro en Skopie y una en Grecia que fue entregada a Macedonia del Norte, y busca a un sexto sospechoso. Señaló como organizador al iraní Edris Jahangiri Mavaneh, colaborador de los servicios iraníes según la agencia. Según Kathimerini, el blanco era un ejecutivo israelí que trabaja en Grecia.",
-      "por_que": "Muestra que la guerra con Irán ya tiene ramificaciones en operaciones encubiertas en los Balcanes.",
-      "source": "Euronews / Greek Reporter",
-      "lat": 42.0,
-      "lon": 21.4,
-      "url": "https://www.euronews.com/2026/11/17/north-macedonia-prevents-terrorist-assassination-plot-targeting-person-in-greece"
-    },
-    {
-      "region": "Europa",
-      "city": "Dublín",
-      "country": "Irlanda",
-      "category": "política",
-      "headline": "Irlanda se convierte en socio oficial del Foro de las Islas del Pacífico",
-      "summary": "Irlanda obtuvo el estatus de socio del Foro de las Islas del Pacífico, el principal organismo político de la región, y se suma a países que cooperan con el bloque en clima, océanos y desarrollo.",
-      "por_que": "Un país europeo chico apuesta a la diplomacia climática con los Estados insulares más vulnerables.",
-      "source": "PINA",
-      "lat": 53.3,
-      "lon": -6.3,
-      "url": "https://pina.com.fj/2026/11/17/ireland-secures-pacific-islands-forum-partnership-status/"
-    },
-    {
-      "region": "Medio Oriente",
-      "city": "Adén",
-      "country": "Yemen",
-      "category": "política",
-      "headline": "Los hutíes quedan a unos 60 km de Adén y el gobierno yemení cava trincheras",
-      "summary": "Las fuerzas del gobierno se retiraron de posiciones cerca del estrecho de Bab el-Mandeb y refuerzan Adén con sacos de arena y túneles. El ejército dice que hizo 661 ataques contra los hutíes en varios frentes, que además cortaron la ruta entre Adén y Taiz. Los hutíes no llegaban tan cerca de la ciudad desde 2015.",
-      "por_que": "Si cae Adén, la sede del gobierno reconocido, la guerra de Yemen entra en otra etapa y se complica la navegación en el mar Rojo.",
-      "source": "Al Jazeera / Al-Monitor",
-      "lat": 12.8,
-      "lon": 45.0,
-      "url": "https://aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden"
-    },
-    {
-      "region": "Medio Oriente",
-      "city": "Damasco",
-      "country": "Siria",
-      "category": "derechos",
-      "headline": "Siria permitirá que los ciudadanos lleven a la Justicia las decisiones del Estado",
-      "summary": "La Asamblea Popular aprobó el 9 de noviembre una ley que deroga normas dispersas que impedían discutir ante los tribunales ciertas decisiones administrativas del gobierno. La reforma abrió un debate sobre si hacía falta.",
-      "por_que": "Es uno de los primeros cambios concretos para poner límites al poder administrativo en la Siria posterior a Assad.",
-      "source": "ConstitutionNet",
-      "lat": 33.5,
-      "lon": 36.3,
-      "url": "https://constitutionnet.org/news/syrias-legislature-approves-bill-allowing-judicial-review-administrative-decisions"
-    },
-    {
-      "region": "Norteamérica",
-      "city": "Iqaluit",
-      "country": "Canadá",
-      "category": "derechos",
-      "headline": "Las organizaciones inuit van a manejar el programa de salud y servicios para sus chicos desde 2027",
-      "summary": "La Iniciativa Niño Inuit Primero, ahora llamada Pirutsiagutiit, pasará el 1 de abril de 2027 a Nunavut Tunngavik, la Corporación Regional Inuvialuit, Makivik y el Gobierno de Nunatsiavut, con condiciones. El dirigente Natan Obed lo definió como un 'paso positivo gradual'.",
-      "por_que": "Pasa a manos inuit un servicio clave para la infancia en las comunidades más aisladas de Canadá.",
-      "source": "Nunavut News / Turtle Island News",
-      "lat": 63.7,
-      "lon": -68.5,
-      "url": "https://nunavutnews.com/2026/11/18/new-inuit-child-first-initiative-an-incremental-positive-step-natan-obed/"
-    },
-    {
-      "region": "Norteamérica",
-      "city": "Puerto Príncipe",
-      "country": "Haití",
-      "category": "política",
-      "headline": "Haití aprueba un acuerdo de cooperación en seguridad con El Salvador",
-      "summary": "El Consejo de Ministros, encabezado por el primer ministro Alix Didier Fils-Aimé, aprobó el 17 de noviembre el acuerdo, centrado en fortalecer y modernizar las fuerzas de seguridad haitianas. No se conocieron sus mecanismos ni qué pasará con los militares salvadoreños ya desplegados. El ministro de Justicia haitiano visitó el megapenal CECOT.",
-      "por_que": "Haití busca aplicar parte del modelo de seguridad de Bukele contra las pandillas.",
-      "source": "Diario El Mundo (El Salvador)",
-      "lat": 18.5,
-      "lon": -72.3,
-      "url": "https://diario.elmundo.sv/el-mundo/el-consejo-de-ministros-de-haiti-aprueba-un-acuerdo-de-cooperacion-con-el-salvador"
-    },
-    {
-      "region": "Latinoamérica",
-      "city": "Montevideo",
-      "country": "Uruguay",
-      "category": "política",
-      "headline": "El Parlamento uruguayo frena la eliminación de la Fiscalía de Lavado de Activos",
-      "summary": "El Parlamento no aprobó la supresión de la Fiscalía especializada en lavado. El prosecretario de la Presidencia, Jorge Díaz, dijo que el Ejecutivo insistirá con cambios legislativos. Dato de una sola fuente.",
-      "por_que": "Define con qué herramientas cuenta Uruguay para enfrentar el lavado vinculado al narcotráfico.",
-      "source": "En Perspectiva",
-      "lat": -34.9,
-      "lon": -56.2,
-      "url": "https://enperspectiva.uy/en-perspectiva-radio/noticias-en-sabado/noticias-en-sabado-del-21-de-noviembre-de-2026-10-am/"
-    },
-    {
-      "region": "Latinoamérica",
-      "city": "Cartago",
-      "country": "Costa Rica",
+      "city": "Seúl",
+      "country": "Corea del Sur",
       "category": "sociedad",
-      "headline": "El Tecnológico de Costa Rica condena los dichos de Rodrigo Chaves contra su rectora",
-      "summary": "El Consejo Institucional del TEC repudió las declaraciones del ministro de la Presidencia y de Hacienda, Rodrigo Chaves Robles, contra la rectora María Estrada. Dato de una sola fuente.",
-      "por_que": "Suma otro capítulo a la pelea entre el poder político y las universidades públicas costarricenses.",
-      "source": "Acontecer",
-      "lat": 9.9,
-      "lon": -83.9,
-      "url": "https://acontecer.co.cr/acontecer-matutino/acontecer-matutino-sabado-21-de-noviembre-de-2026"
+      "headline": "Renuncia el ministro de Educación surcoreano por el caos en el examen de ingreso a la universidad",
+      "summary": "Choi Kyo-jin presentó su renuncia el domingo y el presidente Lee Jae Myung la aceptó una hora después. Asumió la responsabilidad por la confusión que generaron los cambios de último momento contra el fraude en el Suneung, el examen nacional de ingreso a la universidad. Durante la prueba se descubrió a 111 estudiantes con dispositivos inteligentes. Se propone una sanción de diez años para quien haga trampa con inteligencia artificial, que podría aplicarse también a este examen.",
+      "por_que": "Muestra cómo la inteligencia artificial pone en jaque uno de los exámenes más decisivos del mundo, del que depende el futuro de medio millón de jóvenes.",
+      "source": "Korea Herald vía Asia News Network",
+      "lat": 37.6,
+      "lon": 127.0,
+      "url": "https://asianews.network/south-korean-education-minister-steps-down-amid-controversies-related-to-state-issued-college-entrance-exam/"
     },
     {
-      "region": "Oceanía",
-      "city": "Nassau",
-      "country": "Islas Cook",
+      "region": "Asia",
+      "city": "Timbu",
+      "country": "Bután",
       "category": "ambiente",
-      "headline": "El ciclón Xavier llega a categoría 5 en el norte de las Islas Cook y Nassau queda en emergencia",
-      "summary": "Xavier se intensificó rápido hasta categoría 5 entre Manihiki y Pukapuka y después bajó a categoría 4. El primer ministro Mark Brown declaró el estado de emergencia en Nassau; no se informaron víctimas. Todavía no se sabe cuánto daño hubo en los muelles y la red eléctrica de Manihiki.",
-      "por_que": "Por El Niño, los ciclones se forman más al este y llegan a atolones remotos con muy poca infraestructura.",
-      "source": "1News / PACNEWS",
-      "lat": -11.6,
-      "lon": -165.4,
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+      "headline": "Bután gana el Premio Earthshot 2026 por su plan nacional de restauración de la naturaleza",
+      "summary": "El programa Restore Bhutan ganó la categoría 'Proteger y restaurar la naturaleza' del premio que impulsa el príncipe Guillermo. Bután es uno de los pocos países que absorben más carbono del que emiten. En esta edición también fue premiado un fondo oceánico de Niue.",
+      "por_que": "Pone en primer plano a un país del Himalaya que es ejemplo mundial de conservación y casi nunca aparece en las noticias.",
+      "source": "Kuensel / Conservation International",
+      "lat": 27.5,
+      "lon": 89.6,
+      "url": "https://kuenselonline.com/news/bhutan-wins-earthshot-prize-2026-for-protect-and-restore-nature-category"
+    },
+    {
+      "region": "Europa",
+      "city": "Podgorica",
+      "country": "Montenegro",
+      "category": "ambiente",
+      "headline": "El cambio climático empuja las viñas de Montenegro montaña arriba",
+      "summary": "Los productores trasladan sus viñedos a mayor altura y apuestan por uvas autóctonas para soportar el calor. La bodega Kekovic plantó en 2022 a unos 620 metros, contra los 300 de su viñedo anterior, y este verano tuvo que regar con camiones cisterna. Según el instituto de estadística MONSTAT, el área de vid cayó a 2.432 hectáreas, un mínimo histórico, y el vino local vendido bajó de 124.922 hectolitros en 2021 a 91.883.",
+      "por_que": "Muestra el impacto del calentamiento en una economía rural pequeña que no tiene un seguimiento oficial del problema.",
+      "source": "Balkan Insight (BIRN)",
+      "lat": 42.4,
+      "lon": 19.3,
+      "url": "https://balkaninsight.com/2026/11/23/climate-change-redraws-montenegros-winemaking-map/bi/"
+    },
+    {
+      "region": "Europa",
+      "city": "Budapest",
+      "country": "Hungría",
+      "category": "política",
+      "headline": "Fidesz se hunde: tres exministros de Orbán detenidos y 17,3 millones de euros hallados en un bosque",
+      "summary": "La policía encontró 17,3 millones de euros en efectivo en un bosque, en depósitos y hasta en comederos de pájaros. El dinero está vinculado al exministro Miklós Seszták, acusado de cobrar más de 11.000 millones de forintos en sobornos en una licitación de colectivos de Volánbusz. Fidesz, que perdió las elecciones de abril, mide 16%, contra 55% de Tisza. Según la encuestadora Median, el 68% de los húngaros cree que Orbán debe rendir cuentas.",
+      "por_que": "Muestra la caída del partido que fue durante una década el modelo de los gobiernos iliberales en Europa.",
+      "source": "Balkan Insight (BIRN)",
+      "lat": 47.5,
+      "lon": 19.0,
+      "url": "https://balkaninsight.com/2026/11/23/cash-scandals-arrests-shrinking-alliances-can-hungarys-fidesz-survive/rd/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Mascate",
+      "country": "Omán",
+      "category": "economía",
+      "headline": "Omán elige a la conducción de su Cámara de Comercio con voto desde el celular por primera vez",
+      "summary": "Este lunes 23 empezó la votación para el directorio 2026-2030 de la Cámara de Comercio e Industria de Omán. Están habilitados 18.075 votantes, frente a los 14.977 de 2022. Por primera vez se puede votar con una aplicación móvil, desde Omán o desde el exterior, entre las 8 y las 19. La campaña terminó el domingo.",
+      "por_que": "Es uno de los pocos procesos electivos de un país del Golfo, y la prueba de voto digital puede servir de modelo para la región.",
+      "source": "Oman Observer",
+      "lat": 23.6,
+      "lon": 58.4,
+      "url": "https://www.omanobserver.om/article/1200092/business/oman-chamber-elections-begin-with-18075-voters"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Beirut",
+      "country": "Líbano",
+      "category": "política",
+      "headline": "Líbano cumple 83 años de independencia sin los actos tradicionales y con un reclamo de Aoun por la ocupación",
+      "summary": "El país celebró el domingo 22 el aniversario de su independencia, pero sin las ceremonias habituales por la situación que atraviesa. La víspera, el presidente Joseph Aoun izó la bandera en Nahr el-Kalb. Allí dijo que la independencia plena exige el fin de la ocupación israelí y que el Estado tenga el monopolio de las armas. Hubo homenajes en Yarzé, Rachaya y Beirut, y la administración pública cierra este lunes.",
+      "por_que": "Muestra cómo el Estado libanés intenta recuperar la soberanía en el sur mientras sigue la guerra regional.",
+      "source": "Libnanews / SANA",
+      "lat": 33.9,
+      "lon": 35.5,
+      "url": "https://libnanews.com/live/en-direct-le-liban-commemore-ses-83-ans-dindependance/"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Nuuk",
+      "country": "Groenlandia",
+      "category": "política",
+      "headline": "Dinamarca ratifica el acuerdo de seguridad con Trump que amplía la presencia militar de EE.UU. en Groenlandia",
+      "summary": "El Parlamento danés aprobó por unanimidad el acuerdo de seguridad entre Estados Unidos, Dinamarca y Groenlandia, que amplía el papel militar estadounidense en la isla. El Parlamento groenlandés ya lo había ratificado este mes, con siete abstenciones que muestran a una opinión pública dividida. Washington además abre un consulado más grande en Nuuk.",
+      "por_que": "Cierra el capítulo diplomático que empezó con la pretensión de Trump de quedarse con la isla y redefine la seguridad del Ártico.",
+      "source": "NBC News (Reuters)",
+      "lat": 64.2,
+      "lon": -51.7,
+      "url": "https://www.nbcnews.com/world/greenland/denmark-ratifies-trump-deal-greenland-expanding-us-military-role-rcna610161"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Kingston",
+      "country": "Jamaica",
+      "category": "deporte",
+      "headline": "EE.UU., México, Jamaica y Costa Rica organizarán juntos el Mundial femenino de 2031",
+      "summary": "Los cuatro países fueron confirmados como sedes compartidas del Mundial femenino de fútbol de 2031. Será la primera vez que el Caribe y Centroamérica reciban partidos de una Copa del Mundo femenina. Dato de una sola fuente.",
+      "por_que": "Lleva el fútbol femenino de primer nivel a países chicos de la región que nunca fueron sede de un Mundial.",
+      "source": "Africanews",
+      "lat": 18.0,
+      "lon": -76.8,
+      "url": "https://www.africanews.com/2026/11/23/us-mexico-jamaica-and-costa-rica-to-co-host-2031-fifa-womens-world-cup/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Asunción",
+      "country": "Paraguay",
+      "category": "política",
+      "headline": "Ordenan detener al hermano y a la cuñada del expresidente paraguayo Santiago Peña por el caso Ueno Bank",
+      "summary": "La Fiscalía ordenó la detención preventiva de Francisco Peña Palacios y de su esposa, Rocío Caballero Bosch, por presunto lavado de dinero. La causa es la compra de 1.184 hectáreas en Paraguarí por unos US$3 millones a través de la empresa Pear SRL. La orden salió de la declaración de Julio Rey, exvicepresidente segundo del banco. El escándalo ya le costó el cargo a Santiago Peña, destituido por juicio político, y tiene detenido al ex titular del Banco Central, Carlos Carvallo.",
+      "por_que": "El caso Ueno es la crisis político-financiera más grave del Paraguay en décadas y ahora alcanza a la familia del exmandatario.",
+      "source": "ABC Color / EFE / Infobae",
+      "lat": -25.3,
+      "lon": -57.6,
+      "url": "https://www.infobae.com/america/america-latina/2026/11/23/la-fiscalia-de-paraguay-ordeno-detener-al-hermano-de-santiago-pena-y-a-su-esposa-por-la-causa-de-ueno-bank/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "San Salvador",
+      "country": "El Salvador",
+      "category": "sociedad",
+      "headline": "Centroamérica y República Dominicana envejecen más rápido de lo previsto",
+      "summary": "La región vive una transición demográfica acelerada: baja la mortalidad, la gente vive más y crece la proporción de adultos mayores. En Nicaragua, por ejemplo, las personas mayores ya son cerca del 9% de la población en 2026. El informe advierte que los sistemas de salud y de pensiones no están preparados. Dato de una sola fuente.",
+      "por_que": "Países que todavía se piensan jóvenes van a tener que financiar jubilaciones y cuidados en muy pocos años.",
+      "source": "Infobae (edición El Salvador)",
+      "lat": 13.7,
+      "lon": -89.2,
+      "url": "https://www.infobae.com/el-salvador/2026/11/23/centroamerica-y-republica-dominicana-en-acelerada-transicion-menos-mortalidad-mayor-longevidad-y-el-reto-del-envejecimiento/"
     },
     {
       "region": "Oceanía",
-      "city": "Yaren",
-      "country": "Naoero (Nauru)",
-      "category": "política",
-      "headline": "Naoero va a su primera COP con su nombre ancestral y con un Parlamento sin oposición",
-      "summary": "La ex Nauru, rebautizada República de Naoero en julio, participa por primera vez en una cumbre del clima con ese nombre; su secretario Reagan Moses dijo que 1,5 °C es 'cuestión de supervivencia'. En casa, los 19 diputados se sumaron al oficialismo del presidente David Adeang, algo que no pasaba desde la independencia de 1968.",
-      "por_que": "Uno de los países más chicos del mundo reafirma su identidad mientras concentra el poder político como nunca.",
-      "source": "PACNEWS / Khaosod English (AP)",
-      "lat": -0.5,
-      "lon": 166.9,
-      "url": "https://islandsbusiness.com/pacnews/pacnews-one-20-november-2026/"
+      "city": "Pago Pago",
+      "country": "Samoa Americana",
+      "category": "ambiente",
+      "headline": "EE.UU. subasta 31 millones de acres para minería submarina en Samoa Americana pese a un fallo judicial en contra",
+      "summary": "El 16 de noviembre, la jueza federal Jill Otake, de Honolulu, anuló el aval ambiental que había dado el Servicio Nacional de Pesquerías Marinas. Consideró que violó la Ley de Especies en Peligro porque evaluó solo la venta y no la minería que vendría después. Igual la subasta, la primera de su tipo, se hizo el 19 por unos 31 millones de acres. Earthjustice sostiene que es ilegal, y un consejo de jefes tradicionales samoanos tiene otra demanda en curso.",
+      "por_que": "Es la primera vez que Estados Unidos abre el fondo del Pacífico a la minería, en aguas de un territorio que no votó la decisión.",
+      "source": "Honolulu Civil Beat / Hawaii Tribune-Herald",
+      "lat": -14.3,
+      "lon": -170.7,
+      "url": "https://www.civilbeat.org/2026/11/feds-auctioned-off-deep-sea-mining-permits-in-american-samoa-it-wasnt-legal/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Funafuti",
+      "country": "Tuvalu",
+      "category": "ambiente",
+      "headline": "Tuvalu pide US$160 millones para los sistemas de alerta temprana del Pacífico",
+      "summary": "El primer ministro Feleti Teo pidió a donantes, fondos climáticos, bancos multilaterales y empresas que aporten US$160 millones al plan Weather Ready Pacific, que todavía no tiene financiamiento. También reclamó que se reconozca el trabajo no pago de las mujeres en el manejo de arrecifes, agua y alimentos. Esos datos casi no figuran en los planes climáticos nacionales.",
+      "por_que": "Con la COP31 sin acuerdo, los países más expuestos dependen de que alguien financie sistemas que salvan vidas ante ciclones y marejadas.",
+      "source": "PACNEWS / Islands Business",
+      "lat": -8.5,
+      "lon": 179.2,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-one-19-november-2026/"
     }
   ],
   "breves": [
     {
-      "country": "Malaui",
-      "category": "salud",
-      "text": "Un relevamiento estadístico encontró contaminación fecal en el 74,6% del agua de beber de los hogares, aunque el 91,2% usa fuentes 'mejoradas': el problema aparece entre la fuente y el vaso.",
-      "source": "allAfrica",
-      "lat": -14.0,
-      "lon": 33.8,
-      "url": "https://allafrica.com/stories/202611190111.html"
-    },
-    {
-      "country": "Islas Salomón",
-      "category": "salud",
-      "text": "Una campaña masiva de tratamiento redujo la sarna un 83%, uno de los mayores logros sanitarios recientes del Pacífico.",
-      "source": "PMN",
-      "lat": -9.4,
-      "lon": 160.0,
-      "url": "https://pmn.co.nz/read/health/solomons-cuts-scabies-by-83-per-cent-in-major-pacific-health-victory"
-    },
-    {
-      "country": "Gabón",
+      "country": "Egipto",
       "category": "economía",
-      "text": "Air Burkina retomó la ruta a Libreville con dos vuelos semanales vía Cotonou, en Benín.",
-      "source": "APA News",
-      "lat": 0.4,
-      "lon": 9.5,
-      "url": "https://fr.apanews.net/business/air-burkina-reprend-libreville/"
+      "text": "En El Cairo se hace un festival de la miel que muestra la producción apícola egipcia, una actividad con miles de años de historia en el valle del Nilo.",
+      "source": "Africanews",
+      "lat": 30.0,
+      "lon": 31.2,
+      "url": "https://www.africanews.com/2026/11/23/cairos-honey-festival-showcases-egyptian-honey-bee-industry/"
     },
     {
-      "country": "Kiribati",
-      "category": "ambiente",
-      "text": "Las escuelas recurren a la energía solar para enfrentar la crisis de agua potable que agrava la sequía.",
-      "source": "PMN",
-      "lat": 1.4,
-      "lon": 173.0,
-      "url": "https://pmn.co.nz/read/pacific-region/kiribati-schools-turn-to-solar-as-water-crisis-in-the-pacific-region-grows"
+      "country": "Marruecos",
+      "category": "cultura",
+      "text": "En Marruecos abrió un parque de esculturas surrealistas que 'da vuelta el mundo', con obras que juegan con la perspectiva del visitante.",
+      "source": "Africanews",
+      "lat": 31.6,
+      "lon": -8.0,
+      "url": "https://www.africanews.com/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down/"
     },
     {
-      "country": "Islas Marianas del Norte",
-      "category": "tecnología",
-      "text": "El territorio estadounidense estudia instalar una central nuclear flotante para 2028 y dejar de depender del diésel importado.",
-      "source": "RNZ",
-      "lat": 15.2,
-      "lon": 145.7,
-      "url": "https://www.rnz.co.nz/news/pacific/2634944/northern-marianas-explores-floating-nuclear-power-by-2028"
+      "country": "Zimbabue",
+      "category": "cultura",
+      "text": "Después de un mes de investigación, el escritor zimbabuense Simbarashe Kundizeza quedó libre de sospecha: su cuento premiado lo escribió él y no una inteligencia artificial. Dijo sentirse 'aliviado y feliz'.",
+      "source": "Africanews",
+      "lat": -17.8,
+      "lon": 31.0,
+      "url": "https://www.africanews.com/2026/11/22/zimbabwean-author-cleared-of-using-ai-to-write-prize-winning-story/"
     },
     {
-      "country": "Filipinas",
+      "country": "China",
+      "category": "cultura",
+      "text": "En un festival de otoño, 5.000 drones iluminaron el cielo sobre la represa de las Tres Gargantas, la mayor central hidroeléctrica del mundo.",
+      "source": "Africanews",
+      "lat": 30.8,
+      "lon": 111.0,
+      "url": "https://www.africanews.com/2026/11/23/china-5000-drones-illuminate-sky-over-three-gorges-at-autumn-festival/"
+    },
+    {
+      "country": "Tanzania",
       "category": "sociedad",
-      "text": "Los 146 pasajeros y tripulantes de un avión de Air Niugini salieron ilesos tras un aterrizaje de emergencia en Filipinas.",
-      "source": "The Star",
-      "lat": 14.5,
-      "lon": 121.0,
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/asean-news-headlines-at-10pm-on-saturday-nov-21-2026"
+      "text": "Las autoridades de Zanzíbar investigan qué causó el incendio de un hotel en el archipiélago, uno de los principales destinos turísticos de África oriental.",
+      "source": "Africanews",
+      "lat": -6.2,
+      "lon": 39.2,
+      "url": "https://www.africanews.com/2026/11/23/investigation-underway-into-cause-of-zanzibar-hotel-blaze/"
     },
     {
-      "country": "África",
+      "country": "Maldivas",
+      "category": "economía",
+      "text": "Pakistán y Maldivas acordaron crear un grupo de trabajo conjunto para abrir rutas marítimas directas y aprovechar un comercio que hoy casi no existe.",
+      "source": "The Nation (Pakistán)",
+      "lat": 4.2,
+      "lon": 73.5,
+      "url": "https://www.nation.com.pk/20-Nov-2026/pakistan-maldives-form-jwg-boost-maritime-links-trade"
+    },
+    {
+      "country": "Brasil",
       "category": "derechos",
-      "text": "Según Save the Children, unos 260 millones de chicos africanos vivían en 2025 a menos de 50 km de un conflicto armado: el 44% del total mundial.",
-      "source": "allAfrica",
-      "lat": -1.3,
-      "lon": 36.8,
-      "url": "https://allafrica.com/stories/202611200104.html"
+      "text": "La Marcha del Orgullo de Copacabana llenó de color y baile la costanera de Río de Janeiro.",
+      "source": "Africanews",
+      "lat": -22.97,
+      "lon": -43.18,
+      "url": "https://www.africanews.com/2026/11/23/brazil-colourful-costumes-and-dancing-take-over-copacabana-pride/"
     }
   ],
   "efemerides": {
-    "dia": "22 de noviembre",
+    "dia": "23 de noviembre",
     "items": [
       {
-        "year": "1497",
-        "text": "Vasco da Gama dobla el cabo de Buena Esperanza camino a la India."
+        "year": "1644",
+        "text": "John Milton publica 'Areopagitica', uno de los primeros alegatos a favor de la libertad de imprenta."
       },
       {
-        "year": "1718",
-        "text": "Muere en combate el pirata Barbanegra (Edward Teach) frente a Ocracoke, Carolina del Norte."
+        "year": "1887",
+        "text": "Nace en Londres Boris Karloff, el actor que hizo famoso al monstruo de Frankenstein en el cine."
       },
       {
-        "year": "1786",
-        "text": "Nace en Santa Fe Estanislao López, caudillo y gobernador de la provincia."
+        "year": "1936",
+        "text": "Sale el primer número de la revista Life, que cambió el fotoperiodismo."
       },
       {
-        "year": "1943",
-        "text": "El Líbano se independiza del mandato francés; es su fiesta nacional."
-      },
-      {
-        "year": "1949",
-        "text": "El decreto 29.337 establece la gratuidad de la enseñanza en las universidades nacionales argentinas; hoy es el Día Nacional de la Gratuidad Universitaria."
+        "year": "1941",
+        "text": "Nace el músico y compositor argentino Oscar Alem."
       },
       {
         "year": "1963",
-        "text": "Asesinan al presidente John F. Kennedy en Dallas, Texas."
-      },
-      {
-        "year": "1975",
-        "text": "Juan Carlos I es proclamado rey de España, dos días después de la muerte de Franco."
+        "text": "La BBC emite el primer capítulo de 'Doctor Who', la serie de ciencia ficción más larga de la televisión."
       },
       {
         "year": "1977",
-        "text": "British Airways inaugura los vuelos regulares del Concorde entre Londres y Nueva York."
+        "text": "Un terremoto de magnitud 7,4 destruye Caucete, en San Juan. Por eso cada 23 de noviembre es el Día Nacional de la Defensa Civil en la Argentina."
       },
       {
-        "year": "2004",
-        "text": "Empiezan en Kiev las protestas de la Revolución Naranja contra el fraude electoral en Ucrania."
+        "year": "1980",
+        "text": "Un terremoto en Irpinia, en el sur de Italia, deja cerca de 2.900 muertos."
       },
       {
-        "year": "2015",
-        "text": "Mauricio Macri gana el balotaje presidencial contra Daniel Scioli."
+        "year": "1996",
+        "text": "El vuelo 961 de Ethiopian Airlines, secuestrado, cae al mar frente a las Comoras: mueren 125 de las 175 personas a bordo."
+      },
+      {
+        "year": "2003",
+        "text": "Renuncia Eduard Shevardnadze tras la 'Revolución de las Rosas' en Georgia."
+      },
+      {
+        "year": "2005",
+        "text": "Ellen Johnson Sirleaf es declarada ganadora de las elecciones en Liberia y se convierte en la primera presidenta electa de África."
       }
     ]
   }
