@@ -301,7 +301,7 @@
       const hide = filter !== "all" && filter !== w.track;
       const featured = w.featured && filter === "all";
       return `<article class="work work--${w.track}${featured ? " work--featured" : ""}" id="${w.id}" ${hide ? "hidden" : ""}>
-        <div class="work__media${w.youtube ? " work__media--thumb" : ""}${w.image ? " work__media--image" : ""}${w.logo ? " work__media--logo" : ""}"${thumb(w) ? ` style="background-image:url(${thumb(w)})${w.imagePos ? `;background-position:${w.imagePos}` : ""}"` : ""}>
+        <div class="work__media${w.youtube ? " work__media--thumb" : ""}${w.image ? " work__media--image" : ""}${w.logo ? " work__media--logo" : ""}${w.fit === "full" ? " work__media--full" : ""}"${thumb(w) ? ` style="background-image:url(${thumb(w)})${w.imagePos ? `;background-position:${w.imagePos}` : ""}"` : ""}>
           <span class="work__kind">${esc(L(w.kind))}</span>
           ${w.award ? `<span class="work__badge">★ ${esc(L(w.award))}</span>` : ""}
           ${w.wip ? `<span class="work__badge work__badge--wip">${t("work.wip")}</span>` : ""}

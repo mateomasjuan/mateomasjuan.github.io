@@ -378,6 +378,8 @@ button { font: inherit; cursor: pointer; }
 .work__link--soon { color: var(--grey); font-weight: 400; }
 .work__media--thumb { background-size: cover; background-position: center; }
 .work__media--image { background-size: cover; background-position: center; }
+/* Imagen que se muestra completa, en su proporción (miniatura del Despacho, 1200×627). */
+.work__media--full, .work--featured .work__media--full { aspect-ratio: 1200 / 627; flex: none; min-height: 0; background-size: cover; background-position: center; align-items: flex-start; justify-content: flex-end; }
 .work__media--logo { background-color: var(--sand); background-size: auto 82%; background-repeat: no-repeat; }
 .work__media--thumb::before {
   content: "▶"; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
@@ -529,7 +531,7 @@ button { font: inherit; cursor: pointer; }
   .works, .offcam, .rack__rows, .about { grid-template-columns: 1fr; }
   .off, .off--wide { grid-column: auto; }
   .work--featured { grid-column: auto; }
-  .work--featured .work__media { aspect-ratio: 16 / 9; flex: none; min-height: 0; }
+  .work--featured .work__media:not(.work__media--full) { aspect-ratio: 16 / 9; flex: none; min-height: 0; }
   .facts { grid-template-columns: 1fr 1fr; }
   .insp__main, .insp__side { padding: 22px 18px; }
   .tl-ruler, .tl-track, .tl-group { grid-template-columns: 64px 1fr; }
