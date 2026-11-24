@@ -234,7 +234,7 @@ window.CONTENT = {
       title: { es: "Despacho Global", en: "Despacho Global" },
       context: { es: "Medio digital · Idea y dirección", en: "Digital outlet · Concept and direction" },
       desc: { es: "Un cable de noticias con lo más importante del día y las historias que los grandes medios no cuentan. Ideé el proyecto y definí la línea editorial, las secciones y el criterio de cobertura; las ediciones se generan cada día con IA.", en: "A news wire with the day's main news and the stories big media leave out. I came up with the project and set its editorial line, sections and coverage criteria; each daily edition is generated with AI." },
-      image: "assets/img/trabajos/despacho-global.jpg?v=3", imagePos: "left center",
+      image: "assets/img/trabajos/despacho-global.jpg?v=4", imagePos: "left center",
       url: "despacho-global/index.html"
     },
     {
