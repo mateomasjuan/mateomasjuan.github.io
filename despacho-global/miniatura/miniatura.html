@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<!--
+  Generador de la miniatura de Despacho Global (para LinkedIn, redes y el portfolio).
+  Dibuja con los datos reales de todas las ediciones del archivo.
+  Variantes: miniatura.html?v=mapa | ?v=rincones | ?v=cable
+  Se exporta a PNG con exportar.sh (Chrome sin ventana, 1200×627).
+-->
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Miniatura · Despacho Global</title>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;1,7..72,400&display=block" rel="stylesheet">
+<style>
+  :root{
+    --ground:#F1F2F5; --ink:#0C1020; --muted:#596079; --line:#D3D7E1;
+    --cobalt:#1F36D1; --cobalt-deep:#172AA6; --lime:#D3F33F;
+    --sans:'Schibsted Grotesk',system-ui,sans-serif; --serif:'Literata',Georgia,serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{width:1200px;height:627px;overflow:hidden;background:var(--ink)}
+  .card{position:relative;width:1200px;height:627px;overflow:hidden;font-family:var(--sans)}
+  svg{position:absolute;inset:0;display:block}
+  .mark{width:30px;height:30px;fill:none;stroke:currentColor;stroke-width:2.2}
+  .brandline{display:flex;align-items:center;gap:12px;font-weight:700;font-size:22px;letter-spacing:-.01em}
+  .hl{background:var(--lime);color:var(--ink);padding:.02em .22em;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+  .url{font-weight:500;font-size:19px;letter-spacing:.01em}
+
+  /* ── A · mapa: el mundo hecho de todas las historias publicadas ── */
+  .mapa{background:var(--cobalt);color:#fff}
+  .mapa .txt{position:absolute;left:64px;top:56px;width:480px}
+  .mapa h1{font-weight:900;font-size:74px;line-height:.9;letter-spacing:-.04em;margin-top:40px}
+  .mapa .tag{margin-top:28px;font-weight:500;font-size:24px;line-height:1.35}
+  .mapa .stats{position:absolute;left:64px;bottom:52px;display:flex;gap:34px}
+  .mapa .stat b{display:block;font-weight:800;font-size:40px;letter-spacing:-.03em;color:var(--lime);line-height:1}
+  .mapa .stat span{font-size:16px;font-weight:500;opacity:.8}
+  .mapa .url{position:absolute;right:56px;bottom:56px;opacity:.85}
+
+  /* ── B · rincones: los lugares mismos, escritos donde están ── */
+  .rincones{background:var(--ground);color:var(--ink)}
+  .rincones .place{font-family:var(--sans);fill:var(--muted);font-weight:500}
+  .rincones .place--raro{fill:var(--ink);font-weight:700}
+  .rincones .pin{fill:var(--cobalt)}
+  .rincones .foot{position:absolute;left:0;right:0;bottom:0;height:176px;background:var(--ground);border-top:2px solid var(--ink);padding:26px 60px 0}
+  .rincones h1{font-weight:900;font-size:96px;line-height:.82;letter-spacing:-.05em}
+  .rincones .row{display:flex;justify-content:space-between;align-items:flex-end;margin-top:18px}
+  .rincones .tag{font-weight:500;font-size:22px;line-height:1.25;white-space:nowrap}
+  .rincones .url{color:var(--cobalt);font-weight:600}
+  .rincones .top{position:absolute;left:60px;top:34px;right:60px;display:flex;justify-content:space-between;align-items:center}
+  .rincones .top .kicker{font-size:16px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+
+  /* ── C · cable: la redacción despachando desde los rincones ── */
+  .cable{background:var(--ink);color:#ECEEF7}
+  .cable .wire{position:absolute;left:640px;top:0;right:0;bottom:0;padding:34px 48px 0 40px;border-left:1px solid #242B52;
+    -webkit-mask-image:linear-gradient(#000 70%,transparent);mask-image:linear-gradient(#000 70%,transparent)}
+  .cable .item{padding:13px 0;border-bottom:1px solid #242B52}
+  .cable .item .k{font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#959CBB}
+  .cable .item .k i{font-style:normal;color:var(--lime)}
+  .cable .item p{font-family:var(--serif);font-size:19px;line-height:1.3;margin-top:5px}
+  .cable .item.on p{color:#fff}
+  .cable .txt{position:absolute;left:60px;top:56px;width:540px}
+  .cable h1{font-weight:900;font-size:100px;line-height:.86;letter-spacing:-.045em;margin-top:40px}
+  .cable .tag{margin-top:30px;font-weight:500;font-size:26px;line-height:1.3}
+  .cable .url{position:absolute;left:60px;bottom:52px;color:var(--lime)}
+
+  /* ── D · mapa protagonista (día = cobalto, noche = azul noche) ── */
+  .gran{background:var(--bg);color:#fff}
+  .gran.dia{--bg:#1F36D1;--land:rgba(255,255,255,.30);--grid:rgba(255,255,255,.10);--scrim:#1F36D1}
+  .gran.noche{--bg:#0A0E24;--land:rgba(185,196,255,.26);--grid:rgba(185,196,255,.09);--scrim:#0A0E24}
+  .gran .txt{position:absolute;left:64px;top:60px;width:500px}
+  .gran h1{font-weight:900;font-size:80px;line-height:.9;letter-spacing:-.045em;margin-top:44px}
+  .gran .tag{margin-top:30px;font-weight:500;font-size:25px;line-height:1.35}
+  .gran .bajada{margin-top:18px;font-family:var(--serif);font-size:21px;line-height:1.45;opacity:.88;max-width:420px}
+  .gran .lbl{font-family:var(--sans);font-weight:700;font-size:14px;fill:#fff;letter-spacing:.01em;paint-order:stroke;stroke:var(--bg);stroke-width:5px;stroke-linejoin:round}
+  .gran .lbl-bg{fill:var(--bg);fill-opacity:.0}
+
+  /* ── E · fuera del radar: el radar de los grandes medios y lo que queda afuera ── */
+  .radar{background:#1F36D1;color:#fff}
+  .radar .sweep{position:absolute;border-radius:50%;
+    background:conic-gradient(from -23deg, rgba(211,243,63,0) 0deg, rgba(211,243,63,.34) 75deg, rgba(211,243,63,0) 75.3deg)}
+  .radar .brandline{position:absolute;left:60px;top:50px}
+  .radar .txt{position:absolute;left:60px;bottom:52px;width:600px}
+  .radar .kick{font-size:15px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--lime)}
+  .radar h1{font-weight:900;font-size:96px;line-height:.86;letter-spacing:-.05em;margin-top:12px}
+  .radar .bajada{margin-top:20px;font-family:var(--serif);font-size:21px;line-height:1.42;max-width:520px;color:rgba(255,255,255,.92)}
+  .radar .lbl{font-family:var(--sans);font-weight:800;font-size:12px;letter-spacing:.11em;fill:#fff;text-transform:uppercase;paint-order:stroke;stroke:#1F36D1;stroke-width:4px;stroke-linejoin:round}
+  .radar .coord{font-family:var(--sans);font-weight:500;font-size:10px;letter-spacing:.05em;fill:rgba(255,255,255,.8);font-variant-numeric:tabular-nums;paint-order:stroke;stroke:#1F36D1;stroke-width:4px;stroke-linejoin:round}
+  .radar .rlbl{font-family:var(--sans);font-weight:600;font-size:10px;letter-spacing:.14em;fill:rgba(255,255,255,.55);text-transform:uppercase}
+</style>
+</head>
+<body>
+<div class="card" id="card"></div>
+<script src="../assets/vendor/d3-array.min.js"></script>
+<script src="../assets/vendor/d3-geo.min.js"></script>
+<script src="../assets/vendor/topojson-client.min.js"></script>
+<script>
+const V = new URLSearchParams(location.search).get('v') || 'mapa';
+const MARK = '<svg class="mark" viewBox="0 0 32 32" style="position:static"><circle cx="16" cy="16" r="14"/><ellipse cx="16" cy="16" rx="6.5" ry="14"/><path d="M16 2v28"/></svg>';
+const URL_TXT = 'mateomasjuan.github.io/despacho-global';
+// Países que casi nunca aparecen en los diarios: los que más queremos mostrar.
+const GRANDES = new Set(['Estados Unidos','China','Rusia','Ucrania','Israel','Francia','Alemania','Reino Unido','Argentina','Brasil','México','Canadá','España','Italia','Japón','India','Irán','Palestina']);
+
+async function datos(){
+  const indice = await (await fetch('../data/archivo/indice.json')).json();
+  const eds = await Promise.all(indice.map(e => fetch('../data/' + e.archivo).then(r => r.json())));
+  const notas = [], paises = new Map();
+  for (const ed of eds) for (const s of ['ranking','argentina','mundo','breves']) for (const n of (ed[s] || [])) {
+    notas.push({...n, seccion:s, fecha:ed.fecha});
+    if (n.country && n.lat != null) {
+      const p = paises.get(n.country) || {n:0, lat:0, lon:0};
+      p.n++; p.lat += +n.lat; p.lon += +n.lon; paises.set(n.country, p);
+    }
+  }
+  for (const [k,p] of paises) { p.lat /= p.n; p.lon /= p.n; p.name = k; }
+  return {eds, notas, paises:[...paises.values()]};
+}
+
+async function mundo(){
+  const topo = await (await fetch('../assets/vendor/countries-110m.json')).json();
+  return topojson.feature(topo, topo.objects.land);
+}
+
+const fmt = n => n.toLocaleString('es-AR');
+
+async function mapa(card){
+  const [{eds, notas, paises}, land] = await Promise.all([datos(), mundo()]);
+  card.className = 'card mapa';
+  const proj = d3.geoEqualEarth().fitExtent([[500, 60], [1176, 540]], {type:'Sphere'});
+  const path = d3.geoPath(proj);
+  const g = d3.geoGraticule10();
+  const pts = notas.filter(n => n.lat != null && n.seccion !== 'argentina');
+  card.innerHTML = `
+    <svg viewBox="0 0 1200 627" width="1200" height="627">
+      <defs><pattern id="ld" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="1.45" fill="rgba(255,255,255,.34)"/></pattern></defs>
+      <path d="${path({type:'Sphere'})}" fill="none" stroke="rgba(255,255,255,.16)"/>
+      <path d="${path(g)}" fill="none" stroke="rgba(255,255,255,.09)"/>
+      <path d="${path(land)}" fill="url(#ld)"/>
+      ${pts.map(n => { const [x,y] = proj([+n.lon, +n.lat]) || [];
+        return x ? `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${n.seccion==='mundo'||n.seccion==='breves'?3.4:2.6}" fill="${n.seccion==='ranking'?'#fff':'#D3F33F'}" fill-opacity=".9"/>` : ''; }).join('')}
+    </svg>
+    <div class="txt">
+      <div class="brandline">${MARK}<span>Despacho Global</span></div>
+      <h1>Las noticias que nadie cuenta</h1>
+      <p class="tag"><span class="hl">Damos lugar a quienes no son escuchados.</span></p>
+    </div>
+    <div class="stats">
+      <div class="stat"><b>${fmt(eds.length)}</b><span>ediciones</span></div>
+      <div class="stat"><b>${fmt(notas.length)}</b><span>historias</span></div>
+      <div class="stat"><b>${fmt(paises.length)}</b><span>países</span></div>
+    </div>
+    <p class="url">${URL_TXT}</p>`;
+}
+
+async function rincones(card){
+  const {eds, notas, paises} = await datos();
+  card.className = 'card rincones';
+  const proj = d3.geoEqualEarth().fitWidth(1240, {type:'Sphere'});
+  const [tx] = proj.translate();
+  proj.translate([tx - 20, proj.translate()[1] + (112 - proj([0, 66])[1])]);
+  // Una etiqueta por país, sin pisarse: primero los más raros (menos apariciones).
+  const NO = /[(/]|^(África|Asia|Europa|Oceanía|Medio Oriente|Mundo|Internacional|Latinoamérica|Caribe|Sahel|Pacífico)$/;
+  const orden = paises.filter(p => p.name !== 'Argentina' && !NO.test(p.name)).sort((a,b) => (GRANDES.has(a.name)-GRANDES.has(b.name)) || a.n - b.n);
+  const puestas = [];
+  const choca = r => puestas.some(q => r.x < q.x + q.w + 6 && r.x + r.w + 6 > q.x && r.y < q.y + q.h + 2 && r.y + r.h + 2 > q.y);
+  const ctx = document.createElement('canvas').getContext('2d');
+  for (const p of orden) {
+    const [x, y] = proj([p.lon, p.lat]) || [];
+    if (x == null || y > 440) continue;           // la franja de abajo es para la marca
+    const raro = !GRANDES.has(p.name) && p.n <= 3;
+    const size = raro ? 14 : 11.5;
+    ctx.font = `${raro?700:500} ${size}px "Schibsted Grotesk"`;
+    const w = ctx.measureText(p.name).width + 9;
+    const r = {x: x - 4, y: y - size * .62, w, h: size * 1.1};
+    if (r.x + r.w > 1170 || r.x < 30 || r.y < 78 || choca(r)) continue;
+    puestas.push({...r, p, x0:x, y0:y, size, raro});
+  }
+  card.innerHTML = `
+    <div class="top">
+      <div class="brandline">${MARK}<span>Despacho Global</span></div>
+      <span class="kicker">${fmt(notas.length)} historias · ${fmt(paises.length)} países</span>
+    </div>
+    <svg viewBox="0 0 1200 627" width="1200" height="627">
+      ${puestas.map(q => `<circle class="pin" cx="${q.x0.toFixed(1)}" cy="${q.y0.toFixed(1)}" r="${q.raro?2.6:2}"/>
+        <text class="place${q.raro?' place--raro':''}" x="${(q.x0+6).toFixed(1)}" y="${(q.y0+q.size*.36).toFixed(1)}" font-size="${q.size}">${q.p.name}</text>`).join('')}
+    </svg>
+    <div class="foot">
+      <h1>Despacho Global</h1>
+      <div class="row">
+        <p class="tag"><span class="hl">Damos lugar a quienes no son escuchados.</span> Historias de los rincones del mundo.</p>
+        <span class="url">${URL_TXT.replace('/despacho-global','')}</span>
+      </div>
+    </div>`;
+}
+
+async function cable(card){
+  const {eds, notas, paises} = await datos();
+  card.className = 'card cable';
+  const ult = eds[eds.length - 1];
+  const items = (ult.mundo || []).filter(n => !GRANDES.has(n.country)).slice(0, 7);
+  const dia = d => { const [y,m,dd] = d.split('-'); return `${+dd} ${['ENE','FEB','MAR','ABR','MAY','JUN','JUL','AGO','SEP','OCT','NOV','DIC'][m-1]}`; };
+  card.innerHTML = `
+    <div class="txt">
+      <div class="brandline">${MARK}<span>Despacho Global</span></div>
+      <h1>Despachos desde los rincones del mundo</h1>
+      <p class="tag"><span class="hl">Damos lugar a quienes no son escuchados.</span></p>
+    </div>
+    <p class="url">${URL_TXT}</p>
+    <div class="wire">
+      ${items.map((n,i) => `<div class="item${i===0?' on':''}"><div class="k"><i>●</i> ${n.country} · ${n.region} · ${dia(ult.fecha)}</div><p>${n.headline}</p></div>`).join('')}
+    </div>`;
+}
+
+
+async function gran(card, tema){
+  const [{notas}, land] = await Promise.all([datos(), mundo()]);
+  card.className = 'card gran ' + tema;
+  const proj = d3.geoEqualEarth().fitExtent([[330, -20], [1330, 650]], {type:'Sphere'});
+  const path = d3.geoPath(proj);
+  const pts = notas.filter(n => n.lat != null && (n.seccion === 'mundo' || n.seccion === 'breves'));
+  // Etiquetas: lugares poco nombrados, lejos del texto y sin pisarse.
+  const cuenta = {}; for (const n of pts) cuenta[n.country] = (cuenta[n.country] || 0) + 1;
+  const NO = /[(/]|^(África|Asia|Europa|Oceanía|Medio Oriente|Mundo|Internacional)$/;
+  // Rincones: se usan los que hayan salido en el Despacho, en este orden de preferencia.
+  const RINCONES = ['Bután','Tuvalu','Niue','Islas Cook','Chad','Malí','Mongolia','Kirguistán','Tayikistán','Laos','Ruanda','Cabo Verde',
+    'Guinea-Bisáu','Esuatini','Malaui','Yibuti','Comoras','Nauru','Kiribati','Vanuatu','Sudán del Sur','Gabón','Timor Oriental','Maldivas','Dominica','Surinam'];
+  const cand = RINCONES.filter(c => cuenta[c])
+    .map(c => { const n = pts.find(p => p.country === c); const [x,y] = proj([+n.lon, +n.lat]) || []; return {c, x, y}; })
+    .filter(q => q.x > 640 && q.x < 1130 && q.y > 70 && q.y < 560)
+    ;
+  const puestas = [];
+  for (const q of cand) {
+    const w = q.c.length * 8.2 + 14, r = {x:q.x + 9, y:q.y - 10, w, h:20};
+    if (puestas.some(o => r.x < o.x + o.w + 18 && r.x + r.w + 18 > o.x && r.y < o.y + o.h + 22 && r.y + r.h + 22 > o.y)) continue;
+    puestas.push({...r, ...q, x0:q.x, y0:q.y}); if (puestas.length >= 8) break;
+  }
+  const mer = proj([25, 0])[0];
+  card.innerHTML = `
+    <svg viewBox="0 0 1200 627" width="1200" height="627">
+      <defs>
+        <pattern id="ld" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="1.5" fill="var(--land)"/></pattern>
+        <linearGradient id="scrim" x1="0" x2="1"><stop offset=".30" stop-color="var(--scrim)"/><stop offset=".56" stop-color="var(--scrim)" stop-opacity="0"/></linearGradient>
+        <linearGradient id="estela" x1="0" x2="1"><stop offset="0" stop-color="#D3F33F" stop-opacity="0"/><stop offset="1" stop-color="#D3F33F" stop-opacity=".16"/></linearGradient>
+        <radialGradient id="halo"><stop offset="0" stop-color="#D3F33F" stop-opacity=".55"/><stop offset="1" stop-color="#D3F33F" stop-opacity="0"/></radialGradient>
+      </defs>
+      <path d="${path(d3.geoGraticule10())}" fill="none" stroke="var(--grid)"/>
+      <path d="${path(land)}" fill="url(#ld)"/>
+      <line x1="${mer}" y1="0" x2="${mer}" y2="627" stroke="#D3F33F" stroke-width="2"/>
+      ${pts.map(n => { const [x,y] = proj([+n.lon, +n.lat]) || []; return x ? `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="11" fill="url(#halo)"/>` : ''; }).join('')}
+      ${pts.map(n => { const [x,y] = proj([+n.lon, +n.lat]) || []; return x ? `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3.2" fill="#D3F33F"/>` : ''; }).join('')}
+      ${puestas.map(q => `<circle cx="${q.x0.toFixed(1)}" cy="${q.y0.toFixed(1)}" r="7.5" fill="none" stroke="#fff" stroke-width="1.6"/>
+        <text class="lbl" x="${(q.x0 + 13).toFixed(1)}" y="${(q.y0 + 4.5).toFixed(1)}">${q.c}</text>`).join('')}
+      <rect width="1200" height="627" fill="url(#scrim)"/>
+    </svg>
+    <div class="txt">
+      <div class="brandline">${MARK}<span>Despacho Global</span></div>
+      <h1>Las noticias que nadie cuenta</h1>
+      <p class="tag"><span class="hl">Damos lugar a quienes no son escuchados.</span></p>
+      <p class="bajada">Un diario que cada mañana trae historias de los rincones del mundo.</p>
+    </div>`;
+}
+
+
+async function radar(card){
+  const [{notas}, land] = await Promise.all([datos(), mundo()]);
+  card.className = 'card radar';
+  const proj = d3.geoEqualEarth().rotate([-12, 0]).fitExtent([[-10, 26], [1210, 668]], {type:'Sphere'});
+  const path = d3.geoPath(proj);
+  // El radar de los grandes medios: centrado en el Atlántico Norte (EE.UU., Europa, Medio Oriente).
+  const [cx, cy] = proj([-28, 30]); const R = 178;
+  const dentro = (x, y) => Math.hypot(x - cx, y - cy) < R;
+  const pts = notas.filter(n => n.lat != null && n.seccion !== 'argentina')
+    .map(n => { const [x, y] = proj([+n.lon, +n.lat]) || []; return {...n, x, y}; }).filter(n => n.x != null);
+  const afuera = pts.filter(n => !dentro(n.x, n.y) && (n.seccion === 'mundo' || n.seccion === 'breves'));
+  const enRadar = pts.filter(n => dentro(n.x, n.y));
+  // Popurrí: de a un lugar por continente, en ronda, donde no pise el texto ni el radar.
+  const GRUPOS = [
+    ['Jamaica','Haití','Dominica','Cuba','Groenlandia','Puerto Rico'],
+    ['Chad','Esuatini','Malí','Sudán del Sur','Malaui','Namibia','Angola','Cabo Verde','Somalia'],
+    ['Mongolia','Bután','Tayikistán','Laos','Kirguistán','Sri Lanka','Camboya'],
+    ['Tuvalu','Vanuatu','Islas Salomón','Tonga','Islas Marshall','Papúa Nueva Guinea','Fiyi'],
+    ['Georgia','Omán','Yemen','Moldavia'],
+  ];
+  const gc = (v, p, n) => `${Math.abs(v).toFixed(1).replace('.', ',')}°${v >= 0 ? p : n}`;
+  const lejosDelRadar = r => Math.hypot(Math.max(r.x, Math.min(cx, r.x + r.w)) - cx, Math.max(r.y, Math.min(cy, r.y + r.h)) - cy) > R + 10;
+  const puestas = [], usados = new Set();
+  const cabe = r => r.x + r.w < 1188 && r.y > 16 && r.y + r.h < 612 && lejosDelRadar(r) &&
+    !(r.x < 560 && r.y + r.h > 300) && !(r.x < 330 && r.y < 100) &&
+    !puestas.some(o => r.x < o.x + o.w + 10 && r.x + r.w + 10 > o.x && r.y < o.y + o.h + 6 && r.y + r.h + 6 > o.y);
+  for (let ronda = 0; ronda < 9 && puestas.length < 13; ronda++) for (const g of GRUPOS) {
+    if (puestas.length >= 13) break;
+    for (const c of g) {
+      if (usados.has(c)) continue;
+      const n = afuera.find(p => p.country === c); if (!n) continue;
+      usados.add(c);
+      const w = Math.max(c.length * 9.6, 86) + 4;
+      const der = {x: n.x + 9, y: n.y - 11, w, h: 27}, izq = {x: n.x - 9 - w, y: n.y - 11, w, h: 27, izq: true};
+      const r = cabe(der) ? der : cabe(izq) ? izq : null;
+      if (!r) continue;
+      puestas.push({...r, n, c}); break;
+    }
+  }
+  const anillos = [1, .75, .5, .25].map(k => `<circle cx="${cx}" cy="${cy}" r="${R * k}" fill="none" stroke="rgba(255,255,255,${k === 1 ? .55 : .22})" stroke-width="${k === 1 ? 1.4 : 1}"/>`).join('');
+  const marcas = Array.from({length: 72}, (_, i) => { const a = i * 5 * Math.PI / 180, l = i % 6 ? 5 : 11;
+    return `<line x1="${cx + Math.cos(a) * R}" y1="${cy + Math.sin(a) * R}" x2="${cx + Math.cos(a) * (R + l)}" y2="${cy + Math.sin(a) * (R + l)}" stroke="rgba(255,255,255,.55)"/>`; }).join('');
+  const ang = -38 * Math.PI / 180;
+  card.innerHTML = `
+    <svg viewBox="0 0 1200 627" width="1200" height="627">
+      <defs>
+        <pattern id="ld" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="1.45" fill="rgba(255,255,255,.30)"/></pattern>
+        <clipPath id="disco"><circle cx="${cx}" cy="${cy}" r="${R}"/></clipPath>
+        <clipPath id="sinpolo"><rect width="1200" height="${proj([0, -58])[1]}"/></clipPath>
+        <radialGradient id="marca" cx="0" cy="0" r=".45"><stop offset=".25" stop-color="#1F36D1"/><stop offset="1" stop-color="#1F36D1" stop-opacity="0"/></radialGradient>
+        <linearGradient id="pie" x1="0" y1="1" x2=".55" y2="0"><stop offset="0" stop-color="#1F36D1"/><stop offset=".42" stop-color="#1F36D1" stop-opacity=".92"/><stop offset=".75" stop-color="#1F36D1" stop-opacity="0"/></linearGradient>
+      </defs>
+      <path d="${path(land)}" fill="url(#ld)" clip-path="url(#sinpolo)"/>
+      <g clip-path="url(#disco)"><path d="${path(land)}" fill="rgba(255,255,255,.10)"/></g>
+      ${anillos}${marcas}
+      <line x1="${cx - R}" y1="${cy}" x2="${cx + R}" y2="${cy}" stroke="rgba(255,255,255,.22)"/>
+      <line x1="${cx}" y1="${cy - R}" x2="${cx}" y2="${cy + R}" stroke="rgba(255,255,255,.22)"/>
+      ${Array.from({length: 22}, (_, i) => { const a = ang - i * 2.6 * Math.PI / 180;
+        return `<line x1="${cx}" y1="${cy}" x2="${cx + Math.cos(a) * R}" y2="${cy + Math.sin(a) * R}" stroke="#D3F33F" stroke-opacity="${(1 - i / 22) ** 2 * (i ? .5 : 1)}" stroke-width="${i ? 1 : 2}"/>`; }).join('')}
+      <text class="rlbl" x="${cx}" y="${cy - R - 22}" text-anchor="middle">El radar de siempre</text>
+      ${enRadar.map(n => `<circle cx="${n.x.toFixed(1)}" cy="${n.y.toFixed(1)}" r="2.4" fill="rgba(255,255,255,.6)"/>`).join('')}
+      ${afuera.map(n => `<rect x="${(n.x - 3).toFixed(1)}" y="${(n.y - 3).toFixed(1)}" width="6" height="6" fill="#D3F33F"/>`).join('')}
+      <rect width="1200" height="627" fill="url(#pie)"/>
+      <rect width="1200" height="627" fill="url(#marca)" opacity=".85"/>
+      ${puestas.map(q => { const tx = q.izq ? q.x + q.w - 3 : q.x + 3, an = q.izq ? 'end' : 'start'; return `
+        <rect x="${(q.n.x - 7).toFixed(1)}" y="${(q.n.y - 7).toFixed(1)}" width="14" height="14" fill="none" stroke="#fff" stroke-width="1.3"/>
+        <rect x="${(q.n.x - 3).toFixed(1)}" y="${(q.n.y - 3).toFixed(1)}" width="6" height="6" fill="#D3F33F"/>
+        <text class="lbl" x="${tx}" y="${q.n.y - 1}" text-anchor="${an}">${q.c}</text>
+        <text class="coord" x="${tx}" y="${q.n.y + 12}" text-anchor="${an}">${gc(+q.n.lat, 'N', 'S')} ${gc(+q.n.lon, 'E', 'O')}</text>`; }).join('')}
+    </svg>
+    <div class="brandline">${MARK}<span>Despacho Global</span></div>
+    <div class="txt">
+      <p class="kick">Lo que los grandes medios no miran</p>
+      <h1>Fuera del radar</h1>
+      <p class="bajada">Un diario que cada mañana trae historias de los rincones del mundo.</p>
+    </div>`;
+}
+
+Promise.all(['400 20px "Schibsted Grotesk"','500 20px "Schibsted Grotesk"','700 20px "Schibsted Grotesk"','900 20px "Schibsted Grotesk"','400 20px Literata'].map(f => document.fonts.load(f))).then(() => ({mapa, rincones, cable, radar, dia: c => gran(c,'dia'), noche: c => gran(c,'noche')}[V] || mapa)(document.getElementById('card')))
+  .then(() => document.body.dataset.listo = '1');
+</script>
+</body>
+</html>
