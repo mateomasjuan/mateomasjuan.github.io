@@ -1,0 +1,530 @@
+{
+  "edicion": 31,
+  "fecha": "2026-11-24",
+  "generado": "2026-11-24T09:22:30-03:00",
+  "nota_editor": "Ormuz sigue marcando el pulso del petróleo y de los mercados, Europa sube la presión sobre Moscú y el Congreso argentino se prepara para un jueves cargado. Hoy además se cumplen diez años del acuerdo de paz en Colombia.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.600",
+      "variacion": "",
+      "nota": "último cierre del viernes 20/11; el lunes 23 fue feriado"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.675",
+      "variacion": "",
+      "nota": "venta, relevamiento del 23/11"
+    },
+    {
+      "label": "Dólar MEP",
+      "valor": "$1.701",
+      "variacion": "",
+      "nota": "referencia del 23/11"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "1.015",
+      "variacion": "-55",
+      "nota": "lunes 23/11 en Wall Street, después de tocar 1.070 el viernes, el máximo en un año"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "80.583",
+      "variacion": "-0,24%",
+      "nota": "cierre del viernes 20/11"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "2,2%",
+      "variacion": "+0,3 pp",
+      "nota": "octubre de 2026; 33,1% interanual y 26,3% acumulada en el año"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$88,62",
+      "variacion": "-0,8%",
+      "nota": "martes 24/11 a media mañana, mínimo en tres meses"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Estrecho de Ormuz",
+      "country": "Irán",
+      "headline": "Irán dice que tres petroleros tocaron minas en Ormuz pese a la escolta de EE.UU., y Washington amplía las sanciones",
+      "summary": "La Guardia Revolucionaria informó que tres petroleros se incendiaron después de tocar minas en el estrecho mientras navegaban bajo protección militar estadounidense. La Armada iraní habló de dos buques que entraron en una 'zona prohibida' con los sistemas de identificación apagados. Los medios estatales iraníes afirman que más de 30 barcos tocaron minas desde principios de noviembre. El mismo día, el Tesoro de EE.UU. sancionó a más de dos docenas de casas de cambio y empresas pantalla iraníes. Las cifras de buques alcanzados no fueron verificadas de forma independiente.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "CNBC / Al Jazeera",
+      "time_note": "hoy",
+      "lat": 26.6,
+      "lon": 56.3,
+      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
+    },
+    {
+      "city": "Bengasi",
+      "country": "Libia",
+      "headline": "Ucrania hunde una corbeta rusa en el puerto libio de Bengasi y lleva la guerra al norte de África",
+      "summary": "Volodímir Zelenski afirmó que siete drones navales hundieron la corbeta Merkury en la base naval de Bengasi y destruyeron un helicóptero que estaba a bordo. Según Kiev, también quedó dañado un carguero ruso sancionado. Dos funcionarios libios confirmaron daños graves en el buque. Es el primer reconocimiento oficial ucraniano de un ataque en Libia. El Kremlin dijo que 'tomó nota' y la misión de la ONU en Libia pidió una investigación independiente.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "CNBC / CNN",
+      "time_note": "ayer",
+      "lat": 32.1,
+      "lon": 20.1,
+      "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
+    },
+    {
+      "city": "Bruselas",
+      "country": "Bélgica",
+      "headline": "La Comisión Europea presenta el 22º paquete de sanciones contra Rusia, con 70 buques más de la flota fantasma",
+      "summary": "Ursula von der Leyen anunció el paquete el lunes 23. Suma más de 70 buques a la lista negra y propone prohibir los petroleros asegurados en Rusia. Además, apunta contra terceros países que ayudan a eludir las sanciones e incluye una restricción de visados para excombatientes. Para entrar en vigor necesita la aprobación unánime del Consejo de la UE.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Ukrinform / Interfax-Ucrania",
+      "time_note": "ayer",
+      "lat": 50.8,
+      "lon": 4.4,
+      "url": "https://www.ukrinform.net/rubric-polytics/4187792-european-commission-presents-22nd-package-of-sanctions-against-russia.html"
+    },
+    {
+      "city": "Madrid",
+      "country": "España",
+      "headline": "España entra en veda de encuestas con el PP adelante y Feijóo cerca de desplazar a Sánchez",
+      "summary": "El último sondeo publicable, de 40dB para El País, da 31,8% al PP, 30,9% al PSOE y 17,3% a Vox. Desde el 24 de noviembre no se pueden publicar encuestas antes de las elecciones generales anticipadas del domingo 29. Según los promedios, PP y Vox sumarían unas 191 de las 350 bancas, y la mayoría absoluta es de 176. El CIS, el instituto estatal, es la excepción: pone primero al PSOE con 33,3%.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Bloomberg / The Local",
+      "time_note": "ayer",
+      "lat": 40.4,
+      "lon": -3.7,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/spain-poll-shows-feijoo-on-track-to-oust-sanchez-as-premier"
+    },
+    {
+      "city": "Bagdad",
+      "country": "Irak",
+      "headline": "Bagdad ordena tomar el control de los pozos y los pasos fronterizos que maneja el Kurdistán iraquí",
+      "summary": "El primer ministro Ali al-Zaidi ordenó que el Ministerio de Petróleo federal administre los yacimientos de Diyala, Kirkuk, Salahuddin y Nínive que están bajo control de seguridad kurdo. También ordenó tomar los pasos fronterizos de la región. La medida llega después de una investigación por contrabando en la North Oil Company: su director general y sus adjuntos fueron suspendidos. El día anterior, el ministro de Petróleo, Basim Khudair, había acusado al gobierno regional kurdo de quedarse con pozos de la empresa federal.",
+      "category": "economía",
+      "impact": "alto",
+      "source": "Rudaw / The National / Reuters",
+      "time_note": "hoy",
+      "lat": 33.3,
+      "lon": 44.4,
+      "url": "https://www.rudaw.net/english/categories/iraq/1080288"
+    },
+    {
+      "city": "Gaza",
+      "country": "Palestina",
+      "headline": "Bombardeos israelíes matan a un alto jefe de seguridad de Hamás y a un trabajador de la UNRWA pese al alto el fuego",
+      "summary": "Según médicos locales, ataques aéreos israelíes mataron el martes a Naeem Abu Nahel, un alto responsable de seguridad de Hamás, y a otras seis personas. El lunes, otro ataque había matado a al menos tres personas, entre ellas Adel al-Helo, trabajador de la UNRWA. Las fuerzas israelíes siguen demoliendo viviendas más allá de la 'Línea Amarilla', detrás de la cual debían replegarse según el alto el fuego. Desde el inicio de la guerra hay 74.736 palestinos muertos.",
+      "category": "conflicto",
+      "impact": "medio",
+      "source": "Asharq Al-Awsat / Al Jazeera",
+      "time_note": "hoy",
+      "lat": 31.5,
+      "lon": 34.5,
+      "url": "https://english.aawsat.com/arab-world/5344967-israeli-airstrikes-gaza-kill-senior-hamas-security-official-and-six-others"
+    },
+    {
+      "city": "Daca",
+      "country": "Bangladés",
+      "headline": "Sheikh Hasina anuncia que quiere volver a Bangladés el 16 de diciembre y Daca responde que solo será por extradición",
+      "summary": "La ex primera ministra, refugiada en la India, pidió al gobierno que le organice el vuelo desde Delhi para el 16 de diciembre, Día de la Victoria. El gobierno insiste en que solo puede volver extraditada, y un ministro dijo que llegaría detenida o bajo vigilancia estricta. La Guardia Fronteriza reforzó los patrullajes en la frontera con la India.",
+      "category": "política",
+      "impact": "medio",
+      "source": "The Manila Times / The Statesman",
+      "time_note": "hoy",
+      "lat": 23.8,
+      "lon": 90.4,
+      "url": "https://www.manilatimes.net/2026/11/24/world/bangladesh-ex-pm-hasina-asks-dhaka-for-december-16-return/2476891"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Súper jueves en el Congreso: el Gobierno quiere aprobar el Presupuesto 2027 en Diputados y suspender las PASO en el Senado el mismo día",
+      "summary": "El oficialismo apunta a llevar el Presupuesto 2027 al recinto de Diputados el jueves 26, aunque todavía no hay convocatoria formal. El dictamen de mayoría se firmó el 17 de noviembre con 27 firmas: 20 de La Libertad Avanza y 7 de aliados. Ese mismo jueves, el Senado votaría la suspensión de las PASO, que necesita 37 votos; Patricia Bullrich dice que tiene entre 38 y 40. La Cámara alta también tratará la ley contra la ludopatía infantil antes de que pierda estado parlamentario el 30 de noviembre.",
+      "source": "MDZ / Perfil / Parlamentario",
+      "time_note": "hoy",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.mdzol.com/politica/2026/11/24/super-jueves-en-el-congreso-el-gobierno-va-por-el-presupuesto-2027-y-la-suspension-de-las-paso-1997411.html"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El riesgo país baja a 1.015 puntos después de la peor semana del año para los bonos",
+      "summary": "Con el mercado local cerrado por el feriado, los bonos argentinos rebotaron en el exterior y el riesgo país cayó 55 puntos, hasta 1.015. El viernes había llegado a 1.070, su nivel más alto en un año, después de un salto semanal de 29%. El S&P Merval cerró el viernes en 80.583 puntos, con una baja de 0,24%. El Tesoro enfrenta un vencimiento en pesos de unos $20 billones.",
+      "source": "La Nueva / Ámbito / El Destape",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://lanueva.com/nota/2026-11-23-13-34-0-repuntan-los-activos-argentinos-y-baja-el-riesgo-pais-ante-mejor-clima-en-los-mercados-internacionales"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Fin de semana largo flojo: viajaron 17,4% menos turistas y el gasto real cayó 30,3%",
+      "summary": "Según CAME, 1.410.000 turistas viajaron por el país durante el fin de semana largo por el Día de la Soberanía y gastaron $332.557 millones. El gasto diario por turista fue de $118.770, 3,1% menos en términos reales, y la estadía promedio bajó de 2,3 a 2 noches. Parte de la caída se explica porque en 2025 el fin de semana fue de cuatro días.",
+      "source": "MDZ / Noticias Argentinas",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.mdzol.com/economia/2026/11/23/las-cifras-del-fin-de-semana-largo-de-noviembre-viajaron-174-turistas-menos-y-el-gasto-real-cayo-303-1997398.html"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La metalurgia cae 2,1% en octubre y usa apenas el 41,8% de su capacidad, el nivel más bajo desde 2016",
+      "summary": "ADIMRA informó que la actividad metalúrgica subió 0,8% contra septiembre, pero cayó 2,1% interanual, y acumula una baja de 5% en 2026. Bienes de capital fue el rubro más golpeado (-9,2%) y suma 18 meses seguidos en baja; Santa Fe fue la provincia con mayor caída (-5,6%). El empleo del sector bajó 1,1% interanual.",
+      "source": "C5N / Perfil",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.c5n.com/economia/la-industria-metalurgica-sigue-repuntar-cayo-21-octubre-y-acumula-una-baja-del-5-2026-n255080"
+    },
+    {
+      "tag": "Ciencia",
+      "city": "La Plata",
+      "country": "Argentina",
+      "headline": "Investigadores de la UNLP detectan en el país una nueva variante de Covid, la PJ.2.1",
+      "summary": "Un equipo de la Universidad Nacional de La Plata identificó el linaje PJ.2.1, descendiente de Ómicron, en tres pacientes internados en la provincia de Buenos Aires: dos bebés de uno y dos meses y un adulto de 58 años. La OMS la tiene entre las variantes bajo vigilancia. El último boletín epidemiológico nacional registra una leve suba de detecciones de SARS-CoV-2 desde la semana 35.",
+      "source": "Infobae / El Tribuno de Jujuy",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.9,
+      "lon": -57.9,
+      "url": "https://www.infobae.com/salud/ciencia/2026/11/23/que-se-sabe-de-la-nueva-variante-del-covid-que-se-detecto-en-argentina-y-cuales-son-los-riesgos/"
+    },
+    {
+      "tag": "Seguridad",
+      "city": "La Bebida",
+      "country": "Argentina",
+      "headline": "Se entregan los tres acusados del crimen de Sebastián Gil, el joven baleado en los festejos de Boca en San Juan",
+      "summary": "Isaías Jorge Díaz, de 21 años y señalado como el autor del disparo, su padre Jorge Antonio Díaz y su tío Emanuel Sebastián Díaz se presentaron con su abogado y quedaron detenidos. Alan Sebastián Gil Carrizo, de 22 años, fue asesinado de un tiro en el cuello en el barrio Bernardino Rivadavia. Según la investigación, todo empezó con una pelea durante los festejos por el título de Boca.",
+      "source": "Diario de Cuyo / Crónica",
+      "time_note": "ayer",
+      "impact": "bajo",
+      "lat": -31.6,
+      "lon": -68.6,
+      "url": "https://www.diariodecuyo.com.ar/policiales/se-entregaron-los-tres-profugos-el-crimen-sebastian-gil-la-bebida-quedaron-detenidos-disposicion-la-justicia-n6589337"
+    },
+    {
+      "tag": "Deportes",
+      "city": "La Plata",
+      "country": "Argentina",
+      "headline": "Gimnasia elimina a Newell's en el alargue y el cuadro del Clausura solo espera a Boca",
+      "summary": "Gimnasia le ganó 4-2 a Newell's en tiempo suplementario y pasó a cuartos de final. Ya están confirmados River-Instituto, Independiente-Vélez y Rosario Central-Barracas Central. Falta Boca-Independiente Rivadavia, que se juega el miércoles 25 a las 21 porque Boca jugó la final de la Sudamericana; el ganador enfrentará a Gimnasia. La final será el 12 de diciembre en el Estadio Único de La Plata.",
+      "source": "Elonce / La Nación",
+      "time_note": "ayer",
+      "impact": "bajo",
+      "lat": -34.9,
+      "lon": -57.9,
+      "url": "https://www.elonce.com/deportes/gimnasia-elimino-a-newells-y-quedaron-casi-definidos-los-cuartos-de-final-del-clausura-8.htm"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Bisáu",
+      "country": "Guinea-Bisáu",
+      "category": "política",
+      "headline": "Guinea-Bisáu cumple un año de gobierno militar y la transición termina sin fecha de elecciones",
+      "summary": "Los militares tomaron el poder el 26 de noviembre de 2025, un día antes de que se conocieran los resultados de las elecciones, y fijaron una transición de 12 meses que vence el jueves. Las elecciones previstas para el 6 de diciembre se suspendieron en octubre por 'falta de condiciones'. El general Horta Inta-a sigue al frente, siguen prohibidas las marchas y el líder del PAIGC, Domingos Simões Pereira, está en Portugal desde julio. El país está suspendido de la Unión Africana, la CEDEAO y la CPLP.",
+      "por_que": "Es uno de los golpes de Estado de África occidental que se prolongan sin calendario electoral, mientras el país casi no aparece en la agenda internacional.",
+      "source": "Lusa / Diário Económico (Mozambique)",
+      "lat": 11.9,
+      "lon": -15.6,
+      "url": "https://www.diarioeconomico.co.mz/2026/11/23/mundo/cplp/guine-bissau-democracia-continua-suspensa-um-ano-apos-golpe-militar/"
+    },
+    {
+      "region": "África",
+      "city": "Jartum",
+      "country": "Sudán",
+      "category": "política",
+      "headline": "Drones atacan Jartum y dañan instalaciones de la ONU; Sudán vuelve a acusar a Etiopía",
+      "summary": "Los ataques del domingo alcanzaron un barrio civil y oficinas de Naciones Unidas en la capital sudanesa, y la ONU y EE.UU. los condenaron. Fuentes militares sudanesas dicen que los drones despegaron del aeropuerto de Bahir Dar, en la región etíope de Amhara. El Consejo Soberano dice haber documentado 70 ataques entre febrero y octubre con 187 drones. Etiopía rechaza las acusaciones y la autoría no fue verificada de forma independiente.",
+      "por_que": "La guerra de Sudán puede convertirse en un conflicto entre dos de los Estados más grandes del Cuerno de África.",
+      "source": "allAfrica / Dabanga / Addis Standard",
+      "lat": 15.5,
+      "lon": 32.5,
+      "url": "https://allafrica.com/stories/202611230234.html"
+    },
+    {
+      "region": "Asia",
+      "city": "Dusambé",
+      "country": "Tayikistán",
+      "category": "derechos",
+      "headline": "Tayikistán notifica a la ONU su salida de la Corte Penal Internacional el mismo día que recibió a Putin",
+      "summary": "Según TASS, el aviso de retiro del Estatuto de Roma llegó al secretario general António Guterres el 20 de noviembre, mientras Vladímir Putin visitaba Dusambé. La salida se hará efectiva un año después. Tayikistán ya había sido criticado por la UE por no cumplir la orden de arresto de la CPI contra Putin. La Corte lamentó la decisión.",
+      "por_que": "Es otro país que abandona la CPI y debilita su alcance en una región donde Moscú busca retener influencia.",
+      "source": "Meduza / Izvestia",
+      "lat": 38.6,
+      "lon": 68.8,
+      "url": "https://meduza.io/news/2026/11/23/tadzhikistan-uvedomil-oon-o-vyhode-iz-mezhdunarodnogo-ugolovnogo-suda-eto-sdelali-v-den-vizita-putina-v-dushanbe"
+    },
+    {
+      "region": "Asia",
+      "city": "Bac Ai",
+      "country": "Vietnam",
+      "category": "tecnología",
+      "headline": "Vietnam perfora las montañas de Ninh Thuan para su primera 'batería gigante' de agua bombeada",
+      "summary": "La central de almacenamiento por bombeo de Bac Ai, de 1.200 MW y cuatro turbinas, está en la etapa de túneles después de más de 20 meses de obra. Cuesta unos 21,1 billones de dongs (cerca de US$800 millones) y la financian seis prestamistas con casi 480 millones de euros, entre ellos la francesa AFD. La primera unidad debería generar en diciembre de 2029 y la planta completa en 2030.",
+      "por_que": "Almacenar energía a gran escala es clave para que un país con mucha solar y eólica cubra los picos de demanda sin quemar más carbón.",
+      "source": "VietNamNet",
+      "lat": 11.7,
+      "lon": 108.9,
+      "url": "https://vietnamnet.vn/en/vietnam-builds-800-million-giant-battery-deep-inside-mountains-2577523.html"
+    },
+    {
+      "region": "Europa",
+      "city": "Ereván",
+      "country": "Armenia",
+      "category": "política",
+      "headline": "Armenia saca a Karabaj de su Constitución para destrabar la paz con Azerbaiyán",
+      "summary": "El borrador publicado el lunes elimina del preámbulo la referencia a la Declaración de Independencia de 1990, que pedía la reunificación con Nagorno Karabaj. Bakú había puesto esa condición para firmar el tratado de paz, y el canciller Jeyhun Bayramov celebró que el texto no tenga reclamos territoriales. Nikol Pashinián prometió renunciar si el texto pierde en el referéndum. La oposición prorrusa lo llama 'la Constitución de Aliyev'.",
+      "por_que": "Es el paso que falta para cerrar formalmente uno de los conflictos más largos del espacio postsoviético.",
+      "source": "Reuters vía US News / Asbarez / Meduza",
+      "lat": 40.2,
+      "lon": 44.5,
+      "url": "https://www.usnews.com/news/world/articles/2026-11-23/armenia-proposes-new-constitution-in-step-towards-peace-with-azerbaijan"
+    },
+    {
+      "region": "Europa",
+      "city": "Constanza",
+      "country": "Rumania",
+      "category": "economía",
+      "headline": "Las aguas frente a Rumania y Bulgaria pasan a ser zona de alto riesgo para los marinos",
+      "summary": "El International Bargaining Forum amplió hacia el oeste y el suroeste la zona de alto riesgo del mar Negro e incluyó el fondeadero de Sulina. Las aguas territoriales y los puertos de Constanza, Midia, Mangalia, Varna y Burgas quedan afuera, pero no los accesos marítimos. Los tripulantes amparados por el acuerdo pueden negarse a entrar, con repatriación a cargo del armador, o cobrar un plus de 100% del salario básico por cada día en la zona.",
+      "por_que": "Los ataques con drones a barcos mercantes ya encarecen el comercio en aguas de dos países de la OTAN y la UE.",
+      "source": "Romania Insider vía UkrAgroConsult",
+      "lat": 44.2,
+      "lon": 28.6,
+      "url": "https://ukragroconsult.com/en/news/black-sea-high-risk-zone-expanded-to-romanian-and-bulgarian-coasts/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Ras al Jaima",
+      "country": "Emiratos Árabes Unidos",
+      "category": "sociedad",
+      "headline": "Once muertos en un choque entre un colectivo y un camión en Ras al Jaima",
+      "summary": "El Ministerio del Interior emiratí confirmó 11 muertos en el choque en la calle Al Watan y dijo que se investigan las causas. Un medio informó que el camión se incendió y que el fuego alcanzó a otros vehículos, pero ese dato todavía es preliminar. Dos semanas antes, otro choque múltiple en Fuyaira había dejado 14 muertos.",
+      "por_que": "Dos tragedias viales seguidas ponen en cuestión la seguridad del transporte de trabajadores en un país que suele mostrarse como modelo de infraestructura.",
+      "source": "Gulf News / UPI / Gulf Business",
+      "lat": 25.8,
+      "lon": 56.0,
+      "url": "https://gulfbusiness.com/en/2026/uae/uae-11-killed-in-bus-truck-collision-in-ras-al-khaimah-ministry-of-interior-confirms/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Riad",
+      "country": "Arabia Saudita",
+      "category": "salud",
+      "headline": "Un hospital saudí ya trató a 288 pacientes con células CAR-T y empieza a fabricarlas en el país",
+      "summary": "El King Faisal Specialist Hospital and Research Centre trató hasta fines de octubre a 288 pacientes con esta terapia de linfocitos T modificados genéticamente contra cánceres de la sangre: 251 adultos y 37 chicos. El centro empezó a producir CAR-T localmente, lo que según el hospital baja costos y tiempos, y ya aplicó dosis de fabricación propia a dos pacientes en un ensayo de fase I. Dato de una sola fuente.",
+      "por_que": "Producir terapias celulares fuera de EE.UU., Europa y China puede abrir el acceso a tratamientos que cuestionan cientos de miles de dólares por paciente.",
+      "source": "Arab News",
+      "lat": 24.7,
+      "lon": 46.7,
+      "url": "https://www.arabnews.com/saudi-arabia/king-faisal-specialist-hospital-treats-288-patients-with-genetically-modified-t-cell-therapy-3013645"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Window Rock",
+      "country": "Estados Unidos (Nación Navajo)",
+      "category": "política",
+      "headline": "Un recuento y acusaciones de brujería frenan la llegada de la primera presidenta de la Nación Navajo",
+      "summary": "Crystalyne Curley ganó la presidencia con 32.094 votos contra 30.979 de Justin Jones, pero el resultado no está certificado porque se aprobó un recuento manual y electrónico en los 110 capítulos. Jones también presentó una queja formal por supuestas barreras al voto y violaciones del Código Electoral. Mientras tanto, líderes espirituales piden calma ante denuncias de brujería que circulan en la campaña. El recuento de 2022 costó más de US$100.000.",
+      "por_que": "La nación indígena más grande de EE.UU. define si tendrá por primera vez una presidenta, en una disputa casi ausente de los grandes medios.",
+      "source": "KJZZ / Copper Courier",
+      "lat": 35.7,
+      "lon": -109.1,
+      "url": "https://www.kjzz.org/indigenous-affairs/2026-11-24/spiritual-leaders-urge-peace-as-recount-witchcraft-allegations-cloud-navajo-presidential-election"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "San Juan",
+      "country": "Puerto Rico",
+      "category": "economía",
+      "headline": "FEMA aprueba casi US$150 millones para reconstrucción y mitigación en Puerto Rico",
+      "summary": "Unos US$144 millones son del programa de Asistencia Pública, sobre todo para reparar daños pendientes del huracán María, y unos US$5,7 millones son para mitigación de riesgos. Incluye unos US$12 millones para el Paseo de Puerta de Tierra y más de US$6,9 millones para el recinto de Río Piedras de la Universidad de Puerto Rico. También hay US$1,6 millones para generadores del aeropuerto Luis Muñoz Marín.",
+      "por_que": "Nueve años después de María, la isla sigue dependiendo de fondos federales para reconstruir infraestructura básica.",
+      "source": "FEMA / El Nuevo Día",
+      "lat": 18.5,
+      "lon": -66.1,
+      "url": "https://www.fema.gov/press-release/20261123/fema-approves-nearly-150-million-funding-help-communities-recover-recent"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "category": "política",
+      "headline": "Colombia cumple diez años del acuerdo con las FARC: se ejecutó el 60% de lo previsto y solo el 9% llegó a las víctimas",
+      "summary": "El acuerdo firmado el 24 de noviembre de 2016 llevó a unos 7.000 combatientes a dejar las armas y convirtió a la guerrilla en partido. Según la Contraloría, en diez años se ejecutaron 127 billones de pesos, el 60% de lo previsto, y solo el 9% fue para las víctimas. Más de 500 firmantes de paz fueron asesinados. El exnegociador Humberto de la Calle calificó de 'pobre' la participación política de los exguerrilleros.",
+      "por_que": "Fue el acuerdo de paz más ambicioso de América Latina, y su balance condiciona cualquier negociación con los grupos armados que siguen activos.",
+      "source": "El Heraldo / Cambio",
+      "lat": 4.6,
+      "lon": -74.1,
+      "url": "https://www.elheraldo.co/colombia/2026/11/24/este-24-de-noviembre-se-cumplen-diez-anos-del-acuerdo-de-paz-en-colombia/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Los Teques",
+      "country": "Venezuela",
+      "category": "derechos",
+      "headline": "Treinta y seis militares presos en Ramo Verde superan las 340 horas de huelga de hambre",
+      "summary": "El Observatorio Venezolano de Prisiones denunció que los huelguistas siguen sin atención médica. La protesta empezó el 9 de noviembre con 24 detenidos que piden ser incluidos en la Ley de Amnistía, y después se sumaron otros. Según los familiares, ningún fiscal, defensor del pueblo ni diputado fue a la cárcel. Al menos 18 tienen enfermedades previas y les prohibieron las visitas.",
+      "por_que": "La huelga pone a prueba la amnistía que el gobierno de Delcy Rodríguez negocia con la oposición.",
+      "source": "El Diario / Noticias SIN",
+      "lat": 10.3,
+      "lon": -67.0,
+      "url": "https://eldiario.com/2026/11/23/ovp-militares-huelga-hambre/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Majuro",
+      "country": "Islas Marshall",
+      "category": "ambiente",
+      "headline": "Un carguero con 40.000 toneladas de hierro varado hace casi un año amenaza con hundirse en la laguna de Majuro",
+      "summary": "Un informe para el gobierno advierte que el granelero Futun Creek tiene corrosión grave, cuadernas fracturadas y perforaciones en el casco, y que podría hundirse casi sin aviso. A bordo hay unos 30 tripulantes y una carga de mineral valuada en unos US$4 millones. El barco está asegurado por la estatal china PICC. En octubre, el gobierno aprobó US$1 millón para relevar y retirar barcos abandonados en la laguna.",
+      "por_que": "Un hundimiento en la laguna de la capital pondría en riesgo el ecosistema del que dependen la pesca y el agua de un país muy vulnerable al clima.",
+      "source": "Marshall Islands Journal / RNZ Pacific",
+      "lat": 7.1,
+      "lon": 171.4,
+      "url": "https://www.rnz.co.nz/news/pacific/2739583/derelict-cargo-ship-laden-with-iron-ore-at-risk-of-sinking-in-majuro-lagoon"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Wellington",
+      "country": "Nueva Zelanda",
+      "category": "derechos",
+      "headline": "ACT propone un referéndum para eliminar las bancas maoríes en la negociación de la nueva coalición",
+      "summary": "David Seymour dijo que su partido podría exigir un referéndum vinculante antes de noviembre de 2027 para que el cambio rija en las elecciones de 2029. NZ First apoya la idea. ACT sostiene que las bancas maoríes causan el problema de sobrerrepresentación del sistema MMP. Te Pāti Māori responde que eliminarlas violaría el Tratado de Waitangi.",
+      "por_que": "Las bancas maoríes existen desde 1867, y quitarlas cambiaría la representación indígena en uno de los Parlamentos más antiguos del mundo.",
+      "source": "RNZ / 1News / NZ Herald",
+      "lat": -41.3,
+      "lon": 174.8,
+      "url": "https://www.rnz.co.nz/news/politics/2760002/act-eyes-referendum-on-abolishing-maori-seats-in-coalition-talks"
+    }
+  ],
+  "breves": [
+    {
+      "country": "Georgia",
+      "category": "derechos",
+      "text": "El partido de gobierno, Sueño Georgiano, anunció que presentará una ley para prohibir por completo la gestación subrogada, hoy legal en el país. Según el partido, el 98% de quienes la usan son extranjeros. La fecundación in vitro seguirá permitida, pero solo para ciudadanos georgianos.",
+      "source": "OC Media / Civil Georgia",
+      "lat": 41.7,
+      "lon": 44.8,
+      "url": "https://oc-media.org/georgian-dream-announces-plans-to-ban-surrogacy/"
+    },
+    {
+      "country": "Corea del Sur",
+      "category": "ambiente",
+      "text": "Un estudio de la Universidad Nacional de Pukyong proyecta que, por el calentamiento del mar, Corea del Sur podría dejar de pescar calamar volador del Pacífico entre 2043 y 2048. La captura actual ya es un dieciseisavo de la de 2002.",
+      "source": "Mongabay",
+      "lat": 35.1,
+      "lon": 129.1,
+      "url": "https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/"
+    },
+    {
+      "country": "Croacia",
+      "category": "cultura",
+      "text": "En las obras de restauración de la catedral de Zagreb apareció un ataúd de plomo sellado con los restos de Ivan Zakmardi, estadista croata del siglo XVII, identificado con 99% de certeza. Junto a él había una vasija de hierro que podría ser una urna para el corazón, una cruz dorada y hebillas de plata.",
+      "source": "Arkeonews / Croatia Week",
+      "lat": 45.8,
+      "lon": 16.0,
+      "url": "https://arkeonews.net/sealed-lead-coffin-and-possible-heart-urn-unearthed-at-zagreb-cathedral/"
+    },
+    {
+      "country": "República Dominicana",
+      "category": "economía",
+      "text": "El país superó los 10 millones de visitantes entre enero y octubre: 10.043.476, un 8,2% más que en 2025. Nunca había llegado tan temprano a esa cifra.",
+      "source": "Caribbean Journal / Dominican Today",
+      "lat": 18.5,
+      "lon": -69.9,
+      "url": "https://www.caribjournal.com/2026/11/23/dominican-republic-tourist-arrivals-early/"
+    },
+    {
+      "country": "Sudáfrica",
+      "category": "economía",
+      "text": "India y la Unión Aduanera del África Austral (Sudáfrica, Botsuana, Namibia, Lesoto y Esuatini) empezarán en diciembre a negociar un acuerdo comercial preferencial. El intercambio entre ambos sumó US$16.810 millones en 2025-26.",
+      "source": "The Mercury / Cape Times",
+      "lat": -25.7,
+      "lon": 28.2,
+      "url": "https://themercury.co.za/news/2026-11-24-india-and-sacu-set-to-begin-preferential-trade-agreement-talks/"
+    },
+    {
+      "country": "Chad",
+      "category": "economía",
+      "text": "La Asamblea Nacional de Chad aprobó el presupuesto 2027, el más grande de su historia: más de 3 billones de francos CFA.",
+      "source": "APA News",
+      "lat": 12.1,
+      "lon": 15.0,
+      "url": "https://fr.apanews.net/governance/tchad-lassemblee-nationale-adopte-le-budget-2027-un-record-de-plus-de-3-000-mrds-de-fcfa/"
+    },
+    {
+      "country": "Polinesia Francesa",
+      "category": "política",
+      "text": "Papeete recibe hasta el 26 de noviembre el 20º Simposio Naval del Pacífico Occidental, el foro de las marinas de la región, que Francia organiza y preside por primera vez.",
+      "source": "Outremers360 / TNTV",
+      "lat": -17.5,
+      "lon": -149.6,
+      "url": "https://outremers360.com/bassin-pacifique-appli/polynesie-la-france-presidera-pour-la-premiere-fois-la-20eme-edition-du-western-pacific-naval-symposium-du-23-au-26-novembre-a-papeete"
+    }
+  ],
+  "efemerides": {
+    "dia": "24 de noviembre",
+    "items": [
+      {
+        "year": "1642",
+        "text": "El navegante neerlandés Abel Tasman avista la costa oeste de la isla que llamó Tierra de Van Diemen, hoy Tasmania, en Australia."
+      },
+      {
+        "year": "1820",
+        "text": "Buenos Aires y Santa Fe firman el Tratado de Benegas, que pone fin a la guerra entre ambas provincias."
+      },
+      {
+        "year": "1849",
+        "text": "Se firma en Buenos Aires la Convención Arana-Southern, con la que Gran Bretaña levanta el bloqueo, devuelve la isla Martín García y saluda a la bandera de la Confederación con 21 cañonazos."
+      },
+      {
+        "year": "1859",
+        "text": "Charles Darwin publica en Londres 'El origen de las especies', la base de la teoría de la evolución por selección natural."
+      },
+      {
+        "year": "1908",
+        "text": "Nace en Rosario Libertad Lamarque, actriz y cantante, figura del cine argentino y mexicano."
+      },
+      {
+        "year": "1963",
+        "text": "Jack Ruby mata en Dallas a Lee Harvey Oswald, el acusado del asesinato de John F. Kennedy, durante un traslado transmitido por televisión."
+      },
+      {
+        "year": "1965",
+        "text": "Joseph-Désiré Mobutu toma el poder en el Congo con un golpe de Estado e inicia una dictadura de más de 30 años."
+      },
+      {
+        "year": "1974",
+        "text": "En Hadar, Etiopía, encuentran a 'Lucy', el esqueleto de Australopithecus afarensis de unos 3,2 millones de años."
+      },
+      {
+        "year": "1991",
+        "text": "Muere en Londres Freddie Mercury, cantante de Queen, nacido en Zanzíbar."
+      },
+      {
+        "year": "2010",
+        "text": "Un decreto declara al vino bebida nacional argentina; desde entonces el 24 de noviembre es el Día del Vino Argentino."
+      }
+    ]
+  }
+}
