@@ -1,0 +1,530 @@
+{
+  "edicion": 32,
+  "fecha": "2026-11-25",
+  "generado": "2026-11-25T07:47:50-03:00",
+  "nota_editor": "Argentina entra en recesión técnica mientras el riesgo país vuelve a pasar los 1.000 puntos. En el mundo, la guerra con Irán ahora amenaza los puertos saudíes del mar Rojo, y la cumbre climática de Antalya cerró sin acuerdo.",
+  "indicadores": [
+    {
+      "label": "Dólar oficial (BNA, venta)",
+      "valor": "$1.615",
+      "variacion": "+$15",
+      "nota": "cierre del martes 24/11; máximo nominal"
+    },
+    {
+      "label": "Dólar blue",
+      "valor": "$1.690",
+      "variacion": "",
+      "nota": "cierre del 24/11 según Ámbito; otros medios lo ubican en $1.700"
+    },
+    {
+      "label": "Riesgo país",
+      "valor": "1.094",
+      "variacion": "+79",
+      "nota": "cierre del 24/11; tocó 1.108 durante la rueda; la variación está calculada contra el cierre de 1.015 informado en la edición anterior"
+    },
+    {
+      "label": "S&P Merval",
+      "valor": "81.175",
+      "variacion": "-0,1%",
+      "nota": "cierre del 24/11 en pesos; los medios no coinciden en la variación"
+    },
+    {
+      "label": "Inflación mensual (INDEC)",
+      "valor": "2,2%",
+      "variacion": "+0,3 pp",
+      "nota": "octubre de 2026; 26,3% acumulada en el año"
+    },
+    {
+      "label": "Petróleo Brent",
+      "valor": "US$ 92",
+      "variacion": "",
+      "nota": "valor aproximado al 25/11; el lunes había bajado de 90 por primera vez desde agosto"
+    },
+    {
+      "label": "Actividad económica (EMAE)",
+      "valor": "-1,2% interanual",
+      "variacion": "+1,1% mensual",
+      "nota": "septiembre de 2026; con dos trimestres en baja, el país entró en recesión técnica"
+    }
+  ],
+  "ranking": [
+    {
+      "city": "Washington",
+      "country": "Estados Unidos",
+      "headline": "Trump recibe al primer ministro de Qatar para intentar un acuerdo con Irán que evite volver a la guerra total",
+      "summary": "El presidente estadounidense se reunió el lunes con el primer ministro y canciller qatarí, un día después de que Marco Rubio enfriara las expectativas y calificara de 'escandalosas y ridículas' las demandas de Teherán. Qatar pidió moderación a las dos partes y busca reactivar las negociaciones, trabadas por el control del estrecho de Ormuz. Según Middle East Eye, citado por Al-Monitor, Doha podría recibir la semana próxima al vicepresidente JD Vance y a Mohsen Rezaei, del Consejo Supremo de Seguridad Nacional iraní. Ese dato no está confirmado.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Al-Monitor / Al Jazeera",
+      "time_note": "esta semana",
+      "lat": 38.9,
+      "lon": -77.0,
+      "url": "https://www.al-monitor.com/originals/2026/11/trump-meets-qatar-pm-mediators-push-iran-deal"
+    },
+    {
+      "city": "Hodeida",
+      "country": "Yemen",
+      "headline": "Los hutíes amenazan con atacar Yeda y todos los puertos saudíes del mar Rojo, y la coalición bombardea Hodeida",
+      "summary": "El vocero militar hutí Yahya Saree advirtió que Yeda y el resto de los puertos saudíes del mar Rojo serán blancos si la coalición ataca Hodeida. También pidió a los civiles evacuarlos y a las navieras retirar sus barcos. Horas después, la coalición liderada por Arabia Saudita informó que golpeó 'capacidades operativas' en Hodeida y blancos en Saada y Amrán. El martes, un ataque con drones contra una torre del distrito financiero de Riad había dejado 11 heridos. Con Ormuz cerrado desde marzo, los puertos del mar Rojo son la principal salida comercial de Arabia Saudita.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Daily Maverick (Reuters) / Al Jazeera",
+      "time_note": "hoy",
+      "lat": 14.8,
+      "lon": 42.9,
+      "url": "https://www.dailymaverick.co.za/article/2026-11-25-yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/"
+    },
+    {
+      "city": "Antalya",
+      "country": "Turquía",
+      "headline": "La COP31 termina sin acuerdo político: al menos 32 países rechazaron un texto sin mención a los combustibles fósiles",
+      "summary": "La plenaria de cierre se hizo el 22 de noviembre, dos días después de lo previsto, y no aprobó la decisión final. La Unión Europea, el Reino Unido, Panamá y pequeños Estados insulares como Tuvalu objetaron la ausencia de referencias a los combustibles fósiles y al aumento del financiamiento climático. El presidente de la cumbre, el turco Murat Kurum, reconoció que 'no hubo consenso'. Es la primera conferencia desde Copenhague 2009 que se pasa del plazo y aun así no adopta un acuerdo oficial. Sí se aprobaron textos parciales, como el de transición justa.",
+      "category": "clima",
+      "impact": "alto",
+      "source": "Carbon Brief / Kyunghyang Shinmun",
+      "time_note": "esta semana",
+      "lat": 36.9,
+      "lon": 30.7,
+      "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya"
+    },
+    {
+      "city": "Villavicencio",
+      "country": "Colombia",
+      "headline": "Un coche bomba con hasta 100 kilos de explosivos deja unos 25 heridos frente a la Gobernación del Meta",
+      "summary": "La explosión del lunes por la noche, en el centro de Villavicencio, dañó edificios y vehículos alrededor de la sede del gobierno departamental. Hubo entre 23 y 25 heridos y ningún muerto. Según la Policía, la carga era de 80 a 100 kilos de pentolita. De visita en la ciudad, el presidente Abelardo de la Espriella culpó al comandante disidente Antonio Medina, del Estado Mayor Central, y descartó negociar con esos grupos. El ataque fue en la víspera del décimo aniversario del acuerdo de paz.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "AFP vía Yahoo News / GSM Global News",
+      "time_note": "ayer",
+      "lat": 4.1,
+      "lon": -73.6,
+      "url": "https://www.yahoo.com/news/world/articles/colombian-president-blames-ex-farc-214542369.html"
+    },
+    {
+      "city": "Narva",
+      "country": "Estonia",
+      "headline": "Rusia dice que Estonia está 'al borde de provocar una guerra abierta' por el cierre de la frontera",
+      "summary": "Estonia cerrará desde el 1 de diciembre sus tres pasos fronterizos con Rusia (Narva, Koidula y Luhamaa) por al menos seis meses. Acusa a la inteligencia militar rusa (GRU) de haber ordenado un intento de incendio contra el fabricante de drones Threod Systems, cerca de Tallin, por el que detuvo a ocho personas. La cancillería rusa respondió que Tallin está 'al borde de provocar una guerra abierta'. El presidente lituano, Gitanas Nausėda, respaldó la medida y no descartó imitarla.",
+      "category": "política",
+      "impact": "alto",
+      "source": "Washington Times / Democracy Now / LRT",
+      "time_note": "ayer",
+      "lat": 59.4,
+      "lon": 28.2,
+      "url": "https://www.washingtontimes.com/news/2026/nov/24/estonia-close-russian-border-attacks-thread-systems-drone/"
+    },
+    {
+      "city": "Estrecho de Ormuz",
+      "country": "Irán",
+      "headline": "El Brent bajó de 90 dólares por primera vez desde agosto y rebotó tras nuevos ataques a petroleros",
+      "summary": "El crudo de referencia llegó a 89,11 dólares el martes por la mañana y encadenó dos ruedas en baja, cerca del mínimo de tres meses. Los analistas lo atribuyen a un exceso de oferta pese al cierre de Ormuz. Después recuperó más de 2% tras nuevos ataques a buques en el estrecho y este miércoles ronda los 92 dólares. El mercado espera la reunión de la OPEP+ del 29 de noviembre.",
+      "category": "economía",
+      "impact": "medio",
+      "source": "Euribor.com.es (Reuters / Europa Press)",
+      "time_note": "hoy",
+      "lat": 26.6,
+      "lon": 56.3,
+      "url": "https://www.euribor.com.es/2026/11/25/precio-petroleo-hoy-25-noviembre-2026/"
+    },
+    {
+      "city": "Lausana",
+      "country": "Suiza",
+      "headline": "El TAS le devuelve a Senegal la Copa Africana 2025 que la CAF le había dado a Marruecos",
+      "summary": "El Tribunal Arbitral del Deporte anuló el martes, por unanimidad, la decisión del jurado de apelación de la CAF. En marzo, ese jurado había declarado perdedor a Senegal por abandono y le había dado a Marruecos un 3-0 por la salida de los jugadores senegaleses de la cancha en la final. El fallo restituye el 1-0 en tiempo suplementario y sostiene que reanudar o suspender el partido era decisión exclusiva del árbitro. La federación marroquí rechazó el veredicto y anunció que lo impugnará.",
+      "category": "sociedad",
+      "impact": "medio",
+      "source": "Gulf News / Sport News Africa",
+      "time_note": "ayer",
+      "lat": 46.5,
+      "lon": 6.6,
+      "url": "https://gulfnews.com/sport/football/senegal-regain-2025-africa-cup-of-nations-title-after-cas-overturns-morocco-ruling-1.500759900"
+    }
+  ],
+  "argentina": [
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La actividad cayó 1,2% interanual en septiembre y la Argentina entró en recesión técnica",
+      "summary": "Según el INDEC, la actividad de septiembre rebotó 1,1% contra agosto en la medición desestacionalizada, pero cayó 1,2% frente a un año antes. El tercer trimestre cerró en baja y suma dos trimestres consecutivos de caída, la definición de recesión técnica, aunque falta el dato oficial del PBI. Minería creció 11,1%, mientras que comercio cayó 2,2% e industria 1,8%. En lo que va del año, la actividad acumula una suba de 1,0%.",
+      "source": "Rosario3 / Noticias Argentinas / Bloomberg Línea",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.rosario3.com/-economia-negocios-agro-/la-actividad-economica-cayo-12-interanual-en-septiembre-y-argentina-entro-en-recesion-tecnica-20261124-0053.html"
+    },
+    {
+      "tag": "Economía",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El riesgo país cerró en 1.094 puntos, el más alto en más de un año, y el dólar oficial tocó un máximo de $1.615",
+      "summary": "En la primera rueda después del feriado, los bonos soberanos cayeron de punta a punta y el riesgo país llegó a 1.108 puntos antes de cerrar en 1.094, el nivel más alto desde septiembre de 2025. En el Banco Nación el dólar subió $15 y cerró a $1.615 para la venta, mientras el CCL terminó en $1.794. En Wall Street los ADR cerraron mayormente en baja, con YPF en -4,5%.",
+      "source": "Rosario3 / El Esquiú / Ámbito",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.rosario3.com/-economia-negocios-agro-/el-riesgo-pais-trepo-a-1.094-puntos-y-el-dolar-supero-los-1.600-tras-una-rueda-de-fuerte-tension-financiera-20261124-0067.html"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "El Presupuesto 2027 llega al recinto el jueves con los votos justos y sin el apoyo de Provincias Unidas",
+      "summary": "La sesión de Diputados, prevista para este miércoles, pasó al jueves 26 a las 12 para que pueda asistir el jefe de Gabinete. En el temario también entró la reforma de la Carta Orgánica del Banco Central, y la ley Malvinas quedó postergada. El pedido de sesión lo firmaron LLA, el PRO y algunos aliados, pero no Provincias Unidas ni Argentina Federal, que reclaman bajar el impuesto a los combustibles y saldar deudas con las cajas jubilatorias provinciales. La sesión anterior no se hizo porque faltaron tres diputados para el quórum de 129.",
+      "source": "La Nación / Noticias Argentinas",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "25N: el país registró 266 femicidios en lo que va de 2026, uno cada 29 horas",
+      "summary": "El observatorio de MuMaLá contó 266 femicidios y 788 intentos entre el 1 de enero y el 20 de noviembre, el peor aumento desde 2020. El 62% los cometieron parejas, exparejas o familiares, y 207 chicos y adolescentes quedaron sin madre. La Casa del Encuentro, con otro período de medición, informó 251 femicidios, 11 transfemicidios y 30 femicidios vinculados. Hoy hay marchas en todo el país por el Día Internacional de la Eliminación de la Violencia contra la Mujer.",
+      "source": "LM Diario / Entérate Noticias / Diario Nuevo Día",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://lmdiario.com.ar/contenido/534472/25n-la-violencia-de-genero-arrasa-con-la-vida-de-mujeres-infancias-y-diversidade"
+    },
+    {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "La CONADU para en las universidades para presionar por el financiamiento en el debate del Presupuesto",
+      "summary": "El gremio docente convocó a un paro nacional atado al tratamiento del Presupuesto 2027 en Diputados. Sostiene que el proyecto oficial desconoce la Ley de Financiamiento Universitario. El Gobierno sigue sin decir cuándo pagará la recomposición salarial que fija la ley, y su apelación está pendiente en la Justicia. Según los gremios, desde diciembre de 2023 el presupuesto universitario cayó 41,6% en términos reales y los salarios perdieron más de 30% de poder de compra.",
+      "source": "El Patagónico / Infobae",
+      "time_note": "hoy",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.elpatagonico.com/paro-universitario-el-dia-del-debate-el-presupuesto-2027-n6348069"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Cambio en la cúpula del PAMI: salen Leguizamo y Zamparolo y asume Verónica Pérez",
+      "summary": "El Gobierno decidió el lunes la salida de Esteban Leguizamo y Carlos Zamparolo, que conducían el PAMI desde el comienzo de la gestión de Milei. Según el Boletín Oficial, el Decreto 1412/2026 designó a Verónica Gabriela Pérez como directora ejecutiva y a Elizabeth Ana Osterberg como subdirectora. Pérez es abogada y escribana y dirigía la unidad local de PAMI en San Martín. Los medios vinculan el cambio con la interna entre Karina Milei y Santiago Caputo. Dato de una sola fuente.",
+      "source": "Noticias Argentinas",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://noticiasargentinas.com/politica/---javier-milei-en-vivo--anuncios-y-medidas-del-gobierno-minuto-a-minuto-del-24-de-noviembre-de-2026_a6b055a1bf5d9d6250771c668"
+    },
+    {
+      "tag": "Política",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Reforma electoral: el oficialismo busca 37 votos en el Senado para suspender las PASO de 2027",
+      "summary": "La mesa política se reunió el martes en Casa Rosada para ordenar la agenda legislativa. Allí el foco estuvo en la reforma electoral que el oficialismo quiere aprobar el jueves en el Senado. El proyecto, que ya tiene dictamen, suspende las PASO de 2027, incorpora Ficha Limpia y elimina la veda electoral. El PRO confirmó su apoyo a la suspensión, pero el oficialismo admite que todavía tiene que conseguir los 37 votos.",
+      "source": "Noticias Argentinas / Perfil / Palabras del Derecho",
+      "time_note": "ayer",
+      "impact": "medio",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.perfil.com/noticias/amp/politica/senado-el-gobierno-presiona-a-bullrich-para-suspender-las-paso-pero-dudan-de-que-esten-los-votos-necesarios-aU3cY9t0fwE8.phtml"
+    }
+  ],
+  "mundo": [
+    {
+      "region": "África",
+      "city": "Bunia",
+      "country": "República Democrática del Congo",
+      "category": "salud",
+      "headline": "Combates en Ituri obligan al personal de la OMS que combate el ébola a refugiarse más de un día en una maternidad",
+      "summary": "Combates intensos cerca de un hospital de la provincia de Ituri obligaron a trabajadores de la respuesta al ébola y a personal de la OMS a refugiarse en una maternidad durante más de 24 horas. Según cifras del 20 de noviembre, el brote suma 11.762 casos confirmados y 5.775 muertes en ocho provincias. La violencia armada en el este del país ya había quemado un centro de tránsito con 19.000 desplazados y cortado el acceso a varias zonas sanitarias. Dato de una sola fuente.",
+      "por_que": "Es uno de los brotes de ébola más grandes de la historia y avanza en una zona donde la guerra impide contenerlo.",
+      "source": "allAfrica",
+      "lat": 1.6,
+      "lon": 30.2,
+      "url": "https://allafrica.com/stories/202611240173.html"
+    },
+    {
+      "region": "África",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "category": "economía",
+      "headline": "El Tribunal Administrativo revela que préstamos estatales por 1.860 millones de euros siguen sin devolverse",
+      "summary": "Según el dictamen del Tribunal Administrativo sobre la Cuenta General del Estado 2025, once entidades deben unos 138.600 millones de meticales que el Estado les prestó. El Parlamento empieza hoy a debatir esas cuentas. El informe llega mientras sigue el juicio contra el opositor Venâncio Mondlane por la destrucción de peajes y antenas en las protestas poselectorales.",
+      "por_que": "Mozambique todavía arrastra el escándalo de las 'deudas ocultas' y depende de financiamiento externo, así que la falta de cobro de estos préstamos afecta su credibilidad fiscal.",
+      "source": "Jornal Económico (Lusa) / O País",
+      "lat": -25.97,
+      "lon": 32.6,
+      "url": "https://jornaleconomico.sapo.pt/noticias/tribunal-diz-que-1-860-milhoes-de-euros-de-emprestimos-do-estado-mocambicano-continuam-por-reembolsar"
+    },
+    {
+      "region": "Asia",
+      "city": "Daca",
+      "country": "Bangladés",
+      "category": "ambiente",
+      "headline": "A 17 días de que venza el tratado del Ganges, Bangladés pide a India garantías sobre el caudal y todavía no hay negociación",
+      "summary": "El acuerdo de 1996 para repartir el agua del Ganges en la represa de Farakka vence el 12 de diciembre. Si no se renueva o reemplaza, las obligaciones de reparto caducan. Daca volvió a pedir negociaciones formales, después de intentos en junio y agosto que no dieron resultado, y quiere un tratado nuevo con una cuota garantizada para la estación seca. India responde que el tema sigue en la Comisión Conjunta de Ríos y necesita el visto bueno de Bengala Occidental.",
+      "por_que": "De ese caudal dependen el riego, el agua potable y los manglares del Sundarbans para decenas de millones de bangladesíes, en plena tensión entre ambos países por la extradición de Sheikh Hasina.",
+      "source": "Daily Sun / The Daily Star",
+      "lat": 23.8,
+      "lon": 90.4,
+      "url": "https://www.daily-sun.com/bangladesh/911226"
+    },
+    {
+      "region": "Asia",
+      "city": "Hanói",
+      "country": "Myanmar",
+      "category": "política",
+      "headline": "Min Aung Hlaing viajará a una cumbre regional en Hanói nueve días después del fallo por genocidio contra Myanmar",
+      "summary": "El presidente birmano participará el sábado 28 en Hanói de una cumbre con los primeros ministros de Camboya, Tailandia, Laos y Vietnam. Será su primera aparición regional desde que la Corte Internacional de Justicia determinó el 19 de noviembre, por 9 votos contra 6, que Myanmar cometió genocidio contra los rohinyás. Es la primera vez que esa corte declara a un Estado responsable de genocidio. Naypyidaw calificó el fallo de 'injusto'.",
+      "por_que": "Será la primera prueba de si los vecinos del sudeste asiático aíslan o normalizan al gobierno birmano después de un fallo inédito.",
+      "source": "The Sun (Malasia) / JURIST",
+      "lat": 21.0,
+      "lon": 105.8,
+      "url": "https://thesun.my/news/myanmar-leader-seeks-regional-engagement-amid-international-scrutiny/"
+    },
+    {
+      "region": "Europa",
+      "city": "Vilna",
+      "country": "Lituania",
+      "category": "política",
+      "headline": "Lituania evalúa cerrar también su frontera con Rusia, aunque es el paso obligado hacia Kaliningrado",
+      "summary": "El presidente Gitanas Nausėda calificó de 'adecuada' la decisión de Estonia de cerrar sus pasos con Rusia y dijo que Lituania podría considerar medidas similares tras el complot contra un fabricante de drones estonio. Recordó que su país es de tránsito hacia el enclave ruso de Kaliningrado, lo que vuelve más delicado un cierre. Además, la Comisión Europea informó que por ahora no abrirá un procedimiento por déficit excesivo contra Lituania, que aumentó su gasto militar.",
+      "por_que": "Si cierra Lituania, Kaliningrado quedaría aislado por tierra y la tensión en el Báltico subiría un escalón.",
+      "source": "LRT",
+      "lat": 54.7,
+      "lon": 25.3,
+      "url": "https://www.lrt.lt/en/news-in-english/19/3116219/nauseda-lithuania-may-consider-closing-border-with-russia-following-plot-in-estonia"
+    },
+    {
+      "region": "Europa",
+      "city": "Reikiavik",
+      "country": "Islandia",
+      "category": "cultura",
+      "headline": "Islandia recorta los fondos de su radiotelevisión pública RÚV y la obliga a compartir recursos con los medios privados",
+      "summary": "El gabinete aprobó un proyecto revisado que reduce el aporte estatal a RÚV en un monto equivalente al 10% de sus ingresos por publicidad. A cambio, abandona un tope publicitario anterior de 2.800 millones de coronas. El nuevo contrato de servicio, previsto para mediados de 2027, la obligará a compartir equipos y cooperar con los medios privados. Además, elimina la exigencia legal de mantener un número mínimo de canales nacionales de radio y televisión.",
+      "por_que": "En un mercado de menos de 400.000 habitantes, el tamaño del medio público define la supervivencia del periodismo privado, un debate que se repite en otros países chicos de Europa.",
+      "source": "Iceland Review / All Things Nordic",
+      "lat": 64.1,
+      "lon": -21.9,
+      "url": "https://www.icelandreview.com/news/government-approves-ruv-funding-bill-2026/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Sitra",
+      "country": "Baréin",
+      "category": "conflicto",
+      "headline": "Un ataque iraní incendia una planta industrial civil en Baréin y rompe semanas de calma en el Golfo",
+      "summary": "El Ministerio del Interior bareiní culpó a Irán por un ataque contra una instalación industrial civil cerca de la isla de Sitra, donde está la refinería de la estatal Bapco. Hubo un incendio y dos heridos. La Guardia Revolucionaria dijo que apuntaba a sitios militares de Estados Unidos. Arabia Saudita, Kuwait y Qatar condenaron el ataque, que se sumó a otros contra el reino esa misma semana.",
+      "por_que": "Baréin es sede de la Quinta Flota estadounidense, y un ataque en su territorio puede arrastrar al resto de los países del Golfo a la guerra.",
+      "source": "CNBC / Breitbart (AP)",
+      "lat": 26.15,
+      "lon": 50.62,
+      "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Deir al Balah",
+      "country": "Palestina",
+      "category": "salud",
+      "headline": "La meningitis avanza entre los chicos de Gaza tras las tormentas que inundaron los campamentos",
+      "summary": "Los hospitales de Gaza reciben cada vez más chicos con meningitis viral y bacteriana desde que las tormentas de principios de noviembre mezclaron lluvia y cloacas en los campamentos de desplazados. Un vocero del hospital Mártires de Al Aqsa dijo que nueve chicos murieron de meningitis en 2026. La OMS contabiliza 22 ataques contra hospitales y centros de salud de Gaza en lo que va del año.",
+      "por_que": "Con el sistema sanitario destruido y falta de medicamentos, una enfermedad tratable se vuelve mortal para los chicos.",
+      "source": "Latin Times",
+      "lat": 31.4,
+      "lon": 34.35,
+      "url": "https://www.latintimes.com/gaza-meningitis-outbreak-storms-flood-displacement-camps-601481"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Victoria",
+      "country": "Canadá",
+      "category": "derechos",
+      "headline": "Las Primeras Naciones advierten al nuevo gobierno conservador de Columbia Británica contra derogar la ley de derechos indígenas",
+      "summary": "El premier electo Lorne Doerkson ratificó que derogará la Declaración sobre los Derechos de los Pueblos Indígenas (DRIPA), vigente desde 2019, aunque dijo estar 'comprometido' con trabajar con las Primeras Naciones. La Asamblea de Primeras Naciones de Columbia Británica, el First Nations Summit y la Unión de Jefes Indígenas le pidieron mantenerla. El jefe regional Terry Teegee aceptó dialogar, pero advirtió que la provincia puede convertirse en un 'campo de batalla' legal.",
+      "por_que": "Columbia Británica fue la primera jurisdicción de Norteamérica en convertir en ley la declaración de la ONU sobre pueblos indígenas, y su derogación sería un precedente regional.",
+      "source": "Canada's National Observer / CTV News",
+      "lat": 48.4,
+      "lon": -123.4,
+      "url": "https://www.nationalobserver.com/2026/11/23/news/first-nations-leader-says-hes-open-talks-doerkson-opposes-dripa-repeal"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Mapastepec",
+      "country": "México",
+      "category": "sociedad",
+      "headline": "Cuatro sismos sacuden la costa de Chiapas en una mañana; el más fuerte fue de magnitud 5,3",
+      "summary": "El enjambre sísmico del martes tuvo su epicentro principal a unos 119 kilómetros al suroeste de Mapastepec, en el Pacífico chiapaneco. Hubo réplicas menores en Huixtla y Frontera Comalapa y otros movimientos en Salina Cruz, Matías Romero y Pinotepa Nacional, en Oaxaca. Protección Civil descartó riesgo de tsunami y no se informaron daños.",
+      "por_que": "La costa de Chiapas y Oaxaca está sobre la zona de subducción más activa de México, donde en 2017 un terremoto de magnitud 8,2 dejó cerca de un centenar de muertos.",
+      "source": "López-Dóriga Digital / Telediario",
+      "lat": 15.4,
+      "lon": -92.9,
+      "url": "https://lopezdoriga.com/nacional/cuatro-sismos-sacuden-chiapas-este-martes-24-de-noviembre-el-mas-fuerte-fue-de-magnitud-5-3/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Santiago",
+      "country": "Bolivia",
+      "category": "política",
+      "headline": "Bolivia y Chile retoman el diálogo político después de 16 años y se proponen normalizar relaciones",
+      "summary": "Las cancillerías hicieron en Santiago la XXIII Reunión del Mecanismo de Consultas Políticas, que no se convocaba desde 2010. Ambos países se comprometieron a normalizar el vínculo 'con gradualidad y pragmatismo'. No tienen relaciones a nivel de embajadores desde hace décadas. Se anunció una visita del presidente Rodrigo Paz a Chile en el primer semestre de 2027 y una reunión sobre libre tránsito en La Paz el 11 de diciembre.",
+      "por_que": "Es el mayor deshielo entre los dos vecinos desde el fallo de La Haya de 2018 sobre la salida al mar, y puede destrabar el comercio boliviano por puertos chilenos.",
+      "source": "Prensa Latina / PanAm Post / Bolivia Nueva",
+      "lat": -33.4,
+      "lon": -70.7,
+      "url": "https://www.prensa-latina.cu/2026/11/21/bolivia-y-chile-apuestan-por-normalizar-vinculos-diplomaticos/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Quito",
+      "country": "Ecuador",
+      "category": "política",
+      "headline": "Ecuador vota el domingo a sus autoridades locales en plena alerta por las lluvias de El Niño",
+      "summary": "El 29 de noviembre se eligen prefectos de las 24 provincias, alcaldes de los 221 cantones, concejales y siete consejeros del CPCCS, con 51.731 candidaturas en firme. Los comicios se adelantaron desde febrero de 2027 por el riesgo de El Niño, un motivo que la oposición cuestiona. El Inamhi mantiene la alerta por lluvias fuertes hasta el 27, con cortes de luz en Quito, y las clases presenciales siguen suspendidas en la Costa y Galápagos.",
+      "por_que": "Es la primera prueba electoral del gobierno de Daniel Noboa en su segundo mandato y se hará en medio de un fenómeno climático que ya complica la logística.",
+      "source": "Primicias / Teleamazonas / Metro Ecuador",
+      "lat": -0.2,
+      "lon": -78.5,
+      "url": "https://www.teleamazonas.com/actualidad/noticias/politica/51-731-candidaturas-firme-votaciones-seccionales-29-noviembre-132769/"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Port Moresby",
+      "country": "Papúa Nueva Guinea",
+      "category": "ambiente",
+      "headline": "Papúa Nueva Guinea prepara ayuda para 680.000 personas por la sequía e incendios de El Niño",
+      "summary": "El gobierno prepara asistencia para unas 680.000 personas afectadas por la sequía extrema y los incendios forestales. Algunas comunidades dicen que desde junio no recibieron fondos del plan nacional para El Niño. En la vecina Tonga rige un estado de emergencia de 27 días por falta de agua, y Vanuatu reporta brotes de dengue y diarrea. Siete agencias de la ONU prevén que El Niño llegue a su pico en diciembre y se extienda seis meses más.",
+      "por_que": "Para países insulares que dependen del agua de lluvia, un El Niño fuerte es una crisis sanitaria y alimentaria, no solo climática.",
+      "source": "RNZ Pacific / Pacific Media Network",
+      "lat": -9.4,
+      "lon": 147.2,
+      "url": "https://www.rnz.co.nz/news/pacific/2768558/pacific-governments-step-up-el-nino-response-as-drought-and-water-crisis-deepen"
+    },
+    {
+      "region": "Oceanía",
+      "city": "Numea",
+      "country": "Nueva Caledonia (Francia)",
+      "category": "sociedad",
+      "headline": "Las fuerzas armadas francesas incautaron más de 15 toneladas de drogas en el Pacífico en lo que va del año",
+      "summary": "Los militares franceses desplegados en Nueva Caledonia y la Polinesia Francesa informaron que en 2026 decomisaron más de 15 toneladas de narcóticos en aguas del Pacífico. Las islas del Pacífico son cada vez más usadas como escala de la cocaína sudamericana hacia Australia y Nueva Zelanda. Dato de una sola fuente.",
+      "por_que": "La ruta de la cocaína por el Pacífico genera consumo local y corrupción en islas con muy pocos recursos para vigilar sus aguas.",
+      "source": "RNZ Pacific",
+      "lat": -22.3,
+      "lon": 166.4,
+      "url": "https://www.rnz.co.nz/news/pacific/2758209/pacific-news-in-brief-for-24-november"
+    }
+  ],
+  "breves": [
+    {
+      "country": "Colombia",
+      "category": "ciencia",
+      "text": "Investigadores describieron una ranita nueva, Niceforonia florezarum, en el páramo del Parque Nacional Puracé. Mide entre 15,4 y 20,4 milímetros y la confirmaron con análisis genéticos y de su canto.",
+      "source": "Colombia One",
+      "lat": 2.3,
+      "lon": -76.4,
+      "url": "https://colombiaone.com/2026/11/24/colombia-new-frog-species-purace-national-park/"
+    },
+    {
+      "country": "Tailandia",
+      "category": "ciencia",
+      "text": "Un equipo tailandés identificó una nueva especie de mosca que se alimenta de sangre, Haematobia thailandensis, durante un relevamiento en granjas de ganado de Pak Chong.",
+      "source": "The Thaiger",
+      "lat": 14.7,
+      "lon": 101.4,
+      "url": "https://thethaiger.com/news/national/thai-researchers-discover-new-blood-feeding-fly-species"
+    },
+    {
+      "country": "Malí",
+      "category": "economía",
+      "text": "Malí abrió en Bamako los Estados Generales de la Ganadería, la Pesca y la Acuicultura, con delegaciones de Burkina Faso, Níger y Guinea, para modernizar sectores de los que vive buena parte del Sahel. Dato de una sola fuente.",
+      "source": "Mali 24",
+      "lat": 12.6,
+      "lon": -8.0,
+      "url": "https://mali24.info/etats-generaux-de-lelevage-et-de-la-peche-le-mali-mise-sur-la-modernisation-des-filieres/"
+    },
+    {
+      "country": "Kirguistán",
+      "category": "ambiente",
+      "text": "Kirguistán recibirá US$20 millones del Banco Asiático de Desarrollo para su primera planta solar flotante a escala comercial: 15 MW sobre el embalse de una hidroeléctrica cerca de Biskek. Las fuentes no coinciden en si el financiamiento ya está aprobado o solo propuesto.",
+      "source": "Trend / Times of Central Asia",
+      "lat": 42.9,
+      "lon": 74.7,
+      "url": "https://trend.az/casia/kyrgyzstan/4250537.html"
+    },
+    {
+      "country": "Nepal",
+      "category": "política",
+      "text": "Nepal estudia hacer en una sola jornada sus elecciones locales (los 753 municipios vencen en mayo de 2027) y provinciales (550 bancas que vencen en noviembre de 2027) para ahorrar costos.",
+      "source": "The Kathmandu Post",
+      "lat": 27.7,
+      "lon": 85.3,
+      "url": "https://kathmandupost.com/politics/2026/11/22/nepal-has-two-major-elections-next-year-search-on-for-ways-to-hold-them-together"
+    },
+    {
+      "country": "China",
+      "category": "cultura",
+      "text": "Del 30 de noviembre al 5 de diciembre, el comité de patrimonio inmaterial de la UNESCO se reúne en Xiamen para evaluar 64 tradiciones presentadas por 82 países, cuatro de ellas para la lista de salvaguardia urgente.",
+      "source": "UNESCO",
+      "lat": 24.5,
+      "lon": 118.1,
+      "url": "https://ich.unesco.org/en/21com"
+    },
+    {
+      "country": "Islas Salomón",
+      "category": "economía",
+      "text": "Islas Salomón y Papúa Nueva Guinea firmaron un memorando de cooperación pesquera, en una región donde el atún es la principal fuente de ingresos de varios Estados insulares.",
+      "source": "PACNEWS / Islands Business",
+      "lat": -9.4,
+      "lon": 160.0,
+      "url": "https://islandsbusiness.com/pacnews/pacnews-two-25-november-2026/"
+    }
+  ],
+  "efemerides": {
+    "dia": "25 de noviembre",
+    "items": [
+      {
+        "year": "1120",
+        "text": "Naufraga el Barco Blanco frente a Normandía. Muere Guillermo Adelin, único heredero varón de Enrique I de Inglaterra, y la disputa sucesoria termina en una guerra civil."
+      },
+      {
+        "year": "1491",
+        "text": "Se firman las Capitulaciones de Granada, con las que el reino nazarí se rinde ante los Reyes Católicos y termina el último Estado musulmán de la península ibérica."
+      },
+      {
+        "year": "1915",
+        "text": "Albert Einstein presenta ante la Academia Prusiana de Ciencias las ecuaciones de campo de la relatividad general."
+      },
+      {
+        "year": "1936",
+        "text": "Alemania y Japón firman en Berlín el Pacto Antikomintern, antecedente del Eje de la Segunda Guerra Mundial."
+      },
+      {
+        "year": "1956",
+        "text": "El yate Granma zarpa de Tuxpan, México, con Fidel Castro, el Che Guevara y otros 80 expedicionarios rumbo a Cuba."
+      },
+      {
+        "year": "1960",
+        "text": "La dictadura de Trujillo asesina en República Dominicana a las hermanas Mirabal. En su memoria, el 25 de noviembre es el Día Internacional de la Eliminación de la Violencia contra la Mujer."
+      },
+      {
+        "year": "1975",
+        "text": "Surinam se independiza de los Países Bajos. Es el único país de Sudamérica cuyo idioma oficial es el neerlandés."
+      },
+      {
+        "year": "1984",
+        "text": "En una consulta popular no vinculante, más del 80% de los votantes argentinos respalda el Tratado de Paz y Amistad con Chile, que cierra el conflicto por el canal de Beagle."
+      },
+      {
+        "year": "1992",
+        "text": "La Asamblea Federal de Checoslovaquia vota la disolución del país, que el 1 de enero siguiente se separa sin violencia en República Checa y Eslovaquia."
+      },
+      {
+        "year": "2020",
+        "text": "Muere Diego Armando Maradona en Tigre, a los 60 años. Se decretan tres días de duelo nacional."
+      }
+    ]
+  }
+}
