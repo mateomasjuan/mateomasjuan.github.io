@@ -1,143 +1,137 @@
 {
-  "edicion": 33,
-  "fecha": "2026-11-26",
-  "generado": "2026-11-26T14:26:22-03:00",
-  "nota_editor": "Diputados debate el Presupuesto 2027 y el Senado trata la suspensión de las PASO, con el riesgo país apenas por debajo de 1.100 puntos. Afuera, la muerte de dos técnicos italianos en Kuwait sumó a Europa a la lista de víctimas de la guerra con Irán, y Washington propuso aranceles para economías que suman la mitad del PIB mundial.",
+  "edicion": 34,
+  "fecha": "2026-11-27",
+  "generado": "2026-11-27T07:32:38-03:00",
+  "nota_editor": "La Cámara de Diputados aprobó el Presupuesto 2027 en la madrugada, después de una jornada en la que el Senado suspendió las PASO y sancionó la ley de ludopatía. Afuera, el Golfo sigue en tensión y suben los reclamos contra los nuevos aranceles de Washington.",
   "indicadores": [
     {
       "label": "Dólar oficial (BNA, venta)",
-      "valor": "$1.630",
-      "variacion": "+$15",
-      "nota": "cierre del miércoles 25/11, nuevo máximo nominal; el jueves rondaba $1.625 según Cadena 3"
+      "valor": "$1.625",
+      "variacion": "-$5",
+      "nota": "cierre del 26/11; cortó seis ruedas de suba"
     },
     {
       "label": "Dólar blue",
       "valor": "$1.710",
-      "variacion": "+$20",
-      "nota": "venta, 25/11, según Urgente24 y Cadena 3"
+      "variacion": "s/d",
+      "nota": "cierre del 26/11 según Ámbito; otros medios lo dan en $1.700"
     },
     {
       "label": "Riesgo país",
       "valor": "1.067",
-      "variacion": "-27",
-      "nota": "cierre del 25/11 según J.P. Morgan; durante la rueda llegó a 1.131. En noviembre acumula una suba de 35,6%"
+      "variacion": "0",
+      "nota": "26/11, sin operaciones en Wall Street por Acción de Gracias; el miércoles tocó 1.131"
     },
     {
       "label": "S&P Merval",
-      "valor": "81.643",
-      "variacion": "+0,5%",
-      "nota": "cierre del 25/11 en pesos; subió 1,4% en dólares; durante la rueda llegó a caer casi 5%"
+      "valor": "84.282,90",
+      "variacion": "+3,23%",
+      "nota": "cierre del 26/11; YPF lideró las subas"
     },
     {
       "label": "Inflación mensual (INDEC)",
       "valor": "2,2%",
       "variacion": "+0,3 pp",
-      "nota": "octubre de 2026; 26,3% acumulada en el año"
+      "nota": "octubre de 2026; 33,1% interanual y 26,3% en el año"
     },
     {
       "label": "Petróleo Brent",
-      "valor": "US$ 94,61",
-      "variacion": "+3,5%",
-      "nota": "cierre del 25/11, tras el ataque hutí a Ras Tanura reivindicado ese día"
-    },
-    {
-      "label": "Industria (FIEL)",
-      "valor": "-4,3% interanual",
-      "variacion": "",
-      "nota": "octubre de 2026; cuarta caída seguida y -1,7% en lo que va del año"
+      "valor": "US$96,57",
+      "variacion": "+1,96 (+1,2%)",
+      "nota": "cierre del 26/11, tercera suba seguida"
     }
   ],
   "ranking": [
     {
-      "city": "Kuwait",
-      "country": "Kuwait",
-      "headline": "Dos técnicos italianos de Rheinmetall mueren en un ataque con drones atribuido a Irán contra una estación de defensa aérea en Kuwait",
-      "summary": "El canciller italiano Antonio Tajani dijo que los dos hombres, de 36 y 65 años según ANSA, hacían mantenimiento de las antenas del sistema antiaéreo Skyguard cuando los drones impactaron el jueves. El Ministerio de Defensa kuwaití informó primero cuatro heridos por restos del ataque contra un 'sitio vital' y después confirmó la muerte de los dos italianos; los otros heridos son un kuwaití y un paquistaní. Irán negó haber hecho operaciones en la zona. Son de las primeras víctimas europeas confirmadas oficialmente en la guerra que empezó en febrero.",
+      "city": "Khasab",
+      "country": "Omán",
+      "headline": "La Guardia Revolucionaria dice que dos petroleros chocaron con minas en Ormuz, y el Brent sube por tercer día y cierra en US$96,57",
+      "summary": "La Guardia Revolucionaria iraní afirmó que dos petroleros explotaron y se incendiaron al chocar con minas al norte del puerto omaní de Khasab, porque usaban una ruta 'no autorizada'. Por separado, la UKMTO informó que un proyectil alcanzó a un petrolero a 18 millas náuticas de Khasab. El jueves por la noche ninguno de los dos buques estaba identificado, y el Comando Central de EE.UU. ya había desmentido antes otros anuncios iraníes de minas. El Brent acumula cerca de 8% en tres ruedas, y la OPEP+ se reúne el 29 de noviembre.",
       "category": "conflicto",
       "impact": "alto",
-      "source": "CNN / CBC / ABC",
-      "time_note": "hoy",
-      "lat": 29.4,
-      "lon": 48.0,
-      "url": "https://www.cnn.com/2026/11/26/middleeast/italians-killed-iranian-attack-kuwait-intl"
+      "source": "Iran International / Logistics Middle East / N環球",
+      "time_note": "ayer",
+      "lat": 26.2,
+      "lon": 56.2,
+      "url": "https://www.iranintl.com/en/202611269792"
     },
     {
-      "city": "Ras Tanura",
-      "country": "Arabia Saudita",
-      "headline": "Los hutíes dicen haber atacado Ras Tanura, la mayor refinería saudí, y el Brent sube 3,5%",
-      "summary": "El grupo yemení aliado de Irán reivindicó el miércoles un ataque contra la refinería de Saudi Aramco en Ras Tanura. Ese mismo día, la marina iraní informó que dos petroleros se incendiaron en el estrecho de Ormuz. El Brent para enero cerró a 94,61 dólares, con una suba de 3,5%, y el WTI subió 2% hasta 83,68 dólares. Arabia Saudita no había detallado los daños.",
+      "city": "Pekín",
+      "country": "China",
+      "headline": "China, la Unión Europea y Brasil rechazan los aranceles de hasta 20% que propuso Washington por 'exceso de capacidad'",
+      "summary": "La cancillería china dijo que el argumento se usa como 'pretexto para maniobras políticas', y Pekín se reservó el derecho a tomar represalias. Para China la tasa sería de 20% y podría llegar a 40% si no hay acuerdo antes de que venza la tregua comercial, el 10 de enero de 2027. Bruselas exigió que se respete el techo de 15% acordado en Turnberry, y Bernd Lange, que preside la comisión de comercio de la Eurocámara, calificó de 'absurdo' el 20%. Las bolsas de Europa y Asia subieron porque las medidas resultaron menos duras de lo temido.",
       "category": "economía",
       "impact": "alto",
-      "source": "The Nation (Bloomberg) / Al Jazeera",
+      "source": "France 24 / CBC",
       "time_note": "ayer",
-      "lat": 26.6,
-      "lon": 50.2,
-      "url": "https://www.nationthailand.com/news/world/40073934"
+      "lat": 39.9,
+      "lon": 116.4,
+      "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs"
     },
     {
-      "city": "Washington",
-      "country": "Estados Unidos",
-      "headline": "Washington propone aranceles de hasta 20% a 14 economías, entre ellas China, la Unión Europea, India y Japón",
-      "summary": "La administración Trump lanzó el miércoles propuestas arancelarias bajo la Sección 301, tras una investigación por supuesto exceso de capacidad industrial. China y Vietnam enfrentan la tasa más alta, 20%; la UE arranca en 15%, Camboya e Indonesia en 18% e India en 17%. Antes de entrar en vigor, lo que podría pasar desde enero, las medidas deben pasar por consulta pública y audiencias. Llegan después de que la Corte Suprema anulara los aranceles globales de este año, y China, la UE y Japón ya las rechazaron.",
+      "city": "Bruselas",
+      "country": "Unión Europea",
+      "headline": "Los líderes de la eurozona eligen a Pablo Hernández de Cos para suceder a Lagarde en el BCE",
+      "summary": "En la cumbre de Bruselas, el exgobernador del Banco de España superó al neerlandés Klaas Knot después de que Países Bajos le retirara el apoyo a su candidato. Será el primer español al frente del Banco Central Europeo y asumirá cuando Lagarde se vaya, en febrero. El Consejo Europeo lo nombrará formalmente en diciembre. La inflación de la eurozona llegó a 4% en octubre.",
       "category": "economía",
       "impact": "alto",
-      "source": "CNN / Yahoo Finance",
+      "source": "Euronews / CNBC",
       "time_note": "ayer",
-      "lat": 38.9,
-      "lon": -77.0,
-      "url": "https://www.cnn.com/2026/11/25/economy/trump-new-tariffs"
+      "lat": 50.8,
+      "lon": 4.4,
+      "url": "https://www.euronews.com/2026/11/26/eurozone-leaders-back-hernandez-de-cos-to-succeed-lagarde-at-ecb"
     },
     {
-      "city": "Nueva York",
-      "country": "Estados Unidos",
-      "headline": "Un jurado de Brooklyn declara culpable a Huawei de fraude bancario, robo de secretos comerciales y violar sanciones a Irán",
-      "summary": "El jurado federal encontró a Huawei y a tres subsidiarias culpables en 10 de los 12 cargos y las absolvió de asociación ilícita (racketeering) y de obstrucción de la justicia. Las condenas por fraude bancario se basan en Skycom, la empresa que manejaba los negocios de Huawei en Irán. La compañía va a apelar, y China acusó a Estados Unidos de 'reprimir' a sus empresas. La sentencia está prevista para septiembre de 2027.",
-      "category": "tecnología",
-      "impact": "alto",
-      "source": "CNN / Time",
-      "time_note": "esta semana",
-      "lat": 40.7,
-      "lon": -74.0,
-      "url": "https://edition.cnn.com/2026/11/24/china/china-huawei-iran-conviction-intl-hnk"
-    },
-    {
-      "city": "Guiza",
-      "country": "Egipto",
-      "headline": "Un camión cisterna choca y se incendia en el anillo vial de El Cairo: al menos 31 muertos",
-      "summary": "El accidente ocurrió el miércoles en Waraq, un barrio densamente poblado de Guiza, dentro del Gran Cairo. Según el Ministerio de Salud, hubo además 21 heridos y más de dos docenas de autos y motos calcinados. La fiscalía detuvo al conductor de otro vehículo, que según su versión hizo que la cisterna chocara contra un muro y volcara.",
-      "category": "sociedad",
-      "impact": "medio",
-      "source": "AP / ABC News / Gulf News",
-      "time_note": "ayer",
-      "lat": 30.1,
-      "lon": 31.2,
-      "url": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415"
-    },
-    {
-      "city": "Nanyuki",
-      "country": "Kenia",
-      "headline": "La Justicia keniana declara inconstitucional el centro de cuarentena por ébola financiado por Estados Unidos",
-      "summary": "La jueza Patricia Nyaundi, del Tribunal Superior, falló que el gobierno violó la Constitución al permitir el centro sin participación pública. Ordenó publicar en 45 días todos los acuerdos con Washington y frenar la obra y el funcionamiento. Es un campamento de 50 camas dentro de la base aérea de Laikipia, donde Estados Unidos pensaba aislar a ciudadanos estadounidenses expuestos al virus. El brote en el este del Congo superó los 11.000 casos.",
-      "category": "salud",
-      "impact": "medio",
-      "source": "AP / ABC News / Reuters",
-      "time_note": "hoy",
-      "lat": 0.0,
-      "lon": 37.1,
-      "url": "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843"
-    },
-    {
-      "city": "Múrmansk",
-      "country": "Rusia",
-      "headline": "Putin destituye al gobernador de Múrmansk, el primero en ejercicio detenido por corrupción desde la invasión a Ucrania",
-      "summary": "Andréi Chibis fue detenido el lunes en el aeropuerto moscovita de Sheremétievo, y un tribunal le dictó dos meses de prisión preventiva. Lo acusan de desviar más de 39 millones de rublos del ministerio regional de Construcción y más de mil millones de rublos de la reconstrucción de una ruta. También se investigan sobornos. Chibis niega los cargos, y la vicegobernadora Nadezhda Aksiónova quedó a cargo de la región ártica.",
+      "city": "Bruselas",
+      "country": "Unión Europea",
+      "headline": "La cumbre europea termina sin acuerdo sobre el presupuesto y se suspende el segundo día",
+      "summary": "Los jefes de Estado y de gobierno no lograron destrabar el próximo marco presupuestario plurianual ni la ayuda a Ucrania, y cancelaron la segunda jornada que estaba prevista. Los países del Grupo de Visegrado siguen criticando el proyecto de presupuesto.",
       "category": "política",
       "impact": "medio",
-      "source": "Anadolu / A News",
+      "source": "Euronews / Balkan Insight",
       "time_note": "ayer",
-      "lat": 69.0,
-      "lon": 33.1,
-      "url": "https://www.anews.com.tr/world/2026/11/25/putin-dismisses-governor-of-russias-murmansk-region-amid-corruption-probe"
+      "lat": 50.8,
+      "lon": 4.4,
+      "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
+    },
+    {
+      "city": "Kiev",
+      "country": "Ucrania",
+      "headline": "Rusia ataca Kiev con misiles balísticos y 113 drones: diez muertos en todo el país en un día",
+      "summary": "Según el alcalde Vitali Klitschko, en la capital un centro comercial y tres puentes sobre el Dniéper sufrieron daños. Las cifras de víctimas en Kiev no coinciden entre los medios. En todo el país hubo 10 muertos y 58 heridos en 24 horas, entre ellos dos muertos en Járkov. El ataque ocurre mientras siguen las conversaciones trilaterales con Estados Unidos.",
+      "category": "conflicto",
+      "impact": "alto",
+      "source": "Yahoo News / Business Recorder",
+      "time_note": "ayer",
+      "lat": 50.5,
+      "lon": 30.5,
+      "url": "https://www.yahoo.com/news/world/articles/russian-attacks-kill-10-injure-111646480.html"
+    },
+    {
+      "city": "Seúl",
+      "country": "Corea del Sur",
+      "headline": "El Banco de Corea sube la tasa a 3,25% y eleva a 4,1% el crecimiento previsto para 2027",
+      "summary": "El directorio votó 5 a 2 una suba de 25 puntos básicos en su última reunión del año. El gobernador Shin Hyun Song la presentó como una medida preventiva frente a la inflación, que fue de 2,8% en octubre. El banco también elevó la proyección de crecimiento de 2026 de 3,3% a 3,9%, impulsada por el auge de los chips.",
+      "category": "economía",
+      "impact": "medio",
+      "source": "Central Banking / AOL (Reuters)",
+      "time_note": "ayer",
+      "lat": 37.6,
+      "lon": 127.0,
+      "url": "https://www.centralbanking.com/central-banks/monetary-policy/monetary-policy-decisions/7978076/bok-hikes-rates-and-indicates-tightening-will-continue"
+    },
+    {
+      "city": "Bilbao",
+      "country": "España",
+      "headline": "España cierra la campaña para las generales del domingo, marcada por un femicidio en Bilbao",
+      "summary": "EH Bildu suspendió sus actos del viernes, el último día de campaña, y llamó a sumarse a las movilizaciones contra la violencia machista. Los promedios de encuestas dan al PP cerca de 30%, al PSOE alrededor de 28-29% y a Vox entre 17% y 19%. Las proyecciones les dan a PP y Vox juntos unas 191 de las 350 bancas.",
+      "category": "política",
+      "impact": "medio",
+      "source": "Infobae (Europa Press) / PolitPro",
+      "time_note": "hoy",
+      "lat": 43.3,
+      "lon": -2.9,
+      "url": "https://infobae.com/espana/agencias/2026/11/27/eh-bildu-suspende-sus-actos-de-campana-por-el-asesinato-machista-de-bilbao"
     }
   ],
   "argentina": [
@@ -145,385 +139,385 @@
       "tag": "Política",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "Con 129 diputados en el recinto, arrancó la sesión para darle media sanción al Presupuesto 2027 y a la reforma del BCRA",
-      "summary": "La sesión empezó a las 12.20, después de que Argentina Federal y Provincias Unidas ayudaran a juntar el quórum que había faltado la semana pasada. El proyecto prevé gastos por 216 billones de pesos y recursos por 219 billones. La pelea más dura es por las universidades, que reciben 7,3 billones contra los 11 billones que pide el CIN, y por los fondos de discapacidad. Afuera, docentes y estudiantes marcharon otra vez al Congreso por el financiamiento universitario.",
-      "source": "La Nación / Infobae",
+      "headline": "Diputados aprobó el Presupuesto 2027 a las 4.12 de la madrugada, pero el oficialismo perdió la votación por los fondos universitarios",
+      "summary": "Después de más de 15 horas de debate, la votación en general terminó 137 a 111, con tres abstenciones. Según Infobae, un diputado peronista cambió después su voto y el resultado quedó 136 a 112. El Gobierno perdió una votación clave sobre el financiamiento de las universidades nacionales y tuvo que reforzar esas partidas. El proyecto pasa ahora al Senado.",
+      "source": "Los Andes / MDZ / Infobae",
       "time_note": "hoy",
       "impact": "alto",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.lanacion.com.ar/politica/sesion-en-la-camara-de-diputados-y-de-senadores-hoy-en-vivo-presupuesto-2027-reforma-electoral-y-ley-nid26112026/"
+      "url": "https://www.losandes.com.ar/politica/el-oficialismo-logro-aprobar-el-presupuesto-2027-diputados-aunque-perdio-los-fondos-las-universidades-n6015785"
     },
     {
       "tag": "Política",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "El Senado debate la suspensión de las PASO de 2027 y la ley de prevención de la ludopatía",
-      "summary": "En la última sesión ordinaria, el Senado trata un texto que suspende las primarias de 2027 mediante una cláusula transitoria; si se aprueba, pasa a Diputados. Según fuentes parlamentarias, los diez senadores de la UCR podrían acompañar. La Libertad Avanza y el peronismo acordaron convertir en ley el proyecto de ludopatía, que tiene media sanción de Diputados desde noviembre de 2024, y aprobar otra iniciativa contra el juego ilegal.",
-      "source": "Río Negro / El Canciller",
-      "time_note": "hoy",
+      "headline": "El Senado dio media sanción a la reforma electoral que suspende las PASO de 2027, con 43 votos contra 29",
+      "summary": "La Cámara alta aprobó el proyecto de reforma electoral integral del Gobierno, que incluye la suspensión de las primarias de 2027, con 43 votos afirmativos, 29 negativos y ninguna abstención. Para conseguir el dictamen, La Libertad Avanza había aceptado sacar el artículo de las listas colectoras. El proyecto vuelve ahora a Diputados.",
+      "source": "Diario Río Negro / MDZ / Infobae",
+      "time_note": "ayer",
       "impact": "alto",
       "lat": -34.6,
       "lon": -58.4,
       "url": "https://www.rionegro.com.ar/politica/en-vivo-sesion-del-senado-hoy-jueves-26-de-noviembre-de-2026-suspension-de-las-paso-reforma-electoral-y-ludopatia-4814034/"
     },
     {
+      "tag": "Sociedad",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "headline": "Es ley la prevención de la ludopatía: el Senado la sancionó por unanimidad y prohíbe la publicidad de las apuestas online",
+      "summary": "Con 72 votos a favor, el Senado aprobó sin cambios el texto que venía de Diputados. La ley prohíbe la publicidad de las plataformas de juego, endurece las sanciones a los operadores ilegales y refuerza los controles para que los menores no puedan apostar. Tras un cuarto intermedio también se aprobó por unanimidad la ley complementaria 'Ludopatía II'. Victoria Villarruel, la Iglesia y el sector publicitario celebraron la sanción.",
+      "source": "Infobae / Plan B Noticias / El Intransigente",
+      "time_note": "ayer",
+      "impact": "alto",
+      "lat": -34.6,
+      "lon": -58.4,
+      "url": "https://www.infobae.com/politica/2026/11/27/el-senado-sanciono-la-ley-para-prevenir-la-ludopatia-infantil-con-fuertes-prohibiciones-a-la-publicidad-del-juego/"
+    },
+    {
       "tag": "Economía",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "El Tesoro enfrenta vencimientos por $25,4 billones con el riesgo país en 1.067 puntos tras tocar 1.131",
-      "summary": "El riesgo país cerró el miércoles en 1.067 puntos, 2,5% abajo, después de un pico de 1.131 durante la rueda; en noviembre acumula una suba de 35,6%. Este jueves, Economía ofrece ocho instrumentos para cubrir vencimientos por $25,4 billones, según Adcap. El Tesoro tenía $3,76 billones depositados en el BCRA al 20 de noviembre. La licitación llega con el mayorista por encima de $1.600 por primera vez.",
-      "source": "Infobae / El Intransigente",
+      "headline": "Es ley la reforma de la Carta Orgánica del Banco Central: 141 votos a favor, ninguno en contra y 99 abstenciones",
+      "summary": "Diputados aceptó las modificaciones que había hecho el Senado y la reforma del BCRA quedó sancionada. En la misma sesión, la Cámara también convirtió en ley con 203 votos contra 7 los convenios que transfieren a la Ciudad las competencias penales y de la justicia penal juvenil. El Senado los había aprobado el 17 de septiembre. Los votos de la transferencia judicial salen de una sola fuente.",
+      "source": "Examedia / Infobae / iProfesional",
       "time_note": "hoy",
       "impact": "alto",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.infobae.com/economia/2026/11/26/licitacion-clave-el-gobierno-enfrenta-hoy-vencimientos-por-25-billones-en-medio-de-la-tension-con-el-dolar-y-el-riesgo-pais/"
+      "url": "https://examedia.com.ar/portada/post/88313830"
     },
     {
       "tag": "Economía",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "La industria cayó 4,3% en octubre según FIEL, y las ventas en supermercados bajaron 3% en septiembre",
-      "summary": "El relevamiento preliminar de FIEL marca la cuarta caída interanual seguida y una baja de 1,7% en lo que va del año. La industria automotriz fue la peor, con -14,5%; la refinación de petróleo creció 7,2% en el acumulado. Según el INDEC, las ventas reales en supermercados cayeron 3% interanual en septiembre, mientras que los mayoristas subieron 1% y los shoppings 0,3%.",
-      "source": "Infobae / Los Andes / INDEC",
-      "time_note": "hoy",
-      "impact": "medio",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "https://www.infobae.com/economia/2026/11/26/la-industria-mostro-algunos-indicios-positivos-en-octubre-pero-la-mayoria-de-los-sectores-se-mantiene-en-terreno-negativo/"
-    },
-    {
-      "tag": "Sociedad",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "headline": "Rafecas cita a indagatoria al número dos del Opus Dei en una causa por reducción a servidumbre",
-      "summary": "El juez federal Daniel Rafecas llamó a declarar al vicario auxiliar Mariano Fazio y a Víctor Urrestarazu para el 19 de febrero de 2027, y a Gabriel Dondo para el 16 de febrero. La causa, impulsada por la PROTEX, reúne denuncias de unas 43 mujeres que trabajaron en centros de la organización durante décadas; solo una de esas denuncias no está prescripta. El Opus Dei sostiene que las acusaciones no tienen sustento.",
-      "source": "Ámbito / EFE",
+      "headline": "JP Morgan proyecta un crecimiento de 0,8% este año y advierte que los bonos ya descuentan un posible cambio de rumbo en 2027",
+      "summary": "El banco estima que el PBI crecerá 0,8% en 2026 y 1,8% en 2027, con un segundo semestre estancado por la incertidumbre electoral. Proyecta una inflación de 23% para diciembre de 2027 y calcula que los vencimientos de deuda de ese año suman unos US$24.900 millones. En su escenario de estrés, similar al de 2025, las reservas podrían caer unos US$9.000 millones. Según el informe, los precios de los bonos implican cerca de 50% de probabilidad de un cambio de rumbo después del mandato de Milei.",
+      "source": "Infobae / MDZ",
       "time_note": "ayer",
       "impact": "medio",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.ambito.com/informacion-general/el-juez-daniel-rafecas-cito-indagatoria-al-n-dos-del-opus-dei-un-causa-trata-mujeres-n6349521"
+      "url": "https://www.infobae.com/economia/2026/11/26/el-banco-mas-grande-del-mundo-analizo-el-salto-del-riesgo-pais-y-la-volatilidad-en-argentina-que-preve-para-las-elecciones-2027/"
     },
     {
-      "tag": "Sociedad",
+      "tag": "Economía",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "headline": "La CGT marcha a la Superintendencia de Salud por la crisis de las obras sociales y evalúa paros de cuatro horas en diciembre",
-      "summary": "La central obrera convocó a las 15 frente a la Superintendencia de Servicios de Salud, sin paro general. Reclama fondos y cuestiona el uso del Fondo Solidario de Redistribución, que se destina en buena parte a prestaciones por discapacidad. Los dirigentes dicen que, tras tres reuniones con el ministro Mario Lugones, no tienen respuesta. El vocero Adrián Ravier afirmó que el diálogo sigue abierto.",
-      "source": "Ámbito / Tiempo Argentino",
-      "time_note": "hoy",
+      "headline": "Sin Wall Street, el Merval sube 3,2% por tercera rueda seguida y el dólar corta seis días de alza",
+      "summary": "Con la plaza neoyorquina cerrada por Acción de Gracias, el MSCI Merval cerró en 84.282,90 puntos, con YPF a la cabeza. Los bonos en dólares subieron hasta 3,6% en la plaza local. El oficial bajó $5, a $1.625, y el riesgo país quedó en 1.067 puntos.",
+      "source": "Los Andes / Infobae / EFE",
+      "time_note": "ayer",
       "impact": "medio",
       "lat": -34.6,
       "lon": -58.4,
-      "url": "https://www.ambito.com/politica/la-cgt-marcha-la-situacion-critica-las-obras-sociales-y-exige-al-gobierno-una-respuesta-n6349384"
+      "url": "https://www.losandes.com.ar/economia/el-dolar-retrocedio-seis-ruedas-alza-y-las-acciones-prolongaron-su-recuperacion-n6015783"
     },
     {
-      "tag": "Cultura",
-      "city": "Buenos Aires",
+      "tag": "Seguridad",
+      "city": "Corrientes",
       "country": "Argentina",
-      "headline": "Por sus 70 años, el Museo Moderno compra seis obras de artistas argentinos contemporáneos",
-      "summary": "La adquisición, propuesta por la galería Ruth Benzacar, incluye obras de Chiachio & Giannone, Sofía Durrieu, Carlos Herrera, Ulises Mazzucca y Mariana Tellería. Fue una compra, no una donación, y el Comité de Adquisiciones la aprobó por unanimidad. Para dos de las artistas es la primera vez que entran a la colección del museo, que tiene más de 8.200 obras.",
-      "source": "La Nación",
+      "headline": "El Superior Tribunal de Corrientes confirmó 14 años de prisión para un hijo de la docente rural Nancy Godoy por abusar de sus hijastras",
+      "summary": "El tribunal rechazó por unanimidad la casación de la defensa de Adán Godoy y dejó firme la condena que el Tribunal de Juicio de Goya había dictado en julio de 2025 por abuso sexual agravado. Es una causa independiente de la que investiga el asesinato de su madre, la maestra de 52 años hallada muerta el 28 de octubre en el paraje El Malezal, en Esquina. Esa causa sigue abierta y tiene varios imputados con prisión preventiva.",
+      "source": "Primera Página / Examedia",
       "time_note": "ayer",
       "impact": "bajo",
-      "lat": -34.6,
-      "lon": -58.4,
-      "url": "https://www.lanacion.com.ar/cultura/por-los-70-anos-del-museo-el-moderno-compro-seis-obras-de-artistas-argentinos-nid25112026/"
+      "lat": -27.5,
+      "lon": -58.8,
+      "url": "https://primerapagina.info/policiales/confirmaron-la-condena-de-14-anos-a-adan-godoy--uno-de-los-hijos-de-nancy-godoy_a6b08d6ecb16aca33770597b1"
     }
   ],
   "mundo": [
     {
       "region": "África",
-      "city": "Antananarivo",
-      "country": "Madagascar",
+      "city": "Dakar",
+      "country": "Senegal",
       "category": "política",
-      "headline": "Los diputados malgaches destituyen al presidente de la Asamblea, un aliado del gobierno militar",
-      "summary": "En una sesión nocturna del 23 al 24 de noviembre, 112 de los 149 diputados votaron destituir a Siteny Randrianasoloniaiko; hacían falta 109 votos. Lo acusaron de tomar decisiones unilaterales y de cambiar el orden del día sin consulta. En la misma votación cayeron otros tres miembros de la mesa directiva. Impulsó la medida la plataforma VFM, que apoya al gobierno del coronel Michael Randrianirina, y ahora la Alta Corte Constitucional debe validarla.",
-      "por_que": "Muestra las primeras fisuras dentro del bloque que sostiene la transición militar, en un país con elecciones presidenciales todavía sin fecha.",
-      "source": "Newsmada / Midi Madagasikara / Madagascar Tribune",
-      "lat": -18.9,
-      "lon": 47.5,
-      "url": "https://newsmada.com/2026/11/25/assemblee-nationale-siteny-randrianasoloniaiko-dechu-de-son-fauteuil/"
+      "headline": "La Asamblea senegalesa vota contra el decreto con el que Diomaye Faye puso en vigor el presupuesto rechazado",
+      "summary": "Por 128 votos contra 9, los diputados aprobaron el 25 de noviembre una resolución que pide retirar el decreto 2026-2416. Con ese decreto, el presidente Bassirou Diomaye Faye puso en vigor la ley de finanzas rectificativa 2026 después de que el Parlamento la rechazara, invocando el artículo 68 de la Constitución. La resolución pide además a los funcionarios que no ejecuten la ley. Faye ordenó cumplirla sin demora. La Asamblea está en manos del Pastef y la preside Ousmane Sonko, a quien Faye destituyó como primer ministro en mayo.",
+      "por_que": "A partir del 2 de diciembre la Constitución le permite al presidente disolver la Asamblea, y la ruptura entre Faye y Sonko amenaza la estabilidad de una de las democracias más sólidas de África occidental.",
+      "source": "Ndarinfo / Afrik.com / Socialnetlink",
+      "lat": 14.7,
+      "lon": -17.4,
+      "url": "https://www.ndarinfo.com/Assemblee-nationale-la-resolution-contre-le-decret-de-Diomaye-Faye-sur-la-LFR-2026-adoptee_a47334.html"
     },
     {
       "region": "África",
-      "city": "Baroua",
-      "country": "Níger",
-      "category": "política",
-      "headline": "Boko Haram mata a 11 soldados nigerinos en Diffa, cerca de la frontera con Nigeria",
-      "summary": "Una patrouille que custodiaba actividades económicas de los pobladores de Baroua fue atacada el martes 24, según un comunicado del Ministerio de Defensa leído en la televisión pública. Además de los 11 muertos hubo cinco heridos, y el gobierno dice haber 'neutralizado' a 22 atacantes. Níger dejó en 2025 la Fuerza Multinacional Mixta del lago Chad y lleva adelante su propia operación, 'Nalewa Dolé'. Los números salen solo del gobierno.",
-      "por_que": "La cuenca del lago Chad sigue siendo un frente activo del yihadismo, y casi no recibe atención fuera de la región.",
-      "source": "Anadolu / Xinhua / Sahel Intelligence",
-      "lat": 13.7,
-      "lon": 12.9,
-      "url": "https://www.aa.com.tr/fr/afrique/niger-11-militaires-tu%C3%A9s-et-5-autres-bless%C3%A9s-dans-une-attaque-de-boko-haram-%C3%A0-diffa/4137453"
+      "city": "Abiyán",
+      "country": "Costa de Marfil",
+      "category": "derechos",
+      "headline": "Costa de Marfil libera a 234 presos detenidos durante la crisis de la presidencial de 2025 por falta de pruebas",
+      "summary": "El vocero del gobierno, Amadou Coulibaly, anunció que los jueces de instrucción no encontraron pruebas suficientes para procesarlos. También lamentó las muertes de militantes del PPA-CI, el partido de Laurent Gbagbo, en la cárcel, aunque no confirmó la cifra de seis que da esa fuerza. El anuncio responde a un pedido del PPA-CI ante la ONU, que habla de más de 1.600 detenidos. 'Para los demás, la instrucción continuará', dijo Coulibaly.",
+      "por_que": "Es la mayor liberación desde la represión poselectoral y mide cuánto margen de reconciliación tiene el gobierno de Ouattara con la oposición.",
+      "source": "Jeune Afrique / Bénin Web TV / 7info.ci",
+      "lat": 5.3,
+      "lon": -4.0,
+      "url": "https://www.jeuneafrique.com/1865402/politique/cote-divoire-liberation-de-234-prisonniers-incarceres-depuis-la-presidentielle-de-2025/"
     },
     {
       "region": "Asia",
-      "city": "Vientián",
-      "country": "Laos",
-      "category": "economía",
-      "headline": "Laos sale de la lista de países menos adelantados de la ONU después de 55 años",
-      "summary": "El 24 de noviembre Laos dejó formalmente la categoría. Es el primer país del sudeste asiático en hacerlo y el noveno en el mundo. Cumplía los tres umbrales de la ONU (ingreso, capital humano y vulnerabilidad económica y ambiental) desde 2021, después de alcanzar dos de ellos en 2018. Camboya, Myanmar y Timor Oriental siguen en la lista; Camboya tiene previsto salir en diciembre de 2029.",
-      "por_que": "Cambia las condiciones de comercio y crédito de uno de los países más pobres de Asia, que pierde preferencias arancelarias pero gana peso como destino de inversión.",
-      "source": "Khaosod English / Xinhua / Bangkok Post",
-      "lat": 18.0,
-      "lon": 102.6,
-      "url": "https://www.khaosodenglish.com/news/asean/2026/11/24/laos-leaves-uns-least-developed-country-list-after-55-years/"
+      "city": "Taipéi",
+      "country": "Taiwán",
+      "category": "política",
+      "headline": "Taiwán vota el sábado en elecciones locales 'nueve en uno' y un referéndum nacional, en alerta por ciberataques",
+      "summary": "Según la Comisión Electoral Central, casi 19,6 millones de personas están habilitadas para las elecciones locales y más de 20 millones para el referéndum nacional. El primer ministro Cho Jung-tai pidió a los organismos estar atentos a ciberataques que podrían afectar la votación. El gobierno confía en mantener el arancel de 15% frente a la nueva propuesta de Estados Unidos, y 322 productos agrícolas seguirán exentos.",
+      "por_que": "El resultado mostrará cuánto apoyo tiene el gobierno de Lai Ching-te frente a la oposición, en plena presión de China y de los aranceles de Washington.",
+      "source": "Focus Taiwan (CNA)",
+      "lat": 25.0,
+      "lon": 121.5,
+      "url": "https://focustaiwan.tw/politics/202611260020"
     },
     {
       "region": "Asia",
-      "city": "Ereván",
-      "country": "Armenia / Azerbaiyán",
-      "category": "sociedad",
-      "headline": "Representantes de la sociedad civil azerbaiyana cruzan por tierra a Armenia para la quinta ronda del diálogo 'Puente de Paz'",
-      "summary": "La delegación entró por el tramo de frontera ya delimitado para reunirse el 26 y 27 de noviembre con pares armenios; en total participan 60 personas. La agenda incluye el marco de paz de la cumbre de Washington del 8 de agosto de 2025, comercio y transporte, temas humanitarios y juventud. Por primera vez van a trabajar comisiones temáticas. El secretario del Consejo de Seguridad armenio, Armen Grigorián, recibió a los participantes.",
-      "por_que": "Que se encuentren las sociedades, y no solo los gobiernos, es una señal de que la normalización entre dos países que estuvieron en guerra durante tres décadas va en serio.",
-      "source": "Armenpress / Report.az / APA",
-      "lat": 40.2,
-      "lon": 44.5,
-      "url": "https://armenpress.am/en/article/1266675"
-    },
-    {
-      "region": "Europa",
-      "city": "Atenas",
-      "country": "Grecia",
-      "category": "economía",
-      "headline": "Huelga general en el sector público griego para recuperar los sueldos 13 y 14 recortados en la crisis",
-      "summary": "El paro de 24 horas del miércoles frenó el transporte y los vuelos de cabotaje, y más de 12.000 personas marcharon en Atenas. Se sumaron los marinos y los ferroviarios, así que también quedaron detenidos los ferris y los trenes interurbanos. El reclamo central es la vuelta de los dos sueldos extra que se eliminaron con los programas de ajuste de 2010 a 2018.",
-      "por_que": "Ocho años después del último rescate, la factura social de la austeridad griega sigue abierta.",
-      "source": "Observador / Correio da Manhã",
-      "lat": 38.0,
-      "lon": 23.7,
-      "url": "https://observador.pt/2026/11/25/milhares-de-pessoas-em-protestos-na-grecia-por-melhores-salarios/"
-    },
-    {
-      "region": "Europa",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "category": "derechos",
-      "headline": "Las marchas contra los femicidios sacuden Kosovo: renuncia el director de la Policía y suspenden a 11 jefes policiales y dos fiscales",
-      "summary": "Por el Día Internacional de la Eliminación de la Violencia contra la Mujer, manifestantes pidieron en Pristina que el femicidio sea declarado emergencia nacional y tipificado como delito específico. En lo que va del año, siete mujeres fueron asesinadas por parejas o familiares en Kosovo. Tras las protestas renunció el director de la Policía. También hubo manifestaciones en Skopie, frente al Parlamento macedonio.",
-      "por_que": "Es una de las pocas veces en los Balcanes en que la presión de la calle por la violencia de género termina con renuncias en la cúpula de las fuerzas de seguridad.",
-      "source": "Balkan Insight",
-      "lat": 42.7,
-      "lon": 21.2,
-      "url": "https://balkaninsight.com/2026/11/26/protesters-across-balkans-demand-action-to-curb-violence-against-women/bi/"
-    },
-    {
-      "region": "Medio Oriente",
-      "city": "Ankara",
-      "country": "Turquía",
-      "category": "derechos",
-      "headline": "El Tribunal Constitucional turco avala la prisión preventiva de İmamoğlu tras 613 días de detención",
-      "summary": "Por 14 votos a 1, el pleno resolvió que la duración de la detención del exalcalde de Estambul no viola sus derechos, y por unanimidad rechazó sus planteos sobre la libertad de participación política. Un día antes, el Consejo de Estado dejó firme la anulación de su título universitario, un requisito para ser candidato a presidente. Su defensa va a presentar un nuevo recurso.",
-      "por_que": "Los dos fallos juntos dejan casi cerrado el camino electoral del principal rival de Erdoğan.",
-      "source": "Bianet / Turkish Minute / Hürriyet Daily News",
-      "lat": 39.9,
-      "lon": 32.9,
-      "url": "https://bianet.org/haber/high-courts-uphold-imamoglus-diploma-annulment-find-no-rights-violation-in-detention-325808"
-    },
-    {
-      "region": "Medio Oriente",
-      "city": "Jerusalén",
-      "country": "Israel",
+      "city": "Islamabad",
+      "country": "Pakistán",
       "category": "política",
-      "headline": "La Knesset avanza una comisión estatal sobre el 7 de octubre mientras Eisenkot busca jurar un gobierno en minoría",
-      "summary": "En votación preliminar, 65 a 50, el Parlamento aprobó crear una comisión estatal de investigación de cinco miembros sobre las fallas del 7 de octubre, a la que Netanyahu se opone. También avanzó la derogación de la ley que le daba al ministro de Justicia el control del departamento que investiga a la policía. Gadi Eisenkot quiere someter a votación un gobierno en minoría el miércoles 2 de diciembre.",
-      "por_que": "Por primera vez desde 2023, la mayoría parlamentaria posterior a las elecciones empieza a investigar a la conducción que estaba en el poder durante el ataque.",
-      "source": "The Times of Israel / Haaretz / Jerusalem Post",
-      "lat": 31.8,
-      "lon": 35.2,
-      "url": "https://www.timesofisrael.com/liveblog-november-25-2026/"
+      "headline": "Pakistán, Arabia Saudita y Turquía reúnen en Islamabad a su comité de defensa mutua en plena guerra entre hutíes y sauditas",
+      "summary": "El comité trilateral de defensa sesiona el 27 y el 28 de noviembre. Según el ministro de Defensa, Khawaja Asif, en la agenda están el conflicto entre los hutíes y Arabia Saudita, el pacto de defensa entre los tres países y la seguridad regional. La reunión ocurre mientras los hutíes dicen haber atacado Ras Tanura y puertos saudíes del mar Rojo.",
+      "por_que": "Una potencia nuclear y el segundo mayor ejército de la OTAN podrían terminar involucrados en la defensa saudí, y eso cambiaría la escala del conflicto en el Golfo.",
+      "source": "Pajhwok / Dawn",
+      "lat": 33.7,
+      "lon": 73.1,
+      "url": "https://pajhwok.com/2026/11/27/pakistan-saudi-arabia-turkiye-to-hold-2-day-defence-meeting-in-islamabad/"
     },
     {
-      "region": "Norteamérica",
-      "city": "Albuquerque",
-      "country": "Estados Unidos",
+      "region": "Europa",
+      "city": "Bucarest",
+      "country": "Rumania",
+      "category": "política",
+      "headline": "La Fiscalía rumana acusa formalmente a George Simion, líder de la ultraderecha, de incitación pública a la violencia",
+      "summary": "Los fiscales sostienen que en un video de Facebook del 9 de marzo de 2025 el líder de AUR alentó agresiones, torturas o asesinatos contra integrantes de la Oficina Electoral Central, después de que rechazaran la candidatura presidencial de Călin Georgescu. El delito prevé de tres meses a tres años de prisión o una multa. Simion dice que la causa es política y, ese mismo día, repitió el eslogan en un acto en Râmnicu Vâlcea.",
+      "por_que": "AUR es la principal fuerza de oposición de Rumania, y el proceso a su líder pone a prueba hasta dónde llega la justicia frente a la ultraderecha en un país clave del flanco oriental de la UE.",
+      "source": "Balkan Insight / Romania Journal / Bloomberg",
+      "lat": 44.4,
+      "lon": 26.1,
+      "url": "https://balkaninsight.com/2026/11/26/romanian-far-right-leader-charged-with-inciting-violence/bi/"
+    },
+    {
+      "region": "Europa",
+      "city": "Vukovar",
+      "country": "Croacia / Serbia",
       "category": "derechos",
-      "headline": "Una jueza federal ordena a Kalshi dejar de ofrecer apuestas deportivas en tierras de tres pueblos y la Nación Apache Mescalero",
-      "summary": "La jueza Margaret Strickland dictó una medida cautelar que le da a la plataforma de predicciones 14 días para bloquear el acceso en los territorios de los pueblos Sandia, Isleta y Pojoaque y de la reserva Mescalero. Consideró que las tribus probablemente ganen bajo la ley federal de juego indígena, y que afectar su autogobierno es un daño irreparable. Kalshi había argumentado que sus servidores están fuera de esas tierras. En Wisconsin, otro juez le negó una medida similar a la Nación Ho-Chunk.",
-      "por_que": "Puede convertirse en un modelo para que las naciones originarias de todo Estados Unidos defiendan su soberanía frente al juego en línea.",
-      "source": "Source NM / KSFR / Legal Sports Report",
-      "lat": 35.1,
-      "lon": -106.6,
-      "url": "https://sourcenm.com/2026/11/24/federal-judge-orders-kalshi-to-stop-allowing-sports-gambling-on-some-new-mexico-tribal-lands/"
+      "headline": "A 35 años de la caída de Vukovar, la Eurocámara le pide a Serbia que abra sus archivos de guerra",
+      "summary": "La resolución, no vinculante, reclama a Belgrado datos sobre fosas comunes, cooperación en los juicios por crímenes de guerra y una ley sobre personas desaparecidas. También condena la glorificación de criminales de guerra y menciona los honores públicos que recibió Ratko Mladić en su funeral de julio en Belgrado. Las familias de Vukovar siguieron la votación en Estrasburgo. El movimiento estudiantil que ganó las elecciones serbias la criticó porque no reconoce a las víctimas civiles serbias.",
+      "por_que": "Es una primera prueba para el nuevo Parlamento serbio, de mayoría estudiantil, en su relación con la UE y con la memoria de las guerras de los noventa.",
+      "source": "Balkan Insight / Croatia Week / Gazeta Express",
+      "lat": 45.3,
+      "lon": 19.0,
+      "url": "https://www.croatiaweek.com/european-parliament-vukovar-resolution/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Erbil",
+      "country": "Irak",
+      "category": "política",
+      "headline": "Miles de kurdos protestan en Erbil y Duhok porque Bagdad quiere controlar sus fronteras y su petróleo",
+      "summary": "La Corte Suprema iraquí habilitó a Bagdad a desplegar fuerzas federales en todas las fronteras internacionales, incluidas las del Kurdistán, y quedaron cerrados los pasos de al-Waleed, hacia Siria, y Bashta, hacia Irán. El primer ministro Ali al-Zaidi también ordenó que el Ministerio de Petróleo federal administre yacimientos bajo control de seguridad kurdo en cuatro provincias. El gobierno regional de Masrour Barzani calificó las medidas de inconstitucionales, y Bagdad negó haber movido tropas. Hay un diálogo nacional previsto para el 1 de diciembre.",
+      "por_que": "Es el choque más serio en años sobre la autonomía kurda y sobre una parte del petróleo iraquí, en medio de la guerra regional con Irán.",
+      "source": "The National / Al Jazeera / US News (Reuters)",
+      "lat": 36.2,
+      "lon": 44.0,
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/26/iraq-denies-sending-troops-to-kurdistan-as-crisis-talks-to-begin/"
+    },
+    {
+      "region": "Medio Oriente",
+      "city": "Teherán",
+      "country": "Irán",
+      "category": "economía",
+      "headline": "La huelga de camioneros iraníes llega a 20 ciudades con el rial en mínimo histórico",
+      "summary": "La protesta de los transportistas por el costo de vida cumplió seis días y ya alcanza a 20 ciudades, según la unión nacional de asociaciones de camioneros. El rial superó los 2,85 millones por dólar en el mercado libre, y el presidente Masud Pezeshkian admitió: 'No tenemos dinero'. Los alimentos subieron más de 110% en un año.",
+      "por_que": "El bloqueo naval y la guerra agravan la crisis económica de Irán, y un paro del transporte puede extender el malestar social a todo el país.",
+      "source": "The National / Iran International",
+      "lat": 35.7,
+      "lon": 51.4,
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/27/twenty-cities-one-voice-iranian-lorry-drivers-persist-with-strike/"
     },
     {
       "region": "Norteamérica",
-      "city": "Hilo",
-      "country": "Estados Unidos (Hawái)",
+      "city": "San Cristóbal de Las Casas",
+      "country": "México",
+      "category": "derechos",
+      "headline": "Unos 1.500 zapatistas se preparan para viajar a la Ciudad de México a acompañar a las madres buscadoras",
+      "summary": "La delegación del EZLN empezó el 26 y el 27 de noviembre reuniones privadas con colectivos de familias de desaparecidos de Chiapas, en San Cristóbal. La salida hacia la capital está prevista para el fin de semana. MVS habla de 1.530 integrantes y otros medios de 1.509. El subcomandante Moisés advirtió contra el uso partidario de la visita, y el capitán Marcos ya les había pedido perdón a las familias por declaraciones anteriores.",
+      "por_que": "Es la mayor movilización zapatista fuera de Chiapas en años y pone el foco en los más de 100.000 desaparecidos de México.",
+      "source": "MVS Noticias / Animal Político",
+      "lat": 16.7,
+      "lon": -92.6,
+      "url": "https://mvsnoticias.com/nacional/estados/2026/11/26/ezln-se-prepara-para-salir-a-cdmx-e-iniciar-encuentros-con-madres-buscadoras-754925.html"
+    },
+    {
+      "region": "Norteamérica",
+      "city": "Sells, Arizona",
+      "country": "Estados Unidos (Nación Tohono O'odham)",
+      "category": "derechos",
+      "headline": "La Nación Tohono O'odham llega a la Corte de Apelaciones contra el muro fronterizo y Washington alega que las tribus no pueden demandarlo",
+      "summary": "La tribu impugna la construcción de 62 millas de muro dentro de su reserva, en la frontera con México. El 1 de diciembre tendrá audiencia en el Circuito de D.C. El Departamento de Justicia sostiene que las naciones tribales no pueden demandar al gobierno federal por invadir tierras que ese mismo gobierno tiene en fideicomiso para ellas. Antes, agentes de la Patrulla Fronteriza armados y con el rostro cubierto les impidieron a policías tribales multar a los contratistas.",
+      "por_que": "Si prospera, el argumento federal dejaría a las tribus sin una herramienta legal básica para defender sus territorios.",
+      "source": "Native News Online / Tucson Sentinel",
+      "lat": 31.9,
+      "lon": -111.9,
+      "url": "https://nativenewsonline.net/sovereignty/reporters-notebook-on-the-tohono-oodham-border-a-chairmans-resolve-to-defend-his-nation/"
+    },
+    {
+      "region": "Latinoamérica",
+      "city": "Ciudad de Panamá",
+      "country": "Panamá",
       "category": "ambiente",
-      "headline": "La isla grande de Hawái se acerca a prohibir los grandes centros de datos para IA",
-      "summary": "La Bill 170, enmendada para cerrar resquicios, define como centro de datos regulado a toda instalación con una capacidad de al menos 5 megavatios cuando esté completa. Una comisión del Concejo del condado la aprobó en noviembre sin votos en contra, y el pleno la vota el 2 de diciembre. Las comisiones de planificación se dividieron: la de barlovento recomendó rechazarla y la de sotavento la apoyó y pidió una moratoria. Vecinos que declararon advirtieron sobre el consumo de agua y electricidad.",
-      "por_que": "Sería una de las primeras jurisdicciones de Estados Unidos en cerrarle la puerta a la infraestructura de la IA por su impacto sobre recursos escasos en una isla.",
-      "source": "Hawaiʻi Public Radio / Hawaii Tribune-Herald",
-      "lat": 19.7,
-      "lon": -155.1,
-      "url": "https://www.hawaiipublicradio.org/local-news/2026-11-25/hawaii-county-lawmakers-work-to-make-data-center-ban-airtight"
+      "headline": "Panamá encarga a una firma australiana una consulta ciudadana sobre el futuro de la mina de cobre cerrada en 2023",
+      "summary": "Spektrum Development llevará adelante la consulta. Las sesiones presenciales empiezan en enero de 2027 y habrá espacios en idioma ngäbere para los pueblos indígenas. El gobierno dijo que no anunciará decisiones sobre la mina de First Quantum hasta terminar el proceso, que puede durar 90 días y se enmarca en el Acuerdo de Escazú. El despacho Hughes Hubbard & Reed, que contrató a Spektrum, fue autorizado por hasta US$13,82 millones para asesoría jurídica y técnica.",
+      "por_que": "El cierre de la mina siguió a las mayores protestas de las últimas décadas en Panamá, y reabrirla definiría buena parte de la economía y la agenda ambiental del país.",
+      "source": "Infobae / MICI / La Estrella de Panamá",
+      "lat": 9.0,
+      "lon": -79.5,
+      "url": "https://www.infobae.com/panama/2026/11/26/panama-contrata-a-una-firma-australiana-para-dirigir-la-consulta-ciudadana-sobre-la-reapertura-de-la-mina-de-cobre/"
     },
     {
       "region": "Latinoamérica",
-      "city": "Totonicapán",
-      "country": "Guatemala",
-      "category": "derechos",
-      "headline": "Las autoridades indígenas de Guatemala rechazan la Ley de Aguas y advierten con movilizaciones si el Congreso la reactiva",
-      "summary": "La Junta Directiva de los 48 Cantones de Totonicapán, la Municipalidad Indígena de Sololá y las autoridades del Valle de Palajunoj rechazaron el 24 de noviembre la Ley de Aguas y la Ley de Innovación Agrícola. Dicen que amenazan las fuentes de agua, las semillas nativas y la soberanía alimentaria. Exigen una consulta previa, libre e informada antes de cualquier trámite legislativo y dejaron las medidas de fuerza en manos de sus asambleas.",
-      "por_que": "Los 48 Cantones ya frenaron leyes en el pasado y fueron clave en las protestas que sostuvieron la democracia guatemalteca en 2023.",
-      "source": "Infobae Guatemala / Emisoras Unidas",
-      "lat": 14.9,
-      "lon": -91.4,
-      "url": "https://www.infobae.com/guatemala/2026/11/25/las-autoridades-indigenas-en-guatemala-rechazan-las-iniciativas-de-agua-y-agricultura-y-advierten-movilizaciones-ante-su-eventual-reactivacion/"
-    },
-    {
-      "region": "Latinoamérica",
-      "city": "San Carlos",
-      "country": "Chile",
+      "city": "Lima",
+      "country": "Perú / Bolivia",
       "category": "economía",
-      "headline": "Iansa deja de producir azúcar de remolacha en Chile después de 73 años",
-      "summary": "La empresa, nacida como estatal en 1953, le comunicó el 25 de noviembre a la CMF que su directorio decidió terminar con esa producción. Va a registrar un deterioro de 28,6 millones de dólares, y su planta de San Carlos, en Ñuble, va a procesar solo azúcar cruda importada. En abril ya había anunciado que no contrataría remolacha para la temporada 2026-2027 por los bajos precios internacionales. Los agricultores advierten por el golpe a Ñuble, la región con más desempleo del país.",
-      "por_que": "Se termina un cultivo que durante décadas sostuvo a miles de productores del centro-sur chileno.",
-      "source": "BioBioChile / El Mostrador / DF",
-      "lat": -36.4,
-      "lon": -72.0,
-      "url": "https://www.biobiochile.cl/noticias/economia/negocios-y-empresas/2026/11/25/fin-de-una-era-iansa-pone-termino-a-la-produccion-de-azucar-de-remolacha-tras-73-anos-de-historia.shtml"
+      "headline": "Rodrigo Paz y Keiko Fujimori reactivan hoy en Lima el gabinete binacional, que no se reunía desde 2021",
+      "summary": "La séptima edición del gabinete binacional entre Perú y Bolivia trata 48 propuestas, 33 de ellas ya consensuadas, sobre infraestructura fronteriza, comercio, seguridad y acceso boliviano a los puertos de Ilo, Matarani y Chancay. Bolivia lleva además 12 propuestas económicas. La cita coincide con los 200 años de relaciones diplomáticas y recuerda los acuerdos que firmaron en 1992 los padres de ambos presidentes, Jaime Paz Zamora y Alberto Fujimori.",
+      "por_que": "Para una Bolivia en crisis de combustibles y de dólares, una salida al Pacífico por Perú es una pieza central de su recuperación.",
+      "source": "Infobae / El Deber / Andina",
+      "lat": -12.0,
+      "lon": -77.0,
+      "url": "https://www.infobae.com/peru/2026/11/27/presidente-de-bolivia-rodrigo-paz-llega-a-lima-para-reunirse-este-viernes-con-keiko-fujimori/"
     },
     {
       "region": "Oceanía",
-      "city": "Port Vila",
-      "country": "Vanuatu",
+      "city": "Port Moresby",
+      "country": "Papúa Nueva Guinea (Bougainville)",
       "category": "política",
-      "headline": "La oposición australiana le quita apoyo al pacto de seguridad con Vanuatu por su cláusula climática",
-      "summary": "La Coalición presentó un dictamen en disidencia contra el Acuerdo Nakamal, que compromete a ambos países a llegar a cero emisiones netas en 2050. El comité parlamentario recomendó ratificarlo igual. La canciller Penny Wong lo llamó 'el triunfo de la ideología sobre la seguridad nacional'. El gobierno no necesita al Parlamento para ratificar, pero se rompe el consenso bipartidario. Por el pacto, Vanuatu se compromete a no permitir bases militares extranjeras.",
-      "por_que": "Muestra que la política climática ya condiciona la competencia con China por la influencia en el Pacífico.",
-      "source": "ABC Australia / AAP / Vanuatu Daily Post",
-      "lat": -17.7,
-      "lon": 168.3,
-      "url": "https://www.abc.net.au/news/2026-11-24/opposition-turns-against-vanuatu-nakamal-agreement/107420028"
+      "headline": "El Parlamento de Papúa Nueva Guinea votará el 2 de diciembre si ratifica el referéndum de independencia de Bougainville",
+      "summary": "En la consulta no vinculante de 2019, el 97,7% de los votantes de Bougainville eligió la independencia. Para ratificarla hacen falta tres cuartos de la Cámara. El vice primer ministro John Rosso pidió que nadie se abstenga. El diputado Belden Namah llamó a votar en contra y sostuvo que quienes apoyen la separación violan la Constitución. El gobernador de Oro, Gary Juffa, en cambio, pidió aceptar el resultado.",
+      "por_que": "Bougainville podría convertirse en el país más nuevo del mundo, y la votación también pone a prueba la estabilidad de Papúa Nueva Guinea y del Pacífico sur.",
+      "source": "RNZ Pacific",
+      "lat": -9.4,
+      "lon": 147.2,
+      "url": "https://www.rnz.co.nz/news/pacific/2825651/png-parliament-nears-crucial-vote-on-bougainville-s-future"
     },
     {
       "region": "Oceanía",
-      "city": "Canberra",
-      "country": "Australia",
-      "category": "derechos",
-      "headline": "La comisionada para los chicos aborígenes advierte que nunca hubo tantos fuera de sus familias",
-      "summary": "En el Club Nacional de Prensa, Sue-Anne Hunter dijo que los chicos aborígenes e isleños del Estrecho de Torres tienen 9,6 veces más probabilidades que el resto de estar bajo cuidado fuera de su hogar. También dijo que hoy hay más que en cualquier momento desde que existen registros. Pidió que se publiquen los datos de los chicos que mueren bajo tutela del Estado y propuso un informe anual que califique a cada gobierno. La meta de Closing the Gap es bajar esa cifra 45% para 2031.",
-      "por_que": "La cifra contradice el compromiso de todos los gobiernos australianos con las comunidades originarias.",
-      "source": "ABC Australia / SBS NITV",
-      "lat": -35.3,
-      "lon": 149.1,
-      "url": "https://www.abc.net.au/news/2026-11-25/indigenous-children-commissioner-calls-government-accountable/107421074"
+      "city": "Suva",
+      "country": "Fiyi",
+      "category": "ambiente",
+      "headline": "Fiyi declara el desastre natural por la sequía de El Niño: 11 de las 14 fuentes de agua del oeste están en nivel crítico",
+      "summary": "El primer ministro Sitiveni Rabuka destinó FJ$20 millones a la provisión de agua de emergencia. Energy Fiji advirtió que sus represas hidroeléctricas podrían parar a fines de enero de 2027, y las clases terminan antes, el 27 de noviembre. Tonga declaró el estado de emergencia en todo su territorio, y Papúa Nueva Guinea prepara asistencia para 680.000 personas.",
+      "por_que": "La sequía muestra lo vulnerables que son las islas del Pacífico al clima extremo, justo después de que la COP31 cerrara sin acuerdo sobre los combustibles fósiles.",
+      "source": "RNZ Pacific / Islands Business",
+      "lat": -18.1,
+      "lon": 178.4,
+      "url": "https://www.rnz.co.nz/news/pacific/2768558/pacific-governments-step-up-el-nino-response-as-drought-and-water-crisis-deepen"
     }
   ],
   "breves": [
     {
-      "country": "Madagascar",
-      "category": "deporte",
-      "text": "Madagascar ganó en Khon Kaen, Tailandia, el Mundial de petanca en tripletas masculinas: le ganó 13-9 a Francia en la final. Es su tercer título mundial, después de 1999 y 2016.",
-      "source": "allAfrica / 2424.mg",
-      "lat": 16.4,
-      "lon": 102.8,
-      "url": "https://fr.allafrica.com/stories/202611250461.html"
-    },
-    {
-      "country": "Santo Tomé y Príncipe",
+      "country": "Guam / Islas Marianas",
       "category": "ciencia",
-      "text": "Un ave marina que se creía exclusiva de Cabo Verde, el petrel que los pescadores llaman 'caniboto', tiene en realidad una subespecie en Santo Tomé. Así lo describió un equipo con investigadores portugueses. Dato de una sola fuente.",
-      "source": "Público",
-      "lat": 0.3,
-      "lon": 6.7,
-      "url": "https://www.publico.pt/2026/11/23/ciencia/noticia/saga-caniboto-ave-marinha-considerada-endemica-cabo-verde-afinal-subespecie-sao-tome-2194506"
+      "text": "Un submarino robótico encontró en la fosa de las Marianas rocas piroclásticas a 6.148 metros, la actividad volcánica explosiva más profunda documentada en el océano. El estudio, dirigido por Robert Stern, de la Universidad de Texas en Dallas, se publicó el 23 de noviembre en Frontiers in Earth Science.",
+      "source": "RNZ Pacific",
+      "lat": 11.3,
+      "lon": 142.2,
+      "url": "https://www.rnz.co.nz/news/pacific/2770594/world-s-deepest-explosive-volcanic-activity-discovered-in-mariana-trench"
     },
     {
-      "country": "Sri Lanka",
-      "category": "deporte",
-      "text": "Sri Lanka ganó invicta, con ocho victorias en ocho partidos, el Trofeo de Naciones Emergentes del críquet femenino. En la final en Ajmán le ganó a Irlanda por seis wickets, con 4 wickets por 13 carreras de Sathya Sandeepani.",
-      "source": "ICC",
-      "lat": 25.4,
-      "lon": 55.5,
-      "url": "https://www.icc-cricket.com/media-releases/unbeaten-sri-lanka-win-icc-women-s-emerging-nations-trophy-2026"
+      "country": "Kenia",
+      "category": "derechos",
+      "text": "Un tribunal keniano pasó al 15 de diciembre la demanda de 133 agricultores y vecinos de Lamu contra la refinería de US$16.000 millones que proyecta el nigeriano Aliko Dangote en sus tierras. Unos 40 residentes siguieron la audiencia por videoconferencia desde la asamblea del condado.",
+      "source": "Billionaires.Africa",
+      "lat": -2.3,
+      "lon": 40.9,
+      "url": "https://www.billionaires.africa/2026/11/26/nigerian-billionaire-aliko-dangotes-16-billion-kenya-refinery-land-case-adjourned/"
     },
     {
-      "country": "Indonesia",
-      "category": "ciencia",
-      "text": "En la cueva de Liang Bua, en Flores, donde apareció el 'hobbit' Homo floresiensis, identificaron un megápodo extinto de unos 3,9 kilos a partir de un hueso de la pata excavado en 2009. Lo llamaron Megapodius rokusi en homenaje al investigador indonesio Rokus Due Awe.",
-      "source": "Phys.org / Sci.News",
-      "lat": -8.5,
-      "lon": 120.4,
-      "url": "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html"
-    },
-    {
-      "country": "Perú",
-      "category": "ambiente",
-      "text": "Más de 50 instituciones pidieron terminar con el Reinfo, el registro que protege a los mineros informales y vence el 31 de diciembre. En cambio, gremios mineros anunciaron una marcha a Lima desde el 30 de noviembre para pedir otra prórroga.",
-      "source": "La República",
-      "lat": -12.0,
+      "country": "Uzbekistán",
+      "category": "cultura",
+      "text": "Dos aiwanes, los pabellones tradicionales uzbekos de madera tallada que Shavkat Mirziyoyev le regaló a Donald Trump, ya están instalados en el West Potomac Park de Washington. Trump los calificó de 'impresionantes'.",
+      "source": "Gazeta.uz",
+      "lat": 38.9,
       "lon": -77.0,
-      "url": "https://larepublica.pe/politica/2026/11/26/mas-de-50-instituciones-exigen-poner-fin-al-reinfo-mineria-ilegal-hnews-1733186"
+      "url": "https://www.gazeta.uz/en/2026/11/25/uzbek-gazebos-washington/"
     },
     {
-      "country": "Pakistán",
+      "country": "Fiyi / Oceanía",
+      "category": "deporte",
+      "text": "World Rugby suspendió a Oceania Rugby de su Consejo mientras investiga su gestión, y el gerente general, Frank Puletua, habría renunciado. Fiyi analiza armar su propia competencia regional, y ya se anotaron Kiribati, Nauru, Papúa Nueva Guinea, Salomón, la Polinesia Francesa y Tonga.",
+      "source": "RNZ Pacific",
+      "lat": -18.1,
+      "lon": 178.4,
+      "url": "https://www.rnz.co.nz/news/pacific/2793021/oceania-rugby-suspended-from-world-rugby-council-as-fiji-questions-regional-body-s-relevance"
+    },
+    {
+      "country": "Tonga",
+      "category": "ambiente",
+      "text": "La ONG Live 'N Learn entregó tanques de agua a más de 160 hogares de Ha'apai, una de las zonas más golpeadas por la sequía de El Niño en Tonga, que está en estado de emergencia hasta el 17 de diciembre.",
+      "source": "RNZ Pacific",
+      "lat": -19.8,
+      "lon": -174.4,
+      "url": "https://www.rnz.co.nz/news/pacific/2754221/tonga-ngo-supplies-water-tanks-to-drought-hit-ha-apai-households"
+    },
+    {
+      "country": "Canadá (Yukón)",
       "category": "sociedad",
-      "text": "Ya son cuatro los muertos por el derrumbe de un edificio de seis pisos en construcción en la Colonia Baloch de Karachi, y hasta 17 personas seguirían bajo los escombros. El gobierno de Sindh removió a funcionarios y ordenó detener al dueño y al constructor.",
-      "source": "Pakistan Today / AP",
-      "lat": 24.9,
-      "lon": 67.1,
-      "url": "https://www.pakistantoday.com.pk/2026/11/26/karachi-building-collapse-triggers-major-shake-up-in-sindh-administration"
+      "text": "La asociación de turismo del Yukón firmó con sus pares de los Territorios del Noroeste y Nunavut el marco 'Care for the Arctic', que compromete a los tres territorios a cuidar en conjunto a sus visitantes y a sus comunidades.",
+      "source": "Yukon News",
+      "lat": 60.7,
+      "lon": -135.1,
+      "url": "https://yukon-news.com/2026/11/26/yukon-tourism-group-joins-care-for-the-arctic-push-for-responsible-travel"
     },
     {
-      "country": "Estados Unidos (Hawái)",
-      "category": "clima",
-      "text": "Olas de entre 10 y 14 metros golpearon la costa norte de las islas hawaianas, y el servicio meteorológico extendió la alerta de oleaje hasta el Día de Acción de Gracias. En Oahu, el mar arrastró rocas y escombros sobre la ruta Kamehameha.",
-      "source": "Honolulu Star-Advertiser",
-      "lat": 21.6,
-      "lon": -158.1,
-      "url": "https://www.staradvertiser.com/2026/11/26/breaking-news/high-surf-warning-extended-as-waves-up-to-45-feet-pound-hawaiis-north-shores/"
+      "country": "Papúa Nueva Guinea",
+      "category": "derechos",
+      "text": "Cinco mujeres, una de ellas embarazada, habrían sido enterradas vivas por acusaciones de brujería en la aldea de Kaa, en Tierras Altas del Sur, y hay tres detenidos. El gobierno, junto con ONU Mujeres, condenó el crimen, y el ministro de Policía, John Pundari, llamó 'agentes del diablo' a los responsables.",
+      "source": "RNZ Pacific",
+      "lat": -6.4,
+      "lon": 143.6,
+      "url": "https://www.rnz.co.nz/news/pacific/2768470/agents-of-the-devil-outrage-in-png-after-five-women-allegedly-buried-alive-over-sorcery-claims"
     }
   ],
   "efemerides": {
-    "dia": "26 de noviembre",
+    "dia": "27 de noviembre",
     "items": [
       {
-        "year": "1865",
-        "text": "Se publica en Londres 'Alicia en el país de las maravillas', de Lewis Carroll."
+        "year": "1095",
+        "text": "En el concilio de Clermont, el papa Urbano II llama a la Primera Cruzada."
       },
       {
-        "year": "1901",
-        "text": "Juan José Jolly Medrano se recibe como el primer doctor en Química de la Universidad de Buenos Aires; por eso en la Argentina se celebra hoy el Día del Químico."
+        "year": "1815",
+        "text": "El zar Alejandro I firma la Constitución del Reino de Polonia, uno de los textos más liberales de la Europa de su tiempo."
       },
       {
-        "year": "1922",
-        "text": "Howard Carter y Lord Carnarvon se asoman por primera vez a la antecámara de la tumba de Tutankamón, en el Valle de los Reyes, Egipto."
+        "year": "1868",
+        "text": "Tropas de George Custer atacan el campamento cheyene del jefe Caldera Negra junto al río Washita, en el actual Oklahoma, y lo matan junto con decenas de su pueblo."
       },
       {
-        "year": "1924",
-        "text": "Se proclama la República Popular de Mongolia, el segundo Estado socialista del mundo."
+        "year": "1895",
+        "text": "En París, Alfred Nobel firma el testamento con el que crea los premios que llevan su nombre."
       },
       {
-        "year": "1942",
-        "text": "Se estrena en Nueva York 'Casablanca', de Michael Curtiz, con Humphrey Bogart e Ingrid Bergman."
+        "year": "1912",
+        "text": "España y Francia firman el tratado que establece el protectorado español en el norte de Marruecos."
       },
       {
-        "year": "1944",
-        "text": "Nace en Rosario Roberto Fontanarrosa, creador de Inodoro Pereyra y Boogie el aceitoso; en su homenaje, hoy es el Día Nacional del Humorista."
+        "year": "1935",
+        "text": "Estalla en Río de Janeiro la 'Intentona Comunista', un levantamiento militar contra el gobierno de Getúlio Vargas que fue sofocado en pocas horas."
       },
       {
-        "year": "1949",
-        "text": "La Asamblea Constituyente de la India aprueba la Constitución del país, redactada por un comité que presidió B. R. Ambedkar."
+        "year": "1978",
+        "text": "Asesinan en San Francisco al alcalde George Moscone y al concejal Harvey Milk, uno de los primeros políticos abiertamente gays electos en Estados Unidos."
       },
       {
-        "year": "1965",
-        "text": "Francia lanza su primer satélite, Astérix, desde la base de Hammaguir, en el Sahara argelino, y se convierte en la tercera potencia espacial."
+        "year": "1983",
+        "text": "Cientos de miles de personas llenan Montevideo en el 'Acto del Obelisco' para reclamar el fin de la dictadura uruguaya."
       },
       {
-        "year": "2008",
-        "text": "Empiezan los ataques coordinados en Bombay: en casi cuatro días mueren más de 160 personas."
+        "year": "1992",
+        "text": "En Venezuela fracasa el segundo intento de golpe del año contra el presidente Carlos Andrés Pérez, con ataques aéreos sobre Caracas."
       },
       {
-        "year": "2018",
-        "text": "La sonda InSight de la NASA se posa en Marte para estudiar el interior del planeta."
+        "year": "2005",
+        "text": "En Amiens, Francia, un equipo médico hace el primer trasplante parcial de cara del mundo, a Isabelle Dinoire."
       }
     ]
   }
